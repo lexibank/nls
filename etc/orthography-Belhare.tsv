@@ -1,0 +1,244 @@
+Grapheme	IPA	Frequency	Examples	Languages
++	+	9	muktem ma//mukte mma	Rudra bari/Piple/Belhara
+-	NULL
+^	NULL
+_	+
+^a	a	59	anari//aŋgulik	Rudra bari/Piple/Belhara/Guthitar
+^aya	a + j a	2	ayambicha//ayambicha	Belhara
+^b	b	34	bərkha//badəl	Rudra bari/Piple/Belhara/Guthitar
+^bh	bʱ	6	bhənta//bhənta	Rudra bari/Piple/Belhara
+^c	tʃ	34	cətsuŋgi//cuwa	Rudra bari/Piple/Belhara/Guthitar
+^ch	tʃʰ	24	choʔkmasik//cheʔpma	Rudra bari/Piple/Belhara/Guthitar
+^d	d	15	dudh//dudh	Rudra bari/Piple/Belhara/Guthitar
+^dh	dʱ	7	dhuri//dhuri	Rudra bari/Piple/Belhara/Guthitar
+^e	e	14	epheŋkha//epheŋdheʔ	Rudra bari/Piple/Belhara/Guthitar
+^ei	ei	2	eikha//eikha	Piple/Guthitar
+^ei:	eiː	1	ei:kha	Rudra bari
+^g	g	10	gãu//gãu	Rudra bari/Piple/Belhara/Guthitar
+^h	h	71	hǝʔwa//hoʔwa	Rudra bari/Piple/Belhara/Guthitar
+^h:	hː	1	h:kyaŋ	Belhara
+^h:k	!h:k/k	1	h: k ya ŋ	
+^i	i	28	imbicha//inetto	Rudra bari/Piple/Belhara/Guthitar
+^j	j	8	jiu//jiu	Rudra bari/Piple/Belhara/Guthitar
+^k	k	29	keŋ//keŋ	Rudra bari/Piple/Belhara/Guthitar
+^kh	kʰ	26	khim//khim	Rudra bari/Piple/Belhara/Guthitar
+^l	l	45	lephpha//lekhpha	Rudra bari/Piple/Belhara/Guthitar
+^m	m	68	mik//mik	Rudra bari/Piple/Belhara/Guthitar
+^mh	m̥	1	mhechya	Guthitar
+^n	n	40	nabhak//nabhak	Rudra bari/Piple/Belhara/Guthitar
+^nh	n̥	4	nhabhak//nhubhek	Rudra bari/Piple/Belhara
+^oe	oe	3	oeʔtae//oeʈʈayu	Rudra bari/Piple/Belhara
+^p	p	38	popola//pyaj	Rudra bari/Piple/Belhara/Guthitar
+^ph	pʰ	37	phyak//phiyak	Rudra bari/Piple/Belhara/Guthitar
+^r	r	11	ruʔwa//ruʔwa	Rudra bari/Piple/Belhara/Guthitar
+^s	s	67	siŋ//siŋ	Rudra bari/Piple/Belhara/Guthitar
+^t	t	10	taŋge//taŋgek	Rudra bari/Piple/Belhara/Guthitar
+^tsh	tsʰ	7	tshoʔkmasik//tshokmasik	Rudra bari/Piple/Belhara/Guthitar
+^u	u	55	uruwa//uruʔwa	Rudra bari/Piple/Belhara/Guthitar
+^w	w	19	welik//wacile	Rudra bari/Piple/Belhara/Guthitar
+^ya	j a	3	yambicha acha//yambicha acha	Piple/Belhara/Guthitar
+^ye	j e	10	yembicha//yembetsha	Rudra bari/Piple/Belhara/Guthitar
+^yei	j ei	1	yeika	Guthitar
+^yo	j o	1	yoba	Belhara
+^yu	j u	7	yum//yum	Rudra bari/Piple/Belhara/Guthitar
+^yãu	j ãu	2	yãukha//yãukha	Rudra bari/Belhara
+^ã	ã	3	ãmbiba//ãmbibu	Rudra bari/Piple/Belhara
+^ŋ	ŋ	6	ŋaʔlabu//ŋaʔlabu	Rudra bari/Piple/Belhara/Guthitar
+^ŋh	ŋ̊	1	ŋhasa	Piple
+^ə	ə	3	əŋguthi//əŋguthi	Rudra bari/Piple/Belhara
+^əu	əu	1	əuŋthi	Guthitar
+^ʈ	ʈ	19	ʈoraŋ//ʈoraŋ	Rudra bari/Piple/Belhara/Guthitar
+^ʈh	ʈʰ	1	ʈhabuʈ	Piple
+^ṭ	ʈ	6	ṭoŋghyaŋ//ṭoŋghyaŋ	Rudra bari/Piple/Belhara/Guthitar
+a	a	601	taŋge//taŋgek	Rudra bari/Piple/Belhara/Guthitar
+ae	ae	2	oeʔtae//oeʈʈae	Rudra bari/Belhara
+ai$	ai	8	wain//wain	Rudra bari/Piple/Belhara/Guthitar
+au	au	7	silauṭo//silauṭo	Rudra bari/Piple/Belhara/Guthitar
+au$	au	7	kauli//kauli	Rudra bari/Piple/Belhara/Guthitar
+ayu	a + j u	3	wayuʔwãha//wayuʔkhiŋe	Rudra bari/Piple/Belhara
+ayu$	a + j u	1	oeʈʈayu	Piple
+b	+ b	101	nubek//kubin	Rudra bari/Piple/Belhara/Guthitar
+bb	b + b	2	sobbe//sobbe	Guthitar
+bh	bʱ	18	nhabhak//nabhak	Rudra bari/Piple/Belhara/Guthitar
+^bh	bʱ	1	ubheni	Guthitar
+c	+ tʃ	20	bijulicəmkənu//bijulicəmkənu	Rudra bari/Piple/Belhara/Guthitar
+cch	tʃ + tʃʰ	1	p i c ch a	
+cg	tʃ + g	1	p ã c g i d a	
+ch	+ tʃʰ	65	hichep ma//lachewat	Rudra bari/Piple/Belhara/Guthitar
+^ch	tʃʰ	7	uchot//uchot	Rudra bari/Piple/Belhara/Guthitar
+d	+ d	33	hathauda//hathauda	Rudra bari/Piple/Belhara/Guthitar
+dh	+ dʱ	13	dudh//dudh	Rudra bari/Piple/Belhara/Guthitar
+dzh	+ dzʱ	1	namdzhilikpa	Guthitar
+e	e	185	taŋge//taŋgek	Rudra bari/Piple/Belhara/Guthitar
+ei	ei	1	chipheikha	Belhara
+ei$	ei	2	heiʔyãhã//heiʔyãhã	Rudra bari/Belhara
+euə	e + u/w ə	1	ləcheuət	Guthitar
+eũ	eũ	1	lacheũwat	Piple
+g	+ g	40	taŋge//taŋgek	Rudra bari/Piple/Belhara/Guthitar
+gh	+ gʱ	10	luŋghek//luŋgheʔk	Rudra bari/Piple/Belhara
+h	+ h	18	lohoro//lohoro	Rudra bari/Piple/Belhara/Guthitar
+i	i	250	mik//mik	Rudra bari/Piple/Belhara/Guthitar
+i:	iː	2	ci:kha//ti:ma	Rudra bari/Belhara
+ia	i/j a	1	ambiacha	Rudra bari
+ia$	i/j a	3	miacha//miacha	Rudra bari
+iu	i/j u	4	liʔhiu//iṭiulo	Rudra bari/Piple/Belhara
+iu$	i/j u	5	jiu//jiu	Rudra bari/Piple/Belhara/Guthitar
+iya	i + j a	11	phiyak//phiyak	Rudra bari/Piple/Belhara/Guthitar
+iyu	i + j u	2	ciyu//hiyuba	Piple/Guthitar
+j	+ j	13	bijulicəmkənu//bijulicəmkənu	Rudra bari/Piple/Belhara/Guthitar
+k	+ k	158	taŋgek//taŋgek	Rudra bari/Piple/Belhara/Guthitar
+k$	k
+kh	+ kʰ	36	lekhpha//lekhpha	Rudra bari/Piple/Belhara/Guthitar
+kh$	kʰ	8	eikha//eikha	Rudra bari/Piple/Belhara/Guthitar
+khph	kʰ + pʰ	2	l e kh ph a//l e kh ph a	
+khr	k + h r	4	m a kh r o k//m a kh r o k m a	
+kkh	k + kh	2	m a kh r e k kh a//a k kh a s a	
+kl	k + l	4	s a k l u m a//u s a k l u s e	
+km	k + m	7	tsh o k m a s i k//u l u k m a	
+kp	k + p	2	n a m dzh i l i k p a//s i k p a ŋ	
+kph	k + pʰ	1	c i k ph e n dh e ʔ	
+ks	k + s	4	e ks əy//e ks əy	
+kt	k + t	7	m u k t e ŋ m a//m u k t e m + m a	
+l	+ l	79	aŋgulik//aŋgulik	Rudra bari/Piple/Belhara/Guthitar
+l$	l
+lbh	l + bʱ	2	g o l bh e ɖ a//g o l bh e ɖ a	
+lph	l + pʰ	4	ph ə l ph u l//ph ə l ph u l	
+m	+ m	154	mukteŋma//muktem ma	Rudra bari/Piple/Belhara/Guthitar
+m$	m
+mb	m + b	45	l a m b u//l a m b u	
+mbh	m + bʱ	1	r a m bh e ɖ a	
+mdzh	m + dzʱ	1	n a m dzh i l i k p a	
+dz	+ dz
+^dz	dz
+dz$	dz
+mg	m + g	1	s u m g i r a	
+mk	m + k	3	b i j u l i c ə m k ə n u//b i j u l i c ə m k ə n u	
+mm	m + m	7	muktemma//mukte mma	Rudra bari/Piple/Belhara/Guthitar
+mm$	m + m	2	imma//imma	Belhara/Guthitar
+ms	m + s	6	ʈamsereŋ//ʈamseriŋ	Rudra bari/Piple/Belhara/Guthitar
+ms$	m + s	2	imsa//imseŋa	Rudra bari/Piple
+n	+ n	125	anari//mun	Rudra bari/Piple/Belhara/Guthitar
+n$	n
+nb	n + b	2	h e n b e l a//h e n b e l a	
+nch	n + tʃʰ	9	u n ch i k//u n ch i k	
+nd	n + d	10	ph e n d i k//ph e n d i k	
+ndh	n + dʱ	1	c i k ph e n dh e ʔ	
+nk	n + k	2	h a n k a//h a n k e	
+nkh	n + kʰ	1	i n kh a	
+nm	n + m	3	p i n m a//p i n m a	
+nn	n + n	1	mədhyannə	Guthitar
+nt	n + t	3	bh ə n t a//bh ə n t a	
+nɖ	n + ɖ	1	ph e n ɖ i	
+nʈ	n + ʈ	1	r ə mm e n ʈ a	
+o	o	+ 115	phok//phok	Rudra bari/Piple/Belhara/Guthitar
+oe$	oe	1	woeheʔmaluse	Piple
+oi	oi	1	hotroi	Belhara
+p	+ p	19	cheʔpma//chepma	Rudra bari/Piple/Belhara/Guthitar
+p$	p
+ph	+ pʰ	9	lekhpha//lepha	Rudra bari/Piple/Belhara/Guthitar
+ph$	pʰ	9	uphauwa//aphu	Rudra bari/Piple/Belhara/Guthitar
+phph	!ph/p + ph	1	lephpha	Belhara
+pm	p + m	1	ch e p m a	
+pt	p + t	5	h ə p t a//c + u p t a ŋ	
+r	+ r	112	nari//anari	Rudra bari/Piple/Belhara/Guthitar
+r$	r
+^uʔchik	u ʔ + tʃʰ i k
+u:	uː
+rc	r + tʃ	3	m a r c i//m a r c i	
+rd	r + d	1	h ə r d i	
+rg	r + g	3	c a r g i d a//c a r g i r a	
+rkh	r + kʰ	1	b ə r kh a	
+rs	r + s	4	bərsə//bərsə	Rudra bari/Piple/Belhara/Guthitar
+rtc	r + !tc/tʃ	1	m a r t c i	
+s	+ s	52	choʔkmasik//tshoʔkmasik	Rudra bari/Piple/Belhara/Guthitar
+t	+ t	60	mukteŋma//muktem ma	Rudra bari/Piple/Belhara/Guthitar
+t$	t
+tg	t g	1	s a t g i d a	
+th	+ tʰ	7	hathauda//hathauda	Rudra bari/Piple/Belhara/Guthitar
+th$	tʰ	4	ath//ath	Rudra bari/Piple/Belhara/Guthitar
+tl	t + l	1	n a t l a b o	
+tm	t + m	5	ch e t m a//ye t m a l u s e	
+tn	t + n	1	ch e ʔ k a t n i	
+tr	t + r	5	h o t r oi//h o t r ə	
+ts	+ ts	2	cətsuŋgi//pãts	Piple/Guthitar
+tsh	+ tsʰ	1	yembetsha	Guthitar
+tt	t + t	1	inetto	Piple
+tʔm	t + ʔ m	1	h i t ʔ m a	
+u	u	184	nhubhek//nhubhek	Rudra bari/Piple/Belhara/Guthitar
+u:$	uː	5	pu:cha//ʈu:ba	Rudra bari/Piple
+ui$	ui	4	kuino//kuino	Rudra bari/Piple/Belhara/Guthitar
+uu$	uː	1	huuŋka	Rudra bari
+uyu	u y/j u	1	kuyu	Guthitar
+w	+ w	41	hǝʔwa//hoʔwa	Rudra bari/Piple/Belhara/Guthitar
+ya	j a	15	ṭoŋghyaŋ//ṭoŋghyaŋ	Rudra bari/Piple/Belhara/Guthitar
+ya$	j a	14	phyak//pyaj	Rudra bari/Piple/Belhara/Guthitar
+yu	j u	3	yepheŋyuk//yeŋyu	Piple/Guthitar
+yã	j ã	2	heiʔyãhã//heiʔyãhã	Rudra bari/Belhara
+ã	ã	13	dhuwã//sãwa	Rudra bari/Piple/Belhara/Guthitar
+ãe$	ãe	1	khãekha	Piple
+ãi	ãi	1	hũkhãini	Piple
+ãi$	ãi	4	khãikha//khãikha	Rudra bari/Belhara
+ãu$	ãu	7	gãu//gãu	Rudra bari/Piple/Belhara/Guthitar
+ãyũ	ã + j ũ	1	khãyũ	Guthitar
+ŋ	+ ŋ	141	taŋge//taŋgek	Rudra bari/Piple/Belhara/Guthitar
+ŋ$	ŋ
+ŋb	ŋ + b	1	ph a b e l e ŋ b a	
+ŋbh	ŋ + bʱ	1	l u ŋ bh e k	
+ŋdh	ŋ + dʱ	1	e ph e ŋ dh e ʔ	
+ŋg	ŋ + g	21	t a ŋ g e//t a ŋ g e k	
+ŋgh	ŋ + gʱ	10	l u ŋ gh e k//l u ŋ gh e ʔ k	
+ŋgr	ŋ + g r	2	p o ŋ g r o k//p o ŋ g r o k	
+ŋh	ŋ + h	3	maŋhuk//ṭoŋheŋ	Rudra bari/Guthitar
+ŋk	ŋ + k	9	h u ʔ u ŋ k a//u ŋ k a	
+ŋkh	ŋ + kʰ	2	e ph e ŋ kh a//e ph e ŋ kh a	
+ŋm	ŋ + m	13	m u k t e ŋ m a//ph a b e l e ŋ m a	
+ŋs	ŋ + s	5	phyaŋsaŋ//pheŋsaŋ	Rudra bari/Piple/Belhara/Guthitar
+ŋt	ŋ + t	1	s i ŋ t a ŋ	
+ŋth	ŋ + tʰ	1	əu ŋ th i	
+ŋw	ŋ + w	3	l ə ch e ŋ w a//u ch ə ŋ w a t	
+ŋʈ	ŋ + ʈ	3	s i ŋ ʈ ə ŋ//s i ŋ ʈ a ŋ	
+ũ	ũ	5	gəhũ//gəhũ	Rudra bari/Piple/Belhara/Guthitar
+ǝ	ǝ	5	hǝʔwa//rǝŋgǝba	Rudra bari/Piple/Belhara
+ɖ	+ ɖ	9	phenɖi//golbheɖa	Rudra bari/Piple/Belhara/Guthitar
+ə	ə	86	hotrə//ləcheuət	Rudra bari/Piple/Belhara/Guthitar
+əi	əi	5	səbəi//səbəi	Rudra bari/Piple/Belhara
+əu	əu	1	uchəuwat	Belhara
+əu$	əu	6	həuwa//jəu	Rudra bari/Piple/Belhara/Guthitar
+əy	əy	4	eksəy//eksəy	Rudra bari/Piple/Belhara/Guthitar
+əũ	əũ	1	uchəũwat	Piple
+əũ$	əũ	4	nəũ//nəũ	Rudra bari/Piple/Belhara/Guthitar
+ʈ$	ʈ	24	chomeʈ//chomeʈ	Rudra bari/Piple/Belhara/Guthitar
+ʈ	ʈ	24	chomeʈ//chomeʈ	Rudra bari/Piple/Belhara/Guthitar
+ʈm	ʈ + m	1	s e ʈ m a	
+ʈʈ	ʈ + ʈ	2	oe ʈʈ ayu//oe ʈʈ ae	
+ʈʈ$	ʈ + ʈ	2	oeʈʈayu//oeʈʈae	Rudra bari/Piple
+ʔ	+ ʔ	66	choʔkmasik//tshoʔkmasik	Rudra bari/Piple/Belhara/Guthitar
+ʔ$	ʔ
+ʔch	ʔ + ch	3	u ʔ ch o t//u ʔ ch ə w a t	
+ʔh	ʔ + h	1	liʔhiu	Piple
+ʔk	ʔ + k	13	s a ʔ k i//s a ʔ k i	
+ʔkh	ʔ + kh	3	w ayu ʔ kh i ŋ e//a ʔ kh a s a	
+^uʔchot	u ʔ + tʃʰ o t
+^uʔchəwat	u ʔ + tʃʰ ə + w a t
+ʔkkh	ʔ k + kh	1	w ayu ʔ k kh a r e	
+t̃$	t
+ʔkm	ʔ k + m	5	ch o ʔ k m a s i k//tsh o ʔ k m a s i k	
+ʔl	ʔ + l	3	ŋ a ʔ l a b u//ŋ a ʔ l a b u	
+ʔm	ʔ + m	5	l u ʔ m a//ch e ʔ m a	
+ʔmb	ʔ m + b	1	h e ʔ m b e l a	
+ʔn	ʔ + n	4	ye ʔ n a//c i ʔ n a	
+ʔpm	ʔ p + m	1	ch e ʔ p m a	
+ch	+ tʃʰ
+^ch	tʃ
+ch$	tʃʰ
+ʔch	ʔ + tʃʰ
+ʔt	ʔ + t	2	oe ʔ t ae//p e ʔ t	
+ʔtm	ʔ t + m	1	kh a ʔ t m a	
+ʔw	ʔ + w	11	h ǝ ʔ w a//h o ʔ w a	
+ʔʈ	ʔ + ʈ	1	e ʔ ʈ i	
+ʔṭkh	ʔ ʈ + k	1	h e ʔ ṭ kh a r e	
+ṭ	+ ʈ	9	silauṭo//silauṭo	Rudra bari/Piple/Belhara/Guthitar
+ṭ$	ʈ	9	silauṭo//silauṭo	Rudra bari/Piple/Belhara/Guthitar
+ṭkh	ʈ kh	1	h e ṭ kh a r e	
+ĩ	ĩ
+ẽ	ẽ

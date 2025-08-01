@@ -1,0 +1,211 @@
+ID,Name,Concepticon_ID,Concepticon_Gloss
+1_body,body,1480,BODY
+2_head,head,1256,HEAD
+3_hair,hair,1040,HAIR
+4_face,face,1560,FACE
+5_eye,eye,1248,EYE
+6_ear,ear,1247,EAR
+7_nose,nose,1221,NOSE
+8_mouth,mouth,674,MOUTH
+9_teeth,teeth,1380,TOOTH
+10_tongue,tongue,1205,TONGUE
+11_breast,breast,1402,BREAST
+12_belly,belly,1251,BELLY
+13_armhand,arm/hand,2121,ARM OR HAND
+14_elbow,elbow,981,ELBOW
+15_palm,palm,1183,PALM OF HAND
+16_finger,finger,1303,FINGER
+17_fingernail,fingernail,1258,FINGERNAIL
+18_leg,leg,1297,LEG
+19_skin,skin,763,SKIN
+20_bone,bone,1394,BONE
+21_heart,heart,1223,HEART
+22_blood,blood,946,BLOOD
+23_urine,urine,1142,URINE
+24_feces,feces,675,FAECES (EXCREMENT)
+25_village,village,930,VILLAGE
+26_house,house,1252,HOUSE
+27_roof,roof,769,ROOF
+28_door,door,1567,DOOR
+29_firewood,firewood,10,FIREWOOD
+30_broom,broom,245,BROOM
+31_mortar,mortar,224,MORTAR
+32_pestle,pestle,225,PESTLE
+33_hammer,hammer,1481,HAMMER
+34_knife,knife,1352,KNIFE
+35_axe,axe,677,AXE
+36_rope,rope,1218,ROPE
+37_thread,thread,1161,THREAD
+38_needle,needle,1382,NEEDLE (FOR SEWING)
+39_cloth,cloth,1616,CLOTH
+40_ring,ring,1374,RING
+41_sun,sun,1343,SUN
+42_moon,moon,1313,MOON
+43_sky,sky,1732,SKY
+44_star,star,1430,STAR
+45_rain,rain,658,RAIN (PRECIPITATION)
+46_water,water,948,WATER
+47_river,river,666,RIVER
+48_cloud,cloud,1489,CLOUD
+49_lightning,lightning,1654,LIGHTNING
+50_rainbow,rainbow,1733,RAINBOW
+51_wind,wind,960,WIND
+52_stone,stone,857,STONE
+53_path,path,2252,PATH
+54_sand,sand,671,SAND
+55_fire,fire,221,FIRE
+56_smoke,smoke,778,SMOKE (EXHAUST)
+57_ash,ash,646,ASH
+58_mud,mud,640,MUD
+59_dust,dust,2,DUST
+60_gold,gold,1369,GOLD
+61_tree,tree,906,TREE
+62_leaf,leaf,628,LEAF
+63_root,root,670,ROOT
+64_thorn,thorn,124,THORN
+65_flower,flower,239,FLOWER
+66_fruit,fruit,1507,FRUIT
+67_mango,mango,2398,MANGO
+68_banana,banana,868,BANANA
+69_wheathusked,wheat (husked),1077,WHEAT
+70_barley,barley,932,BARLEY
+71_ricehusked,rice (husked),926,RICE
+72_potato,potato,593,POTATO
+73_eggplant,eggplant,1146,AUBERGINE
+74_groundnut,groundnut,595,GROUNDNUT (PEANUT)
+75_chili,chili,919,CHILI PEPPER
+76_turmeric,turmeric,2842,TURMERIC
+77_garlic,garlic,2368,GARLIC
+78_onion,onion,2366,ONION
+79_cauliflower,cauliflower,2843,CAULIFLOWER
+80_tomato,tomato,986,TOMATO
+81_cabbage,cabbage,774,CABBAGE
+82_oil,oil,1484,OIL (ORGANIC SUBSTANCE)
+83_salt,salt,1274,SALT
+84_meat,meat,634,MEAT
+85_fatofmeat,fat (of meat),1282,FAT (FROM ANIMALS)
+86_fish,fish,227,FISH
+87_chicken,chicken,1318,CHICKEN
+88_egg,egg,744,EGG
+89_cow,cow,1007,COW
+90_buffalo,buffalo,934,BUFFALO
+91_milk,milk,635,MILK
+92_horns,horns,1393,HORN (ANATOMY)
+93_tail,tail,1220,TAIL
+94_goat,goat,1502,GOAT
+95_dog,dog,2009,DOG
+96_snake,snake,730,SNAKE
+97_monkey,monkey,1350,MONKEY
+98_mosquito,mosquito,1509,MOSQUITO
+99_ant,ant,587,ANT
+100_spider,spider,843,SPIDER
+101_name,name,1405,NAME
+102_man,man,1554,MAN
+103_woman,woman,962,WOMAN
+104_child,child,2099,CHILD
+105_father,father,1217,FATHER
+106_mother,mother,1216,MOTHER
+107_olderbrother,older brother,1759,OLDER BROTHER
+108_youngerbrother,younger brother,1760,YOUNGER BROTHER
+109_oldersister,older sister,1758,OLDER SISTER
+110_youngersister,younger sister,1761,YOUNGER SISTER
+111_son,son,1620,SON
+112_daughter,daughter,1357,DAUGHTER
+113_husband,husband,1200,HUSBAND
+114_wife,wife,1199,WIFE
+115_boy,boy,1366,BOY
+116_girl,girl,1646,GIRL
+117_day,day,1225,DAY (NOT NIGHT)
+118_night,night,1233,NIGHT
+119_morning,morning,1339,MORNING
+120_noon,noon,12,MIDDAY
+121_evening,evening,1629,EVENING
+122_yesterday,yesterday,1174,YESTERDAY
+123_today,today,1283,TODAY
+124_tomorrow,tomorrow,1329,TOMORROW
+125_week,week,1469,WEEK
+126_month,month,1370,MONTH
+127_year,year,1226,YEAR
+128_old,old,1229,OLD
+129_new,new,1231,NEW
+130_good,good,1035,GOOD
+131_bad,bad,1292,BAD
+132_wet,wet,1726,WET
+133_dry,dry,1398,DRY
+134_long,long,1203,LONG
+135_short,short,1645,SHORT
+136_hot,hot,1286,HOT
+137_cold,cold,1287,COLD
+138_right,right,1019,RIGHT
+139_left,left,244,LEFT
+140_near,near,1942,NEAR
+141_far,far,1406,FAR
+142_big,big,1202,BIG
+143_small,small,1246,SMALL
+144_heavy,heavy,1210,HEAVY
+145_light,light,1052,LIGHT (WEIGHT)
+146_above,above,1741,ABOVE
+147_below,below,1485,BELOW OR UNDER
+148_white,white,1335,WHITE
+149_black,black,163,BLACK
+150_red,red,156,RED
+151_one,one,1493,ONE
+152_two,two,1498,TWO
+153_three,three,492,THREE
+154_four,four,1500,FOUR
+155_five,five,493,FIVE
+156_six,six,1703,SIX
+157_seven,seven,1704,SEVEN
+158_eight,eight,1705,EIGHT
+159_nine,nine,1483,NINE
+160_ten,ten,1515,TEN
+161_eleven,eleven,1706,ELEVEN
+162_twelve,twelve,1707,TWELVE
+163_twenty,twenty,1710,TWENTY
+164_onehundred,one hundred,1634,HUNDRED
+165_who,who,1235,WHO
+166_what,what,1236,WHAT
+167_where,where,1237,WHERE
+168_when,when,1238,WHEN
+169_howmany,how many,822,HOW MANY
+170_which,which,727,WHICH
+171_this,this,1214,THIS
+172_that,that,78,THAT
+173_these,these,3984,THESE (PLURAL OF THIS)
+174_those,those,3985,THOSE (PLURAL OF THAT)
+175_same,same,200,SAME
+176_different,different,2504,DIFFERENT
+177_whole,whole,2277,WHOLE
+178_broken,broken,588,BROKEN
+179_few,few,1242,FEW
+180_many,many,1198,MANY
+181_all,all,98,ALL
+182_toeateat,to eat / eat!,1336,EAT
+183_tobitethedogbitesbit,to bite / the dog bites / bit,1403,BITE
+184_tobehungryyouarehungry,to be hungry / you are hungry,1533,BE HUNGRY
+185_todrinkdrink,to drink / drink!,1401,DRINK
+186_tobethirstyyouarethirsty,to be thirsty / you are thirsty,3474,BE THIRSTY
+187_tosleepsleep,to sleep / sleep!,1585,SLEEP
+188_tolieliedown,to lie / lie down!,1411,LIE (REST)
+189_tositsit,to sit / sit!,1416,SIT
+190_togivegive,to give / give!,1447,GIVE
+191_burnthewood,burn (the wood)!,141,BURN (SOMETHING)
+192_todiehedied,to die / he died,1494,DIE
+193_tokillkillthebird,to kill / kill the bird,1417,KILL
+194_toflythebirdfliesflew,to fly / the bird flies / flew,1441,FLY (MOVE THROUGH AIR)
+195_walk,walk!,1443,WALK
+196_torunrun,to run / run!,1519,RUN
+197_togogo,to go / go!,695,GO
+198_tocomecome,to come / come!,1446,COME
+199_tospeakspeak,to speak / speak!,1623,SPEAK
+200_tohearhearlisten,to hear / hear! / listen!,3862,HEAR OR LISTEN
+201_tolooklook,to look / look!,1819,LOOK
+202_i,I,1209,I
+203_youinformal,you (informal),1215,THOU
+204_youformal,you (formal),2844,YOU (FORMAL ADDRESS)
+205_he,he,1211,HE
+206_she,she,1834,SHE
+207_weinclusive,we (inclusive),1131,WE (INCLUSIVE)
+208_weexclusive,we (exclusive),1130,WE (EXCLUSIVE)
+209_youplural,you (plural),1213,YOU
+210_they,they,817,THEY

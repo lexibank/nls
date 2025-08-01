@@ -1,0 +1,33 @@
+profile:	
+	cut -f1,2 etc/orthography-Chamling.tsv > etc/orthography/Balamta.tsv
+	cut -f1,2 etc/orthography-Chamling.tsv > etc/orthography/Ratanchha.tsv
+	cut -f1,2 etc/orthography-Chamling.tsv > etc/orthography/Aaptar.tsv
+	cut -f1,2 etc/orthography-Chamling.tsv > etc/orthography/Halesi.tsv
+	cut -f1,2 etc/orthography-Chamling.tsv > etc/orthography/Hadunge.tsv
+	cut -f1,2 etc/orthography-Athpahariya.tsv > etc/orthography/Santang.tsv
+	cut -f1,2 etc/orthography-Athpahariya.tsv > etc/orthography/Tekunala.tsv
+	cut -f1,2 etc/orthography-Athpahariya.tsv > etc/orthography/Guthitar.tsv
+	cut -f1,2 etc/orthography-Athpahariya.tsv > etc/orthography/Khalde.tsv
+	cut -f1,2 etc/orthography-Athpahariya.tsv > etc/orthography/Hatiya.tsv
+	cut -f1,2 etc/orthography-Bantawa.tsv > etc/orthography/Khoku.tsv
+	cut -f1,2 etc/orthography-Bantawa.tsv > etc/orthography/Lungin.tsv
+	cut -f1,2 etc/orthography-Bantawa.tsv > etc/orthography/Thidingkha.tsv
+	cut -f1,2 etc/orthography-Bantawa.tsv > etc/orthography/Timma.tsv
+	cut -f1,2 etc/orthography-Bantawa.tsv > etc/orthography/Okhre.tsv
+	cut -f1,2 etc/orthography-Belhare.tsv > etc/orthography/Belhare.tsv
+	cut -f1,2 etc/orthography-Belhare.tsv > etc/orthography/Piple.tsv
+	cut -f1,2 etc/orthography-Belhare.tsv > etc/orthography/Guthitar.tsv
+	cut -f1,2 etc/orthography-Belhare.tsv > etc/orthography/Rudrabari.tsv
+	cut -f1,2 etc/orthography-Chintang.tsv > etc/orthography/ChaudhariTole.tsv
+	cut -f1,2 etc/orthography-Chintang.tsv > etc/orthography/Mulgaun.tsv
+	cut -f1,2 etc/orthography-Chintang.tsv > etc/orthography/Nangchhuwa.tsv
+	cut -f1,2 etc/orthography-Chintang.tsv > etc/orthography/Mangthana.tsv
+	cut -f1,2 etc/orthography-Chintang.tsv > etc/orthography/Chambak.tsv
+	cut -f1,2 etc/orthography-Chulung.tsv > etc/orthography/Barbhanjyang.tsv
+	cut -f1,2 etc/orthography-Chulung.tsv > etc/orthography/Gairi.tsv
+	cut -f1,2 etc/orthography-Chulung.tsv > etc/orthography/Pakha.tsv
+	cut -f1,2 etc/orthography-Chulung.tsv > etc/orthography/Pokla.tsv
+	cut -f1,2 etc/orthography-Chulung.tsv > etc/orthography/Sukeahal.tsv
+	cut -f1,2 etc/orthography-Dhimal.tsv > etc/orthography/DhimalWest.tsv
+	cut -f1,2 etc/orthography-Dhimal.tsv > etc/orthography/DhimalEast.tsv
+
