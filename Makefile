@@ -30,4 +30,10 @@ profile:
 	cut -f1,2 etc/orthography-Chulung.tsv > etc/orthography/Sukeahal.tsv
 	cut -f1,2 etc/orthography-Dhimal.tsv > etc/orthography/DhimalWest.tsv
 	cut -f1,2 etc/orthography-Dhimal.tsv > etc/orthography/DhimalEast.tsv
+	cut -f1,2 etc/orthography-Dulung.tsv > etc/orthography/Bartole.tsv
+	cut -f1,2 etc/orthography-Dulung.tsv > etc/orthography/Dandatole.tsv
+	cut -f1,2 etc/orthography-Dulung.tsv > etc/orthography/Tharpu.tsv
+	cut -f1,2 etc/orthography-Dulung.tsv > etc/orthography/Chaukibari.tsv
+	cut -f1,2 etc/orthography-Dulung.tsv > etc/orthography/Bastim.tsv
+
 
