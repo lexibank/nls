@@ -1,0 +1,255 @@
+Grapheme	IPA
+(over)	NULL
+(under)	NULL
++	+
+^a	a
+^b	b
+^bh	bʰ
+^d	d
+^dh	dʰ
+^dj	d j
+^dz	dz
+^dzh	dzʰ
+^dzj	dz j
+^d̺	d̺
+^e	e
+^g	g
+^gj	g j
+^h	h
+^hj	h j
+^hw	h w
+^i	i
+^j	j
+^jw	j w
+^k	k
+^kh	kʰ
+^khj	kʰ j
+^khl	kʰ l
+^khw	kʰ w
+^kj	k j
+^kl	k l
+^klj	k l j
+^kw	k w
+^l	l
+^lh	lʰ
+^m	m
+^mh	mʰ
+^mhj	mʰ j
+^mj	m j
+^n	n
+^nh	nʰ
+^nj	n j
+^nw	n w
+^p	p
+^ph	pʰ
+^phj	pʰ j
+^pj	p j
+^pl	p l
+^plj	p l j
+^pr	p r
+^pʰ	pʰ
+^r	r
+^rj	r j
+^rw	r w
+^s	s
+^sh	sʰ
+^shj	sʰ j
+^sj	s j
+^sw	s w
+^t	t
+^th	tʰ
+^thj	tʰ j
+^thw	tʰ w
+^tj	t j
+^ts	ts
+^tsh	tsʰ
+^tshj	tsʰ j
+^tshw	tsʰ w
+^tsj	ts j
+^tw	t w
+^tˢ	tˢ
+^t̺	t̺
+^t̺h	t̺ʰ
+^t̺hw	t̺ʰ w
+^t̺j	t̺ j
+^t̺w	t̺ w
+^u	u
+^w	w
+^wh	wʰ
+^ŋ	ŋ
+^ŋh	ŋʰ
+^ŋj	ŋ j
+^ŋw	ŋ w
+^ɼ	ɽ
+^ɽ	ɽ
+^ʌ	ʌ
+a	a
+ai$	ai
+au$	au
+b	+ b
+bh	+ bʰ
+bl	+ b l
+d	+ d
+i:	iː
+o:	oː
+dj	+ d j
+dz	+ dz
+dz$	dz
+dzj	+ dz j
+d̺	+ d̺
+ʌ:	ʌː
+dᶻ	+ dz
+e	e
+ei$	ei
+g	+ g
+gh	gʰ
+gh$	gʰ
+ghr	+ gʰ r
+gj	g j
+h	+ h
+hj	+ h j
+i	i
+i:$	iː
+iu$	i u
+j	j
+k	+ k
+kh	+ kʰ
+khnj	k ʰn + j
+khw	kʰ w
+(	NULL
+)	NULL
+kj	k j
+kk	k + k
+kkh	k + kʰ
+kp	k + p
+ks	k + s
+kts	k + ts
+kw	k w
+l	+ l
+lbh	l + bʰ
+lg	l + g
+lkj	l + k j
+ll	l + l
+lph	l + pʰ
+m	+ m
+mb	m + b
+mdz	m + dz
+mkh	m + kʰ
+mkj	m + k j
+mm	m + m
+mm$	m + m
+mn	m + n
+mp	m + p
+mph	m + pʰ
+mphj	m + pʰ j
+n	+ n
+nb	n + b
+nd	n + d
+ndzj	n + dz j
+nd̺	n d̺
+nh	+ nʰ
+nhj	n ʰj
+nj	n + j
+nn	n + n
+nn$	n + n
+nt	n + t
+ntsj	n + ts j
+nt̺	n + t̺
+n–$	n
+o	o
+o:$	oː
+oe	oe
+oe–$	oe
+p	+ p
+ph	+ pʰ
+phj	+ pʰ j
+phl	+ pʰ l
+phw	+ pʰ w
+pl	+ p l
+pp	p + p
+pr	+ p r
+prj	+ p r j
+ps	p + s
+psj	p + s j
+r	+ r
+r$	r
+rdz	r + dz
+rg	r + g
+rh	+ rʰ
+rj	r + j
+rk	r + k
+rkj	r + k j
+rkjŋ	r + k j/i ŋ
+rs	r + s
+rt	r + t
+rts	r + ts
+s	+ s
+sj	+ s j
+ss	s + s
+sw	+ s w
+t	+ t
+th	+ tʰ
+th$	tʰ/t
+tj	+ t j
+ts	+ ts
+ts$	ts
+tsh	+ tsʰ
+tsh$	tsʰ
+tshtsh	tsʰ + tsʰ
+tsj	+ ts j
+tsts	ts + ts
+tsts$	ts + ts
+tstsj	ts + ts j
+tt	t + t
+tˢ	ts
+tˢ$	ts
+t̺	+ t̺
+t̺h$	+ t̪ʰ
+t̺hj	t̺ʰ j
+t̺t̺	t̺ + t̺
+u	u
+ui	ui
+ui$	ui
+uiu	u + i/j u
+uĩ$	uĩ
+w	+ w
+^ŋw	ŋ w
+ã	ã
+õ	õ
+ŋ	+ ŋ
+ŋb	ŋ + b
+ŋdj	ŋ + d j
+ŋg	ŋ + g
+ŋgj	ŋ + g j
+ŋk	ŋ + k
+ŋkj	ŋ + k j
+ŋl	ŋ + l
+ŋp	ŋ + p
+ŋplj	ŋ + p l j
+ŋr	ŋ + r
+ŋrj	ŋ + r j
+ŋs	ŋ + s
+ŋ–$	ŋ
+ũ	ũ
+ɔ	ɔ
+ɛ	ɛ
+ɳ	+ n j
+ʌ	ʌ
+ʌ:$	ʌː
+ʌe$	ʌe
+ʌi	ʌi
+ʌi$	ʌi
+ʌu	ʌu
+ʌu$	ʌu
+ʌĩ$	ʌĩ
+ʌ̃	ʌ̃
+ʌ̃$	ʌ̃
+ẽ	ẽ
+e–	e
+i–	i
+_	+
+^phja_^(over)	pʰ j a
+^ek_^sə	e k + s ə
+ek_^sə	e k + s ə
+^ek_^sə	e k + s ə
+–	NULL

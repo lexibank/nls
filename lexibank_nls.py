@@ -44,7 +44,7 @@ class Dataset(BaseDataset):
         for idx in wl:
             if wl[idx, 'dataset'] in ["Athpahariya", "Bantawa", "Chamling",
                                       "Belhare", "Chintang", "Dhimal",
-                                      "Chulung", "Dulung"]:
+                                      "Chulung", "Dulung", "Ghale-Gurung"]:
                 if wl[idx, "concept"].strip(".") in concepts:
                     args.writer.add_form(
                             Language_ID=languages[wl[idx, 'doculect']],
