@@ -1,4 +1,8 @@
 Grapheme	IPA	Frequency	Examples	Languages
+^tịṭti	t i ʈ  + ʈ i			
+^thjoba	tʰ j o + b a			
+^gri	g r i			
+^lo̤ra	l o̤ + r a			
 a	a	476	tsjiutan//mohʌḍa	Pokhara/Sikles/Khasur/Bhujung/Sirubari
 ʌ	ʌ	268	krʌ//krʌ	Pokhara/Sikles/Khasur/Bhujung/Sirubari
 i	i	232	mi//libo	Pokhara/Sikles/Khasur/Bhujung/Sirubari
@@ -36,6 +40,7 @@ g	+ g	40	pugla//jargodi	Pokhara/Sikles/Khasur/Bhujung/Sirubari
 d	+ d	29	kurdu//mrẽdum	Pokhara/Sikles/Khasur/Bhujung/Sirubari
 ũ	ũ	26	sũ//sũ	Pokhara/Sikles/Khasur/Bhujung/Sirubari
 ^a	a	26	amla//alu	Pokhara/Sikles/Khasur/Bhujung/Sirubari
+u:	uː			
 k	+ k	24	nukri//kuku	Pokhara/Sikles/Khasur/Bhujung/Sirubari
 p	+ p	23	krʌpo//nʌpẽ	Pokhara/Sikles/Khasur/Bhujung/Sirubari
 ŋ	+ ŋ	22	suŋ//tiŋa	Pokhara/Sikles/Khasur/Bhujung/Sirubari
@@ -49,12 +54,13 @@ kh	+ kʰ	17	mĩkhõ//nwãkhõ	Pokhara/Sikles/Khasur/Bhujung/Sirubari
 ^dz	dz	16	dziu//dziu	Pokhara/Sikles/Khasur/Bhujung/Sirubari
 t	+ t	15	tsjiutan//martola	Sikles/Bhujung/Sirubari/Khasur
 i:$	iː	15	li://li:	Pokhara/Sikles/Khasur/Bhujung/Sirubari
+i:	iː			
 ^g	g	11	ge//gʌũ	Pokhara/Sikles/Khasur/Bhujung/Sirubari
 ^dh	dʱ	10	dhĩ//dhĩ	Pokhara/Sikles/Khasur/Bhujung/Sirubari
 rs	r + s	10	khursani//khursani	Pokhara/Sikles/Khasur/Bhujung/Sirubari
 ai$	ai	10	dai//bhai	Pokhara/Sikles/Khasur/Bhujung/Sirubari
 ṭ	+ ʈ	9	silʌuṭa//silṭo	Pokhara/Sikles/Bhujung/Sirubari
-gh	+ g͏ʱ	9	jãghõ//jaghõ	Pokhara/Sikles/Khasur/Bhujung/Sirubari
+gh	+ gʱ	9	jãghõ//jaghõ	Pokhara/Sikles/Khasur/Bhujung/Sirubari
 au$	au	9	kauli//kauli	Pokhara/Sikles/Khasur/Bhujung/Sirubari
 ʌ̃$	ʌ̃	8	nʌ̃//nʌ̃kho	Pokhara/Sikles/Sirubari
 ^bh	bʱ	8	bhʌnṭa//bhʌnṭa	Pokhara/Sikles/Sirubari/Khasur
@@ -204,3 +210,6 @@ nb	n + b	1	b i n b a
 gḍ	g + ɖ	1	b a g ḍ i b a	
 ^hj	h j	1	h j a b a	
 nl	n + l	1	ŋ j o t a n l ʌi	
+_	NULL			
+ʌ:	ʌː			
+^m̤ri	m r i̤			

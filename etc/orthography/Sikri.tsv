@@ -1,5 +1,8 @@
 Grapheme	IPA
 a	a
+^tịṭti	t i ʈ  + ʈ i
+^thjoba	tʰ j o + b a
+^gri	g r i
 o	o
 e	e
 i	i
@@ -96,7 +99,7 @@ ue	ue
 ei$	ei
 ms	m + s
 oa$	oa
-ŋghibhi	ngh/gʱ i + bʱ i
+^ŋghibhi	ngh/gʱ i + bʱ i
 pp	p + p
 ^.tịṭti	t i ʈ + ʈ i
 dd	d + d
@@ -154,7 +157,7 @@ pt	p + t
 ^mj	m j
 ŋg	ŋ + g
 ŋj	ŋ + j
-^ŋgh	ŋ + gh
+^ŋgh	ŋ + gʱ
 ŋl	ŋ + l
 ḷt	ɭ/l + ʈ
 ^tsj	ts j
@@ -183,3 +186,10 @@ tshj	+ tsʰ j
 ^ŋw	ŋ w
 nb	n + b
 nl	n + l
+^.	NULL
+^me_^(low_^tone)	m e
+.	NULL
+_	NULL
+^lo_^(low_^tone)	l o
+^mesja_^(Rising_^tone)	m e s j a
+^phu:ri	pʰ uː + r i

@@ -1,5 +1,8 @@
 Grapheme	IPA	Frequency	Examples	Languages
 a	a	768	.ta//.ta	Yarsa/Chhetrapa/Sikri/Kharoban
+^tịṭti	t i ʈ  + ʈ i			
+^thjoba	tʰ j o + b a			
+^gri	g r i			
 o	o	261	go//go	Yarsa/Chhetrapa/Sikri/Kharoban
 e	e	256	tshet//tshed	Yarsa/Chhetrapa/Sikri/Kharoban
 i	i	252	mik//mik	Yarsa/Chhetrapa/Sikri/Kharoban
@@ -96,7 +99,7 @@ ue	ue	1	morgue	Yarsa
 ei$	ei	1	meisja	Kharoban
 ms	m + s	1	rimsu	Kharoban
 oa$	oa	1	noa	Sikri
-ŋghibhi	ngh/gʱ i + bʱ i	1	ŋghibhi	Chhetrapa
+^ŋghibhi	ngh/gʱ i + bʱ i	1	ŋghibhi	Chhetrapa
 pp	p + p	1	goppəi	Chhetrapa
 ^.tịṭti	t i ʈ + ʈ i	1	.tịṭti	Sikri
 dd	d + d	1	tsedde	Chhetrapa
@@ -154,7 +157,7 @@ pt	p + t	3	h ə p t a//h ə p t a
 ^mj	m j	1	m j a l a b a	
 ŋg	ŋ + g	15	th i ŋ g e//th a ŋ g e	
 ŋj	ŋ + j	1	r i ŋ j u	
-^ŋgh	ŋ + gh	1	ŋ gh i bh i	
+^ŋgh	ŋ + gʱ	1	ŋ gh i bh i	
 ŋl	ŋ + l	1	kh e ŋ l a	
 ḷt	ɭ/l + ʈ	2	kh e ḷ t a//th u ḷ t a	
 ^tsj	ts j	11	ts j u ts i k//ts j u ŋŋ i	
@@ -183,3 +186,10 @@ tshj	+ tsʰ j	2	d o tsh j a//t a tsh j a
 ^ŋw	ŋ w	2	ŋ w o k o n//ŋ w o k o n	
 nb	n + b	1	k j o k o n b ə r i	
 nl	n + l	1	kh j o n l a	
+^.	NULL			
+^me_^(low_^tone)	m e			
+.	NULL			
+_	NULL			
+^lo_^(low_^tone)	l o			
+^mesja_^(Rising_^tone)	m e s j a			
+^phu:ri	pʰ uː + r i			

@@ -1,4 +1,8 @@
 Grapheme	IPA
+^tịṭti	t i ʈ  + ʈ i
+^thjoba	tʰ j o + b a
+^gri	g r i
+^lo̤ra	l o̤ + r a
 a	a
 ʌ	ʌ
 i	i
@@ -36,6 +40,7 @@ g	+ g
 d	+ d
 ũ	ũ
 ^a	a
+u:	uː
 k	+ k
 p	+ p
 ŋ	+ ŋ
@@ -49,12 +54,13 @@ kh	+ kʰ
 ^dz	dz
 t	+ t
 i:$	iː
+i:	iː
 ^g	g
 ^dh	dʱ
 rs	r + s
 ai$	ai
 ṭ	+ ʈ
-gh	+ g͏ʱ
+gh	+ gʱ
 au$	au
 ʌ̃$	ʌ̃
 ^bh	bʱ
@@ -204,3 +210,6 @@ nb	n + b
 gḍ	g + ɖ
 ^hj	h j
 nl	n + l
+_	NULL
+ʌ:	ʌː
+^m̤ri	m r i̤
