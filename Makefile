@@ -35,5 +35,13 @@ profile:
 	cut -f1,2 etc/orthography-Dulung.tsv > etc/orthography/Tharpu.tsv
 	cut -f1,2 etc/orthography-Dulung.tsv > etc/orthography/Chaukibari.tsv
 	cut -f1,2 etc/orthography-Dulung.tsv > etc/orthography/Bastim.tsv
-
-
+	cut -f1,2 etc/orthography-Ghale-Gurung.tsv > etc/orthography/Mandre.tsv
+	cut -f1,2 etc/orthography-Ghale-Gurung.tsv > etc/orthography/Barpak1.tsv
+	cut -f1,2 etc/orthography-Ghale-Gurung.tsv > etc/orthography/Barpak2.tsv
+	cut -f1,2 etc/orthography-Ghale-Gurung.tsv > etc/orthography/Laprak.tsv
+	cut -f1,2 etc/orthography-Ghale-Gurung.tsv > etc/orthography/Gumda.tsv
+	cut -f1,2 etc/orthography-Jirel.tsv > etc/orthography/Yarsa.tsv
+	cut -f1,2 etc/orthography-Jirel.tsv > etc/orthography/Chhetrapa.tsv
+	cut -f1,2 etc/orthography-Jirel.tsv > etc/orthography/Sikri.tsv
+	cut -f1,2 etc/orthography-Jirel.tsv > etc/orthography/Kharoban.tsv
+	cut -f1,2 etc/orthography-Jirel.tsv > etc/orthography/RatmateKot.tsv
