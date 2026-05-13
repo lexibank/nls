@@ -1,0 +1,70 @@
+{% extends "base.html" %}
+
+{% block title %}{{ database }}: {{ table }}{% endblock %}
+
+{% block extra_head %}
+{{- super() -}}
+<style>
+@media only screen and (max-width: 576px) {
+{% for column in columns %}
+    .rows-and-columns td:nth-of-type({{ loop.index }}):before { content: "{{ column|escape_css_string }}"; }
+{% endfor %}
+}
+</style>
+{% endblock %}
+
+{% block body_class %}row db-{{ database|to_css_class }} table-{{ table|to_css_class }}{% endblock %}
+
+{% block crumbs %}
+{{ crumbs.nav(request=request, database=database, table=table) }}
+{% endblock %}
+
+{% block content %}
+<h1>{{ CustomTables[table].title }}: {{ ', '.join(primary_key_values) }}{% if private %} 🔒{% endif %}</h1>
+
+{# {% block description_source_license %}{% include "_description_source_license.html" %}{% endblock %} #}
+
+{# <p>This data as {% for name, url in renderers.items() %}<a href="{{ url }}">{{ name }}</a>{{ ", " if not loop.last }}{% endfor %}</p> #}
+
+
+{% if display_rows %}
+
+<div class="table-wrapper">
+    <table class="rows-and-columns">
+      <tbody>
+      {% for column, cell in zip(display_columns, display_rows[0]) %}
+        {% if column.name in CustomTables[table].columns %}
+          <tr>
+            <th>{{ CustomTables[table].columns[column.name] }}</th>
+            <td class="col-{{cell.column|to_css_class }} type-{{ cell.value_type }}}">{{ cell.value }}</td>
+          </tr>
+        {% endif %}
+      {% endfor %}
+      </tbody>
+    </table>
+</div>
+
+{% endif %}
+
+
+{% if foreign_key_tables %}
+    <h2>Linked Items</h2>
+    <ul>
+        {% for other in foreign_key_tables %}
+            <li>
+                <a href="{{ other.link }}">
+                    {{ "{:,}".format(other.count) }} row{% if other.count == 1 %}{% else %}s{% endif %}</a>
+                from {{ CustomTables[other.other_table].columns[other.other_column] }} in {{ CustomTables[other.other_table].title }}
+            </li>
+        {% endfor %}
+    </ul>
+{% endif %}
+
+<script type="text/javascript">
+  document.querySelectorAll("td.col-Colexifier").forEach((node) => node.innerHTML = plotWord(node.innerHTML));
+  document.querySelectorAll("td.col-Colexified").forEach((node) => node.innerHTML = plotWord(node.innerHTML));
+  document.querySelectorAll("td.col-DOI").forEach((node) => node.innerHTML = '<a href="https://doi.org/' + node.innerHTML + '">' + node.innerHTML + "</a>");
+</script>
+
+
+{% endblock %}

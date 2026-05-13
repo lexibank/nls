@@ -1,0 +1,20 @@
+{% macro nav(request, database=None, table=None) -%}
+{% if crumb_items is defined %}
+  {% set items=crumb_items(request=request, database=database, table=table) %}
+  {% if items %}
+    <p class="crumbs"> 
+    <a href="/">Home</a>
+    <a href="/about">About</a>
+    <a href="/NLS/LanguageTable">Languages</a>
+    <a href="/NLS/ParameterTable">Concepts</a>
+    <a href="/NLS/FormTable">Forms</a>
+    <a href="/NLS/Colexifications">Colexifications</a>
+    <a href="/NLS/SourceTable">Sources</a>
+    </p>
+  {% endif %}
+{% endif %}
+{%- endmacro %}
+
+
+
+

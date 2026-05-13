@@ -1,0 +1,230 @@
+{% extends "base.html" %}
+
+{% block title %}{{ database }}{% if query and query.sql %}: {{ query.sql }}{% endif %}{% endblock %}
+
+{% block extra_head %}
+{{- super() -}}
+{% if columns %}
+<style>
+@media only screen and (max-width: 576px) {
+{% for column in columns %}
+    .rows-and-columns td:nth-of-type({{ loop.index }}):before { content: "{{ column|escape_css_string }}"; }
+{% endfor %}
+}
+</style>
+{% endif %}
+{% include "_codemirror.html" %}
+{% endblock %}
+
+{% block body_class %}query db-{{ database|to_css_class }}{% if canned_query %} query-{{ canned_query|to_css_class }}{% endif %}{% endblock %}
+
+{% block crumbs %}
+{{ crumbs.nav(request=request, database=database) }}
+{% endblock %}
+
+{% block content %}
+
+{% set hide_sql = True %}
+{% set edit_sql_url = False %}
+
+<h1>{{ metadata.title or database }}{% if canned_query and not metadata.title %}: {{ canned_query }}{% endif %}{% if private %} 🔒{% endif %}</h1>
+
+{% block description_source_license %}{% include "_description_source_license.html" %}{% endblock %}
+
+<form class="sql" action="{{ urls.database(database) }}{% if canned_query %}/{{ canned_query }}{% endif %}" method="{% if canned_write %}post{% else %}get{% endif %}">
+  {# <h3>Custom SQL query{% if display_rows %} returning {% if truncated %}more than {% endif %}{{ "{:,}".format(display_rows|length) }} row{% if display_rows|length == 1 %}{% else %}s{% endif %}{% endif %}{% if not query_error %}
+    <span class="show-hide-sql">(<a href="{{ show_hide_link }}">{{ show_hide_text }}</a>)</span>
+        {% endif %}</h3> #}
+    {% if error %}
+        <p class="message-error">{{ error }}</p>
+    {% endif %}
+    {# {% if not hide_sql %}
+        {% if editable and allow_execute_sql %}
+            <p><textarea id="sql-editor" name="sql"{% if query and query.sql %} style="height: {{ query.sql.split("\n")|length + 2 }}em"{% endif %}
+            >{% if query and query.sql %}{{ query.sql }}{% else %}select * from {{ tables[0].name|escape_sqlite }}{% endif %}</textarea></p>
+        {% else %}
+            <pre id="sql-query">{% if query %}{{ query.sql }}{% endif %}</pre>
+        {% endif %}
+        {% else %} #}
+        {% if not canned_query %}
+            <input type="hidden" name="sql"
+                value="{% if query and query.sql %}{{ query.sql }}{% else %}select * from {{ tables[0].name|escape_sqlite }}{% endif %}"
+            >
+        {% endif %}
+        {# {% endif %} #}
+    {% if named_parameter_values %}
+        <h3>Search Parameters</h3>
+        
+        <p><input type="text" id="qp1" placeholder="concept (HAND, FOOT, etc.)" name="concept" value="{{ named_parameter_values['concept']}}"></p>
+        <p><input type="text" id="qp2" placeholder="threshold (minimum 3, maximum 100)" name="threshold" value="{{ named_parameter_values['threshold'] }}"></p>
+        <p><input type="text" id="qp3" placeholder="community (1 to activate)" name="community" value="{{ named_parameter_values['community'] }}"></p>
+        <p><input type="text" id="qp4" placeholder="language (search for individual languages)" name="language" value="{{ named_parameter_values['language'] }}"></p>
+        <p><input type="text" id="qp5" placeholder="family (restrict by language family)" name="family" value="{{ named_parameter_values['family'] }}"></p>
+        
+        
+
+
+            {# {% for name, value in named_parameter_values.items() %}
+            <p><label for="qp{{ loop.index }}">{{ name }}</label> <input type="text" id="qp{{ loop.index }}" name="{{ name }}" value="{{ value.upper() }}"></p>
+            {% endfor %} #}
+    {% endif %}
+    <p>
+    {% if not hide_sql %}<button id="sql-format" type="button" hidden>Format SQL</button>{% endif %}
+        {% if canned_write %}<input type="hidden" name="csrftoken" value="{{ csrftoken() }}">{% endif %}
+        <input type="submit" value="SUBMIT"{% if canned_write and db_is_immutable %} disabled{% endif %}>
+        {{ show_hide_hidden }}
+        {% if canned_query and edit_sql_url %}<a href="{{ edit_sql_url }}" class="canned-query-edit-sql">Edit SQL</a>{% endif %} 
+        
+    </p>
+</form>
+
+{% if display_rows %}
+
+<script src="/assets/cytoscape.min.js"></script>
+<script src="/assets/cola.js"></script>
+<script src="/assets/cytoscape-cola.js"></script>
+<script src="/assets/highlight.js"></script>
+<script src="/assets/d3.v3.js"></script>
+<script src="/assets/topojson.js"></script>
+<script src="/assets/topology.js"></script>
+<script src="/assets/clips-viz.js"></script>
+
+
+<div class="gridcontainer">
+  <div>NODE SIZE </div>
+  <div>EDGE WIDTH</div>
+  <div>LAYOUT</div>
+  <div>EDGE SCALE</div>
+  <div>REFRESH</div>
+  <div>
+    <input type="range" value="20" min="1" max="150" onchange="SETTINGS['nodewidth'] = this.value; SETTINGS['nodeheight'] = this.value * 0.5; this.nextElementSibling.value = this.value; network(SETTINGS['selected']);" name="NodeSize" />
+    <output id="nodesize"></output>
+  </div>
+  <div>
+    <input id="scalemax" type="range" value="20" min="1" max="100" onchange="SETTINGS['scalemax'] = Number(this.value); this.nextElementSibling.value = this.value; network(SETTINGS['selected']);" name="Max-Edge-Width">
+    <output id="edgewidth"></output>
+  </div>
+  <div>
+    <label>COSE</label><input type="radio" onchange="SETTINGS['layout'] = 'cose';" checked="checked" name="algo">
+    <label>COLA</label><input type="radio" onchange="SETTINGS['layout'] = 'cola';" value="cola" name="algo">
+  </div>
+
+  <div>
+    <label>Varieties</label><input type="radio" onchange="SETTINGS['scaler'] = 'varieties';" name="scaler">
+    <label>Languages</label><input type="radio" onchange="SETTINGS['scaler'] = 'languages';" name="scaler">
+    <label>Families</label><input type="radio" onchange="SETTINGS['scaler'] = 'families';" checked="checked" name="scaler">
+  </div>
+  <div>
+    <button onclick="network();" class="download" id="refresh">Refresh</button>
+  </div>
+</div>
+
+
+
+<div class="mycontainer">
+  <div id="resi" onresize="adjust_window(this);" onmousemove="move(this);">
+    <div id="cy"></div>
+  </div>
+  <div id="map"></div>
+</div>
+
+<div class="mycontainer">
+  <div id="infotable" class="infotable"></div>
+</div>
+
+<div class="download">
+  <div class="label">Export: </div>
+  <div>
+    <a href="{{ url_csv }}">CSV</a>
+  </div>
+  <div>
+    <a href="{{ renderers["json"] }}">JSON</a>
+  </div>
+  <div>
+    <span onclick="download(event);" id="download">JPG</span>
+  </div>
+</div>
+
+
+
+
+<script type="text/javascript">
+let LANGS = {
+{% for row in sql("select cldf_id, cldf_longitude, cldf_latitude from languageTable;") %}
+  "{{ row[0] }}": [{{ row[1] }}, {{ row[2] }}],
+{% endfor %}
+};
+
+let DATA = [
+  {% for row in display_rows %}
+  { "data": {
+    "id": "{{ row[1] }}",
+    "label": "{{ row[1] }}",
+  }},
+  { "data": {
+    "id": "{{ row[2] }}",
+    "label": "{{ row[2] }}"
+  }},
+  { "data": {
+    "id": "{{ row[0] }}",
+    "label": "{{ row[0] }}",
+    "source": "{{ row[1] }}",
+    "target": "{{ row[2] }}",
+    "varieties": "{{ row[3] }}",
+    "languages": "{{ row[4] }}",
+    "families": "{{ row[5] }}",
+    "variety_values": "{{ row[6] }}",
+    "language_values": "{{ row[7] }}",
+    "family_values": "{{ row[8] }}",
+    "colexifier_values": "{{ row[9] }}",
+    "colexified_values": "{{ row[10] }}", 
+    "edgewidth": 0,
+    "edgesize": 0
+  }},
+  {% endfor %}
+];
+
+let SETTINGS = {
+  'nodewidth': 30,
+  'nodeheight': 15,
+  'width': 400,
+  'height': 200,
+  'scalemin': 5,
+  'scalemax': 20,
+  'layout': 'cose',
+  'scaler': 'families',
+  'mapwidth': 500,
+  'mapheight': 250,
+};
+
+
+/* load map in d3 */
+let projection = d3.geo.equirectangular() 
+	//.center([65, 25]) 
+	.scale(80)
+	.translate([SETTINGS['mapwidth'] / 2, SETTINGS['mapheight'] / 2])
+  .rotate([-160, 0]);
+;
+
+let path = d3.geo.path()
+		.projection(projection);
+
+document.getElementById("resi");
+adjust_window(resi);
+
+</script>
+  
+
+
+
+
+
+
+
+
+{% endif %}
+
+
+{% include "_codemirror_foot.html" %}
+
+{% endblock %}
