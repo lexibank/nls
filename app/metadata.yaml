@@ -1,8 +1,6 @@
-title: CLIPS
+title: NLS 
 description_html: |-
-  <p>The Database of Cross-Linguistic Partial Colexifications offers
-  a detailed account of automatically inferred colexification data for the language data taken from 
-  the <a href="https://clics.clld.org"> CLICS database.
+  <p>The Nepalese Linguistic Survey offers lexical data for more than 50 language varieties of Nepal.
   </p>
 settings:
   truncate_cells_html: 0
