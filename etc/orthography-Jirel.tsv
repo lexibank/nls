@@ -1,8 +1,5 @@
 Grapheme	IPA	Frequency	Examples	Languages
 a	a	768	.ta//.ta	Yarsa/Chhetrapa/Sikri/Kharoban
-^tịṭti	t i ʈ  + ʈ i			
-^thjoba	tʰ j o + b a			
-^gri	g r i			
 o	o	261	go//go	Yarsa/Chhetrapa/Sikri/Kharoban
 e	e	256	tshet//tshed	Yarsa/Chhetrapa/Sikri/Kharoban
 i	i	252	mik//mik	Yarsa/Chhetrapa/Sikri/Kharoban
@@ -14,14 +11,14 @@ b	+ b	149	suba//suba	Yarsa/Chhetrapa/Sikri/Kharoban
 ŋ	+ ŋ	143	ŋiŋ//niŋ	Yarsa/Chhetrapa/Sikri/Kharoban
 r	+ r	132	anwar//pəra	Yarsa/Sikri/Chhetrapa/Kharoban
 j	+ j	115	namdzjok//namdzjok	Yarsa/Chhetrapa/Sikri/Kharoban
-^th	tʰ	109	thekpa//.thak	Yarsa/Sikri/Chhetrapa/Kharoban
+^th	th	109	thekpa//.thak	Yarsa/Sikri/Chhetrapa/Kharoban
 p	+ p	105	rup//lakpa	Yarsa/Chhetrapa/Sikri/Kharoban
 ^s	s	104	sa//sa	Yarsa/Chhetrapa/Sikri/Kharoban
 t	+ t	90	tshet//tshet	Yarsa/Chhetrapa/Sikri/Kharoban
 n	+ n	87	anwar//kuino	Yarsa/Sikri/Chhetrapa/Kharoban
 ə	ə	83	pəra//hətkela	Yarsa/Chhetrapa/Sikri/Kharoban
 ^k	k	70	kuino//kuina	Yarsa/Chhetrapa/Sikri/Kharoban
-^kh	kʰ	69	kha//kha	Yarsa/Chhetrapa/Sikri/Kharoban
+^kh	kh	69	kha//kha	Yarsa/Chhetrapa/Sikri/Kharoban
 ^ŋ	ŋ	69	ŋiŋ//ŋiŋ	Yarsa/Chhetrapa/Sikri/Kharoban
 ^ts	ts	66	tsele//tsela	Yarsa/Chhetrapa/Sikri/Kharoban
 ^m	m	61	mik//mik	Yarsa/Chhetrapa/Sikri/Kharoban
@@ -30,166 +27,166 @@ n	+ n	87	anwar//kuino	Yarsa/Sikri/Chhetrapa/Kharoban
 dz	+ dz	49	namdzjok//namdzuk	Yarsa/Chhetrapa/Sikri/Kharoban
 ^n	n	45	namdzjok//namdzuk	Yarsa/Chhetrapa/Sikri/Kharoban
 ^t	t	43	.ta//.ta	Yarsa/Chhetrapa/Sikri/Kharoban
-^ph	pʰ	43	phəlphul//phəlphul	Yarsa/Chhetrapa/Sikri/Kharoban
+^ph	ph	43	phəlphul//phəlphul	Yarsa/Chhetrapa/Sikri/Kharoban
 w	+ w	42	anwar//ruwa	Yarsa/Sikri/Chhetrapa/Kharoban
 ^r	r	39	rup//ruwa	Yarsa/Chhetrapa/Sikri/Kharoban
 +	+ +	39	kəm ba//həthə uḍa	Yarsa/Sikri/Chhetrapa/Kharoban
-^tsh	tsʰ	37	tshet//tshed	Yarsa/Chhetrapa/Sikri/Kharoban
+^tsh	tsh	37	tshet//tshed	Yarsa/Chhetrapa/Sikri/Kharoban
 g	+ g	37	dzugu//dzugu	Sikri/Chhetrapa/Yarsa/Kharoban
 d	+ d	33	tshed//dardok	Yarsa/Chhetrapa/Sikri/Kharoban
 ^l	l	33	lakpa//lakpa	Yarsa/Chhetrapa/Sikri/Kharoban
 ^b	b	31	bidzu li//bidzuli	Yarsa/Sikri/Chhetrapa/Kharoban
 s	+ s	26	renesiŋ//reŋasiŋ	Yarsa/Chhetrapa/Sikri/Kharoban
 ^dz	dz	23	dziu//dziu	Yarsa/Chhetrapa/Sikri/Kharoban
-mm	m + m	23	damma//phemmemi	Yarsa/Sikri/Chhetrapa/Kharoban
+mm	+ mm	23	damma//phemmemi	Yarsa/Sikri/Chhetrapa/Kharoban
 ts	+ ts	20	tsutsik//tsutsik	Yarsa/Chhetrapa/Sikri/Kharoban
 ^a	a	18	anwar//aba	Yarsa/Sikri/Chhetrapa/Kharoban
 ^h	h	12	hətkela//hətkela	Sikri/Chhetrapa/Yarsa/Kharoban
 ^o	o	12	oro//oma	Yarsa/Chhetrapa/Sikri/Kharoban
-ph	+ pʰ	12	phəlphul//phəlphul	Yarsa/Chhetrapa/Sikri/Kharoban
-ụ	ụ/u	10	siləụto//siləụto	Yarsa/Chhetrapa/Sikri/Kharoban
-th	+ tʰ	10	həthəuḍa//həthəuda	Yarsa/Chhetrapa/Sikri/Kharoban
-iu$	i/j u	9	dziu//dziu	Yarsa/Chhetrapa/Sikri/Kharoban
-kh	+ kʰ	9	lamkhụṭte//lamkhụṭte	Yarsa/Chhetrapa/Sikri/Kharoban
+ph	+ ph	12	phəlphul//phəlphul	Yarsa/Chhetrapa/Sikri/Kharoban
+ụ	ụ	10	siləụto//siləụto	Yarsa/Chhetrapa/Sikri/Kharoban
+th	+ th	10	həthəuḍa//həthəuda	Yarsa/Chhetrapa/Sikri/Kharoban
+iu$	iu	9	dziu//dziu	Yarsa/Chhetrapa/Sikri/Kharoban
+kh	+ kh	9	lamkhụṭte//lamkhụṭte	Yarsa/Chhetrapa/Sikri/Kharoban
 əu$	əu	8	nəu//nəu	Yarsa/Chhetrapa/Sikri/Kharoban
 ui$	ui	8	kuino//kuina	Yarsa/Chhetrapa/Sikri/Kharoban
-ḍ	+ ɖ	8	həthəuḍa//həthə uḍa	Yarsa/Chhetrapa/Sikri/Kharoban
+ḍ	+ ḍ	8	həthəuḍa//həthə uḍa	Yarsa/Chhetrapa/Sikri/Kharoban
 dz$	dz	8	adzjo//adzjo	Yarsa/Chhetrapa/Sikri/Kharoban
 ^p	p	7	pəra//para	Yarsa/Chhetrapa/Sikri/Kharoban
 ^j	j	7	jul//jul	Yarsa/Chhetrapa/Sikri
+(	+ (	7	lo (low tone)//me (low tone)	Yarsa/Chhetrapa/Sikri/Kharoban
+)	+ )	7	lo (low tone)//me (low tone)	Yarsa/Chhetrapa/Sikri/Kharoban
 ã	ã	7	gwã//gwãpali	Yarsa/Sikri/Chhetrapa/Kharoban
-kk	k + k	6	tsəkku//tsəkku	Yarsa/Chhetrapa/Sikri/Kharoban
-bh	+ bʱ	6	lhabha//labha	Sikri/Chhetrapa/Yarsa/Kharoban
-^dh	dʱ	6	dhulo//dhulo	Yarsa/Chhetrapa/Sikri/Kharoban
-^bh	bʱ	6	bheṇta//bheṇta	Yarsa/Chhetrapa/Sikri/Kharoban
-rs	r + s	5	khorsani//khorsani	Yarsa/Chhetrapa/Sikri/Kharoban
-ṭ	+ ʈ	5	lamkhụṭte//lamkhụṭte	Yarsa/Chhetrapa/Sikri/Kharoban
+kk	+ kk	6	tsəkku//tsəkku	Yarsa/Chhetrapa/Sikri/Kharoban
+bh	+ bh	6	lhabha//labha	Sikri/Chhetrapa/Yarsa/Kharoban
+^dh	dh	6	dhulo//dhulo	Yarsa/Chhetrapa/Sikri/Kharoban
+^bh	bh	6	bheṇta//bheṇta	Yarsa/Chhetrapa/Sikri/Kharoban
+rs	+ rs	5	khorsani//khorsani	Yarsa/Chhetrapa/Sikri/Kharoban
+ṭ	+ ṭ	5	lamkhụṭte//lamkhụṭte	Yarsa/Chhetrapa/Sikri/Kharoban
 əi	əi	5	tsəkkəi//goppəi	Sikri/Chhetrapa/Yarsa
 ei	ei	5	.teḳtei//dokpei	Sikri/Chhetrapa/Kharoban
-ŋŋ	ŋ + ŋ	5	tsjuŋŋi//tsjuŋŋi	Yarsa/Chhetrapa/Kharoban
+ŋŋ	+ ŋŋ	5	tsjuŋŋi//tsjuŋŋi	Yarsa/Chhetrapa/Kharoban
 əu	əu	4	siləuto//həthəuḍa	Sikri/Yarsa/Kharoban
 ^ã	ã	4	ãp//ãp	Yarsa/Chhetrapa/Sikri/Kharoban
-ṇt	ɳ/n + ʈ	4	bheṇta//bheṇta	Yarsa/Chhetrapa/Sikri/Kharoban
+ṇ	+ ṇ	4	bheṇta//bheṇta	Yarsa/Chhetrapa/Sikri/Kharoban
 ^e	e	4	eŋge//eŋge	Yarsa/Chhetrapa/Sikri/Kharoban
 oi$	oi	4	thoi//dhoi	Yarsa/Chhetrapa/Kharoban
-^gh	gʱ	3	gho//gher	Sikri/Kharoban
-^dzh	dzʱ	3	dzhəri//dzhəri	Sikri/Kharoban
+^gh	gh	3	gho//gher	Sikri/Kharoban
+^dzh	dzh	3	dzhəri//dzhəri	Sikri/Kharoban
 ua$	ua	3	thuata//muasuŋ	Chhetrapa/Yarsa/Kharoban
 au$	au	3	kauli//kauli	Chhetrapa/Sikri/Kharoban
 ẽ	ẽ	3	golbhẽḍa//golbhẽḍa	Chhetrapa/Sikri/Kharoban
+R	+ R	3	mesja (Rising tone)//mesja (Rising tone)	Yarsa/Sikri/Kharoban
 ai$	ai	3	bhai//bhai	Chhetrapa/Yarsa
 əi$	əi	3	bəini//bəini	Chhetrapa/Yarsa
-ḳt	k + ʈ	3	.teḳte//.teḳtei	Yarsa/Sikri/Kharoban
-ll	l + l	3	khella//thulla	Sikri/Kharoban
+ḳ	+ ḳ	3	.teḳte//.teḳtei	Yarsa/Sikri/Kharoban
+ll	+ ll	3	khella//thulla	Sikri/Kharoban
 əe$	əe	3	səedzik//səe dzik	Sikri/Chhetrapa/Yarsa
 ^ə̃	ə̃	2	ə̃ụthi//ə̃ụthi	Yarsa/Sikri
 ^ə	ə	2	əụthi//əụthi	Yarsa/Kharoban
-^lh	l̥	2	lhaba//lhabha	Yarsa/Sikri
-ŋs	ŋ + s	2	regaŋsiŋ//tshjoŋsja	Chhetrapa/Sikri
-^ḍh	ɖʱ	2	ḍhoŋma//ḍhu	Yarsa/Kharoban
-dzh$	dzʱ	2	sãdzh//sãdzh	Chhetrapa/Yarsa
+^lh	lh	2	lhaba//lhabha	Yarsa/Sikri
+ŋs	+ ŋs	2	regaŋsiŋ//tshjoŋsja	Chhetrapa/Sikri
+^ḍh	ḍh	2	ḍhoŋma//ḍhu	Yarsa/Kharoban
+dzh$	dzh	2	sãdzh//sãdzh	Chhetrapa/Yarsa
 ai	ai	2	dawai//dokpai	Sikri/Kharoban
 ^i	i	2	ine//ine	Chhetrapa/Sikri
-ḷt	ɭ/l + ʈ	2	kheḷta//thuḷta	Kharoban
-^ḍ	ɖ	2	ḍun//ḍo	Yarsa
-tshj	tsʰ j a	2	dotshja//tatshja	Sikri
-^thsna	thsn/tsʰ a	1	thsna	Kharoban
-?p	ʔ + p	1	tha?pa	Sikri
+ḷ	+ ḷ	2	kheḷta//thuḷta	Kharoban
+^ḍ	ḍ	2	ḍun//ḍo	Yarsa
+tsh$	tsh	2	dotshja//tatshja	Sikri
+^ths	ths	1	thsna	Kharoban
+?	+ ?	1	tha?pa	Sikri
 ue	ue	1	morgue	Yarsa
 ei$	ei	1	meisja	Kharoban
-ms	m + s	1	rimsu	Kharoban
+ms	+ ms	1	rimsu	Kharoban
 oa$	oa	1	noa	Sikri
-^ŋghibhi	ngh/gʱ i + bʱ i	1	ŋghibhi	Chhetrapa
-pp	p + p	1	goppəi	Chhetrapa
-^.tịṭti	t i ʈ + ʈ i	1	.tịṭti	Sikri
-dd	d + d	1	tsedde	Chhetrapa
+gh$	gh	1	ŋghibhi	Chhetrapa
+pp	+ pp	1	goppəi	Chhetrapa
+ị	ị	1	.tịṭti	Sikri
+dd	+ dd	1	tsedde	Chhetrapa
 ^u	u	1	umene	Yarsa
 oe$	oe	1	thoe	Sikri
-ks	k + s	1	tsjaksuŋ	Chhetrapa
+ks	+ ks	1	tsjaksuŋ	Chhetrapa
 ^w	w	1	walap	Sikri
 eo$	eo	1	kheon	Kharoban
-nw	n + w	1	a n w a r	
-mdzj	m + dz j	3	n a m dz j o k//n a m dz j o k	
-mdz	m + dz	3	n a m dz u k//n a m dz e	
-kp	k + p	44	l a k p a//l a k p a	
-tk	t + k	2	h ə t k e l a//h ə t k e l a	
-rm	r + m	18	s e r m u k//s e r m u	
-mb	m + b	46	k ə m b a//k a m b a	
-kt	k + t	4	k o k t e n//k o k t e n	
-^kj	k j	12	k j a k p a//k j a k p a	
-^hj	h j	1	h j u l	
-rd	r + d	4	d a r d o k//d a r d o k	
-rt	r + t	1	m a r t ə l	
-ŋk	ŋ + k	6	s u ŋ k u m a//s u ŋ k u + m a	
-^tshj	tsʰ j	7	tsh j a r b a//tsh j a r b a	
-rb	r + b	7	tsh j a r b a//tsh j a r b a	
-ŋp	ŋ + p	1	th a ŋ p a	
-ŋb	ŋ + b	8	d o ŋ b o//d o ŋ b o	
-ŋm	ŋ + m	7	d o ŋ m o//th o ŋ m a	
-^sj	s j	19	s j o m a k//s j o m ə k	
-pr	p + r	4	ts a p r i n//ts a p r e n	
-rp	r + p	1	t a r p e n	
-br	b + r	5	ts a b r + e n//ts a b r e n	
-nd	n + d	18	m e n d u k//m e n d u k	
-lph	l + pʰ	4	ph ə l ph u l//ph ə l ph u l	
-^rj	r j	1	r j a g a	
-^bhj	bʱ j	1	bh j a ṇ t i	
-^pj	p j	4	p j a dz//p j a dz	
-lbh	l + bʱ	3	g o l bh ẽ ḍ a//g o l bh ẽ ḍ a	
-nḍ	n + ɖ	2	b e n ḍ a l u//b e n ḍ a l u k	
-rg	r + g	5	m ə r g u//m ə r g u	
-^ŋj	ŋ j	14	ŋ j a//ŋ j a	
-^gw	g w	10	g w ã//g w ã p a l i	
+nw	n w	1	a n w a r	
+mdzj	m dz j	3	n a m dz j o k//n a m dz j o k	
+mdz	m dz	3	n a m dz u k//n a m dz e	
+kp	k p	44	l a k p a//l a k p a	
+tk	t k	2	h ə t k e l a//h ə t k e l a	
+rm	r m	18	s e r m u k//s e r m u	
+mb	m b	46	k ə m b a//k a m b a	
+kt	k t	4	k o k t e n//k o k t e n	
+^kj	^ k j	12	k j a k p a//k j a k p a	
+^hj	^ h j	1	h j u l	
+^thsn	^ ths n	1	ths n a	
+rd	r d	4	d a r d o k//d a r d o k	
+rt	r t	1	m a r t ə l	
+ŋk	ŋ k	6	s u ŋ k u m a//s u ŋ k u + m a	
+^tshj	^ tsh j	7	tsh j a r b a//tsh j a r b a	
+rb	r b	7	tsh j a r b a//tsh j a r b a	
+ŋp	ŋ p	1	th a ŋ p a	
+ŋb	ŋ b	8	d o ŋ b o//d o ŋ b o	
+ŋm	ŋ m	7	d o ŋ m o//th o ŋ m a	
+^sj	^ s j	19	s j o m a k//s j o m ə k	
+pr	p r	4	ts a p r i n//ts a p r e n	
+rp	r p	1	t a r p e n	
+br	b r	5	ts a b r + e n//ts a b r e n	
+nd	n d	18	m e n d u k//m e n d u k	
+lph	l ph	4	ph ə l ph u l//ph ə l ph u l	
+^rj	^ r j	1	r j a g a	
+ṇt	ṇ t	4	bh e ṇ t a//bh e ṇ t a	
+^bhj	^ bh j	1	bh j a ṇ t i	
+^pj	^ p j	4	p j a dz//p j a dz	
+lbh	l bh	3	g o l bh ẽ ḍ a//g o l bh ẽ ḍ a	
+nḍ	n ḍ	2	b e n ḍ a l u//b e n ḍ a l u k	
+rg	r g	5	m ə r g u//m ə r g u	
+^ŋj	^ ŋ j	14	ŋ j a//ŋ j a	
+^gw	^ g w	10	g w ã//g w ã p a l i	
 sj	s j	5	m e s j a + ( R i s i n g + t o n e )//m e s j a + ( R i s i n g + t o n e )	
-dzj	+ dz j	7	r ə dz j o//r ə dz j o	
-kl	k + l	1	t a k l a + ph i r k a n t e	
-rk	r + k	1	t a k l a + ph i r k a n t e	
-nt	n + t	2	t a k l a + ph i r k a n t e//dz e n t a ŋ i ŋ	
-mkh	m + kʰ	4	l a m kh ụ ṭ t e//l a m kh ụ ṭ t e	
-ṭt	ʈ + ʈ	5	l a m kh ụ ṭ t e//l a m kh ụ ṭ t e	
-dj	+ d j	1	a d j o	
-^nw	n w	1	n w a	
-^khj	kʰ j	8	kh j o b o//kh j o b o	
-mp	m + p	1	ph e m p e	
-^khw	kʰ w	1	kh w a p a + ph i dz a	
-dzh	dzʱ	2	s ã dzh//s ã dzh	
-pt	p + t	3	h ə p t a//h ə p t a	
-^mj	m j	1	m j a l a b a	
-ŋg	ŋ + g	15	th i ŋ g e//th a ŋ g e	
-ŋj	ŋ + j	1	r i ŋ j u	
-^ŋgh	ŋ + gʱ	1	ŋ gh i bh i	
-ŋl	ŋ + l	1	kh e ŋ l a	
-ḷt	ɭ/l + ʈ	2	kh e ḷ t a//th u ḷ t a	
-^tsj	ts j	11	ts j u ts i k//ts j u ŋŋ i	
-ldz	l + dz	5	kh a l dz i k//kh a l dz i k	
-lŋ	l + ŋ	1	kh a l ŋ a	
-kr	k + r	2	dh o k r a ŋ//kh u d u k r a ŋ	
-ndz	n + dz	1	dz e n dz i k	
-lb	l + b	6	k a l b ei//k a l b e	
-ŋr	ŋ + r	1	g a ŋ r a ŋ	
-tsj	+ ts j	5	s a ts j a//k o m b a l a ts j a	
-bl	b + l	2	s a b l a//s a b l e	
-ptsj	p + ts j	1	s a t a p ts j a	
-^tw	t w	4	t w a b a l a s u ŋ//t w a b a l a	
-ŋtsj	ŋ + ts j	2	th u ŋ ts j a//o ŋ ts j a	
-ltsj	l + ts j	2	ŋ j a l ts j a//r i l ts j a	
-ttsj	t + ts j	2	d e t ts j a//s e t ts j a	
-rsj	r + s j	1	t e rs j a	
-ktsj	k + ts j	1	s e k ts j a	
-pl	p + l	6	s j a p l a//s j a p l a	
-rtsj	r + ts j	1	ph u r ts j a	
-mtsj	m + ts j	1	kh a m ts j a	
-^tshw	tsʰ w	1	tsh w a b a p	
-ŋsj	ŋ + s j	1	tsh j o ŋs j a	
-tshj	+ tsʰ j	2	d o tsh j a//t a tsh j a	
-^dw	d w	1	d w a p l a	
-^ŋw	ŋ w	2	ŋ w o k o n//ŋ w o k o n	
-nb	n + b	1	k j o k o n b ə r i	
-nl	n + l	1	kh j o n l a	
-^.	NULL			
-^me_^(low_^tone)	m e			
-.	NULL			
-_	NULL			
-^lo_^(low_^tone)	l o			
-^mesja_^(Rising_^tone)	m e s j a			
-^phu:ri	pʰ uː + r i			
+ng	n g	3	m e s j a + ( R i s i n g + t o n e )//m e s j a + ( R i s i n g + t o n e )	
+dzj	dz j	7	r ə dz j o//r ə dz j o	
+kl	k l	1	t a k l a + ph i r k a n t e	
+rk	r k	1	t a k l a + ph i r k a n t e	
+nt	n t	2	t a k l a + ph i r k a n t e//dz e n t a ŋ i ŋ	
+mkh	m kh	4	l a m kh ụ ṭ t e//l a m kh ụ ṭ t e	
+ṭt	ṭ t	5	l a m kh ụ ṭ t e//l a m kh ụ ṭ t e	
+dj	d j	1	a d j o	
+^nw	^ n w	1	n w a	
+^khj	^ kh j	8	kh j o b o//kh j o b o	
+mp	m p	1	ph e m p e	
+^khw	^ kh w	1	kh w a p a + ph i dz a	
+dzh	dzh	2	s ã dzh//s ã dzh	
+pt	p t	3	h ə p t a//h ə p t a	
+^mj	^ m j	1	m j a l a b a	
+ŋg	ŋ g	15	th i ŋ g e//th a ŋ g e	
+ŋj	ŋ j	1	r i ŋ j u	
+^ŋgh	^ ŋ gh	1	ŋ gh i bh i	
+ḳt	ḳ t	3	t e ḳ t e//t e ḳ t ei	
+ŋl	ŋ l	1	kh e ŋ l a	
+ḷt	ḷ t	2	kh e ḷ t a//th u ḷ t a	
+^tsj	^ ts j	11	ts j u ts i k//ts j u ŋŋ i	
+ldz	l dz	5	kh a l dz i k//kh a l dz i k	
+lŋ	l ŋ	1	kh a l ŋ a	
+kr	k r	2	dh o k r a ŋ//kh u d u k r a ŋ	
+ndz	n dz	1	dz e n dz i k	
+lb	l b	6	k a l b ei//k a l b e	
+ŋr	ŋ r	1	g a ŋ r a ŋ	
+tsj	ts j	5	s a ts j a//k o m b a l a ts j a	
+bl	b l	2	s a b l a//s a b l e	
+ptsj	p ts j	1	s a t a p ts j a	
+^tw	^ t w	4	t w a b a l a s u ŋ//t w a b a l a	
+ŋtsj	ŋ ts j	2	th u ŋ ts j a//o ŋ ts j a	
+ltsj	l ts j	2	ŋ j a l ts j a//r i l ts j a	
+ttsj	t ts j	2	d e t ts j a//s e t ts j a	
+rsj	rs j	1	t e rs j a	
+ktsj	k ts j	1	s e k ts j a	
+pl	p l	6	s j a p l a//s j a p l a	
+rtsj	r ts j	1	ph u r ts j a	
+mtsj	m ts j	1	kh a m ts j a	
+^tshw	^ tsh w	1	tsh w a b a p	
+ŋsj	ŋs j	1	tsh j o ŋs j a	
+tshj	tsh j	2	d o tsh j a//t a tsh j a	
+^dw	^ d w	1	d w a p l a	
+^ŋw	^ ŋ w	2	ŋ w o k o n//ŋ w o k o n	
+nb	n b	1	k j o k o n b ə r i	
+nl	n l	1	kh j o n l a	

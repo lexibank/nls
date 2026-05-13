@@ -1,8 +1,4 @@
 Grapheme	IPA	Frequency	Examples	Languages
-^tịṭti	t i ʈ  + ʈ i			
-^thjoba	tʰ j o + b a			
-^gri	g r i			
-^lo̤ra	l o̤ + r a			
 a	a	476	tsjiutan//mohʌḍa	Pokhara/Sikles/Khasur/Bhujung/Sirubari
 ʌ	ʌ	268	krʌ//krʌ	Pokhara/Sikles/Khasur/Bhujung/Sirubari
 i	i	232	mi//libo	Pokhara/Sikles/Khasur/Bhujung/Sirubari
@@ -27,45 +23,44 @@ n	+ n	61	tsjiutan//kuino	Pokhara/Sikles/Khasur/Bhujung/Sirubari
 s	+ s	48	josĩ//josĩ	Pokhara/Sikles/Khasur/Bhujung/Sirubari
 õ	õ	44	ŋõ//mĩkhõ	Pokhara/Sikles/Khasur/Bhujung/Sirubari
 ^l	l	41	li://li:	Pokhara/Sikles/Khasur/Bhujung/Sirubari
-^kh	kʰ	41	khli//khli	Pokhara/Sikles/Khasur/Bhujung/Sirubari
+^kh	kh	41	khli//khli	Pokhara/Sikles/Khasur/Bhujung/Sirubari
 g	+ g	40	pugla//jargodi	Pokhara/Sikles/Khasur/Bhujung/Sirubari
 ^j	j	39	jo//jo	Pokhara/Sikles/Khasur/Bhujung/Sirubari
 ẽ	ẽ	38	nʌpẽ//nẽpẽ	Pokhara/Sikles/Khasur/Bhujung/Sirubari
 ĩ	ĩ	37	mĩkhõ//jorĩ	Pokhara/Sikles/Khasur/Bhujung/Sirubari
-^ṭ	ʈ	37	ṭibli//ṭĩ	Pokhara/Sikles/Khasur/Bhujung/Sirubari
+^ṭ	ṭ	37	ṭibli//ṭĩ	Pokhara/Sikles/Khasur/Bhujung/Sirubari
 ã	ã	33	nwãkhõ//nã	Pokhara/Sikles/Khasur/Bhujung/Sirubari
 ^b	b	33	baluwa//baluwa	Pokhara/Sikles/Khasur/Bhujung/Sirubari
-^ph	pʰ	32	pho//phʌ	Pokhara/Sikles/Khasur/Bhujung/Sirubari
-^tsh	tsʰ	31	tshĩ//tshan	Pokhara/Sikles/Khasur/Bhujung/Sirubari
+^ph	ph	32	pho//phʌ	Pokhara/Sikles/Khasur/Bhujung/Sirubari
+^tsh	tsh	31	tshĩ//tshan	Pokhara/Sikles/Khasur/Bhujung/Sirubari
 d	+ d	29	kurdu//mrẽdum	Pokhara/Sikles/Khasur/Bhujung/Sirubari
 ũ	ũ	26	sũ//sũ	Pokhara/Sikles/Khasur/Bhujung/Sirubari
 ^a	a	26	amla//alu	Pokhara/Sikles/Khasur/Bhujung/Sirubari
-u:	uː			
 k	+ k	24	nukri//kuku	Pokhara/Sikles/Khasur/Bhujung/Sirubari
 p	+ p	23	krʌpo//nʌpẽ	Pokhara/Sikles/Khasur/Bhujung/Sirubari
 ŋ	+ ŋ	22	suŋ//tiŋa	Pokhara/Sikles/Khasur/Bhujung/Sirubari
-ḍ	+ ɖ	21	mohʌḍa//pʌĩḍa	Pokhara/Sikles/Khasur/Bhujung/Sirubari
+ḍ	+ ḍ	21	mohʌḍa//pʌĩḍa	Pokhara/Sikles/Khasur/Bhujung/Sirubari
 dz	+ dz	20	kurdzu//podzo	Pokhara/Sikles/Khasur/Bhujung/Sirubari
 ts	+ ts	18	kutso//kutso	Pokhara/Sikles/Khasur/Bhujung/Sirubari
-^th	tʰ	18	thaŋi//thʌŋi	Pokhara/Sikles/Khasur/Bhujung/Sirubari
+^th	th	18	thaŋi//thʌŋi	Pokhara/Sikles/Khasur/Bhujung/Sirubari
 ʌi	ʌi	18	rimʌi//aghʌi	Sikles/Bhujung/Sirubari/Khasur
-kh	+ kʰ	17	mĩkhõ//nwãkhõ	Pokhara/Sikles/Khasur/Bhujung/Sirubari
+kh	+ kh	17	mĩkhõ//nwãkhõ	Pokhara/Sikles/Khasur/Bhujung/Sirubari
 ʌi$	ʌi	17	mʌi//mʌi	Pokhara/Sikles/Khasur/Bhujung/Sirubari
 ^dz	dz	16	dziu//dziu	Pokhara/Sikles/Khasur/Bhujung/Sirubari
 t	+ t	15	tsjiutan//martola	Sikles/Bhujung/Sirubari/Khasur
-i:$	iː	15	li://li:	Pokhara/Sikles/Khasur/Bhujung/Sirubari
-i:	iː			
+i:$	i:	15	li://li:	Pokhara/Sikles/Khasur/Bhujung/Sirubari
 ^g	g	11	ge//gʌũ	Pokhara/Sikles/Khasur/Bhujung/Sirubari
-^dh	dʱ	10	dhĩ//dhĩ	Pokhara/Sikles/Khasur/Bhujung/Sirubari
-rs	r + s	10	khursani//khursani	Pokhara/Sikles/Khasur/Bhujung/Sirubari
+^dh	dh	10	dhĩ//dhĩ	Pokhara/Sikles/Khasur/Bhujung/Sirubari
++	+ +	10	presi juma//tsju kri	Pokhara/Sikles/Khasur/Bhujung/Sirubari
+rs	+ rs	10	khursani//khursani	Pokhara/Sikles/Khasur/Bhujung/Sirubari
 ai$	ai	10	dai//bhai	Pokhara/Sikles/Khasur/Bhujung/Sirubari
-ṭ	+ ʈ	9	silʌuṭa//silṭo	Pokhara/Sikles/Bhujung/Sirubari
-gh	+ gʱ	9	jãghõ//jaghõ	Pokhara/Sikles/Khasur/Bhujung/Sirubari
+ṭ	+ ṭ	9	silʌuṭa//silṭo	Pokhara/Sikles/Bhujung/Sirubari
+gh	+ gh	9	jãghõ//jaghõ	Pokhara/Sikles/Khasur/Bhujung/Sirubari
 au$	au	9	kauli//kauli	Pokhara/Sikles/Khasur/Bhujung/Sirubari
 ʌ̃$	ʌ̃	8	nʌ̃//nʌ̃kho	Pokhara/Sikles/Sirubari
-^bh	bʱ	8	bhʌnṭa//bhʌnṭa	Pokhara/Sikles/Sirubari/Khasur
+^bh	bh	8	bhʌnṭa//bhʌnṭa	Pokhara/Sikles/Sirubari/Khasur
 ^d	d	8	dai//didzjo	Pokhara/Sikles/Sirubari/Khasur
-^m̤ra	m r a̤	7	m̤ra//m̤ra	Pokhara/Sikles/Khasur/Bhujung/Sirubari
+^m̤	m̤	7	m̤ra//m̤ra	Pokhara/Sikles/Khasur/Bhujung/Sirubari
 w	+ w	6	nwãkhõ//baluwa	Pokhara/Sikles/Khasur/Bhujung/Sirubari
 ẽ̤	ẽ̤	6	ŋẽ̤//ŋẽ̤	Pokhara/Bhujung/Sirubari/Khasur
 ʌ̃	ʌ̃	6	jolʌ̃//lajʌ̃	Pokhara/Sikles
@@ -74,142 +69,139 @@ ai	ai	6	rimai//rimai	Pokhara/Sikles/Sirubari
 ^w	w	6	woẽr//wolge	Pokhara/Sikles/Khasur/Bhujung/Sirubari
 h	+ h	5	mohʌḍa//jahudi	Pokhara/Bhujung/Sirubari/Khasur
 ^ã	ã	5	ãp//ãp	Pokhara/Sikles/Khasur/Bhujung/Sirubari
-gh$	gʱ	5	aghʌi//aghe	Pokhara/Sikles/Sirubari
-tsh	+ tsʰ	5	atshjaba//atshjãba	Pokhara/Sikles/Khasur/Bhujung/Sirubari
+gh$	gh	5	aghʌi//aghe	Pokhara/Sikles/Sirubari
+tsh	+ tsh	5	atshjaba//atshjãba	Pokhara/Sikles/Khasur/Bhujung/Sirubari
 iu$	iu	4	dziu//dziu	Pokhara/Bhujung/Sirubari/Khasur
 ʌĩ$	ʌĩ	4	pʌĩḍa//lʌĩ	Sikles/Sirubari/Khasur
-^gh	gʱ	4	ghʌn//ghʌn	Pokhara/Sikles/Bhujung/Sirubari
-kk	k + k	4	tsʌkku//tsʌkku	Pokhara/Sikles/Bhujung/Sirubari
-u:$	uː	4	mu://mu:	Pokhara/Bhujung/Sirubari
+^gh	gh	4	ghʌn//ghʌn	Pokhara/Sikles/Bhujung/Sirubari
+kk	+ kk	4	tsʌkku//tsʌkku	Pokhara/Sikles/Bhujung/Sirubari
+u:$	u:	4	mu://mu:	Pokhara/Bhujung/Sirubari
 ou$	ou	4	dzou//dzou	Pokhara/Sikles/Sirubari/Khasur
-ṭṭ	ʈ + ʈ	4	lamkhuṭṭe//lamkhuṭṭe	Pokhara/Bhujung/Sirubari/Khasur
-mm	m + m	4	khʌemma//dzʌmmʌi	Bhujung/Khasur
-^Ph	pʰ	3	Pho//Phʌlphul	Pokhara/Bhujung/Sirubari
+ṭṭ	+ ṭṭ	4	lamkhuṭṭe//lamkhuṭṭe	Pokhara/Bhujung/Sirubari/Khasur
+mm	+ mm	4	khʌemma//dzʌmmʌi	Bhujung/Khasur
+^Ph	Ph	3	Pho//Phʌlphul	Pokhara/Bhujung/Sirubari
 ʌu$	ʌu	3	nʌuri//nʌuro	Sikles/Bhujung
 ^h	h	3	hʌrkjʌ//hodza	Pokhara/Sirubari/Khasur
 oẽ$	oẽ	3	koẽ//koẽ	Pokhara/Bhujung/Khasur
 ʌẽ$	ʌẽ	3	kʌẽ//khʌẽ	Pokhara/Sikles
 e̤$	e̤	3	me̤//me̤	Bhujung/Sirubari/Khasur
 uĩ$	uĩ	3	muĩsa//muĩsa	Pokhara/Bhujung/Khasur
-ũ:$	ũː	2	sũ://lũ:	Sikles/Sirubari
-e:$	eː	2	le://le:	Sikles
+ũ:$	ũ:	2	sũ://lũ:	Sikles/Sirubari
+e:$	e:	2	le://le:	Sikles
 ui$	ui	2	kuino//tuiba	Sirubari
-tsh$	tsʰ	2	jotshĩ//motshe	Sikles/Sirubari
+tsh$	tsh	2	jotshĩ//motshe	Sikles/Sirubari
 oĩ$	oĩ	2	koĩ//koĩ	Bhujung/Sirubari
 ^aũ	aũ	2	aũṭhi//aũḍi	Sikles/Khasur
-ms	m + s	2	namsjo//namsjo	Pokhara/Khasur
-ʌ:$	ʌː	2	sʌ://sʌ:tulʌ	Bhujung
+ms	+ ms	2	namsjo//namsjo	Pokhara/Khasur
+ʌ:$	ʌ:	2	sʌ://sʌ:tulʌ	Bhujung
 ʌ̤$	ʌ̤	2	ṭʌ̤//ṭʌ̤	Bhujung/Sirubari
-ph	+ pʰ	2	Phʌlphul//Phʌlphul	Pokhara/Bhujung
+ph	+ ph	2	Phʌlphul//Phʌlphul	Pokhara/Bhujung
 ʌũ$	ʌũ	2	gʌũ//gʌũ	Pokhara/Sirubari
 ʌĩ	ʌĩ	2	agʌĩ//phrʌĩsẽ	Bhujung
-th	+ tʰ	2	maithilʌ//rĩthe	Bhujung/Sirubari
+th	+ th	2	maithilʌ//rĩthe	Bhujung/Sirubari
 ui	ui	2	tsjui khri//tsjui ŋi	Sikles
 ^ʌ	ʌ	2	ʌlʌg//ʌlʌg	Pokhara/Bhujung
 iu	iu	1	tsjiutan	Sikles
-^n̤ʌ	n ʌ̤	1	n̤ʌ	Pokhara
-ṭh	+ ʈʰ	1	joṭhiḍi	Bhujung
+^n̤	n̤	1	n̤ʌ	Pokhara
+ṭh	+ ṭh	1	joṭhiḍi	Bhujung
 ʌu	ʌu	1	silʌuṭa	Pokhara
 oi$	oi	1	poilʌ	Sirubari
 o̤$	o̤	1	lo̤ra	Pokhara
-^ḍ	ɖ	1	ḍori	Pokhara
-ṭh$	ʈʰ	1	aũṭhi	Sikles
+^ḍ	ḍ	1	ḍori	Pokhara
+ṭh$	ṭh	1	aũṭhi	Sikles
 aĩ$	aĩ	1	naĩ	Sirubari
-dh	+ dʱ	1	nadhima	Sikles
+dh	+ dh	1	nadhima	Sikles
 ^i	i	1	inreni	Sirubari
-bh	+ bʱ	1	tsʌbhu	Bhujung
-ll	l + l	1	tsʌlla	Pokhara
-tt	t + t	1	phʌttel	Sikles
+bh	+ bh	1	tsʌbhu	Bhujung
+ll	+ ll	1	tsʌlla	Pokhara
+tt	+ tt	1	phʌttel	Sikles
 ts$	ts	1	atsjʌ	Sikles
 ĩu$	ĩu	1	pĩu	Sirubari
 ũi	ũi	1	apũi	Sirubari
-ns	n + s	1	tinsʌbim	Khasur
-^r̤idu	r i̤ + d u	1	r̤idu	Sikles
+ns	+ ns	1	tinsʌbim	Khasur
+^r̤	r̤	1	r̤idu	Sikles
 au	au	1	tsjauna	Khasur
 ae$	ae	1	ṭae	Sikles
 ^e	e	1	egharʌ	Sirubari
 ũi$	ũi	1	mũi pra	Sirubari
-ʌe$	ʌe	1	gumdakhʌemma	Bhujung
+ʌe$	ʌe	1	khʌemma	Bhujung
 ʌa$	ʌa	1	tsʌamai	Sirubari
 õu$	õu	1	phõureba	Khasur
 ẽ̤	ẽ̤	1	ŋẽ̤ba	Bhujung
 ei	ei	1	kemei	Sikles
-^tsj	ts j	22	ts j iu t a n//ts j a	
-^kr	k r	13	k r ʌ//k r ʌ	
-^nw	n w	1	n w ã kh õ	
-rd	r + d	1	k u r d u	
-rdz	r + dz	1	k u r dz u	
-pl	p + l	3	j o p l a//j o p l a	
-^pl	p + l	9	p l a//p l i	
-ml	m + l	2	a m l a//k a m l i kh o b a	
-bl	b + l	1	ṭ i b l i	
-kr	k + r	8	n u k r i//n ʌ k r o	
-^khl	kʰ l	5	kh l i//kh l i	
-^kl	k l	1	k l i	
+^tsj	^ ts j	22	ts j iu t a n//ts j a	
+^kr	^ k r	13	k r ʌ//k r ʌ	
+^nw	^ n w	1	n w ã kh õ	
+rd	r d	1	k u r d u	
+rdz	r dz	1	k u r dz u	
+pl	p l	3	j o p l a//j o p l a	
+^pl	^ p l	9	p l a//p l i	
+ml	m l	2	a m l a//k a m l i kh o b a	
+bl	b l	1	ṭ i b l i	
+kr	k r	8	n u k r i//n ʌ k r o	
+^khl	^ kh l	5	kh l i//kh l i	
+^kl	^ k l	1	k l i	
 pj	p j	1	dh ĩ p j a	
-^m̤ra	m r a̤	7	m̤ r a//m̤ r a	
-^phj	pʰ j	1	ph j o l u	
-rkj	r + k j	2	h ʌ r k j ʌ//t a r k j a	
-lṭ	l + ʈ	3	s i l ṭ o//p ʌ l ṭ i b a	
-gl	g + l	1	p u g l a	
-^pr	p r	17	p r e s i + j u m a//p r e j õ l ʌ	
-^mr	m r	5	m r ẽ d u m//m r i s j o	
-rt	r + t	1	m a r t o l a	
-^ṭj	ʈ j	1	ṭ j a	
-ŋj	ŋ + j	6	l a ŋ j e//m u ŋ j a b a	
-^kj	k j	23	k j u//k j u	
-^sj	s j	8	s j ʌ̃//s j ʌ̃	
-msj	m + s j	2	n a ms j o//n a ms j o	
-sj	s + j	10	n a s j o//n ã s j o	
-br	b + r	6	n a b r i//m ẽ b r o	
-nr	n + r	1	i n r e n i	
-rg	r + g	3	j a r g o d i//th ʌ r g e	
-pr	p + r	2	n ẽ p r o//m ũi + p r a	
-^mj	m j	4	m j u r ʌ//m j u r o	
-nd	n + d	7	s ĩ n d u//b ʌ n d a	
-nt	n + t	1	s ĩ n t u ŋ	
-lph	l + pʰ	2	Ph ʌ l ph u l//Ph ʌ l ph u l	
-^ml	m l	5	m l ʌ s i//m l ʌ ŋ e	
-nṭ	n + ʈ	3	bh ʌ n ṭ a//bh ʌ n ṭ a	
-^pj	p j	6	p j a dz//p j a dz	
-lb	l + b	5	g o l b ẽ ḍ a//g o l b ẽ ḍ a	
-^ŋj	ŋ + j	19	ŋ j a//ŋ j u b a	
-kj	k + j	2	n ʌi k j u//n ʌ k j u	
-gr	g + r	1	p u g r i	
-mkh	m + kʰ	4	l a m kh u ṭṭ e//l a m kh u ṭṭ e	
-mr	m + r	2	t i m r o//ṭ i m r u	
-lm	l + m	1	k o l m e	
-ghj	+ gʱ j	1	a gh j a	
-tsj	+ ts j	2	a ts j ʌ//d i ts j ʌ̃	
-dzj	+ dz j	1	d i dz j o	
-tm	t + m	2	p j ũ ts ʌ t m ʌi//r i ts ʌ t m ʌi	
-^phr	pʰ r	3	ph r i s ĩ//ph r ʌĩ s ẽ	
-^tj	t j	5	t j a//t j ã	
-dg	d + g	1	s ʌ d g ʌ r i	
-dr	d + r	1	kh o d r o	
-^tshj	tsʰ j	6	tsh j a b a//tsh j ã b a	
-tshj	+ tsʰ j	5	a tsh j a b a//a tsh j ã b a	
-rb	r + b	3	k a r b a//p u r b a	
-^tshb	tsʰ b	1	tsh b ʌ	
-rgj	r + g j	4	th ʌ r g j o//t a r g j a	
-rj	r + j	1	ŋ a r j o	
-^thj	ʰ j	1	th j o b a	
-gj	+ g j	4	m l õ g j a//n ũ g j a	
-lg	l + g	1	w o l g e	
-lgj	l + g j	4	w o l g j a//w a l g j a	
+^m̤r	^ m̤ r	7	m̤ r a//m̤ r a	
+^phj	^ ph j	1	ph j o l u	
+rkj	r k j	2	h ʌ r k j ʌ//t a r k j a	
+lṭ	l ṭ	3	s i l ṭ o//p ʌ l ṭ i b a	
+gl	g l	1	p u g l a	
+^pr	^ p r	17	p r e s i + j u m a//p r e j õ l ʌ	
+^mr	^ m r	5	m r ẽ d u m//m r i s j o	
+rt	r t	1	m a r t o l a	
+^ṭj	^ ṭ j	1	ṭ j a	
+ŋj	ŋ j	6	l a ŋ j e//m u ŋ j a b a	
+^kj	^ k j	23	k j u//k j u	
+^sj	^ s j	8	s j ʌ̃//s j ʌ̃	
+msj	ms j	2	n a ms j o//n a ms j o	
+sj	s j	10	n a s j o//n ã s j o	
+br	b r	6	n a b r i//m ẽ b r o	
+nr	n r	1	i n r e n i	
+rg	r g	3	j a r g o d i//th ʌ r g e	
+pr	p r	2	n ẽ p r o//m ũi + p r a	
+^mj	^ m j	4	m j u r ʌ//m j u r o	
+nd	n d	7	s ĩ n d u//b ʌ n d a	
+nt	n t	1	s ĩ n t u ŋ	
+lph	l ph	2	Ph ʌ l ph u l//Ph ʌ l ph u l	
+^ml	^ m l	5	m l ʌ s i//m l ʌ ŋ e	
+nṭ	n ṭ	3	bh ʌ n ṭ a//bh ʌ n ṭ a	
+^pj	^ p j	6	p j a dz//p j a dz	
+lb	l b	5	g o l b ẽ ḍ a//g o l b ẽ ḍ a	
+^ŋj	^ ŋ j	19	ŋ j a//ŋ j u b a	
+kj	k j	2	n ʌi k j u//n ʌ k j u	
+gr	g r	1	p u g r i	
+mkh	m kh	4	l a m kh u ṭṭ e//l a m kh u ṭṭ e	
+mr	m r	2	t i m r o//ṭ i m r u	
+lm	l m	1	k o l m e	
+ghj	gh j	1	a gh j a	
+tsj	ts j	2	a ts j ʌ//d i ts j ʌ̃	
+dzj	dz j	1	d i dz j o	
+tm	t m	2	p j ũ ts ʌ t m ʌi//r i ts ʌ t m ʌi	
+^phr	^ ph r	3	ph r i s ĩ//ph r ʌĩ s ẽ	
+^tj	^ t j	5	t j a//t j ã	
+dg	d g	1	s ʌ d g ʌ r i	
+dr	d r	1	kh o d r o	
+^tshj	^ tsh j	6	tsh j a b a//tsh j ã b a	
+tshj	tsh j	5	a tsh j a b a//a tsh j ã b a	
+rb	r b	3	k a r b a//p u r b a	
+^tshb	^ tsh b	1	tsh b ʌ	
+rgj	r g j	4	th ʌ r g j o//t a r g j a	
+rj	r j	1	ŋ a r j o	
+^thj	^ th j	1	th j o b a	
+gj	g j	4	m l õ g j a//n ũ g j a	
+lg	l g	1	w o l g e	
+lgj	l g j	4	w o l g j a//w a l g j a	
 ^gr	^ g r	1	g r i	
-khr	+ kʰ r	1	ts j ui + kh r i	
-^br	b r	1	b r a	
-nts	n + ts	1	kh a n ts a	
-khl	+ kʰ l	1	ts u b a kh l a	
-tj	t + j	1	ph ʌ t j a b a	
-kn	k + n	1	ph ʌ k n e b a	
-ŋb	ŋ + b	1	th u ŋ b a	
-nb	n + b	1	b i n b a	
-^khr	kʰ r	1	kh r o b a	
-gḍ	g + ɖ	1	b a g ḍ i b a	
-^hj	h j	1	h j a b a	
-nl	n + l	1	ŋ j o t a n l ʌi	
-_	NULL			
-ʌ:	ʌː			
-^m̤ri	m r i̤			
+khr	kh r	1	ts j ui + kh r i	
+^br	^ b r	1	b r a	
+nts	n ts	1	kh a n ts a	
+khl	kh l	1	ts u b a kh l a	
+tj	t j	1	ph ʌ t j a b a	
+kn	k n	1	ph ʌ k n e b a	
+ŋb	ŋ b	1	th u ŋ b a	
+nb	n b	1	b i n b a	
+^khr	^ kh r	1	kh r o b a	
+gḍ	g ḍ	1	b a g ḍ i b a	
+^hj	^ h j	1	h j a b a	
+nl	n l	1	ŋ j o t a n l ʌi	

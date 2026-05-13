@@ -56,11 +56,11 @@ ao	ao
 b	+ b
 bh	+ bʱ
 bh$	bʱ
-c	+ tʃ
-ch	+ tʃʰ
-ch$	tʃʰ
-chj	+ tʃʰ j
-cʰ	+ cʰ
+c	+ ts
+ch	+ tsʰ
+ch$	tsʰ
+chj	+ tsʰ j
+cʰ	+ tsʰ
 d	+ d
 ddh	d + dʱ
 dh	+ dʱ
@@ -79,9 +79,10 @@ hʔn	h + ʔ n
 i	i
 j	+ dʒ
 ^j	dʒ
+k$	k
 k	+ k
-kc	k + tʃ
-kch	k + tʃʰ
+kc	k + ts
+kch	k + tsʰ
 kh	+ kʰ
 kh$	kʰ
 khr	kʰ r
@@ -101,10 +102,12 @@ kʔw	k + ʔ w
 kʰ	+ kʰ
 kṭ	k + ʈ
 l	+ l
+l$	l
+m$	m
 m	+ m
 mb	m + b
-mc	m + tʃ
-mch	m + tʃʰ
+mc	m + ts
+mch	m + tsʰ
 mj	m + j
 mk	m + k
 mkh	m + kʰ
@@ -114,10 +117,12 @@ mm	m + m
 mm$	m + m
 mp	m + p
 mph	m + pʱ
+n$	n
 n	+ n
+n$	n
 nbh	n + bʱ
 nbhtt	n + bʱ !t/ə t
-nc	n + tʃ
+nc	n + ts
 nd	n + d
 nj	n + dʒ
 nk	n + k
@@ -130,6 +135,7 @@ oa	oa
 oi	oi
 p	+ p
 p$	p
+p$	p
 ph	+ pʰ
 pk	p + k
 pkh	p + kʰ
@@ -140,11 +146,14 @@ pt	p + t
 pw	p + w
 pṭ	p + ʈ
 r	+ r
+r$	r
 rd	r + d
 rt	r + t
 s	+ s
+s$	s
 ss	s + s
 t	+ t
+t$	t
 tk	t + k
 tl	t + l
 tm	t + m
@@ -155,9 +164,11 @@ ua$	ua
 ui	ui
 ui$	ui
 w	+ w
-ŋ	+ ŋ
+w$	w
+ŋ$	ŋ
+ŋ	ŋ +
 ŋb	ŋ + b
-ŋch	ŋ + tʃʰ
+ŋch	ŋ + tsʰ
 ŋg	ŋ + g
 ŋj	ŋ + dʒ
 ŋk	ŋ + k

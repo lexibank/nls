@@ -56,11 +56,11 @@ ao	ao	7	cijao//usao	Okhre, Khena/Timma, Rimchim
 b	+ b	30	nabak//nabak	Lungin (Hatuwa)/Okhre, Khena/Timma, Rimchim/Khoku, Dhankuta/Thidingkha, (Amchok)
 bh	+ bʱ	6	nabhak//nabhak	Okhre, Khena/Lungin (Hatuwa)/Khoku, Dhankuta/Thidingkha, (Amchok)
 bh$	bʱ	3	əbhen//ɨbhajuŋ	Lungin (Hatuwa)/Thidingkha, (Amchok)
-c	+ tʃ	51	bəncuro//bəncəro	Lungin (Hatuwa)/Okhre, Khena/Timma, Rimchim/Khoku, Dhankuta/Thidingkha, (Amchok)
-ch	+ tʃʰ	53	jaŋchabi//jaŋchabək	Lungin (Hatuwa)/Okhre, Khena/Timma, Rimchim/Khoku, Dhankuta/Thidingkha, (Amchok)
-ch$	tʃʰ	1	əchjut	Thidingkha, (Amchok)
-chj	+ tʃʰ j	1	ə ch j u t	
-cʰ	+ cʰ	1	nicʰak	Timma, Rimchim
+c	+ ts	51	bəncuro//bəncəro	Lungin (Hatuwa)/Okhre, Khena/Timma, Rimchim/Khoku, Dhankuta/Thidingkha, (Amchok)
+ch	+ tsʰ	53	jaŋchabi//jaŋchabək	Lungin (Hatuwa)/Okhre, Khena/Timma, Rimchim/Khoku, Dhankuta/Thidingkha, (Amchok)
+ch$	tsʰ	1	əchjut	Thidingkha, (Amchok)
+chj	+ tsʰ j	1	ə ch j u t	
+cʰ	+ tsʰ	1	nicʰak	Timma, Rimchim
 d	+ d	30	ladimma//ladipma	Lungin (Hatuwa)/Okhre, Khena/Timma, Rimchim/Khoku, Dhankuta/Thidingkha, (Amchok)
 ddh	d + dʱ	1	b ə d dh e	
 dh	+ dʱ	3	dudha//dudha	Okhre, Khena/Timma, Rimchim
@@ -79,9 +79,10 @@ hʔn	h + ʔ n	1	m ə h ʔ n i
 i	i	221	chaṭṭi//chaṭṭi	Lungin (Hatuwa)/Okhre, Khena/Timma, Rimchim/Khoku, Dhankuta/Thidingkha, (Amchok)
 j	+ dʒ	66	ɨjuwa//maʔkjo	Lungin (Hatuwa)/Okhre, Khena/Timma, Rimchim/Khoku, Dhankuta/Thidingkha, (Amchok)
 ^j	dʒ
-k	+ k	186	pok//pok	Lungin (Hatuwa)/Okhre, Khena/Timma, Rimchim/Khoku, Dhankuta/Thidingkha, (Amchok)
-kc	k + tʃ	1	m a k c u k w a	
-kch	k + tʃʰ	1	b o k ch u k	
+k$	k	186	pok//pok	Lungin (Hatuwa)/Okhre, Khena/Timma, Rimchim/Khoku, Dhankuta/Thidingkha, (Amchok)
+k	+ k
+kc	k + ts	1	m a k c u k w a	
+kch	k + tsʰ	1	b o k ch u k	
 kh	+ kʰ	27	lapṭikhoŋ//jaŋkhabɨk	Lungin (Hatuwa)/Okhre, Khena/Timma, Rimchim/Khoku, Dhankuta/Thidingkha, (Amchok)
 kh$	kʰ	12	ukhuŋ//ukhuŋ	Lungin (Hatuwa)/Okhre, Khena/Timma, Rimchim/Khoku, Dhankuta/Thidingkha, (Amchok)
 khr	kʰ r	3	b a kh r a//b a kh r a	
@@ -101,10 +102,12 @@ kʔw	k + ʔ w	3	s ɨ ŋ b a k ʔ w a//ṭ ə kh o k ʔ w a
 kʰ	+ kʰ	5	jaŋkʰabuk//kʰakʰut	Okhre, Khena/Timma, Rimchim
 kṭ	k + ʈ	4	w a p o k ṭ a kh a r a ŋ//w a p o k ṭ ao	
 l	+ l	67	ŋalɨŋ//ŋalɨŋ	Lungin (Hatuwa)/Okhre, Khena/Timma, Rimchim/Khoku, Dhankuta/Thidingkha, (Amchok)
-m	+ m	224	jam//jam	Lungin (Hatuwa)/Okhre, Khena/Timma, Rimchim/Khoku, Dhankuta/Thidingkha, (Amchok)
+l$	l
+m$	m	224	jam//jam	Lungin (Hatuwa)/Okhre, Khena/Timma, Rimchim/Khoku, Dhankuta/Thidingkha, (Amchok)
+m	+ m
 mb	m + b	9	ṭ ɨ m b ɨ l ɨ k//ṭ ɨ m b ɨ l ɨ k	
-mc	m + tʃ	7	n a m c o k//n a m c o k	
-mch	m + tʃʰ	1	n a m ch ə r ə	
+mc	m + ts	7	n a m c o k//n a m c o k	
+mch	m + tsʰ	1	n a m ch ə r ə	
 mj	m + j	2	o m j a ŋ//o m j a ŋ	
 mk	m + k	2	s u m k a//s u m k a	
 mkh	m + kʰ	3	ḍ e m kh a//d e m kh a w o	
@@ -114,10 +117,12 @@ mm	m + m	11	ladimma//ninamma	Lungin (Hatuwa)/Okhre, Khena/Timma, Rimchim/Khoku, 
 mm$	m + m	7	imma//imma	Lungin (Hatuwa)/Okhre, Khena/Timma, Rimchim/Khoku, Dhankuta/Thidingkha, (Amchok)
 mp	m + p	8	n a m c i m p e l e k//n a m c i m p i l e k	
 mph	m + pʱ	1	u m ph e ? ph e ? w a	
-n	+ n	190	kuina//kuina	Lungin (Hatuwa)/Okhre, Khena/Timma, Rimchim/Khoku, Dhankuta/Thidingkha, (Amchok)
+n$	n	190	kuina//kuina	Lungin (Hatuwa)/Okhre, Khena/Timma, Rimchim/Khoku, Dhankuta/Thidingkha, (Amchok)
+n	+ n
+n$	n
 nbh	n + bʱ	1	o n bh a j a ŋ w o	
 nbhtt	n + bʱ !t/ə t	1	u n bh tt ao	
-nc	n + tʃ	9	b ə n c u r o//b ə n c ə r o	
+nc	n + ts	9	b ə n c u r o//b ə n c ə r o	
 nd	n + d	7	b e n d a s i//b e n d a s i	
 nj	n + dʒ	1	d u n j a ŋ w o	
 nk	n + k	12	s a n k e n m a//kh a n t u n k o	
@@ -129,6 +134,7 @@ o	o	228	pok//pok	Lungin (Hatuwa)/Okhre, Khena/Timma, Rimchim/Khoku, Dhankuta/Thi
 oa	oa	1	w+ ahoa	Thidingkha, (Amchok)
 oi	oi	1	maŋkoi	Lungin (Hatuwa)
 p	+ p
+p$	p
 p$	p	53	chɨkuḍhap//chepa	Lungin (Hatuwa)/Okhre, Khena/Timma, Rimchim/Khoku, Dhankuta/Thidingkha, (Amchok)
 ph	+ pʰ	4	phophoʔwa//phophoʔwa	Lungin (Hatuwa)/Okhre, Khena/Thidingkha, (Amchok)
 pk	p + k	1	r e p k a	
@@ -140,11 +146,14 @@ pt	p + t	2	h ə p t a//h ə p t a
 pw	p + w	1	ə c u p w o	
 pṭ	p + ʈ	1	l a p ṭ i kh o ŋ	
 r	+ r	81	nəŋra//nəŋra	Lungin (Hatuwa)/Okhre, Khena/Timma, Rimchim/Khoku, Dhankuta/Thidingkha, (Amchok)
+r$	r
 rd	r + d	5	h a r d i//h ə r d i	
 rt	r + t	5	m a r t o l a//m a r t o l a	
 s	+ s	38	əsiwa//əsiwa	Lungin (Hatuwa)/Okhre, Khena/Timma, Rimchim/Khoku, Dhankuta/Thidingkha, (Amchok)
+s$	s
 ss	s + s	1	khanəssawo	Thidingkha, (Amchok)
 t	+ t	68	martola//martola	Lungin (Hatuwa)/Okhre, Khena/Timma, Rimchim/Khoku, Dhankuta/Thidingkha, (Amchok)
+t$	t
 tk	t + k	2	u n c i t k o//r e t k a	
 tl	t + l	1	c i c i t l ə	
 tm	t + m	15	M i t m a + s ɨ ʔ w a ŋ//w a m i t m a	
@@ -155,9 +164,11 @@ ua$	ua	2	nuak//chua	Thidingkha, (Amchok)/Timma, Rimchim
 ui	ui	1	ukhakhuit	Khoku, Dhankuta
 ui$	ui	9	kuina//kuina	Lungin (Hatuwa)/Okhre, Khena/Timma, Rimchim/Khoku, Dhankuta/Thidingkha, (Amchok)
 w	+ w	125	ṭaŋmɨwa//ṭaŋmwa	Lungin (Hatuwa)/Okhre, Khena/Timma, Rimchim/Khoku, Dhankuta/Thidingkha, (Amchok)
-ŋ	+ ŋ	247	ṭaŋ//ṭaŋ	Lungin (Hatuwa)/Okhre, Khena/Timma, Rimchim/Khoku, Dhankuta/Thidingkha, (Amchok)
+w$	w
+ŋ$	ŋ	247	ṭaŋ//ṭaŋ	Lungin (Hatuwa)/Okhre, Khena/Timma, Rimchim/Khoku, Dhankuta/Thidingkha, (Amchok)
+ŋ	ŋ +
 ŋb	ŋ + b	3	s ɨ ŋ b a ʔ w a//s ɨ ŋ b a k ʔ w a	
-ŋch	ŋ + tʃʰ	4	j a ŋ ch a b i//j a ŋ ch a b ə k	
+ŋch	ŋ + tsʰ	4	j a ŋ ch a b i//j a ŋ ch a b ə k	
 ŋg	ŋ + g	13	a ŋ g u l i//l u ŋ g a n u k kh a	
 ŋj	ŋ + dʒ	7	k e ŋ j a ŋ//k e ŋ j a ŋ	
 ŋk	ŋ + k	24	s a ŋ k e n m a//s a ŋ k e n	

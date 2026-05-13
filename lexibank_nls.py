@@ -44,17 +44,13 @@ class Dataset(BaseDataset):
         for idx in wl:
             if wl[idx, 'dataset'] in ["Athpahariya", "Bantawa", "Chamling",
                                       "Belhare", "Chintang", "Dhimal",
-                                      "Chulung", "Dulung", "Ghale-Gurung",
-                                      "Jirel",
-                                      "Gurung"
-                                      ]:
+                                      "Chulung", "Dulung", "Ghale-Gurung"]:
                 if wl[idx, "concept"].strip(".") in concepts:
-
                     args.writer.add_form(
                             Language_ID=languages[wl[idx, 'doculect']],
                             Parameter_ID=concepts[wl[idx, "concept"].strip(".")],
                             Value=wl[idx, 'value'],
-                            Form=wl[idx, 'form'].strip(".").replace(" ", "_^").replace("-", "_^"),
+                            Form=wl[idx, 'form'].replace(" ", "_^").replace("-", "_^"),
                             Source='')
                 else:
                     errors.add((wl[idx, "dataset"], wl[idx, "concept"]))
