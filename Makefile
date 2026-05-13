@@ -40,8 +40,6 @@ profile:
 	cut -f1,2 etc/orthography-Ghale-Gurung.tsv > etc/orthography/Barpak2.tsv
 	cut -f1,2 etc/orthography-Ghale-Gurung.tsv > etc/orthography/Laprak.tsv
 	cut -f1,2 etc/orthography-Ghale-Gurung.tsv > etc/orthography/Gumda.tsv
-	cut -f1,2 etc/orthography-Jirel.tsv > etc/orthography/Yarsa.tsv
-	cut -f1,2 etc/orthography-Jirel.tsv > etc/orthography/Chhetrapa.tsv
-	cut -f1,2 etc/orthography-Jirel.tsv > etc/orthography/Sikri.tsv
-	cut -f1,2 etc/orthography-Jirel.tsv > etc/orthography/Kharoban.tsv
-	cut -f1,2 etc/orthography-Jirel.tsv > etc/orthography/RatmateKot.tsv
+server:
+	datasette NLS.sqlite --static assets:app/static-files/ --metadata app/metadata.yaml --template-dir="app/templates/" -p 8002 --plugins-dir=app/ --setting truncate_cells_html 0
+

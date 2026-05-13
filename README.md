@@ -26,21 +26,21 @@ Conceptlists in Concepticon:
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 30 (linked to 6 different Glottocodes)
+- **Varieties:** 40 (linked to 8 different Glottocodes)
 - **Concepts:** 210 (linked to 210 different Concepticon concept sets)
-- **Lexemes:** 6,365
+- **Lexemes:** 8,597
 - **Sources:** 0
 - **Synonymy:** 1.04
 - **Invalid lexemes:** 0
-- **Tokens:** 38,522
-- **Segments:** 121 (0 BIPA errors, 0 CLTS sound class errors, 121 CLTS modified)
-- **Inventory size (avg):** 47.50
+- **Tokens:** 49,604
+- **Segments:** 150 (0 BIPA errors, 0 CLTS sound class errors, 150 CLTS modified)
+- **Inventory size (avg):** 48.65
 
 ## Possible Improvements:
 
 
 
-- Entries missing sources: 6365/6365 (100.00%)
+- Entries missing sources: 8597/8597 (100.00%)
 
 ## CLDF Datasets
 
