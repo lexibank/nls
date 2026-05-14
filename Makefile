@@ -16,7 +16,7 @@ profile:
 	cut -f1,2 etc/orthography-Bantawa.tsv > etc/orthography/Okhre.tsv
 	cut -f1,2 etc/orthography-Belhare.tsv > etc/orthography/Belhare.tsv
 	cut -f1,2 etc/orthography-Belhare.tsv > etc/orthography/Piple.tsv
-	cut -f1,2 etc/orthography-Belhare.tsv > etc/orthography/Guthitar.tsv
+	cut -f1,2 etc/orthography-Belhare.tsv > etc/orthography/GuthitarB.tsv
 	cut -f1,2 etc/orthography-Belhare.tsv > etc/orthography/Rudrabari.tsv
 	cut -f1,2 etc/orthography-Chintang.tsv > etc/orthography/ChaudhariTole.tsv
 	cut -f1,2 etc/orthography-Chintang.tsv > etc/orthography/Mulgaun.tsv
@@ -45,3 +45,8 @@ profile:
 	cut -f1,2 etc/orthography-Jirel.tsv > etc/orthography/Sikri.tsv
 	cut -f1,2 etc/orthography-Jirel.tsv > etc/orthography/Kharoban.tsv
 	cut -f1,2 etc/orthography-Jirel.tsv > etc/orthography/RatmateKot.tsv
+	cut -f1,2 etc/orthography-Gurung.tsv > etc/orthography/Pokhara.tsv
+	cut -f1,2 etc/orthography-Gurung.tsv > etc/orthography/Sikles.tsv
+	cut -f1,2 etc/orthography-Gurung.tsv > etc/orthography/Khasur.tsv
+	cut -f1,2 etc/orthography-Gurung.tsv > etc/orthography/Bhujung.tsv
+	cut -f1,2 etc/orthography-Gurung.tsv > etc/orthography/Sirubari.tsv
