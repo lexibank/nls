@@ -1,51 +1,51 @@
-ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,Location,Subgroup,Latitudex,Longitudex,File
-Santang,Santang,athp1241,,,,,,,"Santang Deurali, (Dhankuta Municipality 8)",,087° 21′57.1″ E,26° 57′26.0″ N,Athpahariya_Words
-Tekunala,Tekunala,,,,,,,,Tekunala (Dhankuta Municipality 9),,087° 20′33.8″ E,26° 57′03.5″ N,Athpahariya_Words
-Guthitar,Guthitar,,,,,,,,Guthitar (Dhankuta Municipality 14),,087° 19′17.5″ E,26° 57′54.2″ N,Athpahariya_Words
-Khalde,Khalde,,,,,,,,Khalde (Dhankuta Municipality 3) in Dhankuta district,,087° 19′03.7″ E,26° 59′13.4″ N,Athpahariya_Words
-Hatiya,Hatiya /Dhan kuta Bazaar,,,,,,,,Dhankuta Bazaar (Dhankuta Municipality 1),,087° 20′37.7″ E,26° 58′21.1″ N,Athpahariya_Words
-Khoku,"Khoku, Dhankuta",bant1281,,,,,,,"Khoku, Thapa Tole",,26° 58' 59.0'',87° 13' 32.7'',Bantawa_Words
-Lungin,Lungin (Hatuwa),,,,,,,,"Hatuwa, Lungin",,27° 01' 27.8'',87° 05'15.2'',Bantawa_Words
-Thidingkha,"Thidingkha, (Amchok)",,,,,,,,"Amchok, Thidinkha",,27° 00' 00.06'',86° 00' 49.66'',Bantawa_Words
-Timma,"Timma, Rimchim",,,,,,,,"Timma, Rimchim",,27° 14' 00.4'',86° 58' 49.5'',Bantawa_Words
-Okhre,"Okhre, Khena",,,,,,,,"Okhre, Khena",,27° 05' 56.2'',86° 56' 65'',Bantawa_Words
-Belhare,Belhara,belh1239,,,,,,,Belahara (Dhankuta Municipality 9),,,,Belhare
-Piple,Piple,,,,,,,,Piple (Dhankuta Municipality 9),,,,Belhare
-Rudrabari,Rudra bari,,,,,,,,Rudrabari (Dhankuta Municipality 9,,,,Belhare
-Hadunge,Hadunge,caml1239,,,,,,,Durchhim (Hadunge),,27° 10' 37.5'',86° 10' 35.9'',Chamling_Words
-Halesi,Halesi,,,,,,,,Mahadevsthan (Halesi),,27°  11' 27.8'',86°  27' 16.6'',Chamling_Words
-Ratanchha,Ratanchha,,,,,,,,Ratanchha (Kolle),,27° 10' 50'',86° 50' 23.4'',Chamling_Words
-Balamta,Balamta,,,,,,,,Balamta (Majhgaun),,27° 06' 00.1'',86° 40' 14.0'',Chamling_Words
-Aaptar,Aaptar,,,,,,,,Aaptar (Rasuwa),,27°  00' 18.0,86°  45' 06.9'',Chamling_Words
-ChaudhariTole,Chaudhari Tole,,,,,,,,Chaudhari Tole,,26° 57' 12.2'',87° 13' 32.7'',Chintang_Words
-Mulgaun,Mulgaun,,,,,,,,Mulgaun,,27° 01' 27.8'',87° 05'15.2'',Chintang_Words
-Nangchhuwa,Nangchhuwa,,,,,,,,Mulgaun,,26° 56' 07.7'',87° 11' 42.7'',Chintang_Words
-Mangthana,Mangthana,,,,,,,,Mangthana,,26° 57' 17.2'',87° 12' 17.4'',Chintang_Words
-Chambak,Chambak,,,,,,,,Chhambak,,26° 52' 06.2'',87° 06' 15.1'',Chintang_Words
-DhimalWest,Dhimal West,dhim1246,,,,,,,,,,,Dhimal
-DhimalEast,Dhimal East,,,,,,,,,,,,Dhimal
-Barbhanjyang,Barbhanjyang,chhu1238,,,,,,,"Barbhanjyang, Ward 5",,26°57'43.8'',87° 15'31'',Chulung
-Gairi,Gairi,,,,,,,,"Sukeahal, Ward 4",,26° 58'23'',87° 15'49'',Chulung
-Pakha,Pakha,,,,,,,,"Pokla, Ward 3",,26° 57'15.2'',87° 15'48.6'',Chulung
-Pokla,Pokla,,,,,,,,"Gairi, Ward 1",,26° 56'50.4'',87° 14'42.5'',Chulung
-Sukeahal,Suke-ahal,,,,,,,,"Pakha Gaun, Ward 1",,26° 86'41.2'',87° 15'22'',Chulung
-Bartole,"Bar tole-1, TD",dung1252,,,,,,,Thulo Dumma VDC-1 (Bartole),,087°  09′18.8″ E,027°   05′11.2″ N,Dungmali
-Dandatole,"Danda tole-3, TD",,,,,,,,Thulo Dumma VDC-3 (Dandatole),,087°  09′09.3″ E,027°  05′10.9″ N,Dungmali
-Tharpu,"Tharpu-3, SD",,,,,,,,Sano Dumma VDC-3 Tharpu,,087°  10′21.9″ E,027°  06′48.6″ N,Dungmali
-Chaukibari,"Chaukibari-4, SD",,,,,,,,Sano Dumma VDC-3 Chaukibari,,087°  09′33.5″ E,027°  06′27.5″ N,Dungmali
-Bastim,Bastim-1,,,,,,,,Bastim VDC-1 (Bastim),,087°  09′11.4″ E,027°  06′30.7″ N,Dungmali
-Mandre,Mandre,ghal1246,,,,,,,Mandre,,,,Ghale-Gurung
-Barpak1,Barpak1,,,,,,,,Barpak1,,,,Ghale-Gurung
-Barpak2,Brpak2 (Ghale),,,,,,,,Barpak2,,,,Ghale-Gurung
-Laprak,Laprak,,,,,,,,Laprak,,,,Ghale-Gurung
-Gumda,Gumda,,,,,,,,Gumda,,,,Ghale-Gurung
-Sirubari,Sirubari,guru1261,,,,,,,"Sirubari, Syangja",,33º45´33.6´´ E,28º07´54.2´´ N,Gurung
-Pokhara,Pokhara,,,,,,,,"Pokhara, Kaski",,84º00´34.6´´ E,28º12´46.1´´ N,Gurung
-Sikles,Sikles,,,,,,,,"Lekhnath, Kaski",,84º02´25.6´´ E,28º09´50.4´´ N,Gurung
-Khasur,Khasur,,,,,,,,"Bensisahar, Lamjung",,28º13´48.3´´ E,84º22´43.2´´ N,Gurung
-Bhujung,Bhujung,,,,,,,,"Khasur, Lamjung",,81º01´18.3´´ E,29º32´51.7´´ N,Gurung
-RatmateKot,Ratmate-Kot,,,,,,,,Sikri,,,,Jirel
-Sikri,Sikri,,,,,,,,Kharayoban,,,,Jirel
-Kharoban,Kharoban,,,,,,,,Kot-Ratmate,,,,Jirel
-Chhetrapa,Chhetrapa,,,,,,,,Jugu,,,,Jirel
-Yarsa,Yarsa,,,,,,,,Chetrapa,,,,Jirel
+ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,Location,Subgroup,Dataset
+Santang,Santang,athp1241,Athpariya,aph,Eurasia,87.3658611111111,26.95722222222222,Sino-Tibetan,"Santang Deurali, (Dhankuta Municipality 8)",,Athpahariya_Words
+Tekunala,Tekunala,,,,,87.34272222222222,26.950972222222223,,Tekunala (Dhankuta Municipality 9),,Athpahariya_Words
+Guthitar,Guthitar,,,,,87.32152777777777,26.965055555555555,,Guthitar (Dhankuta Municipality 14),,Athpahariya_Words
+Khalde,Khalde,,,,,87.31769444444444,26.987055555555557,,Khalde (Dhankuta Municipality 3) in Dhankuta district,,Athpahariya_Words
+Hatiya,Hatiya /Dhan kuta Bazaar,,,,,87.34380555555555,26.972527777777778,,Dhankuta Bazaar (Dhankuta Municipality 1),,Athpahariya_Words
+Khoku,"Khoku, Dhankuta",bant1281,Bantawa,bap,Eurasia,26.983055555555556,87.22575,Sino-Tibetan,"Khoku, Thapa Tole",,Bantawa_Words
+Lungin,Lungin (Hatuwa),,,,,27.02438888888889,87.08755555555555,,"Hatuwa, Lungin",,Bantawa_Words
+Thidingkha,"Thidingkha, (Amchok)",,,,,27.000016666666667,86.01379444444444,,"Amchok, Thidinkha",,Bantawa_Words
+Timma,"Timma, Rimchim",,,,,27.233444444444444,86.98041666666667,,"Timma, Rimchim",,Bantawa_Words
+Okhre,"Okhre, Khena",,,,,27.09894444444444,86.95138888888889,,"Okhre, Khena",,Bantawa_Words
+Belhare,Belhara,belh1239,Belhariya,byw,Eurasia,,,Sino-Tibetan,Belahara (Dhankuta Municipality 9),,Belhare
+Piple,Piple,,,,,,,,Piple (Dhankuta Municipality 9),,Belhare
+Rudrabari,Rudra bari,,,,,,,,Rudrabari (Dhankuta Municipality 9,,Belhare
+Hadunge,Hadunge,caml1239,Camling,rab,Eurasia,27.177083333333336,86.17663888888889,Sino-Tibetan,Durchhim (Hadunge),,Chamling_Words
+Halesi,Halesi,,,,,27.191055555555558,86.45461111111112,,Mahadevsthan (Halesi),,Chamling_Words
+Ratanchha,Ratanchha,,,,,27.180555555555557,86.83983333333333,,Ratanchha (Kolle),,Chamling_Words
+Balamta,Balamta,,,,,27.10002777777778,86.67055555555557,,Balamta (Majhgaun),,Chamling_Words
+Aaptar,Aaptar,,,,,27.005,86.75191666666667,,Aaptar (Rasuwa),,Chamling_Words
+ChaudhariTole,Chaudhari Tole,,,,,26.953388888888888,87.22575,,Chaudhari Tole,,Chintang_Words
+Mulgaun,Mulgaun,,,,,27.02438888888889,87.08755555555555,,Mulgaun,,Chintang_Words
+Nangchhuwa,Nangchhuwa,,,,,26.935472222222224,87.19519444444445,,Mulgaun,,Chintang_Words
+Mangthana,Mangthana,,,,,26.954777777777778,87.20483333333334,,Mangthana,,Chintang_Words
+Chambak,Chambak,,,,,26.86838888888889,87.10419444444445,,Chhambak,,Chintang_Words
+DhimalWest,Dhimal West,dhim1246,Dhimal,dhi,Eurasia,,,Sino-Tibetan,,,Dhimal
+DhimalEast,Dhimal East,,,,,,,,,,Dhimal
+Barbhanjyang,Barbhanjyang,chhu1238,Chhulung,cur,Eurasia,26.962166666666665,87.25861111111111,Sino-Tibetan,"Barbhanjyang, Ward 5",,Chulung
+Gairi,Gairi,,,,,26.973055555555554,87.26361111111112,,"Sukeahal, Ward 4",,Chulung
+Pakha,Pakha,,,,,26.95422222222222,87.2635,,"Pokla, Ward 3",,Chulung
+Pokla,Pokla,,,,,26.947333333333333,87.24513888888889,,"Gairi, Ward 1",,Chulung
+Sukeahal,Suke-ahal,,,,,27.444777777777777,87.25611111111111,,"Pakha Gaun, Ward 1",,Chulung
+Bartole,"Bar tole-1, TD",dung1252,Dungmali,raa,Eurasia,87.15522222222222,27.086444444444442,Sino-Tibetan,Thulo Dumma VDC-1 (Bartole),,Dungmali
+Dandatole,"Danda tole-3, TD",,,,,87.15258333333334,27.08636111111111,,Thulo Dumma VDC-3 (Dandatole),,Dungmali
+Tharpu,"Tharpu-3, SD",,,,,87.17275000000001,27.113500000000002,,Sano Dumma VDC-3 Tharpu,,Dungmali
+Chaukibari,"Chaukibari-4, SD",,,,,87.15930555555556,27.10763888888889,,Sano Dumma VDC-3 Chaukibari,,Dungmali
+Bastim,Bastim-1,,,,,87.15316666666668,27.10852777777778,,Bastim VDC-1 (Bastim),,Dungmali
+Mandre,Mandre,ghal1246,Ghale,,,,,Sino-Tibetan,Mandre,,Ghale-Gurung
+Barpak1,Barpak1,,,,,,,,Barpak1,,Ghale-Gurung
+Barpak2,Brpak2 (Ghale),,,,,,,,Barpak2,,Ghale-Gurung
+Laprak,Laprak,,,,,,,,Laprak,,Ghale-Gurung
+Gumda,Gumda,,,,,,,,Gumda,,Ghale-Gurung
+Sirubari,Sirubari,guru1261,Gurung,gvr,Eurasia,28.131722222222223,33.75933333333333,Sino-Tibetan,"Sirubari, Syangja",,Gurung
+Pokhara,Pokhara,,,,,84.00961111111111,28.212805555555555,,"Pokhara, Kaski",,Gurung
+Sikles,Sikles,,,,,84.04044444444445,28.163999999999998,,"Lekhnath, Kaski",,Gurung
+Khasur,Khasur,,,,,28.230083333333333,84.37866666666666,,"Bensisahar, Lamjung",,Gurung
+Bhujung,Bhujung,,,,,81.02175,29.547694444444446,,"Khasur, Lamjung",,Gurung
+RatmateKot,Ratmate-Kot,,,,,,,,Sikri,,Jirel
+Sikri,Sikri,,,,,,,,Kharayoban,,Jirel
+Kharoban,Kharoban,,,,,,,,Kot-Ratmate,,Jirel
+Chhetrapa,Chhetrapa,,,,,,,,Jugu,,Jirel
+Yarsa,Yarsa,,,,,,,,Chetrapa,,Jirel

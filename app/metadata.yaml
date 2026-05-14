@@ -1,0 +1,38 @@
+title: NLS 
+description_html: |-
+  <p>The Nepalese Linguistic Survey offers lexical data for more than 50 language varieties of Nepal.
+  </p>
+settings:
+  truncate_cells_html: 0
+default_page_size: 20
+license: CC-BY-4.0
+port: 8002
+extra_css_urls:
+  - /assets/app.css
+databases:
+  CLIPS:
+    tables:
+      LanguageTable:
+        label_column: cldf_name
+        size: 20
+        columns:
+      ParameterTable:
+        label_column: cldf_name
+        size: 20
+        description_html: <p>Concepts recurring in CLIPS.</p>
+      FormTable:
+        label_column: cldf_id
+        size: 20
+    queries:
+      Colexifications:
+        title: Inspect Colexifications
+        sql: |-
+          select * from formtable limit 20
+          ; 
+plugins:
+  datasette-cluster-map:
+    tile_layer: https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png
+    tile_layer_options:
+      maxZoom: 20
+      attribution: |-
+        Map data: &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, <a href="http://viewfinderpanoramas.org">SRTM</a> | Map style: &copy; <a href="https://opentopomap.org">OpenTopoMap</a> (<a href="https://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA</a>)
