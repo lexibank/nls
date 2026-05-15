@@ -1,0 +1,213 @@
+Grapheme	IPA
+?	ʔ
+^	NULL
+^M	!M/m
+^a	a
+^ai	ai
+^b	b
+^bh	bʰ
+^bʰ	bʰ
+^c	tʃ
+^ch	tʃʰ
+^cʰ	tʃʰ
+^d	d
+^dh	dʰ
+^dz	dz
+^dzh	dʰ
+^dʰ	dʰ
+^e	e
+^g	g
+^h	h
+^hj	h j
+^i	i
+^j	dʒ
+^jh	dʒʱ
+^k	k
+^kh	kʰ
+^kʰ	kʰ
+^l	l
+^m	m
+^n	n
+^nrbh	n !r/ə + bʱ
+^o	o
+^p	p
+^ph	pʰ
+^pj	p j
+^r	r
+^s	s
+^t	t
+^th	tʰ
+^tj	t j
+^u	u
+^w	w
+^wh	w̥
+^ã	ã
+^ŋ	ŋ
+^ə	ə
+^əu	əu
+^ɨ	ɨ
+^ḍ	ɖ
+^ḍh	ɖʱ
+^ṭ	ʈ
+_	+
+a	a
+ai$	ai
+ao	ao
+b	+ b
+bh	+ bʱ
+bh$	bʱ
+c	+ ts
+ch	+ tsʰ
+ch$	tsʰ
+chj	+ tsʰ j
+cʰ	+ tsʰ
+d	+ d
+ddh	d + dʱ
+dh	+ dʱ
+dh$	dʱ
+dz	+ dz
+dzj	dz j
+dḍh	d + ɖʱ
+e	e
+eu$	eu
+g	+ g
+gh	+ gʱ
+gh$	gʱ
+gn	g + n
+h	+ h
+hʔn	h + ʔ n
+i	i
+j	+ dʒ
+^j	dʒ
+k$	k
+k	+ k
+kc	k + ts
+kch	k + tsʰ
+kh	+ kʰ
+kh$	kʰ
+khr	kʰ r
+kj	k + dʒ
+kk	k + k
+kk$	k + k
+kkh	k + kʰ
+kl	k + l
+km	k + m
+ks	k + s
+ks$	k + s
+kt	k + t
+kw	k + w
+kŋ	k + ŋ
+kʔj	k + ʔ j
+kʔw	k + ʔ w
+kʰ	+ kʰ
+kṭ	k + ʈ
+l	+ l
+l$	l
+m$	m
+m	+ m
+mb	m + b
+mc	m + ts
+mch	m + tsʰ
+mj	m + j
+mk	m + k
+mkh	m + kʰ
+mkʰ	m + kʰ
+ml	m + l
+mm	m + m
+mm$	m + m
+mp	m + p
+mph	m + pʱ
+n$	n
+n	+ n
+n$	n
+nbh	n + bʱ
+nbhtt	n + bʱ !t/ə t
+nc	n + ts
+nd	n + d
+nj	n + dʒ
+nk	n + k
+nm	n + m
+nn	n + n
+nt	n + t
+nḍ	n + ɖ
+o	o
+oa	oa
+oi	oi
+p	+ p
+p$	p
+p$	p
+ph	+ pʰ
+pk	p + k
+pkh	p + kʰ
+pm	p + m
+pp	p + p
+pr	p + r
+pt	p + t
+pw	p + w
+pṭ	p + ʈ
+r	+ r
+r$	r
+rd	r + d
+rt	r + t
+s	+ s
+s$	s
+ss	s + s
+t	+ t
+t$	t
+tk	t + k
+tl	t + l
+tm	t + m
+tt	t + t
+u	u
+u:	uː
+ua$	ua
+ui	ui
+ui$	ui
+w	+ w
+w$	w
+ŋ$	ŋ
+ŋ	ŋ +
+ŋb	ŋ + b
+ŋch	ŋ + tsʰ
+ŋg	ŋ + g
+ŋj	ŋ + dʒ
+ŋk	ŋ + k
+ŋkh	ŋ + kʰ
+ŋkʰ	ŋ + kʰ
+ŋl	ŋ + l
+ŋm	ŋ + m
+ŋmw	ŋ + m w
+ŋn	ŋ + n
+ŋp	ŋ + p
+ŋr	ŋ + r
+ŋs	ŋ + s
+ŋw	ŋ + w
+ŋṭ	ŋ + ʈ
+ə	ə
+ə:$	əː
+əi	əi
+əi$	əi
+əu	əu
+əu$	əu
+əye$	ə j e
+ḍḍh	ɖ + ɖʱ
+ə:	əː
+ɨ	ɨ
+ʔ	+ ʔ
+ʔj	ʔ + dʒ
+ʔkj	ʔ + k j
+ʔm	ʔ + m
+ʔw	ʔ + w
+ḍ	+ ɖ
+ḍh	+ ɖʱ
+ḍh$	ɖʱ
+ḍw	ɖ + w
+ḍḍh	ɖ + ɖh
+ṭ	+ ʈ
+ṭh	+ ʈʰ
+ṭh$	ʈʰ
+ṭk	ʈ + k
+ṭm	ʈ + m
+ṭʔj	ʈ + ʔ j
+ṭṭ	ʈ + ʈ
+ṭṭh	ʈ + ʈʰ

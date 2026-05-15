@@ -77,8 +77,8 @@ class Dataset(BaseDataset):
         # add language
         languages = {}
         for language in self.languages:
-            lat = coord(language["Latitudex"])
-            lon = coord(language["Longitudex"])
+            lat = coord(language["Latitude"])
+            lon = coord(language["Longitude"])
             args.writer.add_language(
                     ID=language["ID"],
                     Name=language["Name"],
@@ -97,21 +97,26 @@ class Dataset(BaseDataset):
         errors = set()
         missing = set()
         for idx in wl:
+            print(idx, '1')
             if wl[idx, 'dataset'] in ["Athpahariya", "Bantawa", "Chamling",
                                       "Belhare", "Chintang", "Dhimal",
-                                      "Chulung", "Dulung", "Ghale-Gurung"]:
+                                      "Chulung", "Dulung", "Ghale-Gurung",
+                                      "Jirel", "Gurung"
+                                      ]:
+                print(idx, '2')
                 if wl[idx, "concept"].strip(".") in concepts:
                     language = languages[wl[idx, "doculect"]]
                     concept = concept_lookup[wl[idx, "concept"].strip('.')]
                     value = wl[idx, "value"]
                     bor = borrowings.get((language, concept, value), "")
+                    print(language, wl[idx, 'form'])
                     args.writer.add_form(
                             Language_ID=languages[wl[idx, 'doculect']],
                             Parameter_ID=concepts[wl[idx, "concept"].strip(".")],
                             Value=wl[idx, 'value'],
                             Form=wl[idx, 'form'].replace(" ", "_^").replace("-", "_^"),
                             Borrowing=bor,
-                            Source=''
+                            Source=wl[idx, 'dataset']
                             )
                 else:
                     errors.add((wl[idx, "dataset"], wl[idx, "concept"]))

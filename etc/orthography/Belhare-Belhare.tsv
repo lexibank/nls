@@ -1,0 +1,244 @@
+Grapheme	IPA
++	+
+-	NULL
+^	NULL
+_	+
+^a	a
+^aya	a + j a
+^b	b
+^bh	bʱ
+^c	tʃ
+^ch	tʃʰ
+^d	d
+^dh	dʱ
+^e	e
+^ei	ei
+^ei:	eiː
+^g	g
+^h	h
+^h:	hː
+^h:k	!h:k/k
+^i	i
+^j	j
+^k	k
+^kh	kʰ
+^l	l
+^m	m
+^mh	m̥
+^n	n
+^nh	n̥
+^oe	oe
+^p	p
+^ph	pʰ
+^r	r
+^s	s
+^t	t
+^tsh	tsʰ
+^u	u
+^w	w
+^ya	j a
+^ye	j e
+^yei	j ei
+^yo	j o
+^yu	j u
+^yãu	j ãu
+^ã	ã
+^ŋ	ŋ
+^ŋh	ŋ̊
+^ə	ə
+^əu	əu
+^ʈ	ʈ
+^ʈh	ʈʰ
+^ṭ	ʈ
+a	a
+ae	ae
+ai$	ai
+au	au
+au$	au
+ayu	a + j u
+ayu$	a + j u
+b	+ b
+bb	b + b
+bh	bʱ
+^bh	bʱ
+c	+ tʃ
+cch	tʃ + tʃʰ
+cg	tʃ + g
+ch	+ tʃʰ
+^ch	tʃʰ
+d	+ d
+dh	+ dʱ
+dzh	+ dzʱ
+e	e
+ei	ei
+ei$	ei
+euə	e + u/w ə
+eũ	eũ
+g	+ g
+gh	+ gʱ
+h	+ h
+i	i
+i:	iː
+ia	i/j a
+ia$	i/j a
+iu	i/j u
+iu$	i/j u
+iya	i + j a
+iyu	i + j u
+j	+ j
+k	+ k
+k$	k
+kh	+ kʰ
+kh$	kʰ
+khph	kʰ + pʰ
+khr	k + h r
+kkh	k + kh
+kl	k + l
+km	k + m
+kp	k + p
+kph	k + pʰ
+ks	k + s
+kt	k + t
+l	+ l
+l$	l
+lbh	l + bʱ
+lph	l + pʰ
+m	+ m
+m$	m
+mb	m + b
+mbh	m + bʱ
+mdzh	m + dzʱ
+dz	+ dz
+^dz	dz
+dz$	dz
+mg	m + g
+mk	m + k
+mm	m + m
+mm$	m + m
+ms	m + s
+ms$	m + s
+n	+ n
+n$	n
+nb	n + b
+nch	n + tʃʰ
+nd	n + d
+ndh	n + dʱ
+nk	n + k
+nkh	n + kʰ
+nm	n + m
+nn	n + n
+nt	n + t
+nɖ	n + ɖ
+nʈ	n + ʈ
+o	o
+oe$	oe
+oi	oi
+p	+ p
+p$	p
+ph	+ pʰ
+ph$	pʰ
+phph	!ph/p + ph
+pm	p + m
+pt	p + t
+r	+ r
+r$	r
+^uʔchik	u ʔ + tʃʰ i k
+u:	uː
+rc	r + tʃ
+rd	r + d
+rg	r + g
+rkh	r + kʰ
+rs	r + s
+rtc	r + !tc/tʃ
+s	+ s
+t	+ t
+t$	t
+tg	t g
+th	+ tʰ
+th$	tʰ
+tl	t + l
+tm	t + m
+tn	t + n
+tr	t + r
+ts	+ ts
+tsh	+ tsʰ
+tt	t + t
+tʔm	t + ʔ m
+u	u
+u:$	uː
+ui$	ui
+uu$	uː
+uyu	u y/j u
+w	+ w
+ya	j a
+ya$	j a
+yu	j u
+yã	j ã
+ã	ã
+ãe$	ãe
+ãi	ãi
+ãi$	ãi
+ãu$	ãu
+ãyũ	ã + j ũ
+ŋ	+ ŋ
+ŋ$	ŋ
+ŋb	ŋ + b
+ŋbh	ŋ + bʱ
+ŋdh	ŋ + dʱ
+ŋg	ŋ + g
+ŋgh	ŋ + gʱ
+ŋgr	ŋ + g r
+ŋh	ŋ + h
+ŋk	ŋ + k
+ŋkh	ŋ + kʰ
+ŋm	ŋ + m
+ŋs	ŋ + s
+ŋt	ŋ + t
+ŋth	ŋ + tʰ
+ŋw	ŋ + w
+ŋʈ	ŋ + ʈ
+ũ	ũ
+ǝ	ǝ
+ɖ	+ ɖ
+ə	ə
+əi	əi
+əu	əu
+əu$	əu
+əy	əy
+əũ	əũ
+əũ$	əũ
+ʈ$	ʈ
+ʈ	ʈ
+ʈm	ʈ + m
+ʈʈ	ʈ + ʈ
+ʈʈ$	ʈ + ʈ
+ʔ	+ ʔ
+ʔ$	ʔ
+ʔch	ʔ + ch
+ʔh	ʔ + h
+ʔk	ʔ + k
+ʔkh	ʔ + kh
+^uʔchot	u ʔ + tʃʰ o t
+^uʔchəwat	u ʔ + tʃʰ ə + w a t
+ʔkkh	ʔ k + kh
+t̃$	t
+ʔkm	ʔ k + m
+ʔl	ʔ + l
+ʔm	ʔ + m
+ʔmb	ʔ m + b
+ʔn	ʔ + n
+ʔpm	ʔ p + m
+ch	+ tʃʰ
+^ch	tʃ
+ch$	tʃʰ
+ʔch	ʔ + tʃʰ
+ʔt	ʔ + t
+ʔtm	ʔ t + m
+ʔw	ʔ + w
+ʔʈ	ʔ + ʈ
+ʔṭkh	ʔ ʈ + k
+ṭ	+ ʈ
+ṭ$	ʈ
+ṭkh	ʈ kh
+ĩ	ĩ
+ẽ	ẽ

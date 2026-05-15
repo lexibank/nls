@@ -10,13 +10,14 @@
     "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
+    "dc:source": "sources.bib",
     "dc:title": "CLDF dataset derived from XXX's \"Nepal Linguistic Survey\" from XXXX",
-    "dcat:accessURL": "git@github.com:lexibank/nls",
+    "dcat:accessURL": "https://github.com/lexibank/nls",
     "prov:wasDerivedFrom": [
         {
-            "rdf:about": "git@github.com:lexibank/nls",
+            "rdf:about": "https://github.com/lexibank/nls",
             "rdf:type": "prov:Entity",
-            "dc:created": "56ed9ef",
+            "dc:created": "b002460",
             "dc:title": "Repository"
         },
         {
@@ -57,7 +58,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 8597,
+            "dc:extent": 10685,
             "tableSchema": {
                 "columns": [
                     {
@@ -172,7 +173,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 50,
+            "dc:extent": 51,
             "tableSchema": {
                 "columns": [
                     {
