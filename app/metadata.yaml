@@ -10,18 +10,15 @@ port: 8002
 extra_css_urls:
   - /assets/app.css
 databases:
-  CLIPS:
+  NLS:
     tables:
-      LanguageTable:
-        label_column: cldf_name
+      Languages:
         size: 20
         columns:
-      ParameterTable:
-        label_column: cldf_name
+      Concepts:
         size: 20
         description_html: <p>Concepts recurring in CLIPS.</p>
-      FormTable:
-        label_column: cldf_id
+      Forms:
         size: 20
     queries:
       Colexifications:

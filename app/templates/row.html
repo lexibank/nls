@@ -60,10 +60,9 @@
     </ul>
 {% endif %}
 
+<script src="/assets/highlight.js"></script>
 <script type="text/javascript">
-  document.querySelectorAll("td.col-Colexifier").forEach((node) => node.innerHTML = plotWord(node.innerHTML));
-  document.querySelectorAll("td.col-Colexified").forEach((node) => node.innerHTML = plotWord(node.innerHTML));
-  document.querySelectorAll("td.col-DOI").forEach((node) => node.innerHTML = '<a href="https://doi.org/' + node.innerHTML + '">' + node.innerHTML + "</a>");
+  document.querySelectorAll("td.col-cldf_segments").forEach((node) => node.innerHTML = plotWord(node.innerHTML));
 </script>
 
 

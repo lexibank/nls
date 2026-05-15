@@ -1,50 +1,50 @@
 ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,Location,Subgroup,Dataset
-Athpahariya-Santang,Santang,athp1241,Athpariya,aph,Eurasia,87.3658611111111,26.95722222222222,Sino-Tibetan,"Santang Deurali, (Dhankuta Municipality 8)",,Athpahariya_Words
-Athpahariya-Tekunala,Tekunala,athp1241,Athpariya,aph,Eurasia,87.34272222222222,26.950972222222223,Sino-Tibetan,Tekunala (Dhankuta Municipality 9),,Athpahariya_Words
-Athpahariya-Guthitar,Guthitar,athp1241,Athpariya,aph,Eurasia,87.32152777777777,26.965055555555555,Sino-Tibetan,Guthitar (Dhankuta Municipality 14),,Athpahariya_Words
-Athpahariya-Khalde,Khalde,athp1241,Athpariya,aph,Eurasia,87.31769444444444,26.987055555555557,Sino-Tibetan,Khalde (Dhankuta Municipality 3) in Dhankuta district,,Athpahariya_Words
-Athpahariya-Hatiya,Hatiya /Dhan kuta Bazaar,athp1241,Athpariya,aph,Eurasia,87.34380555555555,26.972527777777778,Sino-Tibetan,Dhankuta Bazaar (Dhankuta Municipality 1),,Athpahariya_Words
-Bantawa-Khoku,"Khoku, Dhankuta",bant1281,Bantawa,bap,Eurasia,87.22575,26.983055555555556,Sino-Tibetan,"Khoku, Thapa Tole",,Bantawa_Words
-Bantawa-Lungin,Lungin (Hatuwa),bant1281,Bantawa,bap,Eurasia,87.08755555555555,27.02438888888889,Sino-Tibetan,"Hatuwa, Lungin",,Bantawa_Words
-Bantawa-Thidingkha,"Thidingkha, (Amchok)",bant1281,Bantawa,bap,Eurasia,86.01379444444444,27.000016666666667,Sino-Tibetan,"Amchok, Thidinkha",,Bantawa_Words
-Bantawa-Timma,"Timma, Rimchim",bant1281,Bantawa,bap,Eurasia,86.98041666666667,27.233444444444444,Sino-Tibetan,"Timma, Rimchim",,Bantawa_Words
-Bantawa-Okhre,"Okhre, Khena",bant1281,Bantawa,bap,Eurasia,86.95138888888889,27.09894444444444,Sino-Tibetan,"Okhre, Khena",,Bantawa_Words
+Athpahariya-Santang,Santang,athp1241,Athpariya,aph,Eurasia,26.95722222222222,87.3658611111111,Sino-Tibetan,"Santang Deurali, (Dhankuta Municipality 8)",,Athpahariya_Words
+Athpahariya-Tekunala,Tekunala,athp1241,Athpariya,aph,Eurasia,26.950972222222223,87.34272222222222,Sino-Tibetan,Tekunala (Dhankuta Municipality 9),,Athpahariya_Words
+Athpahariya-Guthitar,Guthitar,athp1241,Athpariya,aph,Eurasia,26.965055555555555,87.32152777777777,Sino-Tibetan,Guthitar (Dhankuta Municipality 14),,Athpahariya_Words
+Athpahariya-Khalde,Khalde,athp1241,Athpariya,aph,Eurasia,26.987055555555557,87.31769444444444,Sino-Tibetan,Khalde (Dhankuta Municipality 3) in Dhankuta district,,Athpahariya_Words
+Athpahariya-Hatiya,Hatiya /Dhan kuta Bazaar,athp1241,Athpariya,aph,Eurasia,26.972527777777778,87.34380555555555,Sino-Tibetan,Dhankuta Bazaar (Dhankuta Municipality 1),,Athpahariya_Words
+Bantawa-Khoku,"Khoku, Dhankuta",bant1281,Bantawa,bap,Eurasia,26.983055555555556,87.22575,Sino-Tibetan,"Khoku, Thapa Tole",,Bantawa_Words
+Bantawa-Lungin,Lungin (Hatuwa),bant1281,Bantawa,bap,Eurasia,27.02438888888889,87.08755555555555,Sino-Tibetan,"Hatuwa, Lungin",,Bantawa_Words
+Bantawa-Thidingkha,"Thidingkha, (Amchok)",bant1281,Bantawa,bap,Eurasia,27.000016666666667,86.01379444444444,Sino-Tibetan,"Amchok, Thidinkha",,Bantawa_Words
+Bantawa-Timma,"Timma, Rimchim",bant1281,Bantawa,bap,Eurasia,27.233444444444444,86.98041666666667,Sino-Tibetan,"Timma, Rimchim",,Bantawa_Words
+Bantawa-Okhre,"Okhre, Khena",bant1281,Bantawa,bap,Eurasia,27.09894444444444,86.95138888888889,Sino-Tibetan,"Okhre, Khena",,Bantawa_Words
 Belhare-Belhare,Belhara,belh1239,Belhariya,byw,Eurasia,,,Sino-Tibetan,Belahara (Dhankuta Municipality 9),,Belhare
 Belhare-Piple,Piple,belh1239,Belhariya,byw,Eurasia,,,Sino-Tibetan,Piple (Dhankuta Municipality 9),,Belhare
 Belhare-Guthitar,Guthitar,belh1239,Belhariya,byw,Eurasia,,,Sino-Tibetan,Guthitar (Dhankuta Municipality 14),,Belhare
 Belhare-Rudrabari,Rudra bari,belh1239,Belhariya,byw,Eurasia,,,Sino-Tibetan,Rudrabari (Dhankuta Municipality 9,,Belhare
-Chamling-Hadunge,Hadunge,caml1239,Camling,rab,Eurasia,86.17663888888889,27.177083333333336,Sino-Tibetan,Durchhim (Hadunge),,Chamling_Words
-Chamling-Halesi,Halesi,caml1239,Camling,rab,Eurasia,86.45461111111112,27.191055555555558,Sino-Tibetan,Mahadevsthan (Halesi),,Chamling_Words
-Chamling-Ratanchha,Ratanchha,caml1239,Camling,rab,Eurasia,86.83983333333333,27.180555555555557,Sino-Tibetan,Ratanchha (Kolle),,Chamling_Words
-Chamling-Balamta,Balamta,caml1239,Camling,rab,Eurasia,86.67055555555557,27.10002777777778,Sino-Tibetan,Balamta (Majhgaun),,Chamling_Words
-Chamling-Aaptar,Aaptar,caml1239,Camling,rab,Eurasia,86.75191666666667,27.005,Sino-Tibetan,Aaptar (Rasuwa),,Chamling_Words
-Chintang-ChaudhariTole,Chaudhari Tole,chhi1245,Chintang,ctn,Eurasia,87.22575,26.953388888888888,Sino-Tibetan,Chaudhari Tole,,Chintang_Words
-Chintang-Mulgaun,Mulgaun,chhi1245,Chintang,ctn,Eurasia,87.08755555555555,27.02438888888889,Sino-Tibetan,Mulgaun,,Chintang_Words
-Chintang-Nangchhuwa,Nangchhuwa,chhi1245,Chintang,ctn,Eurasia,87.19519444444445,26.935472222222224,Sino-Tibetan,Mulgaun,,Chintang_Words
-Chintang-Mangthana,Mangthana,chhi1245,Chintang,ctn,Eurasia,87.20483333333334,26.954777777777778,Sino-Tibetan,Mangthana,,Chintang_Words
-Chintang-Chambak,Chambak,chhi1245,Chintang,ctn,Eurasia,87.10419444444445,26.86838888888889,Sino-Tibetan,Chhambak,,Chintang_Words
+Chamling-Hadunge,Hadunge,caml1239,Camling,rab,Eurasia,27.177083333333336,86.17663888888889,Sino-Tibetan,Durchhim (Hadunge),,Chamling_Words
+Chamling-Halesi,Halesi,caml1239,Camling,rab,Eurasia,27.191055555555558,86.45461111111112,Sino-Tibetan,Mahadevsthan (Halesi),,Chamling_Words
+Chamling-Ratanchha,Ratanchha,caml1239,Camling,rab,Eurasia,27.180555555555557,86.83983333333333,Sino-Tibetan,Ratanchha (Kolle),,Chamling_Words
+Chamling-Balamta,Balamta,caml1239,Camling,rab,Eurasia,27.10002777777778,86.67055555555557,Sino-Tibetan,Balamta (Majhgaun),,Chamling_Words
+Chamling-Aaptar,Aaptar,caml1239,Camling,rab,Eurasia,27.005,86.75191666666667,Sino-Tibetan,Aaptar (Rasuwa),,Chamling_Words
+Chintang-ChaudhariTole,Chaudhari Tole,chhi1245,Chintang,ctn,Eurasia,26.953388888888888,87.22575,Sino-Tibetan,Chaudhari Tole,,Chintang_Words
+Chintang-Mulgaun,Mulgaun,chhi1245,Chintang,ctn,Eurasia,27.02438888888889,87.08755555555555,Sino-Tibetan,Mulgaun,,Chintang_Words
+Chintang-Nangchhuwa,Nangchhuwa,chhi1245,Chintang,ctn,Eurasia,26.935472222222224,87.19519444444445,Sino-Tibetan,Mulgaun,,Chintang_Words
+Chintang-Mangthana,Mangthana,chhi1245,Chintang,ctn,Eurasia,26.954777777777778,87.20483333333334,Sino-Tibetan,Mangthana,,Chintang_Words
+Chintang-Chambak,Chambak,chhi1245,Chintang,ctn,Eurasia,26.86838888888889,87.10419444444445,Sino-Tibetan,Chhambak,,Chintang_Words
 Dhimal-West,Dhimal West,dhim1246,Dhimal,dhi,Eurasia,,,Sino-Tibetan,,,Dhimal
 Dhimal-East,Dhimal East,dhim1246,Dhimal,dhi,Eurasia,,,Sino-Tibetan,,,Dhimal
-Chulung-Barbhanjyang,Barbhanjyang,chhu1238,Chhulung,cur,Eurasia,87.25861111111111,26.962166666666665,Sino-Tibetan,"Barbhanjyang, Ward 5",,Chulung
-Chulung-Gairi,Gairi,chhu1238,Chhulung,cur,Eurasia,87.26361111111112,26.973055555555554,Sino-Tibetan,"Sukeahal, Ward 4",,Chulung
-Chulung-Pakha,Pakha,chhu1238,Chhulung,cur,Eurasia,87.2635,26.95422222222222,Sino-Tibetan,"Pokla, Ward 3",,Chulung
-Chulung-Pokla,Pokla,chhu1238,Chhulung,cur,Eurasia,87.24513888888889,26.947333333333333,Sino-Tibetan,"Gairi, Ward 1",,Chulung
-Chulung-Sukeahal,Suke-ahal,chhu1238,Chhulung,cur,Eurasia,87.25611111111111,27.444777777777777,Sino-Tibetan,"Pakha Gaun, Ward 1",,Chulung
-Dulung-Bartole,Bartole,dung1252,Dungmali,raa,Eurasia,87.15522222222222,27.086444444444442,Sino-Tibetan,Thulo Dumma VDC-1 (Bartole),,Dungmali
-Dulung-Dandatole,Dandatole,dung1252,Dungmali,raa,Eurasia,87.15258333333334,27.08636111111111,Sino-Tibetan,Thulo Dumma VDC-3 (Dandatole),,Dungmali
-Dulung-Tharpu,Tharpu,dung1252,Dungmali,raa,Eurasia,87.17275000000001,27.113500000000002,Sino-Tibetan,Sano Dumma VDC-3 Tharpu,,Dungmali
-Dulung-Chaukibari,Chaukibari,dung1252,Dungmali,raa,Eurasia,87.15930555555556,27.10763888888889,Sino-Tibetan,Sano Dumma VDC-3 Chaukibari,,Dungmali
-Dulung-Bastim,Bastim,dung1252,Dungmali,raa,Eurasia,87.15316666666668,27.10852777777778,Sino-Tibetan,Bastim VDC-1 (Bastim),,Dungmali
+Chulung-Barbhanjyang,Barbhanjyang,chhu1238,Chhulung,cur,Eurasia,26.962166666666665,87.25861111111111,Sino-Tibetan,"Barbhanjyang, Ward 5",,Chulung
+Chulung-Gairi,Gairi,chhu1238,Chhulung,cur,Eurasia,26.973055555555554,87.26361111111112,Sino-Tibetan,"Sukeahal, Ward 4",,Chulung
+Chulung-Pakha,Pakha,chhu1238,Chhulung,cur,Eurasia,26.95422222222222,87.2635,Sino-Tibetan,"Pokla, Ward 3",,Chulung
+Chulung-Pokla,Pokla,chhu1238,Chhulung,cur,Eurasia,26.947333333333333,87.24513888888889,Sino-Tibetan,"Gairi, Ward 1",,Chulung
+Chulung-Sukeahal,Suke-ahal,chhu1238,Chhulung,cur,Eurasia,27.444777777777777,87.25611111111111,Sino-Tibetan,"Pakha Gaun, Ward 1",,Chulung
+Dulung-Bartole,Bartole,dung1252,Dungmali,raa,Eurasia,27.086444444444442,87.15522222222222,Sino-Tibetan,Thulo Dumma VDC-1 (Bartole),,Dungmali
+Dulung-Dandatole,Dandatole,dung1252,Dungmali,raa,Eurasia,27.08636111111111,87.15258333333334,Sino-Tibetan,Thulo Dumma VDC-3 (Dandatole),,Dungmali
+Dulung-Tharpu,Tharpu,dung1252,Dungmali,raa,Eurasia,27.113500000000002,87.17275000000001,Sino-Tibetan,Sano Dumma VDC-3 Tharpu,,Dungmali
+Dulung-Chaukibari,Chaukibari,dung1252,Dungmali,raa,Eurasia,27.10763888888889,87.15930555555556,Sino-Tibetan,Sano Dumma VDC-3 Chaukibari,,Dungmali
+Dulung-Bastim,Bastim,dung1252,Dungmali,raa,Eurasia,27.10852777777778,87.15316666666668,Sino-Tibetan,Bastim VDC-1 (Bastim),,Dungmali
 Ghale-Gurung-Mandre,Mandre,ghal1246,Ghale,,,,,Sino-Tibetan,Mandre,,Ghale-Gurung
 Ghale-Gurung-Barpak1,Barpak1,ghal1246,Ghale,,,,,Sino-Tibetan,Barpak1,,Ghale-Gurung
 Ghale-Gurung-Barpak2,Brpak2 (Ghale),ghal1246,Ghale,,,,,Sino-Tibetan,Barpak2,,Ghale-Gurung
 Ghale-Gurung-Laprak,Laprak,ghal1246,Ghale,,,,,Sino-Tibetan,Laprak,,Ghale-Gurung
 Ghale-Gurung-Gumda,Gumda,ghal1246,Ghale,,,,,Sino-Tibetan,Gumda,,Ghale-Gurung
-Gurung-Sirubari,Sirubari,guru1261,Gurung,gvr,Eurasia,28.131722222222223,33.75933333333333,Sino-Tibetan,"Sirubari, Syangja",,Gurung
-Gurung-Pokhara,Pokhara,guru1261,Gurung,gvr,Eurasia,84.00961111111111,28.212805555555555,Sino-Tibetan,"Pokhara, Kaski",,Gurung
-Gurung-Sikles,Sikles,guru1261,Gurung,gvr,Eurasia,84.04044444444445,28.163999999999998,Sino-Tibetan,"Lekhnath, Kaski",,Gurung
-Gurung-Khasur,Khasur,guru1261,Gurung,gvr,Eurasia,84.37866666666666,28.230083333333333,Sino-Tibetan,"Bensisahar, Lamjung",,Gurung
-Gurung-Bhujung,Bhujung,guru1261,Gurung,gvr,Eurasia,81.02175,29.547694444444446,Sino-Tibetan,"Khasur, Lamjung",,Gurung
+Gurung-Sirubari,Sirubari,guru1261,Gurung,gvr,Eurasia,28.131722222222223,83.75933333333333,Sino-Tibetan,"Sirubari, Syangja",,Gurung
+Gurung-Pokhara,Pokhara,guru1261,Gurung,gvr,Eurasia,28.212805555555555,84.00961111111111,Sino-Tibetan,"Pokhara, Kaski",,Gurung
+Gurung-Sikles,Sikles,guru1261,Gurung,gvr,Eurasia,28.163999999999998,84.04044444444445,Sino-Tibetan,"Lekhnath, Kaski",,Gurung
+Gurung-Khasur,Khasur,guru1261,Gurung,gvr,Eurasia,28.230083333333333,84.37866666666666,Sino-Tibetan,"Bensisahar, Lamjung",,Gurung
+Gurung-Bhujung,Bhujung,guru1261,Gurung,gvr,Eurasia,29.547694444444446,81.02175,Sino-Tibetan,"Khasur, Lamjung",,Gurung
 Jirel-RatmateKot,Ratmate-Kot,jire1238,Jirel,jul,Eurasia,,,Sino-Tibetan,Sikri,,Jirel
 Jirel-Sikri,Sikri,jire1238,Jirel,jul,Eurasia,,,Sino-Tibetan,Kharayoban,,Jirel
 Jirel-Kharoban,Kharoban,jire1238,Jirel,jul,Eurasia,,,Sino-Tibetan,Kot-Ratmate,,Jirel

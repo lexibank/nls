@@ -4,17 +4,46 @@ from datasette import hookimpl
 def extra_template_vars():
     return {
             "CustomTables": {
-                "LanguageTable": {
+                "Languages": {
                     "columns": {
-                        "cldf_id": "ID", 
-                        "cldf_name": "Name",
+                        "ID": "ID",
+                        "CLDF_ID": "CLDF_ID", 
+                        "Name": "Name",
+                        "Subgroup": "Subgroup",
                         "cldf_glottocode": "Glottolog",
-                        "cldf_latitude": "Latitude",
-                        "cldf_longitude": "Longitude",
-                        "Macroarea": "Macroarea",
+                        "Latitude": "Latitude",
+                        "Longitude": "Longitude",
                         "Family": "Family",
+                        "Forms": "Forms"
                         },
                     "title": "Languages",
+                    },
+                "Forms": {
+                    "columns": {
+                        "ID": "ID",
+                        "CLDF_ID": "CLDF_ID",
+                        "Concept_ID": "Concept_ID",
+                        "Concept": "Concept",
+                        "Language_ID": "Language_ID",
+                        "Language": "Language",
+                        "Value": "Value",
+                        "Form": "Form",
+                        "cldf_segments": "Segments",
+                        "Borrowing": "Borrowing",
+                        },
+                    "title": "Forms",
+                    },
+                "Concepts": {
+                    "columns": {
+                        "ID": "ID",
+                        "CLDF_ID": "CLDF_ID",
+                        "Name": "Name",
+                        "Chinese": "Chinese",
+                        "cldf_concepticonReference": "Concepticon",
+                        "Forms": "Forms",
+                        
+                        },
+                    "title": "Concepts"
                     },
                 "ParameterTable": {
                     "columns": {

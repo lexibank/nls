@@ -97,7 +97,6 @@ class Dataset(BaseDataset):
         errors = set()
         missing = set()
         for idx in wl:
-            print(idx, '1')
             if wl[idx, 'dataset'] in ["Athpahariya", "Bantawa", "Chamling",
                                       "Belhare", "Chintang", "Dhimal",
                                       "Chulung", "Dulung", "Ghale-Gurung",
@@ -108,8 +107,8 @@ class Dataset(BaseDataset):
                     language = languages[wl[idx, "doculect"]]
                     concept = concept_lookup[wl[idx, "concept"].strip('.')]
                     value = wl[idx, "value"]
+
                     bor = borrowings.get((language, concept, value), "")
-                    print(language, wl[idx, 'form'])
                     args.writer.add_form(
                             Language_ID=languages[wl[idx, 'doculect']],
                             Parameter_ID=concepts[wl[idx, "concept"].strip(".")],
