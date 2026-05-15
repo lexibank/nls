@@ -99,6 +99,7 @@ CREATE TABLE Forms (
   Form text,
   cldf_segments text,
   Borrowing text,
+  Dataset,
   FOREIGN KEY(Language_ID) REFERENCES Languages(ID),
   FOREIGN KEY(Concept_ID) REFERENCES Concepts(ID),
   FOREIGN KEY(CLDF_ID) REFERENCES FormTable(CLDF_ID)
