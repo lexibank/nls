@@ -5,6 +5,7 @@
     <link rel="icon" href="/assets/favicon.png" type="image/png">
     <link rel="stylesheet" href="{{ urls.static('app.css') }}?{{ app_css_hash }}">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="referrer" content="no-referrer-when-downgrade">
 {% for url in extra_css_urls %}
     <link rel="stylesheet" href="{{ url.url }}"{% if url.sri %} integrity="{{ url.sri }}" crossorigin="anonymous"{% endif %}>
 {% endfor %}

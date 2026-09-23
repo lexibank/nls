@@ -151,7 +151,9 @@
 <script type="text/javascript">
 let LANGS = {
 {% for row in sql("select cldf_id, cldf_longitude, cldf_latitude from languageTable;") %}
-  "{{ row[0] }}": [{{ row[1] }}, {{ row[2] }}],
+  {% if row[1] != 'None' and row[2] != 'None' %}
+    "{{ row[0] }}": [{{ row[1] }}, {{ row[2] }}],
+  {% endif %}
 {% endfor %}
 };
 
