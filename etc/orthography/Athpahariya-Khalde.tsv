@@ -1,12 +1,25 @@
 Grapheme	IPA
+rc	r + ts
+rts	r + ts
 ĩ	ĩ
 t̃$	t
+t$	t
+m$	m
 ẽ	ẽ
+dh$	dʱ
 ty	+ t j
 ^ty	t j
 u:	uː
+p$	p
 ŋgh	ŋ + gʱ
+k$	k
 rkh	r + kʰ
+n$	n
+^dhwa	dʱ w a
+^dhw	dʱ w
+əy	əi
+ŋ$	ŋ
+ch	tsʰ
 a	a
 i	i
 e	e
@@ -82,8 +95,9 @@ ai	ai
 aũ$	aũ
 th$	tʰ
 ^c	tʃ
-^mh	m̥
-j	+ dʒ
+^mh	mʰ
+j	+ dz
+^j	dz
 ^bh	bʱ
 au$	au
 əũ$	əũ
@@ -97,11 +111,15 @@ gh	+ gʱ
 rs	r + s
 ^ṭh	ʈʰ
 ks$	k + s
+s$	s
 əy	əi̯
 ph$	pʱ
 ^ãi	ãi
 ks	k + s
-sh	ʃ
+sh	+ sʰ
+^sh	sʰ
+shy	+ sʰ j
+^shy	sʰ j
 nn$	n + n
 yu	j u
 ^yo	j o
@@ -195,7 +213,13 @@ rk	r + k
 ndz	n + dz
 ŋbh	ŋ + bʱ
 ŋgb	ŋ + b
-^mh	m̥
+^mh	mʰ
+mh	mʰ
+ts$	ts
+^ts	ts
+^c	ts
+^untshik	u n + tsʰ i k
+^pyadz	p j a dz
 ŋt	ŋ + t
 lph	l + pʰ
 tl	t + l
@@ -215,7 +239,7 @@ pl	p + l
 ^tshtl	tsʰ !t/i l
 mdz	m + dz
 ^dzh	dzʱ
-^uʔchəwat	u ʔ + tʃʰ ə + w a t
+^uʔchəwat	u ʔ + tsʰ ə + w a t
 ŋdz	ŋ + dz
 mr	m + r
 mk	m + k

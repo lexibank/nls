@@ -1081,7 +1081,7 @@ dl.column-descriptions dd {
 
 #map {
   border: 2px solid red;
-  display: none;
+  display: block;
 }
 #map svg {
   resize: both;
