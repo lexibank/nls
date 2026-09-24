@@ -1,3 +1,4 @@
+aiofiles==25.1.0
 appdirs==1.4.4
 attrs==26.1.0
 babel==2.18.0
@@ -7,9 +8,11 @@ certifi==2026.7.22
 cldfbench==1.14.3
 cldfcatalog==1.7.0
 cldfzenodo==2.2.2
+click==8.5.0
 clldutils==3.24.4
 colorlog==6.12.0
 csvw==3.7.0
+datasette==0.65.5
 gitdb==4.0.12
 greenlet==3.5.6
 idna==3.20
@@ -19,6 +22,8 @@ jsonschema==4.26.0
 lingpy==2.6.14
 lxml==6.1.3
 Markdown==3.10.3
+MarkupSafe==3.0.3
+mergedeep==1.3.4
 nameparser==2.3.0
 networkx==3.7
 newick==1.11.0
