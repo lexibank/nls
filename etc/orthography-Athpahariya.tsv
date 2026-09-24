@@ -1,12 +1,25 @@
 Grapheme	IPA	Frequency	Examples	Languages
+rc	r + ts
+rts	r + ts
 ĩ	ĩ
 t̃$	t
+t$	t
+m$	m
 ẽ	ẽ
+dh$	dʱ
 ty	+ t j
 ^ty	t j
 u:	uː
+p$	p
 ŋgh	ŋ + gʱ
+k$	k
 rkh	r + kʰ
+n$	n
+^dhwa	dʱ w a
+^dhw	dʱ w
+əy	əi
+ŋ$	ŋ
+ch	tsʰ
 a	a	817	taŋge//nabhak	Tekunala/Santang/Khalde/Hatiya /Dhan kuta Bazaar/Guthitar
 i	i	291	mik//mik	Tekunala/Santang/Khalde/Hatiya /Dhan kuta Bazaar/Guthitar
 e	e	265	thek//thek	Tekunala/Santang/Khalde/Hatiya /Dhan kuta Bazaar/Guthitar
@@ -82,8 +95,9 @@ ai	ai	6	tuŋmai//woiktai	Hatiya /Dhan kuta Bazaar/Tekunala/Santang
 aũ$	aũ	6	thaũ//gaũ	Tekunala/Santang/Khalde/Hatiya /Dhan kuta Bazaar/Guthitar
 th$	tʰ	6	əũthi//ath	Tekunala/Santang/Khalde/Hatiya /Dhan kuta Bazaar/Guthitar
 ^c	tʃ	6	cuwa//cuwa	Tekunala/Santang/Khalde/Hatiya /Dhan kuta Bazaar/Guthitar
-^mh	m̥	6	mhi//mhikhuma	Hatiya /Dhan kuta Bazaar/Guthitar/Tekunala/Santang
-j	+ dʒ	6	ujara//ujura	Tekunala/Santang/Khalde/Hatiya /Dhan kuta Bazaar/Guthitar
+^mh	mʰ	6	mhi//mhikhuma	Hatiya /Dhan kuta Bazaar/Guthitar/Tekunala/Santang
+j	+ dz	6	ujara//ujura	Tekunala/Santang/Khalde/Hatiya /Dhan kuta Bazaar/Guthitar
+^j	dz
 ^bh	bʱ	6	bhanta//bhanta	Khalde/Hatiya /Dhan kuta Bazaar/Tekunala/Santang
 au$	au	6	kauli//kauli	Tekunala/Santang/Khalde/Hatiya /Dhan kuta Bazaar/Guthitar
 əũ$	əũ	6	pəũba//nəũ	Tekunala/Santang/Khalde/Hatiya /Dhan kuta Bazaar/Guthitar
@@ -97,11 +111,15 @@ gh	+ gʱ	5	ṭoŋgheŋ//ṭoŋgheŋ	Khalde/Hatiya /Dhan kuta Bazaar/Tekunala/San
 rs	r + s	5	bərsə//bərsə	Tekunala/Santang/Khalde/Hatiya /Dhan kuta Bazaar/Guthitar
 ^ṭh	ʈʰ	5	ṭhena//ṭhena	Khalde/Hatiya /Dhan kuta Bazaar/Tekunala/Santang
 ks$	k + s	5	eksəy//eksəy	Tekunala/Santang/Khalde/Hatiya /Dhan kuta Bazaar/Guthitar
+s$	s			
 əy	əi̯	5	eksəy//eksəy	Tekunala/Santang/Khalde/Hatiya /Dhan kuta Bazaar/Guthitar
 ph$	pʱ	4	uphauwa//uphauwa	Khalde/Guthitar
 ^ãi	ãi	4	ãibo//ãibo	Khalde/Hatiya /Dhan kuta Bazaar/Tekunala/Santang
 ks	k + s	4	maksaburu//maksaburu	Khalde/Hatiya /Dhan kuta Bazaar/Tekunala/Santang
-sh	ʃ	4	ameshema//mheshyema	Khalde/Hatiya /Dhan kuta Bazaar/Tekunala/Santang
+sh	+ sʰ	4	ameshema//mheshyema	Khalde/Hatiya /Dhan kuta Bazaar/Tekunala/Santang
+^sh	sʰ
+shy	+ sʰ j
+^shy	sʰ j
 nn$	n + n	4	unna//unna	Khalde/Hatiya /Dhan kuta Bazaar/Tekunala/Santang
 yu	j u	4	naṭyuna//naṭyuna	Khalde/Hatiya /Dhan kuta Bazaar/Guthitar/Santang
 ^yo	j o	4	yoba//yona	Khalde/Hatiya /Dhan kuta Bazaar/Tekunala/Santang
@@ -195,7 +213,13 @@ rk	r + k	4	ph a r k a n dz a//ph a r k a ŋ g a
 ndz	n + dz	5	ph a r k a n dz a//ph a r k a n dz a	
 ŋbh	ŋ + bʱ	1	l u ŋ bh e k	
 ŋgb	ŋ + b	1	l i ŋ g b e w a	
-^mh	m̥	6	mh i//mh i kh u m a	
+^mh	mʰ	6	mh i//mh i kh u m a	
+mh	mʰ
+ts$	ts
+^ts	ts
+^c	ts
+^untshik	u n + tsʰ i k
+^pyadz	p j a dz
 ŋt	ŋ + t	1	s i ŋ t a ŋ	
 lph	l + pʰ	5	ph ə l ph u l//ph ə l ph u l	
 tl	t + l	5	n a t l a b o//h a t l e	
@@ -215,7 +239,7 @@ pl	p + l	1	tsh i p l u m a
 ^tshtl	tsʰ !t/i l	1	tsh t l u m a	
 mdz	m + dz	2	a m dz a//a m dz a	
 ^dzh	dzʱ	2	dzh a ŋ dz a//dzh a ŋ dz a	
-^uʔchəwat	u ʔ + tʃʰ ə + w a t
+^uʔchəwat	u ʔ + tsʰ ə + w a t
 ŋdz	ŋ + dz	2	dzh a ŋ dz a//dzh a ŋ dz a	
 mr	m + r	1	r i m r i m	
 mk	m + k	1	n a m k u ɖ e	
