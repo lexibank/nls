@@ -1,7 +1,7 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Graphemes,Profile,Dataset,Gloss_in_Source,Borrowing
 Athpahariya-Santang-1_body-1,,Athpahariya-Santang,1_body,dziu,dziu,dz iu,,Athpahariya,,,^dz iu$,Athpahariya-Santang,,,loan/nep
 Athpahariya-Tekunala-1_body-1,,Athpahariya-Tekunala,1_body,dziu,dziu,dz iu,,Athpahariya,,,^dz iu$,Athpahariya-Tekunala,,,loan/nep
-Belhare-Guthitar-1_body-1,,Belhare-Guthitar,1_body,dziu,dziu,dz i/j u,,Athpahariya,,,^dz iu$,Belhare-Guthitar,,,
+Belhare-Guthitar-1_body-1,,Belhare-Guthitar,1_body,dziu,dziu,dz j u,,Athpahariya,,,^dz iu$,Belhare-Guthitar,,,
 Athpahariya-Khalde-1_body-1,,Athpahariya-Khalde,1_body,dziu,dziu,dz iu,,Athpahariya,,,^dz iu$,Athpahariya-Khalde,,,loan/nep
 Athpahariya-Hatiya-1_body-1,,Athpahariya-Hatiya,1_body,dziu,dziu,dz iu,,Athpahariya,,,^dz iu$,Athpahariya-Hatiya,,,loan/nep
 Bantawa-Khoku-1_body-1,,Bantawa-Khoku,1_body,pok,pok,p o k,,Bantawa,,,^p o k$,Bantawa-Khoku,,,
@@ -9,10 +9,10 @@ Bantawa-Lungin-1_body-1,,Bantawa-Lungin,1_body,jam,jam,dʒ a m,,Bantawa,,,^j a m
 Bantawa-Thidingkha-1_body-1,,Bantawa-Thidingkha,1_body,jam,jam,dʒ a m,,Bantawa,,,^j a m$,Bantawa-Thidingkha,,,
 Bantawa-Timma-1_body-1,,Bantawa-Timma,1_body,jam,jam,dʒ a m,,Bantawa,,,^j a m$,Bantawa-Timma,,,
 Bantawa-Okhre-1_body-1,,Bantawa-Okhre,1_body,pok,pok,p o k,,Bantawa,,,^p o k$,Bantawa-Okhre,,,
-Belhare-Belhare-1_body-1,,Belhare-Belhare,1_body,jiu,jiu,j i/j u,,Belhare,,,^j iu$,Belhare-Belhare,,,
-Belhare-Piple-1_body-1,,Belhare-Piple,1_body,jiu,jiu,j i/j u,,Belhare,,,^j iu$,Belhare-Piple,,,
-Belhare-Guthitar-1_body-2,,Belhare-Guthitar,1_body,jiu,jiu,j i/j u,,Belhare,,,^j iu$,Belhare-Guthitar,,,
-Belhare-Rudrabari-1_body-1,,Belhare-Rudrabari,1_body,jiu,jiu,j i/j u,,Belhare,,,^j iu$,Belhare-Rudrabari,,,
+Belhare-Belhare-1_body-1,,Belhare-Belhare,1_body,jiu,jiu,dz u,,Belhare,,,^jiu $,Belhare-Belhare,,,loan: Nepali
+Belhare-Piple-1_body-1,,Belhare-Piple,1_body,jiu,jiu,dz u,,Belhare,,,^jiu $,Belhare-Piple,,,loan: Nepali
+Belhare-Guthitar-1_body-2,,Belhare-Guthitar,1_body,jiu,jiu,dz u,,Belhare,,,^jiu $,Belhare-Guthitar,,,
+Belhare-Rudrabari-1_body-1,,Belhare-Rudrabari,1_body,jiu,jiu,dz u,,Belhare,,,^jiu $,Belhare-Rudrabari,,,loan: Nepali
 Chamling-Hadunge-1_body-1,,Chamling-Hadunge,1_body,bulim,bulim,b u + l i m,,Chamling,,,^b u l i m$,Chamling-Hadunge,,,
 Chamling-Halesi-1_body-1,,Chamling-Halesi,1_body,bulim,bulim,b u + l i m,,Chamling,,,^b u l i m$,Chamling-Halesi,,,
 Chamling-Ratanchha-1_body-1,,Chamling-Ratanchha,1_body,ram,ram,r a m,,Chamling,,,^r a m$,Chamling-Ratanchha,,,
@@ -62,7 +62,7 @@ Bantawa-Lungin-10_tongue-1,,Bantawa-Lungin,10_tongue,lem,lem,l e m,,Bantawa,,,^l
 Bantawa-Thidingkha-10_tongue-1,,Bantawa-Thidingkha,10_tongue,lem,lem,l e m,,Bantawa,,,^l e m$,Bantawa-Thidingkha,,,
 Bantawa-Timma-10_tongue-1,,Bantawa-Timma,10_tongue,lem,lem,l e m,,Bantawa,,,^l e m$,Bantawa-Timma,,,
 Bantawa-Okhre-10_tongue-1,,Bantawa-Okhre,10_tongue,lem,lem,l e m,,Bantawa,,,^l e m$,Bantawa-Okhre,,,
-Belhare-Belhare-10_tongue-1,,Belhare-Belhare,10_tongue,lephpha,lephpha,l e !ph/p + ph a,,Belhare,,,^l e phph a $,Belhare-Belhare,,,
+Belhare-Belhare-10_tongue-1,,Belhare-Belhare,10_tongue,lephpha,lephpha,l e p + pʰ a,,Belhare,,,^l e phph a $,Belhare-Belhare,,,
 Belhare-Piple-10_tongue-1,,Belhare-Piple,10_tongue,lekhpha,lekhpha,l e kʰ + pʰ a,,Belhare,,,^l e khph a $,Belhare-Piple,,,
 Belhare-Guthitar-10_tongue-2,,Belhare-Guthitar,10_tongue,lepha,lepha,l e + pʰ a,,Belhare,,,^l e ph a $,Belhare-Guthitar,,,
 Belhare-Rudrabari-10_tongue-1,,Belhare-Rudrabari,10_tongue,lekhpha,lekhpha,l e kʰ + pʰ a,,Belhare,,,^l e khph a $,Belhare-Rudrabari,,,
@@ -267,10 +267,10 @@ Bantawa-Lungin-103_woman-1,,Bantawa-Lungin,103_woman,ma,ma,m a,,Bantawa,,,^m a $
 Bantawa-Thidingkha-103_woman-1,,Bantawa-Thidingkha,103_woman,mechacha,mechacha,m e + tsʰ a + tsʰ a,,Bantawa,,,^m e ch a ch a $,Bantawa-Thidingkha,,,
 Bantawa-Timma-103_woman-1,,Bantawa-Timma,103_woman,mechacha,mechacha,m e + tsʰ a + tsʰ a,,Bantawa,,,^m e ch a ch a $,Bantawa-Timma,,,
 Bantawa-Okhre-103_woman-1,,Bantawa-Okhre,103_woman,mechacha,mechacha,m e + tsʰ a + tsʰ a,,Bantawa,,,^m e ch a ch a $,Bantawa-Okhre,,,
-Belhare-Belhare-103_woman-1,,Belhare-Belhare,103_woman,miyacha,miyacha,m i + j a + tʃʰ a,,Belhare,,,^m iya ch a $,Belhare-Belhare,,,
-Belhare-Piple-103_woman-1,,Belhare-Piple,103_woman,myacha,myacha,m j a + tʃʰ a,,Belhare,,,^m ya ch a $,Belhare-Piple,,,
-Belhare-Guthitar-103_woman-2,,Belhare-Guthitar,103_woman,myacha,myacha,m j a + tʃʰ a,,Belhare,,,^m ya ch a $,Belhare-Guthitar,,,
-Belhare-Rudrabari-103_woman-1,,Belhare-Rudrabari,103_woman,miacha,miacha,m i/j a + tʃʰ a,,Belhare,,,^m ia ch a $,Belhare-Rudrabari,,,
+Belhare-Belhare-103_woman-1,,Belhare-Belhare,103_woman,miyacha,miyacha,m i + j a + tsʰ a,,Belhare,,,^m iya ch a $,Belhare-Belhare,,,
+Belhare-Piple-103_woman-1,,Belhare-Piple,103_woman,myacha,myacha,m j a + tsʰ a,,Belhare,,,^m ya ch a $,Belhare-Piple,,,
+Belhare-Guthitar-103_woman-2,,Belhare-Guthitar,103_woman,myacha,myacha,m j a + tsʰ a,,Belhare,,,^m ya ch a $,Belhare-Guthitar,,,
+Belhare-Rudrabari-103_woman-1,,Belhare-Rudrabari,103_woman,miacha,miacha,m j a + tsʰ a,,Belhare,,,^m ia ch a $,Belhare-Rudrabari,,,
 Chamling-Hadunge-103_woman-1,,Chamling-Hadunge,103_woman,mari,mari,m a + r i,,Chamling,,,^m a r i $,Chamling-Hadunge,,,
 Chamling-Halesi-103_woman-1,,Chamling-Halesi,103_woman,mari,mari,m a + r i,,Chamling,,,^m a r i $,Chamling-Halesi,,,
 Chamling-Ratanchha-103_woman-1,,Chamling-Ratanchha,103_woman,mari,mari,m a + r i,,Chamling,,,^m a r i $,Chamling-Ratanchha,,,
@@ -318,9 +318,9 @@ Bantawa-Lungin-104_child-1,,Bantawa-Lungin,104_child,cha,cha,tʃʰ a,,Bantawa,,,
 Bantawa-Thidingkha-104_child-1,,Bantawa-Thidingkha,104_child,cha,cha,tʃʰ a,,Bantawa,,,^ch a $,Bantawa-Thidingkha,,,
 Bantawa-Timma-104_child-1,,Bantawa-Timma,104_child,cha,cha,tʃʰ a,,Bantawa,,,^ch a $,Bantawa-Timma,,,
 Bantawa-Okhre-104_child-1,,Bantawa-Okhre,104_child,cha,cha,tʃʰ a,,Bantawa,,,^ch a $,Bantawa-Okhre,,,
-Belhare-Belhare-104_child-1,,Belhare-Belhare,104_child,piccha,piccha,p i tʃ + tʃʰ a,,Belhare,,,^p i cch a $,Belhare-Belhare,,,
-Belhare-Piple-104_child-1,,Belhare-Piple,104_child,picha,picha,p i + tʃʰ a,,Belhare,,,^p i ch a $,Belhare-Piple,,,
-Belhare-Guthitar-104_child-2,,Belhare-Guthitar,104_child,pichya,pichya,p i + tʃʰ j a,,Belhare,,,^p i ch ya$,Belhare-Guthitar,,,
+Belhare-Belhare-104_child-1,,Belhare-Belhare,104_child,piccha,piccha,p i ts + tsʰ a,,Belhare,,,^p i cch a $,Belhare-Belhare,,,
+Belhare-Piple-104_child-1,,Belhare-Piple,104_child,picha,picha,p i + tsʰ a,,Belhare,,,^p i ch a $,Belhare-Piple,,,
+Belhare-Guthitar-104_child-2,,Belhare-Guthitar,104_child,pichya,pichya,p i + tsʰ j a,,Belhare,,,^p i ch ya$,Belhare-Guthitar,,,
 Belhare-Rudrabari-104_child-1,,Belhare-Rudrabari,104_child,niŋi,niŋi,n i + ŋ i,,Belhare,,,^n i ŋ i $,Belhare-Rudrabari,,,
 Chamling-Hadunge-104_child-1,,Chamling-Hadunge,104_child,jatsha,jatsha,j a + tsʰ a,,Chamling,,,^j a tsh a $,Chamling-Hadunge,,,
 Chamling-Halesi-104_child-1,,Chamling-Halesi,104_child,jatsha,jatsha,j a + tsʰ a,,Chamling,,,^j a tsh a $,Chamling-Halesi,,,
@@ -530,10 +530,10 @@ Bantawa-Lungin-108_youngerbrother-1,,Bantawa-Lungin,108_youngerbrother,nicha,nic
 Bantawa-Thidingkha-108_youngerbrother-1,,Bantawa-Thidingkha,108_youngerbrother,nicha,nicha,n i + tsʰ a,,Bantawa,,,^n i ch a $,Bantawa-Thidingkha,,,
 Bantawa-Timma-108_youngerbrother-1,,Bantawa-Timma,108_youngerbrother,nicʰak,nicʰak,n i + tsʰ a k,,Bantawa,,,^n i cʰ a k$,Bantawa-Timma,,,
 Bantawa-Okhre-108_youngerbrother-1,,Bantawa-Okhre,108_youngerbrother,nichak,nichak,n i + tsʰ a k,,Bantawa,,,^n i ch a k$,Bantawa-Okhre,,,
-Belhare-Belhare-108_youngerbrother-1,,Belhare-Belhare,108_youngerbrother,anucha,anucha,a + n u + tʃʰ a,,Belhare,,,^a n u ch a $,Belhare-Belhare,,,
-Belhare-Piple-108_youngerbrother-1,,Belhare-Piple,108_youngerbrother,nucha,nucha,n u + tʃʰ a,,Belhare,,,^n u ch a $,Belhare-Piple,,,
-Belhare-Guthitar-108_youngerbrother-2,,Belhare-Guthitar,108_youngerbrother,nucha,nucha,n u + tʃʰ a,,Belhare,,,^n u ch a $,Belhare-Guthitar,,,
-Belhare-Rudrabari-108_youngerbrother-1,,Belhare-Rudrabari,108_youngerbrother,anucha,anucha,a + n u + tʃʰ a,,Belhare,,,^a n u ch a $,Belhare-Rudrabari,,,
+Belhare-Belhare-108_youngerbrother-1,,Belhare-Belhare,108_youngerbrother,anucha,anucha,a + n u + tsʰ a,,Belhare,,,^a n u ch a $,Belhare-Belhare,,,
+Belhare-Piple-108_youngerbrother-1,,Belhare-Piple,108_youngerbrother,nucha,nucha,n u + tsʰ a,,Belhare,,,^n u ch a $,Belhare-Piple,,,
+Belhare-Guthitar-108_youngerbrother-2,,Belhare-Guthitar,108_youngerbrother,nucha,nucha,n u + tsʰ a,,Belhare,,,^n u ch a $,Belhare-Guthitar,,,
+Belhare-Rudrabari-108_youngerbrother-1,,Belhare-Rudrabari,108_youngerbrother,anucha,anucha,a + n u + tsʰ a,,Belhare,,,^a n u ch a $,Belhare-Rudrabari,,,
 Chamling-Hadunge-108_youngerbrother-1,,Chamling-Hadunge,108_youngerbrother,nitsho,nitsho,n i + tsʰ o,,Chamling,,,^n i tsh o $,Chamling-Hadunge,,,
 Chamling-Halesi-108_youngerbrother-1,,Chamling-Halesi,108_youngerbrother,nitsho,nitsho,n i + tsʰ o,,Chamling,,,^n i tsh o $,Chamling-Halesi,,,
 Chamling-Ratanchha-108_youngerbrother-1,,Chamling-Ratanchha,108_youngerbrother,nitsho,nitsho,n i + tsʰ o,,Chamling,,,^n i tsh o $,Chamling-Ratanchha,,,
@@ -634,10 +634,10 @@ Bantawa-Lungin-11_breast-1,,Bantawa-Lungin,11_breast,chaṭṭi,chaṭṭi,tʃʰ
 Bantawa-Thidingkha-11_breast-1,,Bantawa-Thidingkha,11_breast,chatti,chatti,tʃʰ a t + t i,,Bantawa,,,^ch a tt i $,Bantawa-Thidingkha,,,
 Bantawa-Timma-11_breast-1,,Bantawa-Timma,11_breast,chaṭṭi,chaṭṭi,tʃʰ a ʈ + ʈ i,,Bantawa,,,^ch a ṭṭ i $,Bantawa-Timma,,,
 Bantawa-Okhre-11_breast-1,,Bantawa-Okhre,11_breast,chatti,chatti,tʃʰ a t + t i,,Bantawa,,,^ch a tt i $,Bantawa-Okhre,,,
-Belhare-Belhare-11_breast-1,,Belhare-Belhare,11_breast,dudh,dudh,d u + dʱ,,Belhare,,,^d u dh $,Belhare-Belhare,,,
-Belhare-Piple-11_breast-1,,Belhare-Piple,11_breast,dudh,dudh,d u + dʱ,,Belhare,,,^d u dh $,Belhare-Piple,,,
+Belhare-Belhare-11_breast-1,,Belhare-Belhare,11_breast,dudh,dudh,d u + dʱ,,Belhare,,,^d u dh $,Belhare-Belhare,,,nep/loan
+Belhare-Piple-11_breast-1,,Belhare-Piple,11_breast,dudh,dudh,d u + dʱ,,Belhare,,,^d u dh $,Belhare-Piple,,,nep/loan
 Belhare-Guthitar-11_breast-2,,Belhare-Guthitar,11_breast,dudh,dudh,d u + dʱ,,Belhare,,,^d u dh $,Belhare-Guthitar,,,
-Belhare-Rudrabari-11_breast-1,,Belhare-Rudrabari,11_breast,dudh,dudh,d u + dʱ,,Belhare,,,^d u dh $,Belhare-Rudrabari,,,
+Belhare-Rudrabari-11_breast-1,,Belhare-Rudrabari,11_breast,dudh,dudh,d u + dʱ,,Belhare,,,^d u dh $,Belhare-Rudrabari,,,nep/loan
 Chamling-Hadunge-11_breast-1,,Chamling-Hadunge,11_breast,sembu,sembu,s e m + b u,,Chamling,,,^s e mb u $,Chamling-Hadunge,,,
 Chamling-Halesi-11_breast-1,,Chamling-Halesi,11_breast,sembu,sembu,s e m + b u,,Chamling,,,^s e mb u $,Chamling-Halesi,,,
 Chamling-Ratanchha-11_breast-1,,Chamling-Ratanchha,11_breast,pʌmtsuŋ,pʌmtsuŋ,p ʌ m + ts u ŋ,,Chamling,,,^p ʌ mts u ŋ$,Chamling-Ratanchha,,,
@@ -679,10 +679,10 @@ Bantawa-Lungin-110_youngersister-1,,Bantawa-Lungin,110_youngersister,nicha,nicha
 Bantawa-Thidingkha-110_youngersister-1,,Bantawa-Thidingkha,110_youngersister,nicha,nicha,n i + tsʰ a,,Bantawa,,,^n i ch a $,Bantawa-Thidingkha,,,
 Bantawa-Timma-110_youngersister-1,,Bantawa-Timma,110_youngersister,nichak,nichak,n i + tsʰ a k,,Bantawa,,,^n i ch a k$,Bantawa-Timma,,,
 Bantawa-Okhre-110_youngersister-1,,Bantawa-Okhre,110_youngersister,nichak,nichak,n i + tsʰ a k,,Bantawa,,,^n i ch a k$,Bantawa-Okhre,,,
-Belhare-Belhare-110_youngersister-1,,Belhare-Belhare,110_youngersister,anucha,anucha,a + n u + tʃʰ a,,Belhare,,,^a n u ch a $,Belhare-Belhare,,,
-Belhare-Piple-110_youngersister-1,,Belhare-Piple,110_youngersister,nucha,nucha,n u + tʃʰ a,,Belhare,,,^n u ch a $,Belhare-Piple,,,
-Belhare-Guthitar-110_youngersister-2,,Belhare-Guthitar,110_youngersister,nucha,nucha,n u + tʃʰ a,,Belhare,,,^n u ch a $,Belhare-Guthitar,,,
-Belhare-Rudrabari-110_youngersister-1,,Belhare-Rudrabari,110_youngersister,anucha,anucha,a + n u + tʃʰ a,,Belhare,,,^a n u ch a $,Belhare-Rudrabari,,,
+Belhare-Belhare-110_youngersister-1,,Belhare-Belhare,110_youngersister,anucha,anucha,a + n u + tsʰ a,,Belhare,,,^a n u ch a $,Belhare-Belhare,,,
+Belhare-Piple-110_youngersister-1,,Belhare-Piple,110_youngersister,nucha,nucha,n u + tsʰ a,,Belhare,,,^n u ch a $,Belhare-Piple,,,
+Belhare-Guthitar-110_youngersister-2,,Belhare-Guthitar,110_youngersister,nucha,nucha,n u + tsʰ a,,Belhare,,,^n u ch a $,Belhare-Guthitar,,,
+Belhare-Rudrabari-110_youngersister-1,,Belhare-Rudrabari,110_youngersister,anucha,anucha,a + n u + tsʰ a,,Belhare,,,^a n u ch a $,Belhare-Rudrabari,,,
 Chamling-Hadunge-110_youngersister-1,,Chamling-Hadunge,110_youngersister,bʌini,bʌini,b ʌi + n i,,Chamling,,,^b ʌi n i $,Chamling-Hadunge,,,
 Chamling-Halesi-110_youngersister-1,,Chamling-Halesi,110_youngersister,bʌini,bʌini,b ʌi + n i,,Chamling,,,^b ʌi n i $,Chamling-Halesi,,,
 Chamling-Ratanchha-110_youngersister-1,,Chamling-Ratanchha,110_youngersister,bʌini,bʌini,b ʌi + n i,,Chamling,,,^b ʌi n i $,Chamling-Ratanchha,,,
@@ -733,10 +733,10 @@ Bantawa-Lungin-111_son-1,,Bantawa-Lungin,111_son,cha,cha,tʃʰ a,,Bantawa,,,^ch 
 Bantawa-Thidingkha-111_son-1,,Bantawa-Thidingkha,111_son,duwacha,duwacha,d u + w a + tsʰ a,,Bantawa,,,^d u w a ch a $,Bantawa-Thidingkha,,,
 Bantawa-Timma-111_son-1,,Bantawa-Timma,111_son,duwacha,duwacha,d u + w a + tsʰ a,,Bantawa,,,^d u w a ch a $,Bantawa-Timma,,,
 Bantawa-Okhre-111_son-1,,Bantawa-Okhre,111_son,duwacha,duwacha,d u + w a + tsʰ a,,Bantawa,,,^d u w a ch a $,Bantawa-Okhre,,,
-Belhare-Belhare-111_son-1,,Belhare-Belhare,111_son,yambicha acha,yambicha_^acha,j a m + b i + tʃʰ a + a + tʃʰ a,,Belhare,,,^ya mb i ch a _ ^a ch a $,Belhare-Belhare,,,
-Belhare-Piple-111_son-1,,Belhare-Piple,111_son,yambicha acha,yambicha_^acha,j a m + b i + tʃʰ a + a + tʃʰ a,,Belhare,,,^ya mb i ch a _ ^a ch a $,Belhare-Piple,,,
-Belhare-Guthitar-111_son-2,,Belhare-Guthitar,111_son,yambicha,yambicha,j a m + b i + tʃʰ a,,Belhare,,,^ya mb i ch a $,Belhare-Guthitar,,,
-Belhare-Rudrabari-111_son-1,,Belhare-Rudrabari,111_son,acha,acha,a + tʃʰ a,,Belhare,,,^a ch a $,Belhare-Rudrabari,,,
+Belhare-Belhare-111_son-1,,Belhare-Belhare,111_son,yambicha acha,yambicha_^acha,j a m + b i + tsʰ a + a + tsʰ a,,Belhare,,,^ya mb i ch a _ ^a ch a $,Belhare-Belhare,,,
+Belhare-Piple-111_son-1,,Belhare-Piple,111_son,yambicha acha,yambicha_^acha,j a m + b i + tsʰ a + a + tsʰ a,,Belhare,,,^ya mb i ch a _ ^a ch a $,Belhare-Piple,,,
+Belhare-Guthitar-111_son-2,,Belhare-Guthitar,111_son,yambicha,yambicha,j a m + b i + tsʰ a,,Belhare,,,^ya mb i ch a $,Belhare-Guthitar,,,
+Belhare-Rudrabari-111_son-1,,Belhare-Rudrabari,111_son,acha,acha,a + tsʰ a,,Belhare,,,^a ch a $,Belhare-Rudrabari,,,
 Chamling-Hadunge-111_son-1,,Chamling-Hadunge,111_son,toroppa,toroppa,t o + r o p + p a,,Chamling,,,^t o r o pp a $,Chamling-Hadunge,,,
 Chamling-Halesi-111_son-1,,Chamling-Halesi,111_son,toroppa,toroppa,t o + r o p + p a,,Chamling,,,^t o r o pp a $,Chamling-Halesi,,,
 Chamling-Ratanchha-111_son-1,,Chamling-Ratanchha,111_son,toroppa,toroppa,t o + r o p + p a,,Chamling,,,^t o r o pp a $,Chamling-Ratanchha,,,
@@ -783,10 +783,10 @@ Bantawa-Lungin-112_daughter-1,,Bantawa-Lungin,112_daughter,mechacha,mechacha,m e
 Bantawa-Thidingkha-112_daughter-1,,Bantawa-Thidingkha,112_daughter,mechacha,mechacha,m e + tsʰ a + tsʰ a,,Bantawa,,,^m e ch a ch a $,Bantawa-Thidingkha,,,
 Bantawa-Timma-112_daughter-1,,Bantawa-Timma,112_daughter,mechacha,mechacha,m e + tsʰ a + tsʰ a,,Bantawa,,,^m e ch a ch a $,Bantawa-Timma,,,
 Bantawa-Okhre-112_daughter-1,,Bantawa-Okhre,112_daughter,mechacha,mechacha,m e + tsʰ a + tsʰ a,,Bantawa,,,^m e ch a ch a $,Bantawa-Okhre,,,
-Belhare-Belhare-112_daughter-1,,Belhare-Belhare,112_daughter,myacha acha,myacha_^acha,m j a + tʃʰ a + a + tʃʰ a,,Belhare,,,^m ya ch a _ ^a ch a $,Belhare-Belhare,,,
-Belhare-Piple-112_daughter-1,,Belhare-Piple,112_daughter,myacha acha,myacha_^acha,m j a + tʃʰ a + a + tʃʰ a,,Belhare,,,^m ya ch a _ ^a ch a $,Belhare-Piple,,,
-Belhare-Guthitar-112_daughter-2,,Belhare-Guthitar,112_daughter,myacha,myacha,m j a + tʃʰ a,,Belhare,,,^m ya ch a $,Belhare-Guthitar,,,
-Belhare-Rudrabari-112_daughter-1,,Belhare-Rudrabari,112_daughter,miacha,miacha,m i/j a + tʃʰ a,,Belhare,,,^m ia ch a $,Belhare-Rudrabari,,,
+Belhare-Belhare-112_daughter-1,,Belhare-Belhare,112_daughter,myacha acha,myacha_^acha,m j a + tsʰ a + a + tsʰ a,,Belhare,,,^m ya ch a _ ^a ch a $,Belhare-Belhare,,,
+Belhare-Piple-112_daughter-1,,Belhare-Piple,112_daughter,myacha acha,myacha_^acha,m j a + tsʰ a + a + tsʰ a,,Belhare,,,^m ya ch a _ ^a ch a $,Belhare-Piple,,,
+Belhare-Guthitar-112_daughter-2,,Belhare-Guthitar,112_daughter,myacha,myacha,m j a + tsʰ a,,Belhare,,,^m ya ch a $,Belhare-Guthitar,,,
+Belhare-Rudrabari-112_daughter-1,,Belhare-Rudrabari,112_daughter,miacha,miacha,m j a + tsʰ a,,Belhare,,,^m ia ch a $,Belhare-Rudrabari,,,
 Chamling-Hadunge-112_daughter-1,,Chamling-Hadunge,112_daughter,tsjo,tsjo,ts j o,,Chamling,,,^tsj o $,Chamling-Hadunge,,,
 Chamling-Halesi-112_daughter-1,,Chamling-Halesi,112_daughter,tsjo,tsjo,ts j o,,Chamling,,,^tsj o $,Chamling-Halesi,,,
 Chamling-Ratanchha-112_daughter-1,,Chamling-Ratanchha,112_daughter,tsjo,tsjo,ts j o,,Chamling,,,^tsj o $,Chamling-Ratanchha,,,
@@ -835,10 +835,10 @@ Bantawa-Thidingkha-113_husband-1,,Bantawa-Thidingkha,113_husband,pasəŋ/bura,pa
 Bantawa-Thidingkha-113_husband-2,,Bantawa-Thidingkha,113_husband,pasəŋ/bura,bura,b u + r a,,Bantawa,,,^b u r a $,Bantawa-Thidingkha,,,
 Bantawa-Timma-113_husband-1,,Bantawa-Timma,113_husband,khim-haŋpa,khim_^haŋpa,kʰ i + m + h a ŋ + p a,,Bantawa,,,^kh i m _ ^h a ŋp a $,Bantawa-Timma,,,
 Bantawa-Okhre-113_husband-1,,Bantawa-Okhre,113_husband,khim-haŋpa,khim_^haŋpa,kʰ i + m + h a ŋ + p a,,Bantawa,,,^kh i m _ ^h a ŋp a $,Bantawa-Okhre,,,
-Belhare-Belhare-113_husband-1,,Belhare-Belhare,113_husband,ayambicha,ayambicha,a + j a m + b i + tʃʰ a,,Belhare,,,^aya mb i ch a $,Belhare-Belhare,,,
+Belhare-Belhare-113_husband-1,,Belhare-Belhare,113_husband,ayambicha,ayambicha,a + j a m + b i + tsʰ a,,Belhare,,,^aya mb i ch a $,Belhare-Belhare,,,
 Belhare-Piple-113_husband-1,,Belhare-Piple,113_husband,apasiŋ,apasiŋ,a + p a + s i ŋ,,Belhare,,,^a p a s i ŋ$,Belhare-Piple,,,
 Belhare-Guthitar-113_husband-2,,Belhare-Guthitar,113_husband,abudha,abudha,a + b u + dʱ a,,Belhare,,,^a b u dh a $,Belhare-Guthitar,,,
-Belhare-Rudrabari-113_husband-1,,Belhare-Rudrabari,113_husband,imbicha,imbicha,i m + b i + tʃʰ a,,Belhare,,,^i mb i ch a $,Belhare-Rudrabari,,,
+Belhare-Rudrabari-113_husband-1,,Belhare-Rudrabari,113_husband,imbicha,imbicha,i m + b i + tsʰ a,,Belhare,,,^i mb i ch a $,Belhare-Rudrabari,,,
 Chamling-Hadunge-113_husband-1,,Chamling-Hadunge,113_husband,kimi,kimi,k i + m i,,Chamling,,,^k i m i $,Chamling-Hadunge,,,
 Chamling-Halesi-113_husband-1,,Chamling-Halesi,113_husband,kimi,kimi,k i + m i,,Chamling,,,^k i m i $,Chamling-Halesi,,,
 Chamling-Ratanchha-113_husband-1,,Chamling-Ratanchha,113_husband,kimi,kimi,k i + m i,,Chamling,,,^k i m i $,Chamling-Ratanchha,,,
@@ -888,10 +888,10 @@ Bantawa-Thidingkha-114_wife-1,,Bantawa-Thidingkha,114_wife,masəŋ/buri,masəŋ,
 Bantawa-Thidingkha-114_wife-2,,Bantawa-Thidingkha,114_wife,masəŋ/buri,buri,b u + r i,,Bantawa,,,^b u r i $,Bantawa-Thidingkha,,,
 Bantawa-Timma-114_wife-1,,Bantawa-Timma,114_wife,khim-haŋma,khim_^haŋma,kʰ i + m + h a ŋ + m a,,Bantawa,,,^kh i m _ ^h a ŋm a $,Bantawa-Timma,,,
 Bantawa-Okhre-114_wife-1,,Bantawa-Okhre,114_wife,khim-haŋma,khim_^haŋma,kʰ i + m + h a ŋ + m a,,Bantawa,,,^kh i m _ ^h a ŋm a $,Bantawa-Okhre,,,
-Belhare-Belhare-114_wife-1,,Belhare-Belhare,114_wife,amyacha,amyacha,a + m j a + tʃʰ a,,Belhare,,,^a m ya ch a $,Belhare-Belhare,,,
+Belhare-Belhare-114_wife-1,,Belhare-Belhare,114_wife,amyacha,amyacha,a + m j a + tsʰ a,,Belhare,,,^a m ya ch a $,Belhare-Belhare,,,
 Belhare-Piple-114_wife-1,,Belhare-Piple,114_wife,amasiŋ,amasiŋ,a + m a + s i ŋ,,Belhare,,,^a m a s i ŋ$,Belhare-Piple,,,
-Belhare-Guthitar-114_wife-2,,Belhare-Guthitar,114_wife,amyacha,amyacha,a + m j a + tʃʰ a,,Belhare,,,^a m ya ch a $,Belhare-Guthitar,,,
-Belhare-Rudrabari-114_wife-1,,Belhare-Rudrabari,114_wife,ambiacha,ambiacha,a m + b i/j a + tʃʰ a,,Belhare,,,^a mb ia ch a $,Belhare-Rudrabari,,,
+Belhare-Guthitar-114_wife-2,,Belhare-Guthitar,114_wife,amyacha,amyacha,a + m j a + tsʰ a,,Belhare,,,^a m ya ch a $,Belhare-Guthitar,,,
+Belhare-Rudrabari-114_wife-1,,Belhare-Rudrabari,114_wife,ambiacha,ambiacha,a m + b j a + tsʰ a,,Belhare,,,^a mb ia ch a $,Belhare-Rudrabari,,,
 Chamling-Hadunge-114_wife-1,,Chamling-Hadunge,114_wife,mʌi,mʌi,m ʌi,,Chamling,,,^m ʌi $,Chamling-Hadunge,,,
 Chamling-Halesi-114_wife-1,,Chamling-Halesi,114_wife,mʌi,mʌi,m ʌi,,Chamling,,,^m ʌi $,Chamling-Halesi,,,
 Chamling-Ratanchha-114_wife-1,,Chamling-Ratanchha,114_wife,mʌi,mʌi,m ʌi,,Chamling,,,^m ʌi $,Chamling-Ratanchha,,,
@@ -942,10 +942,10 @@ Bantawa-Lungin-115_boy-1,,Bantawa-Lungin,115_boy,duwacha,duwacha,d u + w a + ts�
 Bantawa-Thidingkha-115_boy-1,,Bantawa-Thidingkha,115_boy,duwacha,duwacha,d u + w a + tsʰ a,,Bantawa,,,^d u w a ch a $,Bantawa-Thidingkha,,,
 Bantawa-Timma-115_boy-1,,Bantawa-Timma,115_boy,duwacha,duwacha,d u + w a + tsʰ a,,Bantawa,,,^d u w a ch a $,Bantawa-Timma,,,
 Bantawa-Okhre-115_boy-1,,Bantawa-Okhre,115_boy,duwacha,duwacha,d u + w a + tsʰ a,,Bantawa,,,^d u w a ch a $,Bantawa-Okhre,,,
-Belhare-Belhare-115_boy-1,,Belhare-Belhare,115_boy,ayambicha,ayambicha,a + j a m + b i + tʃʰ a,,Belhare,,,^aya mb i ch a $,Belhare-Belhare,,,
-Belhare-Piple-115_boy-1,,Belhare-Piple,115_boy,yembicha,yembicha,j e m + b i + tʃʰ a,,Belhare,,,^ye mb i ch a $,Belhare-Piple,,,
+Belhare-Belhare-115_boy-1,,Belhare-Belhare,115_boy,ayambicha,ayambicha,a + j a m + b i + tsʰ a,,Belhare,,,^aya mb i ch a $,Belhare-Belhare,,,
+Belhare-Piple-115_boy-1,,Belhare-Piple,115_boy,yembicha,yembicha,j e m + b i + tsʰ a,,Belhare,,,^ye mb i ch a $,Belhare-Piple,,,
 Belhare-Guthitar-115_boy-2,,Belhare-Guthitar,115_boy,yembetsha,yembetsha,j e m + b e + tsʰ a,,Belhare,,,^ye mb e tsh a $,Belhare-Guthitar,,,
-Belhare-Rudrabari-115_boy-1,,Belhare-Rudrabari,115_boy,yembicha,yembicha,j e m + b i + tʃʰ a,,Belhare,,,^ye mb i ch a $,Belhare-Rudrabari,,,
+Belhare-Rudrabari-115_boy-1,,Belhare-Rudrabari,115_boy,yembicha,yembicha,j e m + b i + tsʰ a,,Belhare,,,^ye mb i ch a $,Belhare-Rudrabari,,,
 Chamling-Hadunge-115_boy-1,,Chamling-Hadunge,115_boy,sortsha,sortsha,s o r + tsʰ a,,Chamling,,,^s o rtsh a $,Chamling-Hadunge,,,
 Chamling-Halesi-115_boy-1,,Chamling-Halesi,115_boy,sortsha,sortsha,s o r + tsʰ a,,Chamling,,,^s o rtsh a $,Chamling-Halesi,,,
 Chamling-Ratanchha-115_boy-1,,Chamling-Ratanchha,115_boy,sortsha,sortsha,s o r + tsʰ a,,Chamling,,,^s o rtsh a $,Chamling-Ratanchha,,,
@@ -994,10 +994,10 @@ Bantawa-Lungin-116_girl-1,,Bantawa-Lungin,116_girl,mechacha,mechacha,m e + tsʰ 
 Bantawa-Thidingkha-116_girl-1,,Bantawa-Thidingkha,116_girl,kamecha,kamecha,k a + m e + tsʰ a,,Bantawa,,,^k a m e ch a $,Bantawa-Thidingkha,,,
 Bantawa-Timma-116_girl-1,,Bantawa-Timma,116_girl,mechacha,mechacha,m e + tsʰ a + tsʰ a,,Bantawa,,,^m e ch a ch a $,Bantawa-Timma,,,
 Bantawa-Okhre-116_girl-1,,Bantawa-Okhre,116_girl,mechacha,mechacha,m e + tsʰ a + tsʰ a,,Bantawa,,,^m e ch a ch a $,Bantawa-Okhre,,,
-Belhare-Belhare-116_girl-1,,Belhare-Belhare,116_girl,myachya,myachya,m j a + tʃʰ j a,,Belhare,,,^m ya ch ya$,Belhare-Belhare,,,
-Belhare-Piple-116_girl-1,,Belhare-Piple,116_girl,myachya,myachya,m j a + tʃʰ j a,,Belhare,,,^m ya ch ya$,Belhare-Piple,,,
-Belhare-Guthitar-116_girl-2,,Belhare-Guthitar,116_girl,mhechya,mhechya,m̥ e + tʃʰ j a,,Belhare,,,^mh e ch ya$,Belhare-Guthitar,,,
-Belhare-Rudrabari-116_girl-1,,Belhare-Rudrabari,116_girl,miacha,miacha,m i/j a + tʃʰ a,,Belhare,,,^m ia ch a $,Belhare-Rudrabari,,,
+Belhare-Belhare-116_girl-1,,Belhare-Belhare,116_girl,myachya,myachya,m j a + tsʰ j a,,Belhare,,,^m ya ch ya$,Belhare-Belhare,,,
+Belhare-Piple-116_girl-1,,Belhare-Piple,116_girl,myachya,myachya,m j a + tsʰ j a,,Belhare,,,^m ya ch ya$,Belhare-Piple,,,
+Belhare-Guthitar-116_girl-2,,Belhare-Guthitar,116_girl,mhechya,mhechya,m̥ e + tsʰ j a,,Belhare,,,^mh e ch ya$,Belhare-Guthitar,,,
+Belhare-Rudrabari-116_girl-1,,Belhare-Rudrabari,116_girl,miacha,miacha,m j a + tsʰ a,,Belhare,,,^m ia ch a $,Belhare-Rudrabari,,,
 Chamling-Hadunge-116_girl-1,,Chamling-Hadunge,116_girl,mari,mari,m a + r i,,Chamling,,,^m a r i $,Chamling-Hadunge,,,
 Chamling-Halesi-116_girl-1,,Chamling-Halesi,116_girl,mari,mari,m a + r i,,Chamling,,,^m a r i $,Chamling-Halesi,,,
 Chamling-Ratanchha-116_girl-1,,Chamling-Ratanchha,116_girl,mari,mari,m a + r i,,Chamling,,,^m a r i $,Chamling-Ratanchha,,,
@@ -1141,7 +1141,7 @@ Jirel-Yarsa-118_night-1,,Jirel-Yarsa,118_night,nuk/ nub,nuk,n u + k,,Jirel,,,^n 
 Jirel-Yarsa-118_night-2,,Jirel-Yarsa,118_night,nuk/ nub,nub,n u + b,,Jirel,,,^n u b $,Jirel-Yarsa,,,
 Athpahariya-Santang-119_morning-1,,Athpahariya-Santang,119_morning,bhenik,bhenik,bʱ e + n i k,,Athpahariya,,,^bh e n i k$,Athpahariya-Santang,,,
 Athpahariya-Tekunala-119_morning-1,,Athpahariya-Tekunala,119_morning,bhyani,bhyani,bʱ j a + n i,,Athpahariya,,,^bh ya n i $,Athpahariya-Tekunala,,,
-Belhare-Guthitar-119_morning-1,,Belhare-Guthitar,119_morning,ubheni,ubheni,u bʱ e + n i,,Athpahariya,,,^u bh e n i $,Belhare-Guthitar,,,
+Belhare-Guthitar-119_morning-1,,Belhare-Guthitar,119_morning,ubheni,ubheni,u + bʱ e + n i,,Athpahariya,,,^u bh e n i $,Belhare-Guthitar,,,
 Athpahariya-Khalde-119_morning-1,,Athpahariya-Khalde,119_morning,bhyani,bhyani,bʱ j a + n i,,Athpahariya,,,^bh ya n i $,Athpahariya-Khalde,,,
 Athpahariya-Hatiya-119_morning-1,,Athpahariya-Hatiya,119_morning,bihani,bihani,b i + h a + n i,,Athpahariya,,,^b i h a n i $,Athpahariya-Hatiya,,,
 Bantawa-Khoku-119_morning-1,,Bantawa-Khoku,119_morning,uwajuŋ,uwajuŋ,u + w a + dʒ u ŋ,,Bantawa,,,^u w a j u ŋ$,Bantawa-Khoku,,,
@@ -1151,7 +1151,7 @@ Bantawa-Timma-119_morning-1,,Bantawa-Timma,119_morning,əwajəŋ,əwajəŋ,ə + 
 Bantawa-Okhre-119_morning-1,,Bantawa-Okhre,119_morning,wajaŋ,wajaŋ,w a + dʒ a ŋ,,Bantawa,,,^w a j a ŋ$,Bantawa-Okhre,,,
 Belhare-Belhare-119_morning-1,,Belhare-Belhare,119_morning,bheni,bheni,bʱ e + n i,,Belhare,,,^bh e n i $,Belhare-Belhare,,,
 Belhare-Piple-119_morning-1,,Belhare-Piple,119_morning,bheni,bheni,bʱ e + n i,,Belhare,,,^bh e n i $,Belhare-Piple,,,
-Belhare-Guthitar-119_morning-2,,Belhare-Guthitar,119_morning,ubheni,ubheni,u bʱ e + n i,,Belhare,,,^u bh e n i $,Belhare-Guthitar,,,
+Belhare-Guthitar-119_morning-2,,Belhare-Guthitar,119_morning,ubheni,ubheni,u + bʱ e + n i,,Belhare,,,^u bh e n i $,Belhare-Guthitar,,,
 Belhare-Rudrabari-119_morning-1,,Belhare-Rudrabari,119_morning,bheni,bheni,bʱ e + n i,,Belhare,,,^bh e n i $,Belhare-Rudrabari,,,
 Chamling-Hadunge-119_morning-1,,Chamling-Hadunge,119_morning,wapo,wapo,w a + p o,,Chamling,,,^w a p o $,Chamling-Hadunge,,,
 Chamling-Halesi-119_morning-1,,Chamling-Halesi,119_morning,wapo,wapo,w a + p o,,Chamling,,,^w a p o $,Chamling-Halesi,,,
@@ -1508,10 +1508,10 @@ Bantawa-Lungin-125_week-1,,Bantawa-Lungin,125_week,sata,sata,s a + t a,,Bantawa,
 Bantawa-Thidingkha-125_week-1,,Bantawa-Thidingkha,125_week,həpta,həpta,h ə p + t a,,Bantawa,,,^h ə pt a $,Bantawa-Thidingkha,,,nep/loan
 Bantawa-Timma-125_week-1,,Bantawa-Timma,125_week,sata,sata,s a + t a,,Bantawa,,,^s a t a $,Bantawa-Timma,,,nep/loan
 Bantawa-Okhre-125_week-1,,Bantawa-Okhre,125_week,həpta,həpta,h ə p + t a,,Bantawa,,,^h ə pt a $,Bantawa-Okhre,,,nep/loan
-Belhare-Belhare-125_week-1,,Belhare-Belhare,125_week,sata,sata,s a + t a,,Belhare,,,^s a t a $,Belhare-Belhare,,,
-Belhare-Piple-125_week-1,,Belhare-Piple,125_week,sata,sata,s a + t a,,Belhare,,,^s a t a $,Belhare-Piple,,,
+Belhare-Belhare-125_week-1,,Belhare-Belhare,125_week,sata,sata,s a + t a,,Belhare,,,^s a t a $,Belhare-Belhare,,,nep/loan
+Belhare-Piple-125_week-1,,Belhare-Piple,125_week,sata,sata,s a + t a,,Belhare,,,^s a t a $,Belhare-Piple,,,nep/loan
 Belhare-Guthitar-125_week-2,,Belhare-Guthitar,125_week,həpta,həpta,h ə p + t a,,Belhare,,,^h ə pt a $,Belhare-Guthitar,,,
-Belhare-Rudrabari-125_week-1,,Belhare-Rudrabari,125_week,sata,sata,s a + t a,,Belhare,,,^s a t a $,Belhare-Rudrabari,,,
+Belhare-Rudrabari-125_week-1,,Belhare-Rudrabari,125_week,sata,sata,s a + t a,,Belhare,,,^s a t a $,Belhare-Rudrabari,,,nep/loan
 Chamling-Hadunge-125_week-1,,Chamling-Hadunge,125_week,ɦʌpta,ɦʌpta,ɦ ʌ p + t a,,Chamling,,,^ɦ ʌ pt a $,Chamling-Hadunge,,,
 Chamling-Halesi-125_week-1,,Chamling-Halesi,125_week,ɦʌpta,ɦʌpta,ɦ ʌ p + t a,,Chamling,,,^ɦ ʌ pt a $,Chamling-Halesi,,,
 Chamling-Ratanchha-125_week-1,,Chamling-Ratanchha,125_week,ɦʌpta,ɦʌpta,ɦ ʌ p + t a,,Chamling,,,^ɦ ʌ pt a $,Chamling-Ratanchha,,,
@@ -1602,10 +1602,10 @@ Bantawa-Lungin-127_year-1,,Bantawa-Lungin,127_year,doŋ,doŋ,d o ŋ,,Bantawa,,,^
 Bantawa-Thidingkha-127_year-1,,Bantawa-Thidingkha,127_year,ḍoŋ,ḍoŋ,ɖ o ŋ,,Bantawa,,,^ḍ o ŋ$,Bantawa-Thidingkha,,,
 Bantawa-Timma-127_year-1,,Bantawa-Timma,127_year,doŋ,doŋ,d o ŋ,,Bantawa,,,^d o ŋ$,Bantawa-Timma,,,
 Bantawa-Okhre-127_year-1,,Bantawa-Okhre,127_year,ḍoŋ,ḍoŋ,ɖ o ŋ,,Bantawa,,,^ḍ o ŋ$,Bantawa-Okhre,,,
-Belhare-Belhare-127_year-1,,Belhare-Belhare,127_year,bərsə,bərsə,b ə r + s ə,,Belhare,,,^b ə rs ə $,Belhare-Belhare,,,
-Belhare-Piple-127_year-1,,Belhare-Piple,127_year,bərsə,bərsə,b ə r + s ə,,Belhare,,,^b ə rs ə $,Belhare-Piple,,,
+Belhare-Belhare-127_year-1,,Belhare-Belhare,127_year,bərsə,bərsə,b ə r + s ə,,Belhare,,,^b ə rs ə $,Belhare-Belhare,,,nep/loan
+Belhare-Piple-127_year-1,,Belhare-Piple,127_year,bərsə,bərsə,b ə r + s ə,,Belhare,,,^b ə rs ə $,Belhare-Piple,,,nep/loan
 Belhare-Guthitar-127_year-2,,Belhare-Guthitar,127_year,bərsə,bərsə,b ə r + s ə,,Belhare,,,^b ə rs ə $,Belhare-Guthitar,,,
-Belhare-Rudrabari-127_year-1,,Belhare-Rudrabari,127_year,bərsə,bərsə,b ə r + s ə,,Belhare,,,^b ə rs ə $,Belhare-Rudrabari,,,
+Belhare-Rudrabari-127_year-1,,Belhare-Rudrabari,127_year,bərsə,bərsə,b ə r + s ə,,Belhare,,,^b ə rs ə $,Belhare-Rudrabari,,,nep/loan
 Chamling-Hadunge-127_year-1,,Chamling-Hadunge,127_year,duŋ,duŋ,d u ŋ,,Chamling,,,^d u ŋ$,Chamling-Hadunge,,,
 Chamling-Halesi-127_year-1,,Chamling-Halesi,127_year,duŋ,duŋ,d u ŋ,,Chamling,,,^d u ŋ$,Chamling-Halesi,,,
 Chamling-Ratanchha-127_year-1,,Chamling-Ratanchha,127_year,duŋ,duŋ,d u ŋ,,Chamling,,,^d u ŋ$,Chamling-Ratanchha,,,
@@ -1700,10 +1700,10 @@ Bantawa-Lungin-129_new-1,,Bantawa-Lungin,129_new,ənəŋwa,ənəŋwa,ə + n ə �
 Bantawa-Thidingkha-129_new-1,,Bantawa-Thidingkha,129_new,nəja,nəja,n ə + dʒ a,,Bantawa,,,^n ə j a $,Bantawa-Thidingkha,,,
 Bantawa-Timma-129_new-1,,Bantawa-Timma,129_new,nəja,nəja,n ə + dʒ a,,Bantawa,,,^n ə j a $,Bantawa-Timma,,,
 Bantawa-Okhre-129_new-1,,Bantawa-Okhre,129_new,unu,unu,u + n u,,Bantawa,,,^u n u $,Bantawa-Okhre,,,
-Belhare-Belhare-129_new-1,,Belhare-Belhare,129_new,uchəuwat,uchəuwat,u + tʃʰ əu + w a t,,Belhare,,,^u ch əu w a t$,Belhare-Belhare,,,
-Belhare-Piple-129_new-1,,Belhare-Piple,129_new,uchəũwat,uchəũwat,u + tʃʰ əũ + w a t,,Belhare,,,^u ch əũ w a t$,Belhare-Piple,,,
-Belhare-Guthitar-129_new-2,,Belhare-Guthitar,129_new,uchəŋwat,uchəŋwat,u + tʃʰ ə ŋ + w a t,,Belhare,,,^u ch ə ŋw a t$,Belhare-Guthitar,,,
-Belhare-Rudrabari-129_new-1,,Belhare-Rudrabari,129_new,uchuŋwat,uchuŋwat,u + tʃʰ u ŋ + w a t,,Belhare,,,^u ch u ŋw a t$,Belhare-Rudrabari,,,
+Belhare-Belhare-129_new-1,,Belhare-Belhare,129_new,uchəuwat,uchəuwat,u + tsʰ əu + w a t,,Belhare,,,^u ch əu w a t$,Belhare-Belhare,,,
+Belhare-Piple-129_new-1,,Belhare-Piple,129_new,uchəũwat,uchəũwat,u + tsʰ əũ + w a t,,Belhare,,,^u ch əũ w a t$,Belhare-Piple,,,
+Belhare-Guthitar-129_new-2,,Belhare-Guthitar,129_new,uchəŋwat,uchəŋwat,u + tsʰ ə ŋ + w a t,,Belhare,,,^u ch ə ŋw a t$,Belhare-Guthitar,,,
+Belhare-Rudrabari-129_new-1,,Belhare-Rudrabari,129_new,uchuŋwat,uchuŋwat,u + tsʰ u ŋ + w a t,,Belhare,,,^u ch u ŋw a t$,Belhare-Rudrabari,,,
 Chamling-Hadunge-129_new-1,,Chamling-Hadunge,129_new,alseko,alseko,a l + s e + k o,,Chamling,,,^a ls e k o $,Chamling-Hadunge,,,
 Chamling-Halesi-129_new-1,,Chamling-Halesi,129_new,alseko,alseko,a l + s e + k o,,Chamling,,,^a ls e k o $,Chamling-Halesi,,,
 Chamling-Ratanchha-129_new-1,,Chamling-Ratanchha,129_new,alseko,alseko,a l + s e + k o,,Chamling,,,^a ls e k o $,Chamling-Ratanchha,,,
@@ -1909,7 +1909,7 @@ Bantawa-Okhre-132_wet-1,,Bantawa-Okhre,132_wet,wapoktao,wapoktao,w a + p o k + t
 Belhare-Belhare-132_wet-1,,Belhare-Belhare,132_wet,wayuʔwãha,wayuʔwãha,w a + j u ʔ + w ã + h a,,Belhare,,,^w ayu ʔw ã h a $,Belhare-Belhare,,,
 Belhare-Piple-132_wet-1,,Belhare-Piple,132_wet,wayuʔkhiŋe,wayuʔkhiŋe,w a + j u ʔ + kh i + ŋ e,,Belhare,,,^w ayu ʔkh i ŋ e $,Belhare-Piple,,,
 Belhare-Guthitar-132_wet-2,,Belhare-Guthitar,132_wet,ciso,ciso,tʃ i + s o,,Belhare,,,^c i s o $,Belhare-Guthitar,,,
-Belhare-Rudrabari-132_wet-1,,Belhare-Rudrabari,132_wet,wayuʔkkhare,wayuʔkkhare,w a + j u ʔ k + kh a + r e,,Belhare,,,^w ayu ʔkkh a r e $,Belhare-Rudrabari,,,
+Belhare-Rudrabari-132_wet-1,,Belhare-Rudrabari,132_wet,wayuʔkkhare,wayuʔkkhare,w a + j u ʔ k + kʰ a + r e,,Belhare,,,^w ayu ʔkkh a r e $,Belhare-Rudrabari,,,
 Chamling-Hadunge-132_wet-1,,Chamling-Hadunge,132_wet,ɦopako,ɦopako,ɦ o + p a + k o,,Chamling,,,^ɦ o p a k o $,Chamling-Hadunge,,,
 Chamling-Halesi-132_wet-1,,Chamling-Halesi,132_wet,ɦopako,ɦopako,ɦ o + p a + k o,,Chamling,,,^ɦ o p a k o $,Chamling-Halesi,,,
 Chamling-Ratanchha-132_wet-1,,Chamling-Ratanchha,132_wet,ɦopako,ɦopako,ɦ o + p a + k o,,Chamling,,,^ɦ o p a k o $,Chamling-Ratanchha,,,
@@ -2111,7 +2111,7 @@ Jirel-Chhetrapa-135_short-1,,Jirel-Chhetrapa,135_short,.thumba,.thumba,tʰ u m +
 Jirel-Yarsa-135_short-1,,Jirel-Yarsa,135_short,thumma,thumma,tʰ u m + m a,,Jirel,,,^th u mm a $,Jirel-Yarsa,,,
 Athpahariya-Santang-136_hot-1,,Athpahariya-Santang,136_hot,koɖe,koɖe,k o + ɖ e,,Athpahariya,,,^k o ɖ e $,Athpahariya-Santang,,,
 Athpahariya-Tekunala-136_hot-1,,Athpahariya-Tekunala,136_hot,koɖe,koɖe,k o + ɖ e,,Athpahariya,,,^k o ɖ e $,Athpahariya-Tekunala,,,
-Belhare-Guthitar-136_hot-1,,Belhare-Guthitar,136_hot,kuyu,kuyu,k u y/j u,,Athpahariya,,,^k uyu $,Belhare-Guthitar,,,
+Belhare-Guthitar-136_hot-1,,Belhare-Guthitar,136_hot,kuyu,kuyu,k u j u,,Athpahariya,,,^k uyu $,Belhare-Guthitar,,,
 Athpahariya-Khalde-136_hot-1,,Athpahariya-Khalde,136_hot,tato,tato,t a + t o,,Athpahariya,,,^t a t o $,Athpahariya-Khalde,,,
 Athpahariya-Hatiya-136_hot-1,,Athpahariya-Hatiya,136_hot,koɖe,koɖe,k o + ɖ e,,Athpahariya,,,^k o ɖ e $,Athpahariya-Hatiya,,,
 Bantawa-Khoku-136_hot-1,,Bantawa-Khoku,136_hot,kujaŋ,kujaŋ,k u + dʒ a ŋ,,Bantawa,,,^k u j a ŋ$,Bantawa-Khoku,,,
@@ -2121,7 +2121,7 @@ Bantawa-Timma-136_hot-1,,Bantawa-Timma,136_hot,tato,tato,t a + t o,,Bantawa,,,^t
 Bantawa-Okhre-136_hot-1,,Bantawa-Okhre,136_hot,tato,tato,t a + t o,,Bantawa,,,^t a t o $,Bantawa-Okhre,,,
 Belhare-Belhare-136_hot-1,,Belhare-Belhare,136_hot,tato,tato,t a + t o,,Belhare,,,^t a t o $,Belhare-Belhare,,,
 Belhare-Piple-136_hot-1,,Belhare-Piple,136_hot,kuware,kuware,k u + w a + r e,,Belhare,,,^k u w a r e $,Belhare-Piple,,,
-Belhare-Guthitar-136_hot-2,,Belhare-Guthitar,136_hot,kuyu,kuyu,k u y/j u,,Belhare,,,^k uyu $,Belhare-Guthitar,,,
+Belhare-Guthitar-136_hot-2,,Belhare-Guthitar,136_hot,kuyu,kuyu,k u j u,,Belhare,,,^k uyu $,Belhare-Guthitar,,,
 Belhare-Rudrabari-136_hot-1,,Belhare-Rudrabari,136_hot,tato,tato,t a + t o,,Belhare,,,^t a t o $,Belhare-Rudrabari,,,
 Chamling-Hadunge-136_hot-1,,Chamling-Hadunge,136_hot,paɦudeko,paɦudeko,p a + ɦ u + d e + k o,,Chamling,,,^p a ɦ u d e k o $,Chamling-Hadunge,,,
 Chamling-Halesi-136_hot-1,,Chamling-Halesi,136_hot,paɦudeko,paɦudeko,p a + ɦ u + d e + k o,,Chamling,,,^p a ɦ u d e k o $,Chamling-Halesi,,,
@@ -2225,7 +2225,7 @@ Bantawa-Lungin-138_right-1,,Bantawa-Lungin,138_right,busa,busa,b u + s a,,Bantaw
 Bantawa-Thidingkha-138_right-1,,Bantawa-Thidingkha,138_right,busa,busa,b u + s a,,Bantawa,,,^b u s a $,Bantawa-Thidingkha,,,
 Bantawa-Timma-138_right-1,,Bantawa-Timma,138_right,busa,busa,b u + s a,,Bantawa,,,^b u s a $,Bantawa-Timma,,,
 Bantawa-Okhre-138_right-1,,Bantawa-Okhre,138_right,busa,busa,b u + s a,,Bantawa,,,^b u s a $,Bantawa-Okhre,,,
-Belhare-Belhare-138_right-1,,Belhare-Belhare,138_right,c uptaŋ,c_^uptaŋ,tʃ + u p + t a ŋ,,Belhare,,,^c _ ^u pt a ŋ$,Belhare-Belhare,,,
+Belhare-Belhare-138_right-1,,Belhare-Belhare,138_right,c uptaŋ,c_^uptaŋ,ts u p + t a ŋ,,Belhare,,,^c_^uptaŋ $,Belhare-Belhare,,,
 Belhare-Piple-138_right-1,,Belhare-Piple,138_right,ch uptaŋ,ch_^uptaŋ,tʃʰ + u p + t a ŋ,,Belhare,,,^ch _ ^u pt a ŋ$,Belhare-Piple,,,
 Belhare-Guthitar-138_right-2,,Belhare-Guthitar,138_right,coptaŋmuk,coptaŋmuk,tʃ o p + t a ŋ + m u k,,Belhare,,,^c o pt a ŋm u k$,Belhare-Guthitar,,,
 Belhare-Rudrabari-138_right-1,,Belhare-Rudrabari,138_right,chuptaŋ,chuptaŋ,tʃʰ u p + t a ŋ,,Belhare,,,^ch u pt a ŋ$,Belhare-Rudrabari,,,
@@ -2326,10 +2326,10 @@ Bantawa-Lungin-14_elbow-1,,Bantawa-Lungin,14_elbow,phophoʔwa,phophoʔwa,pʰ o +
 Bantawa-Thidingkha-14_elbow-1,,Bantawa-Thidingkha,14_elbow,phophoʔwa,phophoʔwa,pʰ o + pʰ o ʔ + w a,,Bantawa,,,^ph o ph o ʔw a $,Bantawa-Thidingkha,,,
 Bantawa-Timma-14_elbow-1,,Bantawa-Timma,14_elbow,kuina,kuina,k ui + n a,,Bantawa,,,^k ui n a $,Bantawa-Timma,,,nep/loan
 Bantawa-Okhre-14_elbow-1,,Bantawa-Okhre,14_elbow,kuina,kuina,k ui + n a,,Bantawa,,,^k ui n a $,Bantawa-Okhre,,,nep/loan
-Belhare-Belhare-14_elbow-1,,Belhare-Belhare,14_elbow,kuino,kuino,k u i + n o,,Belhare,,,^k u i n o $,Belhare-Belhare,,,
-Belhare-Piple-14_elbow-1,,Belhare-Piple,14_elbow,kuino,kuino,k u i + n o,,Belhare,,,^k u i n o $,Belhare-Piple,,,
+Belhare-Belhare-14_elbow-1,,Belhare-Belhare,14_elbow,kuino,kuino,k u i + n o,,Belhare,,,^k u i n o $,Belhare-Belhare,,,nep/loan
+Belhare-Piple-14_elbow-1,,Belhare-Piple,14_elbow,kuino,kuino,k u i + n o,,Belhare,,,^k u i n o $,Belhare-Piple,,,nep/loan
 Belhare-Guthitar-14_elbow-2,,Belhare-Guthitar,14_elbow,kuino,kuino,k u i + n o,,Belhare,,,^k u i n o $,Belhare-Guthitar,,,
-Belhare-Rudrabari-14_elbow-1,,Belhare-Rudrabari,14_elbow,kuino,kuino,k u i + n o,,Belhare,,,^k u i n o $,Belhare-Rudrabari,,,
+Belhare-Rudrabari-14_elbow-1,,Belhare-Rudrabari,14_elbow,kuino,kuino,k u i + n o,,Belhare,,,^k u i n o $,Belhare-Rudrabari,,,nep/loan
 Chamling-Hadunge-14_elbow-1,,Chamling-Hadunge,14_elbow,tshilima,tshilima,tsʰ i + l i + m a,,Chamling,,,^tsh i l i m a $,Chamling-Hadunge,,,
 Chamling-Halesi-14_elbow-1,,Chamling-Halesi,14_elbow,tshilima,tshilima,tsʰ i + l i + m a,,Chamling,,,^tsh i l i m a $,Chamling-Halesi,,,
 Chamling-Ratanchha-14_elbow-1,,Chamling-Ratanchha,14_elbow,tshilima,tshilima,tsʰ i + l i + m a,,Chamling,,,^tsh i l i m a $,Chamling-Ratanchha,,,
@@ -2371,7 +2371,7 @@ Jirel-Chhetrapa-14_elbow-2,,Jirel-Chhetrapa,14_elbow,kuina/kuino,kuino,k u i + n
 Jirel-Yarsa-14_elbow-1,,Jirel-Yarsa,14_elbow,kuino,kuino,k u i + n o,,Jirel,,,^k u i n o $,Jirel-Yarsa,,,
 Athpahariya-Santang-140_near-1,,Athpahariya-Santang,140_near,wunna,wunna,w u n + n a,,Athpahariya,,,^w u nn a $,Athpahariya-Santang,,,
 Athpahariya-Tekunala-140_near-1,,Athpahariya-Tekunala,140_near,netai,netai,n e + t ai,,Athpahariya,,,^n e t ai$,Athpahariya-Tekunala,,,
-Belhare-Guthitar-140_near-1,,Belhare-Guthitar,140_near,nəjik,nəjik,n ə + j i k,,Athpahariya,,,^n ə j i k$,Belhare-Guthitar,,,
+Belhare-Guthitar-140_near-1,,Belhare-Guthitar,140_near,nəjik,nəjik,n ə + dz i k,,Athpahariya,,,^n ə j i k$,Belhare-Guthitar,,,
 Athpahariya-Khalde-140_near-1,,Athpahariya-Khalde,140_near,nataŋna,nataŋna,n a + t a ŋ + n a,,Athpahariya,,,^n a t a ŋn a $,Athpahariya-Khalde,,,
 Athpahariya-Hatiya-140_near-1,,Athpahariya-Hatiya,140_near,wunna,wunna,w u n + n a,,Athpahariya,,,^w u nn a $,Athpahariya-Hatiya,,,
 Bantawa-Khoku-140_near-1,,Bantawa-Khoku,140_near,oja,oja,o + dʒ a,,Bantawa,,,^o j a $,Bantawa-Khoku,,,
@@ -2381,8 +2381,8 @@ Bantawa-Timma-140_near-1,,Bantawa-Timma,140_near,oja,oja,o + dʒ a,,Bantawa,,,^o
 Bantawa-Okhre-140_near-1,,Bantawa-Okhre,140_near,oda,oda,o + d a,,Bantawa,,,^o d a $,Bantawa-Okhre,,,
 Belhare-Belhare-140_near-1,,Belhare-Belhare,140_near,naʔya,naʔya,n a + ʔ j a,,Belhare,,,^n a ʔ ya$,Belhare-Belhare,,,
 Belhare-Piple-140_near-1,,Belhare-Piple,140_near,inetto,inetto,i + n e t + t o,,Belhare,,,^i n e tt o $,Belhare-Piple,,,
-Belhare-Guthitar-140_near-2,,Belhare-Guthitar,140_near,nəjik,nəjik,n ə + j i k,,Belhare,,,^n ə j i k$,Belhare-Guthitar,,,
-Belhare-Rudrabari-140_near-1,,Belhare-Rudrabari,140_near,nəjik,nəjik,n ə + j i k,,Belhare,,,^n ə j i k$,Belhare-Rudrabari,,,
+Belhare-Guthitar-140_near-2,,Belhare-Guthitar,140_near,nəjik,nəjik,n ə + dz i k,,Belhare,,,^n ə j i k$,Belhare-Guthitar,,,
+Belhare-Rudrabari-140_near-1,,Belhare-Rudrabari,140_near,nəjik,nəjik,n ə + dz i k,,Belhare,,,^n ə j i k$,Belhare-Rudrabari,,,nep/loan
 Chamling-Hadunge-140_near-1,,Chamling-Hadunge,140_near,oɖako,oɖako,o + ɖ a + k o,,Chamling,,,^o ɖ a k o $,Chamling-Hadunge,,,
 Chamling-Halesi-140_near-1,,Chamling-Halesi,140_near,oɖako,oɖako,o + ɖ a + k o,,Chamling,,,^o ɖ a k o $,Chamling-Halesi,,,
 Chamling-Ratanchha-140_near-1,,Chamling-Ratanchha,140_near,oɖako,oɖako,o + ɖ a + k o,,Chamling,,,^o ɖ a k o $,Chamling-Ratanchha,,,
@@ -2433,7 +2433,7 @@ Bantawa-Okhre-141_far-1,,Bantawa-Okhre,141_far,hjani,hjani,h j a + n i,,Bantawa,
 Belhare-Belhare-141_far-1,,Belhare-Belhare,141_far,yoba,yoba,j o + b a,,Belhare,,,^yo b a $,Belhare-Belhare,,,
 Belhare-Piple-141_far-1,,Belhare-Piple,141_far,hiyuba,hiyuba,h i + j u + b a,,Belhare,,,^h iyu b a $,Belhare-Piple,,,
 Belhare-Guthitar-141_far-2,,Belhare-Guthitar,141_far,ṭadha,ṭadha,ʈ a + dʱ a,,Belhare,,,^ṭ a dh a $,Belhare-Guthitar,,,
-Belhare-Rudrabari-141_far-1,,Belhare-Rudrabari,141_far,ʈaɖa,ʈaɖa,ʈ a + ɖ a,,Belhare,,,^ʈ a ɖ a $,Belhare-Rudrabari,,,
+Belhare-Rudrabari-141_far-1,,Belhare-Rudrabari,141_far,ʈaɖa,ʈaɖa,ʈ a + ɖ a,,Belhare,,,^ʈ a ɖ a $,Belhare-Rudrabari,,,nep/loan
 Chamling-Hadunge-141_far-1,,Chamling-Hadunge,141_far,ɦjalo,ɦjalo,ɦ j a + l o,,Chamling,,,^ɦj a l o $,Chamling-Hadunge,,,
 Chamling-Halesi-141_far-1,,Chamling-Halesi,141_far,ɦjalo,ɦjalo,ɦ j a + l o,,Chamling,,,^ɦj a l o $,Chamling-Halesi,,,
 Chamling-Ratanchha-141_far-1,,Chamling-Ratanchha,141_far,ɦjalo,ɦjalo,ɦ j a + l o,,Chamling,,,^ɦj a l o $,Chamling-Ratanchha,,,
@@ -2589,7 +2589,7 @@ Bantawa-Thidingkha-144_heavy-1,,Bantawa-Thidingkha,144_heavy,ləjaŋwo,ləjaŋwo
 Bantawa-Timma-144_heavy-1,,Bantawa-Timma,144_heavy,gəruŋ,gəruŋ,g ə + r u ŋ,,Bantawa,,,^g ə r u ŋ$,Bantawa-Timma,,,loan/nep
 Bantawa-Okhre-144_heavy-1,,Bantawa-Okhre,144_heavy,thenma,thenma,tʰ e n + m a,,Bantawa,,,^th e nm a $,Bantawa-Okhre,,,
 Belhare-Belhare-144_heavy-1,,Belhare-Belhare,144_heavy,liʔuka,liʔuka,l i + ʔ u + k a,,Belhare,,,^l i ʔ u k a $,Belhare-Belhare,,,
-Belhare-Piple-144_heavy-1,,Belhare-Piple,144_heavy,liʔhiu,liʔhiu,l i ʔ + h i/j u,,Belhare,,,^l i ʔh iu$,Belhare-Piple,,,
+Belhare-Piple-144_heavy-1,,Belhare-Piple,144_heavy,liʔhiu,liʔhiu,l i ʔ + h j u,,Belhare,,,^l i ʔh iu$,Belhare-Piple,,,
 Belhare-Guthitar-144_heavy-2,,Belhare-Guthitar,144_heavy,yeika,yeika,j ei + k a,,Belhare,,,^yei k a $,Belhare-Guthitar,,,
 Belhare-Rudrabari-144_heavy-1,,Belhare-Rudrabari,144_heavy,liʔukha,liʔukha,l i + ʔ u + kʰ a,,Belhare,,,^l i ʔ u kh a $,Belhare-Rudrabari,,,
 Chamling-Hadunge-144_heavy-1,,Chamling-Hadunge,144_heavy,dhiseko,dhiseko,dʱ i + s e + k o,,Chamling,,,^dh i s e k o $,Chamling-Hadunge,,,
@@ -3012,7 +3012,7 @@ Bantawa-Thidingkha-151_one-1,,Bantawa-Thidingkha,151_one,ək,ək,ə k,,Bantawa,,
 Bantawa-Timma-151_one-1,,Bantawa-Timma,151_one,ək,ək,ə k,,Bantawa,,,^ə k$,Bantawa-Timma,,,
 Bantawa-Okhre-151_one-1,,Bantawa-Okhre,151_one,ɨk,ɨk,ɨ k,,Bantawa,,,^ɨ k$,Bantawa-Okhre,,,
 Belhare-Belhare-151_one-1,,Belhare-Belhare,151_one,ipok,ipok,i + p o k,,Belhare,,,^i p o k$,Belhare-Belhare,,,
-Belhare-Piple-151_one-1,,Belhare-Piple,151_one,igiɖ,igiɖ,i + g i + ɖ,,Belhare,,,^i g i ɖ $,Belhare-Piple,,,
+Belhare-Piple-151_one-1,,Belhare-Piple,151_one,igiɖ,igiɖ,i + g i ɖ,,Belhare,,,^i g i ɖ$,Belhare-Piple,,,
 Belhare-Guthitar-151_one-2,,Belhare-Guthitar,151_one,igira,igira,i + g i + r a,,Belhare,,,^i g i r a $,Belhare-Guthitar,,,
 Belhare-Rudrabari-151_one-1,,Belhare-Rudrabari,151_one,igira,igira,i + g i + r a,,Belhare,,,^i g i r a $,Belhare-Rudrabari,,,
 Chamling-Hadunge-151_one-1,,Chamling-Hadunge,151_one,iʈo,iʈo,i + ʈ o,,Chamling,,,^i ʈ o $,Chamling-Hadunge,,,
@@ -3163,10 +3163,10 @@ Bantawa-Lungin-154_four-1,,Bantawa-Lungin,154_four,car,car,tʃ a r,,Bantawa,,,^c
 Bantawa-Thidingkha-154_four-1,,Bantawa-Thidingkha,154_four,car,car,tʃ a r,,Bantawa,,,^c a r$,Bantawa-Thidingkha,,,nep/loan
 Bantawa-Timma-154_four-1,,Bantawa-Timma,154_four,repka,repka,r e p + k a,,Bantawa,,,^r e pk a $,Bantawa-Timma,,,
 Bantawa-Okhre-154_four-1,,Bantawa-Okhre,154_four,retka,retka,r e t + k a,,Bantawa,,,^r e tk a $,Bantawa-Okhre,,,
-Belhare-Belhare-154_four-1,,Belhare-Belhare,154_four,car,car,tʃ a r,,Belhare,,,^c a r$,Belhare-Belhare,,,
-Belhare-Piple-154_four-1,,Belhare-Piple,154_four,cargida,cargida,tʃ a r + g i + d a,,Belhare,,,^c a rg i d a $,Belhare-Piple,,,
+Belhare-Belhare-154_four-1,,Belhare-Belhare,154_four,car,car,tʃ a r,,Belhare,,,^c a r$,Belhare-Belhare,,,nep/loan
+Belhare-Piple-154_four-1,,Belhare-Piple,154_four,cargida,cargida,tʃ a r + g i + d a,,Belhare,,,^c a rg i d a $,Belhare-Piple,,,nep/loan
 Belhare-Guthitar-154_four-2,,Belhare-Guthitar,154_four,cargira,cargira,tʃ a r + g i + r a,,Belhare,,,^c a rg i r a $,Belhare-Guthitar,,,
-Belhare-Rudrabari-154_four-1,,Belhare-Rudrabari,154_four,cargira,cargira,tʃ a r + g i + r a,,Belhare,,,^c a rg i r a $,Belhare-Rudrabari,,,
+Belhare-Rudrabari-154_four-1,,Belhare-Rudrabari,154_four,cargira,cargira,tʃ a r + g i + r a,,Belhare,,,^c a rg i r a $,Belhare-Rudrabari,,,nep/loan
 Chamling-Hadunge-154_four-1,,Chamling-Hadunge,154_four,ljura,ljura,l j u + r a,,Chamling,,,^lj u r a $,Chamling-Hadunge,,,
 Chamling-Halesi-154_four-1,,Chamling-Halesi,154_four,ljura,ljura,l j u + r a,,Chamling,,,^lj u r a $,Chamling-Halesi,,,
 Chamling-Ratanchha-154_four-1,,Chamling-Ratanchha,154_four,ljura,ljura,l j u + r a,,Chamling,,,^lj u r a $,Chamling-Ratanchha,,,
@@ -3208,10 +3208,10 @@ Bantawa-Lungin-155_five-1,,Bantawa-Lungin,155_five,pac,pac,p a + ts,,Bantawa,,,^
 Bantawa-Thidingkha-155_five-1,,Bantawa-Thidingkha,155_five,pac,pac,p a + ts,,Bantawa,,,^p a c $,Bantawa-Thidingkha,,,nep/loan
 Bantawa-Timma-155_five-1,,Bantawa-Timma,155_five,pac,pac,p a + ts,,Bantawa,,,^p a c $,Bantawa-Timma,,,nep/loan
 Bantawa-Okhre-155_five-1,,Bantawa-Okhre,155_five,pac,pac,p a + ts,,Bantawa,,,^p a c $,Bantawa-Okhre,,,nep/loan
-Belhare-Belhare-155_five-1,,Belhare-Belhare,155_five,pãc,pãc,p ã + tʃ,,Belhare,,,^p ã c $,Belhare-Belhare,,,
-Belhare-Piple-155_five-1,,Belhare-Piple,155_five,pãcgida,pãcgida,p ã tʃ + g i + d a,,Belhare,,,^p ã cg i d a $,Belhare-Piple,,,
+Belhare-Belhare-155_five-1,,Belhare-Belhare,155_five,pãc,pãc,p ã + ts,,Belhare,,,^p ã c $,Belhare-Belhare,,,nep/loan
+Belhare-Piple-155_five-1,,Belhare-Piple,155_five,pãcgida,pãcgida,p ã ts + g i + d a,,Belhare,,,^p ã cg i d a $,Belhare-Piple,,,nep/loan
 Belhare-Guthitar-155_five-2,,Belhare-Guthitar,155_five,pãts,pãts,p ã + ts,,Belhare,,,^p ã ts $,Belhare-Guthitar,,,
-Belhare-Rudrabari-155_five-1,,Belhare-Rudrabari,155_five,pãc,pãc,p ã + tʃ,,Belhare,,,^p ã c $,Belhare-Rudrabari,,,
+Belhare-Rudrabari-155_five-1,,Belhare-Rudrabari,155_five,pãc,pãc,p ã + ts,,Belhare,,,^p ã c $,Belhare-Rudrabari,,,nep/loan
 Chamling-Hadunge-155_five-1,,Chamling-Hadunge,155_five,ŋara,ŋara,ŋ a + r a,,Chamling,,,^ŋ a r a $,Chamling-Hadunge,,,
 Chamling-Halesi-155_five-1,,Chamling-Halesi,155_five,ŋara,ŋara,ŋ a + r a,,Chamling,,,^ŋ a r a $,Chamling-Halesi,,,
 Chamling-Ratanchha-155_five-1,,Chamling-Ratanchha,155_five,ŋara,ŋara,ŋ a + r a,,Chamling,,,^ŋ a r a $,Chamling-Ratanchha,,,
@@ -3303,7 +3303,7 @@ Bantawa-Okhre-157_seven-1,,Bantawa-Okhre,157_seven,sat,sat,s a t,,Bantawa,,,^s a
 Belhare-Belhare-157_seven-1,,Belhare-Belhare,157_seven,sat,sat,s a t,,Belhare,,,^s a t$,Belhare-Belhare,,,
 Belhare-Piple-157_seven-1,,Belhare-Piple,157_seven,satgida,satgida,s a t g i + d a,,Belhare,,,^s a tg i d a $,Belhare-Piple,,,
 Belhare-Guthitar-157_seven-2,,Belhare-Guthitar,157_seven,sat,sat,s a t,,Belhare,,,^s a t$,Belhare-Guthitar,,,
-Belhare-Rudrabari-157_seven-1,,Belhare-Rudrabari,157_seven,sat,sat,s a t,,Belhare,,,^s a t$,Belhare-Rudrabari,,,
+Belhare-Rudrabari-157_seven-1,,Belhare-Rudrabari,157_seven,sat,sat,s a t,,Belhare,,,^s a t$,Belhare-Rudrabari,,,nep/loan
 Chamling-Hadunge-157_seven-1,,Chamling-Hadunge,157_seven,suka,suka,s u + k a,,Chamling,,,^s u k a $,Chamling-Hadunge,,,
 Chamling-Halesi-157_seven-1,,Chamling-Halesi,157_seven,suka,suka,s u + k a,,Chamling,,,^s u k a $,Chamling-Halesi,,,
 Chamling-Ratanchha-157_seven-1,,Chamling-Ratanchha,157_seven,suka,suka,s u + k a,,Chamling,,,^s u k a $,Chamling-Ratanchha,,,
@@ -3346,10 +3346,10 @@ Bantawa-Lungin-158_eight-1,,Bantawa-Lungin,158_eight,aṭh,aṭh,a ʈʰ,,Bantawa
 Bantawa-Thidingkha-158_eight-1,,Bantawa-Thidingkha,158_eight,aṭh,aṭh,a ʈʰ,,Bantawa,,,^a ṭh$,Bantawa-Thidingkha,,,nep/loan
 Bantawa-Timma-158_eight-1,,Bantawa-Timma,158_eight,aṭh,aṭh,a ʈʰ,,Bantawa,,,^a ṭh$,Bantawa-Timma,,,nep/loan
 Bantawa-Okhre-158_eight-1,,Bantawa-Okhre,158_eight,aṭh,aṭh,a ʈʰ,,Bantawa,,,^a ṭh$,Bantawa-Okhre,,,nep/loan
-Belhare-Belhare-158_eight-1,,Belhare-Belhare,158_eight,ath,ath,a tʰ,,Belhare,,,^a th$,Belhare-Belhare,,,
-Belhare-Piple-158_eight-1,,Belhare-Piple,158_eight,ath,ath,a tʰ,,Belhare,,,^a th$,Belhare-Piple,,,
+Belhare-Belhare-158_eight-1,,Belhare-Belhare,158_eight,ath,ath,a tʰ,,Belhare,,,^a th$,Belhare-Belhare,,,nep/loan
+Belhare-Piple-158_eight-1,,Belhare-Piple,158_eight,ath,ath,a tʰ,,Belhare,,,^a th$,Belhare-Piple,,,nep/loan
 Belhare-Guthitar-158_eight-2,,Belhare-Guthitar,158_eight,ath,ath,a tʰ,,Belhare,,,^a th$,Belhare-Guthitar,,,
-Belhare-Rudrabari-158_eight-1,,Belhare-Rudrabari,158_eight,ath,ath,a tʰ,,Belhare,,,^a th$,Belhare-Rudrabari,,,
+Belhare-Rudrabari-158_eight-1,,Belhare-Rudrabari,158_eight,ath,ath,a tʰ,,Belhare,,,^a th$,Belhare-Rudrabari,,,nep/loan
 Chamling-Hadunge-158_eight-1,,Chamling-Hadunge,158_eight,nuka,nuka,n u + k a,,Chamling,,,^n u k a $,Chamling-Hadunge,,,
 Chamling-Halesi-158_eight-1,,Chamling-Halesi,158_eight,nuka,nuka,n u + k a,,Chamling,,,^n u k a $,Chamling-Halesi,,,
 Chamling-Ratanchha-158_eight-1,,Chamling-Ratanchha,158_eight,nuka,nuka,n u + k a,,Chamling,,,^n u k a $,Chamling-Ratanchha,,,
@@ -3438,10 +3438,10 @@ Bantawa-Lungin-16_finger-1,,Bantawa-Lungin,16_finger,əmli,əmli,ə m + l i,,Ban
 Bantawa-Thidingkha-16_finger-1,,Bantawa-Thidingkha,16_finger,əmla,əmla,ə m + l a,,Bantawa,,,^ə ml a $,Bantawa-Thidingkha,,,nep/loan
 Bantawa-Timma-16_finger-1,,Bantawa-Timma,16_finger,əmla,əmla,ə m + l a,,Bantawa,,,^ə ml a $,Bantawa-Timma,,,nep/loan
 Bantawa-Okhre-16_finger-1,,Bantawa-Okhre,16_finger,əmli,əmli,ə m + l i,,Bantawa,,,^ə ml i $,Bantawa-Okhre,,,nep/loan
-Belhare-Belhare-16_finger-1,,Belhare-Belhare,16_finger,aŋgulik,aŋgulik,a ŋ + g u + l i k,,Belhare,,,^a ŋg u l i k$,Belhare-Belhare,,,
-Belhare-Piple-16_finger-1,,Belhare-Piple,16_finger,aŋgulik,aŋgulik,a ŋ + g u + l i k,,Belhare,,,^a ŋg u l i k$,Belhare-Piple,,,
+Belhare-Belhare-16_finger-1,,Belhare-Belhare,16_finger,aŋgulik,aŋgulik,a ŋ + g u + l i k,,Belhare,,,^a ŋg u l i k$,Belhare-Belhare,,,nep/loan
+Belhare-Piple-16_finger-1,,Belhare-Piple,16_finger,aŋgulik,aŋgulik,a ŋ + g u + l i k,,Belhare,,,^a ŋg u l i k$,Belhare-Piple,,,nep/loan
 Belhare-Guthitar-16_finger-2,,Belhare-Guthitar,16_finger,aŋguli,aŋguli,a ŋ + g u + l i,,Belhare,,,^a ŋg u l i $,Belhare-Guthitar,,,
-Belhare-Rudrabari-16_finger-1,,Belhare-Rudrabari,16_finger,aŋgulik,aŋgulik,a ŋ + g u + l i k,,Belhare,,,^a ŋg u l i k$,Belhare-Rudrabari,,,
+Belhare-Rudrabari-16_finger-1,,Belhare-Rudrabari,16_finger,aŋgulik,aŋgulik,a ŋ + g u + l i k,,Belhare,,,^a ŋg u l i k$,Belhare-Rudrabari,,,nep/loan
 Chamling-Hadunge-16_finger-1,,Chamling-Hadunge,16_finger,amla,amla,a m + l a,,Chamling,,,^a ml a $,Chamling-Hadunge,,,
 Chamling-Halesi-16_finger-1,,Chamling-Halesi,16_finger,amla,amla,a m + l a,,Chamling,,,^a ml a $,Chamling-Halesi,,,
 Chamling-Ratanchha-16_finger-1,,Chamling-Ratanchha,16_finger,tshusja,tshusja,tsʰ u + s j a,,Chamling,,,^tsh u sj a $,Chamling-Ratanchha,,,
@@ -3482,7 +3482,7 @@ Jirel-Yarsa-16_finger-1,,Jirel-Yarsa,16_finger,dzuku/ dzugu,dzuku,dz u + k u,,Ji
 Jirel-Yarsa-16_finger-2,,Jirel-Yarsa,16_finger,dzuku/ dzugu,dzugu,dz u + g u,,Jirel,,,^dz u g u $,Jirel-Yarsa,,,
 Athpahariya-Santang-160_ten-1,,Athpahariya-Santang,160_ten,dəs,dəs,d ə s,,Athpahariya,,,^d ə s$,Athpahariya-Santang,,,nep/loan
 Athpahariya-Tekunala-160_ten-1,,Athpahariya-Tekunala,160_ten,dəs,dəs,d ə s,,Athpahariya,,,^d ə s$,Athpahariya-Tekunala,,,nep/loan
-Belhare-Guthitar-160_ten-1,,Belhare-Guthitar,160_ten,dəs,dəs,d ə + s,,Athpahariya,,,^d ə s $,Belhare-Guthitar,,,
+Belhare-Guthitar-160_ten-1,,Belhare-Guthitar,160_ten,dəs,dəs,d ə s,,Athpahariya,,,^d ə s$,Belhare-Guthitar,,,
 Athpahariya-Khalde-160_ten-1,,Athpahariya-Khalde,160_ten,dəs,dəs,d ə s,,Athpahariya,,,^d ə s$,Athpahariya-Khalde,,,nep/loan
 Athpahariya-Hatiya-160_ten-1,,Athpahariya-Hatiya,160_ten,dəs,dəs,d ə s,,Athpahariya,,,^d ə s$,Athpahariya-Hatiya,,,nep/loan
 Bantawa-Khoku-160_ten-1,,Bantawa-Khoku,160_ten,dəs,dəs,d ə s,,Bantawa,,,^d ə s$,Bantawa-Khoku,,,nep/loan
@@ -3490,10 +3490,10 @@ Bantawa-Lungin-160_ten-1,,Bantawa-Lungin,160_ten,dəs,dəs,d ə s,,Bantawa,,,^d 
 Bantawa-Thidingkha-160_ten-1,,Bantawa-Thidingkha,160_ten,dəs,dəs,d ə s,,Bantawa,,,^d ə s$,Bantawa-Thidingkha,,,nep/loan
 Bantawa-Timma-160_ten-1,,Bantawa-Timma,160_ten,dəs,dəs,d ə s,,Bantawa,,,^d ə s$,Bantawa-Timma,,,nep/loan
 Bantawa-Okhre-160_ten-1,,Bantawa-Okhre,160_ten,dəs,dəs,d ə s,,Bantawa,,,^d ə s$,Bantawa-Okhre,,,nep/loan
-Belhare-Belhare-160_ten-1,,Belhare-Belhare,160_ten,dəs,dəs,d ə + s,,Belhare,,,^d ə s $,Belhare-Belhare,,,
-Belhare-Piple-160_ten-1,,Belhare-Piple,160_ten,dəs,dəs,d ə + s,,Belhare,,,^d ə s $,Belhare-Piple,,,
-Belhare-Guthitar-160_ten-2,,Belhare-Guthitar,160_ten,dəs,dəs,d ə + s,,Belhare,,,^d ə s $,Belhare-Guthitar,,,
-Belhare-Rudrabari-160_ten-1,,Belhare-Rudrabari,160_ten,dəs,dəs,d ə + s,,Belhare,,,^d ə s $,Belhare-Rudrabari,,,
+Belhare-Belhare-160_ten-1,,Belhare-Belhare,160_ten,dəs,dəs,d ə s,,Belhare,,,^d ə s$,Belhare-Belhare,,,nep/loan
+Belhare-Piple-160_ten-1,,Belhare-Piple,160_ten,dəs,dəs,d ə s,,Belhare,,,^d ə s$,Belhare-Piple,,,nep/loan
+Belhare-Guthitar-160_ten-2,,Belhare-Guthitar,160_ten,dəs,dəs,d ə s,,Belhare,,,^d ə s$,Belhare-Guthitar,,,
+Belhare-Rudrabari-160_ten-1,,Belhare-Rudrabari,160_ten,dəs,dəs,d ə s,,Belhare,,,^d ə s$,Belhare-Rudrabari,,,nep/loan
 Chamling-Hadunge-160_ten-1,,Chamling-Hadunge,160_ten,iknam,iknam,i k + n a m,,Chamling,,,^i kn a m$,Chamling-Hadunge,,,
 Chamling-Halesi-160_ten-1,,Chamling-Halesi,160_ten,iknam,iknam,i k + n a m,,Chamling,,,^i kn a m$,Chamling-Halesi,,,
 Chamling-Ratanchha-160_ten-1,,Chamling-Ratanchha,160_ten,iknam,iknam,i k + n a m,,Chamling,,,^i kn a m$,Chamling-Ratanchha,,,
@@ -3538,10 +3538,10 @@ Bantawa-Lungin-161_eleven-1,,Bantawa-Lungin,161_eleven,egharə,egharə,e + gʱ a
 Bantawa-Thidingkha-161_eleven-1,,Bantawa-Thidingkha,161_eleven,egharə,egharə,e + gʱ a + r ə,,Bantawa,,,^e gh a r ə $,Bantawa-Thidingkha,,,nep/loan
 Bantawa-Timma-161_eleven-1,,Bantawa-Timma,161_eleven,egharə,egharə,e + gʱ a + r ə,,Bantawa,,,^e gh a r ə $,Bantawa-Timma,,,nep/loan
 Bantawa-Okhre-161_eleven-1,,Bantawa-Okhre,161_eleven,egharə,egharə,e + gʱ a + r ə,,Bantawa,,,^e gh a r ə $,Bantawa-Okhre,,,nep/loan
-Belhare-Belhare-161_eleven-1,,Belhare-Belhare,161_eleven,egarə,egarə,e + g a + r ə,,Belhare,,,^e g a r ə $,Belhare-Belhare,,,
-Belhare-Piple-161_eleven-1,,Belhare-Piple,161_eleven,egarə,egarə,e + g a + r ə,,Belhare,,,^e g a r ə $,Belhare-Piple,,,
+Belhare-Belhare-161_eleven-1,,Belhare-Belhare,161_eleven,egarə,egarə,e + g a + r ə,,Belhare,,,^e g a r ə $,Belhare-Belhare,,,nep/loan
+Belhare-Piple-161_eleven-1,,Belhare-Piple,161_eleven,egarə,egarə,e + g a + r ə,,Belhare,,,^e g a r ə $,Belhare-Piple,,,nep/loan
 Belhare-Guthitar-161_eleven-2,,Belhare-Guthitar,161_eleven,egarə,egarə,e + g a + r ə,,Belhare,,,^e g a r ə $,Belhare-Guthitar,,,
-Belhare-Rudrabari-161_eleven-1,,Belhare-Rudrabari,161_eleven,egarə,egarə,e + g a + r ə,,Belhare,,,^e g a r ə $,Belhare-Rudrabari,,,
+Belhare-Rudrabari-161_eleven-1,,Belhare-Rudrabari,161_eleven,egarə,egarə,e + g a + r ə,,Belhare,,,^e g a r ə $,Belhare-Rudrabari,,,nep/loan
 Chamling-Hadunge-161_eleven-1,,Chamling-Hadunge,161_eleven,ikik,ikik,i + k i + k,,Chamling,,,^i k i k $,Chamling-Hadunge,,,
 Chamling-Halesi-161_eleven-1,,Chamling-Halesi,161_eleven,ikik,ikik,i + k i + k,,Chamling,,,^i k i k $,Chamling-Halesi,,,
 Chamling-Ratanchha-161_eleven-1,,Chamling-Ratanchha,161_eleven,ikik,ikik,i + k i + k,,Chamling,,,^i k i k $,Chamling-Ratanchha,,,
@@ -3584,10 +3584,10 @@ Bantawa-Lungin-162_twelve-1,,Bantawa-Lungin,162_twelve,barə,barə,b a + r ə,,B
 Bantawa-Thidingkha-162_twelve-1,,Bantawa-Thidingkha,162_twelve,barə,barə,b a + r ə,,Bantawa,,,^b a r ə $,Bantawa-Thidingkha,,,loan/nep
 Bantawa-Timma-162_twelve-1,,Bantawa-Timma,162_twelve,barə,barə,b a + r ə,,Bantawa,,,^b a r ə $,Bantawa-Timma,,,loan/nep
 Bantawa-Okhre-162_twelve-1,,Bantawa-Okhre,162_twelve,barə,barə,b a + r ə,,Bantawa,,,^b a r ə $,Bantawa-Okhre,,,loan/nep
-Belhare-Belhare-162_twelve-1,,Belhare-Belhare,162_twelve,barə,barə,b a + r ə,,Belhare,,,^b a r ə $,Belhare-Belhare,,,
-Belhare-Piple-162_twelve-1,,Belhare-Piple,162_twelve,barə,barə,b a + r ə,,Belhare,,,^b a r ə $,Belhare-Piple,,,
+Belhare-Belhare-162_twelve-1,,Belhare-Belhare,162_twelve,barə,barə,b a + r ə,,Belhare,,,^b a r ə $,Belhare-Belhare,,,nep/loan
+Belhare-Piple-162_twelve-1,,Belhare-Piple,162_twelve,barə,barə,b a + r ə,,Belhare,,,^b a r ə $,Belhare-Piple,,,nep/loan
 Belhare-Guthitar-162_twelve-2,,Belhare-Guthitar,162_twelve,barə,barə,b a + r ə,,Belhare,,,^b a r ə $,Belhare-Guthitar,,,
-Belhare-Rudrabari-162_twelve-1,,Belhare-Rudrabari,162_twelve,barə,barə,b a + r ə,,Belhare,,,^b a r ə $,Belhare-Rudrabari,,,
+Belhare-Rudrabari-162_twelve-1,,Belhare-Rudrabari,162_twelve,barə,barə,b a + r ə,,Belhare,,,^b a r ə $,Belhare-Rudrabari,,,nep/loan
 Chamling-Hadunge-162_twelve-1,,Chamling-Hadunge,162_twelve,ikɦaka,ikɦaka,i k + ɦ a + k a,,Chamling,,,^i kɦ a k a $,Chamling-Hadunge,,,
 Chamling-Halesi-162_twelve-1,,Chamling-Halesi,162_twelve,ikɦaka,ikɦaka,i k + ɦ a + k a,,Chamling,,,^i kɦ a k a $,Chamling-Halesi,,,
 Chamling-Ratanchha-162_twelve-1,,Chamling-Ratanchha,162_twelve,ikɦaka,ikɦaka,i k + ɦ a + k a,,Chamling,,,^i kɦ a k a $,Chamling-Ratanchha,,,
@@ -3622,7 +3622,7 @@ Jirel-Chhetrapa-162_twelve-2,,Jirel-Chhetrapa,162_twelve,tsjuŋŋi / tsuŋŋi,ts
 Jirel-Yarsa-162_twelve-1,,Jirel-Yarsa,162_twelve,.tuiŋŋi,.tuiŋŋi,t u i ŋ + ŋ i,,Jirel,,,^.t u i ŋŋ i $,Jirel-Yarsa,,,
 Athpahariya-Santang-163_twenty-1,,Athpahariya-Santang,163_twenty,bis,bis,b i s,,Athpahariya,,,^b i s$,Athpahariya-Santang,,,loan/nep
 Athpahariya-Tekunala-163_twenty-1,,Athpahariya-Tekunala,163_twenty,bis,bis,b i s,,Athpahariya,,,^b i s$,Athpahariya-Tekunala,,,loan/nep
-Belhare-Guthitar-163_twenty-1,,Belhare-Guthitar,163_twenty,bis,bis,b i + s,,Athpahariya,,,^b i s $,Belhare-Guthitar,,,
+Belhare-Guthitar-163_twenty-1,,Belhare-Guthitar,163_twenty,bis,bis,b i s,,Athpahariya,,,^b i s$,Belhare-Guthitar,,,
 Athpahariya-Khalde-163_twenty-1,,Athpahariya-Khalde,163_twenty,bis,bis,b i s,,Athpahariya,,,^b i s$,Athpahariya-Khalde,,,loan/nep
 Athpahariya-Hatiya-163_twenty-1,,Athpahariya-Hatiya,163_twenty,bis,bis,b i s,,Athpahariya,,,^b i s$,Athpahariya-Hatiya,,,loan/nep
 Bantawa-Khoku-163_twenty-1,,Bantawa-Khoku,163_twenty,bis,bis,b i s,,Bantawa,,,^b i s$,Bantawa-Khoku,,,loan/nep
@@ -3630,10 +3630,10 @@ Bantawa-Lungin-163_twenty-1,,Bantawa-Lungin,163_twenty,bis,bis,b i s,,Bantawa,,,
 Bantawa-Thidingkha-163_twenty-1,,Bantawa-Thidingkha,163_twenty,bis,bis,b i s,,Bantawa,,,^b i s$,Bantawa-Thidingkha,,,loan/nep
 Bantawa-Timma-163_twenty-1,,Bantawa-Timma,163_twenty,bis,bis,b i s,,Bantawa,,,^b i s$,Bantawa-Timma,,,loan/nep
 Bantawa-Okhre-163_twenty-1,,Bantawa-Okhre,163_twenty,bis,bis,b i s,,Bantawa,,,^b i s$,Bantawa-Okhre,,,loan/nep
-Belhare-Belhare-163_twenty-1,,Belhare-Belhare,163_twenty,bis,bis,b i + s,,Belhare,,,^b i s $,Belhare-Belhare,,,
-Belhare-Piple-163_twenty-1,,Belhare-Piple,163_twenty,bis,bis,b i + s,,Belhare,,,^b i s $,Belhare-Piple,,,
-Belhare-Guthitar-163_twenty-2,,Belhare-Guthitar,163_twenty,bis,bis,b i + s,,Belhare,,,^b i s $,Belhare-Guthitar,,,
-Belhare-Rudrabari-163_twenty-1,,Belhare-Rudrabari,163_twenty,bis,bis,b i + s,,Belhare,,,^b i s $,Belhare-Rudrabari,,,
+Belhare-Belhare-163_twenty-1,,Belhare-Belhare,163_twenty,bis,bis,b i s,,Belhare,,,^b i s$,Belhare-Belhare,,,loan/nep
+Belhare-Piple-163_twenty-1,,Belhare-Piple,163_twenty,bis,bis,b i s,,Belhare,,,^b i s$,Belhare-Piple,,,loan/nep
+Belhare-Guthitar-163_twenty-2,,Belhare-Guthitar,163_twenty,bis,bis,b i s,,Belhare,,,^b i s$,Belhare-Guthitar,,,
+Belhare-Rudrabari-163_twenty-1,,Belhare-Rudrabari,163_twenty,bis,bis,b i s,,Belhare,,,^b i s$,Belhare-Rudrabari,,,loan/nep
 Chamling-Hadunge-163_twenty-1,,Chamling-Hadunge,163_twenty,ɦanam,ɦanam,ɦ a + n a m,,Chamling,,,^ɦ a n a m$,Chamling-Hadunge,,,
 Chamling-Halesi-163_twenty-1,,Chamling-Halesi,163_twenty,ɦanam,ɦanam,ɦ a + n a m,,Chamling,,,^ɦ a n a m$,Chamling-Halesi,,,
 Chamling-Ratanchha-163_twenty-1,,Chamling-Ratanchha,163_twenty,ɦanam,ɦanam,ɦ a + n a m,,Chamling,,,^ɦ a n a m$,Chamling-Ratanchha,,,
@@ -3670,7 +3670,7 @@ Jirel-Yarsa-163_twenty-1,,Jirel-Yarsa,163_twenty,khaldzik/ səedzik,khaldzik,kʰ
 Jirel-Yarsa-163_twenty-2,,Jirel-Yarsa,163_twenty,khaldzik/ səedzik,səedzik,s ə e + dz i + k,,Jirel,,,^s ə e dz i k $,Jirel-Yarsa,,,
 Athpahariya-Santang-164_onehundred-1,,Athpahariya-Santang,164_onehundred,eksəy,eksəy,e k + s əi,,Athpahariya,,,^e ks əy $,Athpahariya-Santang,,,loan/nep
 Athpahariya-Tekunala-164_onehundred-1,,Athpahariya-Tekunala,164_onehundred,eksəy,eksəy,e k + s əi,,Athpahariya,,,^e ks əy $,Athpahariya-Tekunala,,,loan/nep
-Belhare-Guthitar-164_onehundred-1,,Belhare-Guthitar,164_onehundred,eksəy,eksəy,e k + s əy,,Athpahariya,,,^e ks əy $,Belhare-Guthitar,,,
+Belhare-Guthitar-164_onehundred-1,,Belhare-Guthitar,164_onehundred,eksəy,eksəy,e k + s əi,,Athpahariya,,,^e ks əy $,Belhare-Guthitar,,,
 Athpahariya-Khalde-164_onehundred-1,,Athpahariya-Khalde,164_onehundred,eksəy,eksəy,e k + s əi,,Athpahariya,,,^e ks əy $,Athpahariya-Khalde,,,loan/nep
 Athpahariya-Hatiya-164_onehundred-1,,Athpahariya-Hatiya,164_onehundred,eksəy,eksəy,e k + s əi,,Athpahariya,,,^e ks əy $,Athpahariya-Hatiya,,,loan/nep
 Bantawa-Khoku-164_onehundred-1,,Bantawa-Khoku,164_onehundred,eksəye,eksəye,e k + s ə j e,,Bantawa,,,^e ks əye$,Bantawa-Khoku,,,nep/loan
@@ -3678,10 +3678,10 @@ Bantawa-Lungin-164_onehundred-1,,Bantawa-Lungin,164_onehundred,eksəye,eksəye,e
 Bantawa-Thidingkha-164_onehundred-1,,Bantawa-Thidingkha,164_onehundred,eksəye,eksəye,e k + s ə j e,,Bantawa,,,^e ks əye$,Bantawa-Thidingkha,,,nep/loan
 Bantawa-Timma-164_onehundred-1,,Bantawa-Timma,164_onehundred,eksəye,eksəye,e k + s ə j e,,Bantawa,,,^e ks əye$,Bantawa-Timma,,,nep/loan
 Bantawa-Okhre-164_onehundred-1,,Bantawa-Okhre,164_onehundred,eksəye,eksəye,e k + s ə j e,,Bantawa,,,^e ks əye$,Bantawa-Okhre,,,nep/loan
-Belhare-Belhare-164_onehundred-1,,Belhare-Belhare,164_onehundred,eksəy,eksəy,e k + s əy,,Belhare,,,^e ks əy $,Belhare-Belhare,,,
-Belhare-Piple-164_onehundred-1,,Belhare-Piple,164_onehundred,eksəy,eksəy,e k + s əy,,Belhare,,,^e ks əy $,Belhare-Piple,,,
-Belhare-Guthitar-164_onehundred-2,,Belhare-Guthitar,164_onehundred,eksəy,eksəy,e k + s əy,,Belhare,,,^e ks əy $,Belhare-Guthitar,,,
-Belhare-Rudrabari-164_onehundred-1,,Belhare-Rudrabari,164_onehundred,eksəy,eksəy,e k + s əy,,Belhare,,,^e ks əy $,Belhare-Rudrabari,,,
+Belhare-Belhare-164_onehundred-1,,Belhare-Belhare,164_onehundred,eksəy,eksəy,e k + s əi,,Belhare,,,^e ks əy $,Belhare-Belhare,,,nep/loan
+Belhare-Piple-164_onehundred-1,,Belhare-Piple,164_onehundred,eksəy,eksəy,e k + s əi,,Belhare,,,^e ks əy $,Belhare-Piple,,,nep/loan
+Belhare-Guthitar-164_onehundred-2,,Belhare-Guthitar,164_onehundred,eksəy,eksəy,e k + s əi,,Belhare,,,^e ks əy $,Belhare-Guthitar,,,
+Belhare-Rudrabari-164_onehundred-1,,Belhare-Rudrabari,164_onehundred,eksəy,eksəy,e k + s əi,,Belhare,,,^e ks əy $,Belhare-Rudrabari,,,nep/loan
 Chamling-Hadunge-164_onehundred-1,,Chamling-Hadunge,164_onehundred,namranam,namranam,n a m + r a + n a m,,Chamling,,,^n a mr a n a m$,Chamling-Hadunge,,,
 Chamling-Halesi-164_onehundred-1,,Chamling-Halesi,164_onehundred,namranam,namranam,n a m + r a + n a m,,Chamling,,,^n a mr a n a m$,Chamling-Halesi,,,
 Chamling-Ratanchha-164_onehundred-1,,Chamling-Ratanchha,164_onehundred,namranam,namranam,n a m + r a + n a m,,Chamling,,,^n a mr a n a m$,Chamling-Ratanchha,,,
@@ -4180,7 +4180,7 @@ Bantawa-Timma-173_these-1,,Bantawa-Timma,173_these,okkoci,okkoci,o k + k o + ts 
 Bantawa-Okhre-173_these-1,,Bantawa-Okhre,173_these,okkoci,okkoci,o k + k o + ts i,,Bantawa,,,^o kk o c i $,Bantawa-Okhre,,,
 Belhare-Belhare-173_these-1,,Belhare-Belhare,173_these,inkha,inkha,i n + kʰ a,,Belhare,,,^i nkh a $,Belhare-Belhare,,,
 Belhare-Piple-173_these-1,,Belhare-Piple,173_these,nakha,nakha,n a + kʰ a,,Belhare,,,^n a kh a $,Belhare-Piple,,,
-Belhare-Guthitar-173_these-2,,Belhare-Guthitar,173_these,nakhachi,nakhachi,n a + kʰ a + tʃʰ i,,Belhare,,,^n a kh a ch i $,Belhare-Guthitar,,,
+Belhare-Guthitar-173_these-2,,Belhare-Guthitar,173_these,nakhachi,nakhachi,n a + kʰ a + tsʰ i,,Belhare,,,^n a kh a ch i $,Belhare-Guthitar,,,
 Belhare-Rudrabari-173_these-1,,Belhare-Rudrabari,173_these,nakha,nakha,n a + kʰ a,,Belhare,,,^n a kh a $,Belhare-Rudrabari,,,
 Chamling-Hadunge-173_these-1,,Chamling-Hadunge,173_these,okotsi,okotsi,o + k o + ts i,,Chamling,,,^o k o ts i $,Chamling-Hadunge,,,
 Chamling-Halesi-173_these-1,,Chamling-Halesi,173_these,okotsi,okotsi,o + k o + ts i,,Chamling,,,^o k o ts i $,Chamling-Halesi,,,
@@ -4232,10 +4232,10 @@ Bantawa-Lungin-174_those-1,,Bantawa-Lungin,174_those,moci,moci,m o + ts i,,Banta
 Bantawa-Thidingkha-174_those-1,,Bantawa-Thidingkha,174_those,mokkoci,mokkoci,m o k + k o + ts i,,Bantawa,,,^m o kk o c i $,Bantawa-Thidingkha,,,
 Bantawa-Timma-174_those-1,,Bantawa-Timma,174_those,mokoci,mokoci,m o + k o + ts i,,Bantawa,,,^m o k o c i $,Bantawa-Timma,,,
 Bantawa-Okhre-174_those-1,,Bantawa-Okhre,174_those,mokoci,mokoci,m o + k o + ts i,,Bantawa,,,^m o k o c i $,Bantawa-Okhre,,,
-Belhare-Belhare-174_those-1,,Belhare-Belhare,174_those,unchik,unchik,u n + tʃʰ i k,,Belhare,,,^u nch i k$,Belhare-Belhare,,,
+Belhare-Belhare-174_those-1,,Belhare-Belhare,174_those,unchik,unchik,u n + tsʰ i k,,Belhare,,,^u nch i k$,Belhare-Belhare,,,
 Belhare-Piple-174_those-1,,Belhare-Piple,174_those,ukha,ukha,u + kʰ a,,Belhare,,,^u kh a $,Belhare-Piple,,,
-Belhare-Guthitar-174_those-2,,Belhare-Guthitar,174_those,unchik,unchik,u n + tʃʰ i k,,Belhare,,,^u nch i k$,Belhare-Guthitar,,,
-Belhare-Rudrabari-174_those-1,,Belhare-Rudrabari,174_those,unchik,unchik,u n + tʃʰ i k,,Belhare,,,^u nch i k$,Belhare-Rudrabari,,,
+Belhare-Guthitar-174_those-2,,Belhare-Guthitar,174_those,unchik,unchik,u n + tsʰ i k,,Belhare,,,^u nch i k$,Belhare-Guthitar,,,
+Belhare-Rudrabari-174_those-1,,Belhare-Rudrabari,174_those,unchik,unchik,u n + tsʰ i k,,Belhare,,,^u nch i k$,Belhare-Rudrabari,,,
 Chamling-Hadunge-174_those-1,,Chamling-Hadunge,174_those,khutsi,khutsi,kʰ u + ts i,,Chamling,,,^kh u ts i $,Chamling-Hadunge,,,
 Chamling-Halesi-174_those-1,,Chamling-Halesi,174_those,khutsi,khutsi,kʰ u + ts i,,Chamling,,,^kh u ts i $,Chamling-Halesi,,,
 Chamling-Ratanchha-174_those-1,,Chamling-Ratanchha,174_those,khutsi,khutsi,kʰ u + ts i,,Chamling,,,^kh u ts i $,Chamling-Ratanchha,,,
@@ -4280,9 +4280,9 @@ Bantawa-Thidingkha-175_same-1,,Bantawa-Thidingkha,175_same,əkṭeci,əkṭeci,�
 Bantawa-Timma-175_same-1,,Bantawa-Timma,175_same,əkṭeci,əkṭeci,ə k + ʈ e + ts i,,Bantawa,,,^ə kṭ e c i $,Bantawa-Timma,,,
 Bantawa-Okhre-175_same-1,,Bantawa-Okhre,175_same,əgniwa,əgniwa,ə g + n i + w a,,Bantawa,,,^ə gn i w a $,Bantawa-Okhre,,,
 Belhare-Belhare-175_same-1,,Belhare-Belhare,175_same,ikheʔwaɖo,ikheʔwaɖo,i + kʰ e ʔ + w a + ɖ o,,Belhare,,,^i kh e ʔw a ɖ o $,Belhare-Belhare,,,
-Belhare-Piple-175_same-1,,Belhare-Piple,175_same,inacha,inacha,i + n a + tʃʰ a,,Belhare,,,^i n a ch a $,Belhare-Piple,,,
+Belhare-Piple-175_same-1,,Belhare-Piple,175_same,inacha,inacha,i + n a + tsʰ a,,Belhare,,,^i n a ch a $,Belhare-Piple,,,
 Belhare-Guthitar-175_same-2,,Belhare-Guthitar,175_same,inaro,inaro,i + n a + r o,,Belhare,,,^i n a r o $,Belhare-Guthitar,,,
-Belhare-Rudrabari-175_same-1,,Belhare-Rudrabari,175_same,unchikuncha,unchikuncha,u n + tʃʰ i + k u n + tʃʰ a,,Belhare,,,^u nch i k u nch a $,Belhare-Rudrabari,,,
+Belhare-Rudrabari-175_same-1,,Belhare-Rudrabari,175_same,unchikuncha,unchikuncha,u n + tsʰ i + k u n + tsʰ a,,Belhare,,,^u nch i k u nch a $,Belhare-Rudrabari,,,
 Chamling-Hadunge-175_same-1,,Chamling-Hadunge,175_same,tsiko,tsiko,ts i + k o,,Chamling,,,^ts i k o $,Chamling-Hadunge,,,
 Chamling-Halesi-175_same-1,,Chamling-Halesi,175_same,tsiko,tsiko,ts i + k o,,Chamling,,,^ts i k o $,Chamling-Halesi,,,
 Chamling-Ratanchha-175_same-1,,Chamling-Ratanchha,175_same,tsiko,tsiko,ts i + k o,,Chamling,,,^ts i k o $,Chamling-Ratanchha,,,
@@ -4328,10 +4328,10 @@ Bantawa-Lungin-176_different-1,,Bantawa-Lungin,176_different,oṭoŋninno,oṭo�
 Bantawa-Thidingkha-176_different-1,,Bantawa-Thidingkha,176_different,oṭoŋninno,oṭoŋninno,o + ʈ o ŋ + n i n + n o,,Bantawa,,,^o ṭ o ŋn i nn o $,Bantawa-Thidingkha,,,
 Bantawa-Timma-176_different-1,,Bantawa-Timma,176_different,phərək,phərək,pʰ ə + r ə k,,Bantawa,,,^ph ə r ə k$,Bantawa-Timma,,,nep/loan
 Bantawa-Okhre-176_different-1,,Bantawa-Okhre,176_different,oṭoŋninno,oṭoŋninno,o + ʈ o ŋ + n i n + n o,,Bantawa,,,^o ṭ o ŋn i nn o $,Bantawa-Okhre,,,
-Belhare-Belhare-176_different-1,,Belhare-Belhare,176_different,phərək,phərək,pʰ ə + r ə k,,Belhare,,,^ph ə r ə k$,Belhare-Belhare,,,
-Belhare-Piple-176_different-1,,Belhare-Piple,176_different,phərək,phərək,pʰ ə + r ə k,,Belhare,,,^ph ə r ə k$,Belhare-Piple,,,
+Belhare-Belhare-176_different-1,,Belhare-Belhare,176_different,phərək,phərək,pʰ ə + r ə k,,Belhare,,,^ph ə r ə k$,Belhare-Belhare,,,nep/loan
+Belhare-Piple-176_different-1,,Belhare-Piple,176_different,phərək,phərək,pʰ ə + r ə k,,Belhare,,,^ph ə r ə k$,Belhare-Piple,,,nep/loan
 Belhare-Guthitar-176_different-2,,Belhare-Guthitar,176_different,makhak,makhak,m a + kʰ a k,,Belhare,,,^m a kh a k$,Belhare-Guthitar,,,
-Belhare-Rudrabari-176_different-1,,Belhare-Rudrabari,176_different,ʈaʈaro,ʈaʈaro,ʈ a ʈ a + r o,,Belhare,,,^ʈ a ʈ a r o $,Belhare-Rudrabari,,,
+Belhare-Rudrabari-176_different-1,,Belhare-Rudrabari,176_different,ʈaʈaro,ʈaʈaro,ʈ a + ʈ a + r o,,Belhare,,,^ʈaʈaro $,Belhare-Rudrabari,,,
 Chamling-Hadunge-176_different-1,,Chamling-Hadunge,176_different,khalkhal,khalkhal,kʰ a l + kʰ a + l,,Chamling,,,^kh a lkh a l $,Chamling-Hadunge,,,
 Chamling-Halesi-176_different-1,,Chamling-Halesi,176_different,khalkhal,khalkhal,kʰ a l + kʰ a + l,,Chamling,,,^kh a lkh a l $,Chamling-Halesi,,,
 Chamling-Ratanchha-176_different-1,,Chamling-Ratanchha,176_different,khalkhal,khalkhal,kʰ a l + kʰ a + l,,Chamling,,,^kh a lkh a l $,Chamling-Ratanchha,,,
@@ -4426,7 +4426,7 @@ Jirel-Chhetrapa-177_whole-2,,Jirel-Chhetrapa,177_whole,gaŋa /gaŋe,gaŋe,g a + 
 Jirel-Yarsa-177_whole-1,,Jirel-Yarsa,177_whole,gaŋaraŋ,gaŋaraŋ,g a + ŋ a + r a + ŋ,,Jirel,,,^g a ŋ a r a ŋ $,Jirel-Yarsa,,,
 Athpahariya-Santang-178_broken-1,,Athpahariya-Santang,178_broken,heɖana,heɖana,h e + ɖ a + n a,,Athpahariya,,,^h e ɖ a n a $,Athpahariya-Santang,,,
 Athpahariya-Tekunala-178_broken-1,,Athpahariya-Tekunala,178_broken,heɖese,heɖese,h e + ɖ e + s e,,Athpahariya,,,^h e ɖ e s e $,Athpahariya-Tekunala,,,
-Belhare-Guthitar-178_broken-1,,Belhare-Guthitar,178_broken,heṭkhare,heṭkhare,h e ʈ kh a + r e,,Athpahariya,,,^h e ṭkh a r e $,Belhare-Guthitar,,,
+Belhare-Guthitar-178_broken-1,,Belhare-Guthitar,178_broken,heṭkhare,heṭkhare,h e ʈ kʰ a + r e,,Athpahariya,,,^h e ṭkh a r e $,Belhare-Guthitar,,,
 Athpahariya-Khalde-178_broken-1,,Athpahariya-Khalde,178_broken,heɖana,heɖana,h e + ɖ a + n a,,Athpahariya,,,^h e ɖ a n a $,Athpahariya-Khalde,,,
 Athpahariya-Hatiya-178_broken-1,,Athpahariya-Hatiya,178_broken,heɖa,heɖa,h e + ɖ a,,Athpahariya,,,^h e ɖ a $,Athpahariya-Hatiya,,,
 Bantawa-Khoku-178_broken-1,,Bantawa-Khoku,178_broken,kerakhara,kerakhara,k e + r a + kʰ a + r a,,Bantawa,,,^k e r a kh a r a $,Bantawa-Khoku,,,
@@ -4434,10 +4434,10 @@ Bantawa-Lungin-178_broken-1,,Bantawa-Lungin,178_broken,kerawa,kerawa,k e + r a +
 Bantawa-Thidingkha-178_broken-1,,Bantawa-Thidingkha,178_broken,kerawa,kerawa,k e + r a + w a,,Bantawa,,,^k e r a w a $,Bantawa-Thidingkha,,,
 Bantawa-Timma-178_broken-1,,Bantawa-Timma,178_broken,kerawa,kerawa,k e + r a + w a,,Bantawa,,,^k e r a w a $,Bantawa-Timma,,,
 Bantawa-Okhre-178_broken-1,,Bantawa-Okhre,178_broken,kerawa,kerawa,k e + r a + w a,,Bantawa,,,^k e r a w a $,Bantawa-Okhre,,,
-Belhare-Belhare-178_broken-1,,Belhare-Belhare,178_broken,heiʔyãhã,heiʔyãhã,h ei + ʔ j ã + h ã,,Belhare,,,^h ei ʔ yã h ã $,Belhare-Belhare,,,
+Belhare-Belhare-178_broken-1,,Belhare-Belhare,178_broken,heiʔyãhã,heiʔyãhã,h ei ʔ + j ã + h ã,,Belhare,,,^heiʔyãhã $,Belhare-Belhare,,,
 Belhare-Piple-178_broken-1,,Belhare-Piple,178_broken,heʔṭkhare,heʔṭkhare,h e ʔ ʈ + k a + r e,,Belhare,,,^h e ʔṭkh a r e $,Belhare-Piple,,,
-Belhare-Guthitar-178_broken-2,,Belhare-Guthitar,178_broken,heṭkhare,heṭkhare,h e ʈ kh a + r e,,Belhare,,,^h e ṭkh a r e $,Belhare-Guthitar,,,
-Belhare-Rudrabari-178_broken-1,,Belhare-Rudrabari,178_broken,heiʔyãhã,heiʔyãhã,h ei + ʔ j ã + h ã,,Belhare,,,^h ei ʔ yã h ã $,Belhare-Rudrabari,,,
+Belhare-Guthitar-178_broken-2,,Belhare-Guthitar,178_broken,heṭkhare,heṭkhare,h e ʈ kʰ a + r e,,Belhare,,,^h e ṭkh a r e $,Belhare-Guthitar,,,
+Belhare-Rudrabari-178_broken-1,,Belhare-Rudrabari,178_broken,heiʔyãhã,heiʔyãhã,h ei ʔ + j ã + h ã,,Belhare,,,^heiʔyãhã $,Belhare-Rudrabari,,,
 Chamling-Hadunge-178_broken-1,,Chamling-Hadunge,178_broken,khleʈako,khleʈako,kʰ l e + ʈ a + k o,,Chamling,,,^khl e ʈ a k o $,Chamling-Hadunge,,,
 Chamling-Halesi-178_broken-1,,Chamling-Halesi,178_broken,khleʈako,khleʈako,kʰ l e + ʈ a + k o,,Chamling,,,^khl e ʈ a k o $,Chamling-Halesi,,,
 Chamling-Ratanchha-178_broken-1,,Chamling-Ratanchha,178_broken,khleʈako,khleʈako,kʰ l e + ʈ a + k o,,Chamling,,,^khl e ʈ a k o $,Chamling-Ratanchha,,,
@@ -4477,7 +4477,7 @@ Jirel-Chhetrapa-178_broken-2,,Jirel-Chhetrapa,178_broken,tsjaksuŋ /tsjakpate,ts
 Jirel-Yarsa-178_broken-1,,Jirel-Yarsa,178_broken,tsjakpate,tsjakpate,ts j a k + p a + t e,,Jirel,,,^tsj a kp a t e $,Jirel-Yarsa,,,
 Athpahariya-Santang-179_few-1,,Athpahariya-Santang,179_few,natitma,natitma,n a + t i t + m a,,Athpahariya,,,^n a t i tm a $,Athpahariya-Santang,,,
 Athpahariya-Tekunala-179_few-1,,Athpahariya-Tekunala,179_few,natitma,natitma,n a + t i t + m a,,Athpahariya,,,^n a t i tm a $,Athpahariya-Tekunala,,,
-Belhare-Guthitar-179_few-1,,Belhare-Guthitar,179_few,ṭiulo,ṭiulo,ʈ i/j u + l o,,Athpahariya,,,^ṭ iu l o $,Belhare-Guthitar,,,
+Belhare-Guthitar-179_few-1,,Belhare-Guthitar,179_few,ṭiulo,ṭiulo,ʈ j u + l o,,Athpahariya,,,^ṭ iu l o $,Belhare-Guthitar,,,
 Athpahariya-Khalde-179_few-1,,Athpahariya-Khalde,179_few,tsipa,tsipa,ts i + p a,,Athpahariya,,,^ts i p a $,Athpahariya-Khalde,,,
 Athpahariya-Hatiya-179_few-1,,Athpahariya-Hatiya,179_few,natip,natip,n a + t i p,,Athpahariya,,,^n a t i p$,Athpahariya-Hatiya,,,
 Bantawa-Khoku-179_few-1,,Bantawa-Khoku,179_few,ucilok,ucilok,u + ts i + l o k,,Bantawa,,,^u c i l o k$,Bantawa-Khoku,,,
@@ -4485,10 +4485,10 @@ Bantawa-Lungin-179_few-1,,Bantawa-Lungin,179_few,unni,unni,u n + n i,,Bantawa,,,
 Bantawa-Thidingkha-179_few-1,,Bantawa-Thidingkha,179_few,inni,inni,i n + n i,,Bantawa,,,^i nn i $,Bantawa-Thidingkha,,,
 Bantawa-Timma-179_few-1,,Bantawa-Timma,179_few,unni,unni,u n + n i,,Bantawa,,,^u nn i $,Bantawa-Timma,,,
 Bantawa-Okhre-179_few-1,,Bantawa-Okhre,179_few,cicitlə,cicitlə,tʃ i + ts i t + l ə,,Bantawa,,,^c i c i tl ə $,Bantawa-Okhre,,,
-Belhare-Belhare-179_few-1,,Belhare-Belhare,179_few,iṭiulo,iṭiulo,i + ʈ i/j u + l o,,Belhare,,,^i ṭ iu l o $,Belhare-Belhare,,,
-Belhare-Piple-179_few-1,,Belhare-Piple,179_few,iṭiulo,iṭiulo,i + ʈ i/j u + l o,,Belhare,,,^i ṭ iu l o $,Belhare-Piple,,,
-Belhare-Guthitar-179_few-2,,Belhare-Guthitar,179_few,ṭiulo,ṭiulo,ʈ i/j u + l o,,Belhare,,,^ṭ iu l o $,Belhare-Guthitar,,,
-Belhare-Rudrabari-179_few-1,,Belhare-Rudrabari,179_few,iṭiulo,iṭiulo,i + ʈ i/j u + l o,,Belhare,,,^i ṭ iu l o $,Belhare-Rudrabari,,,
+Belhare-Belhare-179_few-1,,Belhare-Belhare,179_few,iṭiulo,iṭiulo,i + ʈ j u + l o,,Belhare,,,^i ṭ iu l o $,Belhare-Belhare,,,
+Belhare-Piple-179_few-1,,Belhare-Piple,179_few,iṭiulo,iṭiulo,i + ʈ j u + l o,,Belhare,,,^i ṭ iu l o $,Belhare-Piple,,,
+Belhare-Guthitar-179_few-2,,Belhare-Guthitar,179_few,ṭiulo,ṭiulo,ʈ j u + l o,,Belhare,,,^ṭ iu l o $,Belhare-Guthitar,,,
+Belhare-Rudrabari-179_few-1,,Belhare-Rudrabari,179_few,iṭiulo,iṭiulo,i + ʈ j u + l o,,Belhare,,,^i ṭ iu l o $,Belhare-Rudrabari,,,
 Chamling-Hadunge-179_few-1,,Chamling-Hadunge,179_few,pitsha,pitsha,p i + tsʰ a,,Chamling,,,^p i tsh a $,Chamling-Hadunge,,,
 Chamling-Halesi-179_few-1,,Chamling-Halesi,179_few,pitsha,pitsha,p i + tsʰ a,,Chamling,,,^p i tsh a $,Chamling-Halesi,,,
 Chamling-Ratanchha-179_few-1,,Chamling-Ratanchha,179_few,pitsha,pitsha,p i + tsʰ a,,Chamling,,,^p i tsh a $,Chamling-Ratanchha,,,
@@ -6103,7 +6103,7 @@ Bantawa-Timma-206_she-1,,Bantawa-Timma,206_she,khoko,khoko,kʰ o + k o,,Bantawa,
 Bantawa-Okhre-206_she-1,,Bantawa-Okhre,206_she,khoko,khoko,kʰ o + k o,,Bantawa,,,^kh o k o $,Bantawa-Okhre,,,
 Belhare-Belhare-206_she-1,,Belhare-Belhare,206_she,un,un,u n,,Belhare,,,^u n$,Belhare-Belhare,,,
 Belhare-Piple-206_she-1,,Belhare-Piple,206_she,inakharo,inakharo,i + n a + kʰ a + r o,,Belhare,,,^i n a kh a r o $,Belhare-Piple,,,
-Belhare-Guthitar-206_she-2,,Belhare-Guthitar,206_she,unchik,unchik,u n + tʃʰ i k,,Belhare,,,^u nch i k$,Belhare-Guthitar,,,
+Belhare-Guthitar-206_she-2,,Belhare-Guthitar,206_she,unchik,unchik,u n + tsʰ i k,,Belhare,,,^u nch i k$,Belhare-Guthitar,,,
 Belhare-Rudrabari-206_she-1,,Belhare-Rudrabari,206_she,un,un,u n,,Belhare,,,^u n$,Belhare-Rudrabari,,,
 Chamling-Hadunge-206_she-1,,Chamling-Hadunge,206_she,khu,khu,kʰ u,,Chamling,,,^kh u $,Chamling-Hadunge,,,
 Chamling-Halesi-206_she-1,,Chamling-Halesi,206_she,khu,khu,kʰ u,,Chamling,,,^kh u $,Chamling-Halesi,,,
@@ -6248,7 +6248,7 @@ Bantawa-Thidingkha-209_youplural-1,,Bantawa-Thidingkha,209_youplural,khanaci,kha
 Bantawa-Timma-209_youplural-1,,Bantawa-Timma,209_youplural,khananin,khananin,kʰ a + n a + n i n,,Bantawa,,,^kh a n a n i n$,Bantawa-Timma,,,
 Bantawa-Okhre-209_youplural-1,,Bantawa-Okhre,209_youplural,khanaci,khanaci,kʰ a + n a + ts i,,Bantawa,,,^kh a n a c i $,Bantawa-Okhre,,,
 Belhare-Belhare-209_youplural-1,,Belhare-Belhare,209_youplural,hanik,hanik,h a + n i k,,Belhare,,,^h a n i k$,Belhare-Belhare,,,
-Belhare-Piple-209_youplural-1,,Belhare-Piple,209_youplural,hanchik,hanchik,h a n + tʃʰ i k,,Belhare,,,^h a nch i k$,Belhare-Piple,,,
+Belhare-Piple-209_youplural-1,,Belhare-Piple,209_youplural,hanchik,hanchik,h a n + tsʰ i k,,Belhare,,,^h a nch i k$,Belhare-Piple,,,
 Belhare-Guthitar-209_youplural-2,,Belhare-Guthitar,209_youplural,haŋikto,haŋikto,h a + ŋ i k + t o,,Belhare,,,^h a ŋ i kt o $,Belhare-Guthitar,,,
 Belhare-Rudrabari-209_youplural-1,,Belhare-Rudrabari,209_youplural,hanik,hanik,h a + n i k,,Belhare,,,^h a n i k$,Belhare-Rudrabari,,,
 Chamling-Hadunge-209_youplural-1,,Chamling-Hadunge,209_youplural,khʌitsi,khʌitsi,kʰ ʌi + ts i,,Chamling,,,^kh ʌi ts i $,Chamling-Hadunge,,,
@@ -6352,10 +6352,10 @@ Bantawa-Lungin-210_they-1,,Bantawa-Lungin,210_they,khoci,khoci,kʰ o + ts i,,Ban
 Bantawa-Thidingkha-210_they-1,,Bantawa-Thidingkha,210_they,khoci,khoci,kʰ o + ts i,,Bantawa,,,^kh o c i $,Bantawa-Thidingkha,,,
 Bantawa-Timma-210_they-1,,Bantawa-Timma,210_they,khoci,khoci,kʰ o + ts i,,Bantawa,,,^kh o c i $,Bantawa-Timma,,,
 Bantawa-Okhre-210_they-1,,Bantawa-Okhre,210_they,khoci,khoci,kʰ o + ts i,,Bantawa,,,^kh o c i $,Bantawa-Okhre,,,
-Belhare-Belhare-210_they-1,,Belhare-Belhare,210_they,unchik,unchik,u n + tʃʰ i k,,Belhare,,,^u nch i k$,Belhare-Belhare,,,
-Belhare-Piple-210_they-1,,Belhare-Piple,210_they,uʔchik,uʔchik,u ʔ + tʃʰ i k,,Belhare,,,^uʔchik $,Belhare-Piple,,,
+Belhare-Belhare-210_they-1,,Belhare-Belhare,210_they,unchik,unchik,u n + tsʰ i k,,Belhare,,,^u nch i k$,Belhare-Belhare,,,
+Belhare-Piple-210_they-1,,Belhare-Piple,210_they,uʔchik,uʔchik,u ʔ + tsʰ i k,,Belhare,,,^uʔchik $,Belhare-Piple,,,
 Belhare-Guthitar-210_they-2,,Belhare-Guthitar,210_they,uŋikto,uŋikto,u + ŋ i k + t o,,Belhare,,,^u ŋ i kt o $,Belhare-Guthitar,,,
-Belhare-Rudrabari-210_they-1,,Belhare-Rudrabari,210_they,unchik,unchik,u n + tʃʰ i k,,Belhare,,,^u nch i k$,Belhare-Rudrabari,,,
+Belhare-Rudrabari-210_they-1,,Belhare-Rudrabari,210_they,unchik,unchik,u n + tsʰ i k,,Belhare,,,^u nch i k$,Belhare-Rudrabari,,,
 Chamling-Hadunge-210_they-1,,Chamling-Hadunge,210_they,khutsi,khutsi,kʰ u + ts i,,Chamling,,,^kh u ts i $,Chamling-Hadunge,,,
 Chamling-Halesi-210_they-1,,Chamling-Halesi,210_they,khutsi,khutsi,kʰ u + ts i,,Chamling,,,^kh u ts i $,Chamling-Halesi,,,
 Chamling-Ratanchha-210_they-1,,Chamling-Ratanchha,210_they,khutsa,khutsa,kʰ u + ts a,,Chamling,,,^kh u ts a $,Chamling-Ratanchha,,,
@@ -6503,7 +6503,7 @@ Bantawa-Okhre-24_feces-1,,Bantawa-Okhre,24_feces,khɨ,khɨ,kʰ ɨ,,Bantawa,,,^kh
 Belhare-Belhare-24_feces-1,,Belhare-Belhare,24_feces,hi,hi,h i,,Belhare,,,^h i $,Belhare-Belhare,,,
 Belhare-Piple-24_feces-1,,Belhare-Piple,24_feces,hi,hi,h i,,Belhare,,,^h i $,Belhare-Piple,,,
 Belhare-Guthitar-24_feces-2,,Belhare-Guthitar,24_feces,hi,hi,h i,,Belhare,,,^h i $,Belhare-Guthitar,,,
-Belhare-Rudrabari-24_feces-1,,Belhare-Rudrabari,24_feces,hichep ma,hichep_^ma,h i + tʃʰ e + p + m a,,Belhare,,,^h i ch e p _ ^m a $,Belhare-Rudrabari,,,
+Belhare-Rudrabari-24_feces-1,,Belhare-Rudrabari,24_feces,hichep ma,hichep_^ma,h i + tsʰ e + p + m a,,Belhare,,,^h i ch e p _ ^m a $,Belhare-Rudrabari,,,
 Chamling-Hadunge-24_feces-1,,Chamling-Hadunge,24_feces,khli,khli,kʰ l i,,Chamling,,,^khl i $,Chamling-Hadunge,,,
 Chamling-Halesi-24_feces-1,,Chamling-Halesi,24_feces,khli,khli,kʰ l i,,Chamling,,,^khl i $,Chamling-Halesi,,,
 Chamling-Ratanchha-24_feces-1,,Chamling-Ratanchha,24_feces,khi,khi,kʰ i,,Chamling,,,^kh i $,Chamling-Ratanchha,,,
@@ -6652,10 +6652,10 @@ Bantawa-Lungin-27_roof-1,,Bantawa-Lungin,27_roof,ḍhuri,ḍhuri,ɖʱ u + r i,,B
 Bantawa-Thidingkha-27_roof-1,,Bantawa-Thidingkha,27_roof,chana,chana,tʃʰ a + n a,,Bantawa,,,^ch a n a $,Bantawa-Thidingkha,,,loan/nep
 Bantawa-Timma-27_roof-1,,Bantawa-Timma,27_roof,ḍhuri,ḍhuri,ɖʱ u + r i,,Bantawa,,,^ḍh u r i $,Bantawa-Timma,,,loan/nep
 Bantawa-Okhre-27_roof-1,,Bantawa-Okhre,27_roof,chana,chana,tʃʰ a + n a,,Bantawa,,,^ch a n a $,Bantawa-Okhre,,,loan/nep
-Belhare-Belhare-27_roof-1,,Belhare-Belhare,27_roof,dhuri,dhuri,dʱ u + r i,,Belhare,,,^dh u r i $,Belhare-Belhare,,,
-Belhare-Piple-27_roof-1,,Belhare-Piple,27_roof,dhuri,dhuri,dʱ u + r i,,Belhare,,,^dh u r i $,Belhare-Piple,,,
+Belhare-Belhare-27_roof-1,,Belhare-Belhare,27_roof,dhuri,dhuri,dʱ u + r i,,Belhare,,,^dh u r i $,Belhare-Belhare,,,nep/loan
+Belhare-Piple-27_roof-1,,Belhare-Piple,27_roof,dhuri,dhuri,dʱ u + r i,,Belhare,,,^dh u r i $,Belhare-Piple,,,nep/loan
 Belhare-Guthitar-27_roof-2,,Belhare-Guthitar,27_roof,chano,chano,tʃʰ a + n o,,Belhare,,,^ch a n o $,Belhare-Guthitar,,,
-Belhare-Rudrabari-27_roof-1,,Belhare-Rudrabari,27_roof,chano,chano,tʃʰ a + n o,,Belhare,,,^ch a n o $,Belhare-Rudrabari,,,
+Belhare-Rudrabari-27_roof-1,,Belhare-Rudrabari,27_roof,chano,chano,tʃʰ a + n o,,Belhare,,,^ch a n o $,Belhare-Rudrabari,,,nep/loan
 Chamling-Hadunge-27_roof-1,,Chamling-Hadunge,27_roof,lebdhero,lebdhero,l e b + dʱ e + r o,,Chamling,,,^l e bdh e r o $,Chamling-Hadunge,,,
 Chamling-Halesi-27_roof-1,,Chamling-Halesi,27_roof,lebdhero,lebdhero,l e b + dʱ e + r o,,Chamling,,,^l e bdh e r o $,Chamling-Halesi,,,
 Chamling-Ratanchha-27_roof-1,,Chamling-Ratanchha,27_roof,khamba,khamba,kʰ a m + b a,,Chamling,,,^kh a mb a $,Chamling-Ratanchha,,,
@@ -7000,10 +7000,10 @@ Bantawa-Lungin-33_hammer-1,,Bantawa-Lungin,33_hammer,martola,martola,m a r + t o
 Bantawa-Thidingkha-33_hammer-1,,Bantawa-Thidingkha,33_hammer,martol,martol,m a r + t o l,,Bantawa,,,^m a rt o l$,Bantawa-Thidingkha,,,nep/loan
 Bantawa-Timma-33_hammer-1,,Bantawa-Timma,33_hammer,martola,martola,m a r + t o + l a,,Bantawa,,,^m a rt o l a $,Bantawa-Timma,,,nep/loan
 Bantawa-Okhre-33_hammer-1,,Bantawa-Okhre,33_hammer,martol,martol,m a r + t o l,,Bantawa,,,^m a rt o l$,Bantawa-Okhre,,,nep/loan
-Belhare-Belhare-33_hammer-1,,Belhare-Belhare,33_hammer,hathauda,hathauda,h a + tʰ au + d a,,Belhare,,,^h a th au d a $,Belhare-Belhare,,,
+Belhare-Belhare-33_hammer-1,,Belhare-Belhare,33_hammer,hathauda,hathauda,h a + tʰ au + d a,,Belhare,,,^h a th au d a $,Belhare-Belhare,,,nep/loan
 Belhare-Piple-33_hammer-1,,Belhare-Piple,33_hammer,hotrə,hotrə,h o t + r ə,,Belhare,,,^h o tr ə $,Belhare-Piple,,,
 Belhare-Guthitar-33_hammer-2,,Belhare-Guthitar,33_hammer,hathauda,hathauda,h a + tʰ au + d a,,Belhare,,,^h a th au d a $,Belhare-Guthitar,,,
-Belhare-Rudrabari-33_hammer-1,,Belhare-Rudrabari,33_hammer,hathauda,hathauda,h a + tʰ au + d a,,Belhare,,,^h a th au d a $,Belhare-Rudrabari,,,
+Belhare-Rudrabari-33_hammer-1,,Belhare-Rudrabari,33_hammer,hathauda,hathauda,h a + tʰ au + d a,,Belhare,,,^h a th au d a $,Belhare-Rudrabari,,,nep/loan
 Chamling-Hadunge-33_hammer-1,,Chamling-Hadunge,33_hammer,ɦʌthouɗa,ɦʌthouɗa,ɦ ʌ + tʰ ou + ɗ a,,Chamling,,,^ɦ ʌ th ou ɗ a $,Chamling-Hadunge,,,
 Chamling-Halesi-33_hammer-1,,Chamling-Halesi,33_hammer,ɦʌthouɗa,ɦʌthouɗa,ɦ ʌ + tʰ ou + ɗ a,,Chamling,,,^ɦ ʌ th ou ɗ a $,Chamling-Halesi,,,
 Chamling-Ratanchha-33_hammer-1,,Chamling-Ratanchha,33_hammer,diluŋkhjakka,diluŋkhjakka,d i + l u ŋ + kʰ j a k + k a,,Chamling,,,^d i l u ŋkhj a kk a $,Chamling-Ratanchha,,,
@@ -7144,7 +7144,7 @@ Jirel-Chhetrapa-35_axe-1,,Jirel-Chhetrapa,35_axe,təri,təri,t ə + r i,,Jirel,,
 Jirel-Yarsa-35_axe-1,,Jirel-Yarsa,35_axe,təri,təri,t ə + r i,,Jirel,,,^t ə r i $,Jirel-Yarsa,,,
 Athpahariya-Santang-36_rope-1,,Athpahariya-Santang,36_rope,ripma,ripma,r i p + m a,,Athpahariya,,,^r i pm a $,Athpahariya-Santang,,,
 Athpahariya-Tekunala-36_rope-1,,Athpahariya-Tekunala,36_rope,rikma,rikma,r i k + m a,,Athpahariya,,,^r i km a $,Athpahariya-Tekunala,,,
-Belhare-Guthitar-36_rope-1,,Belhare-Guthitar,36_rope,ribhak,ribhak,r i bʱ a k,,Athpahariya,,,^r i bh a k$,Belhare-Guthitar,,,
+Belhare-Guthitar-36_rope-1,,Belhare-Guthitar,36_rope,ribhak,ribhak,r i + bʱ a k,,Athpahariya,,,^r i bh a k$,Belhare-Guthitar,,,
 Athpahariya-Khalde-36_rope-1,,Athpahariya-Khalde,36_rope,ritna,ritna,r i t + n a,,Athpahariya,,,^r i tn a $,Athpahariya-Khalde,,,
 Athpahariya-Hatiya-36_rope-1,,Athpahariya-Hatiya,36_rope,ripma,ripma,r i p + m a,,Athpahariya,,,^r i pm a $,Athpahariya-Hatiya,,,
 Bantawa-Khoku-36_rope-1,,Bantawa-Khoku,36_rope,damlo,damlo,d a m + l o,,Bantawa,,,^d a ml o $,Bantawa-Khoku,,,
@@ -7153,9 +7153,9 @@ Bantawa-Thidingkha-36_rope-1,,Bantawa-Thidingkha,36_rope,ḍori,ḍori,ɖ o + r 
 Bantawa-Timma-36_rope-1,,Bantawa-Timma,36_rope,ḍori,ḍori,ɖ o + r i,,Bantawa,,,^ḍ o r i $,Bantawa-Timma,,,
 Bantawa-Okhre-36_rope-1,,Bantawa-Okhre,36_rope,ḍori,ḍori,ɖ o + r i,,Bantawa,,,^ḍ o r i $,Bantawa-Okhre,,,
 Belhare-Belhare-36_rope-1,,Belhare-Belhare,36_rope,sak,sak,s a k,,Belhare,,,^s a k$,Belhare-Belhare,,,
-Belhare-Piple-36_rope-1,,Belhare-Piple,36_rope,ribhak,ribhak,r i bʱ a k,,Belhare,,,^r i bh a k$,Belhare-Piple,,,
-Belhare-Guthitar-36_rope-2,,Belhare-Guthitar,36_rope,ribhak,ribhak,r i bʱ a k,,Belhare,,,^r i bh a k$,Belhare-Guthitar,,,
-Belhare-Rudrabari-36_rope-1,,Belhare-Rudrabari,36_rope,ribhak,ribhak,r i bʱ a k,,Belhare,,,^r i bh a k$,Belhare-Rudrabari,,,
+Belhare-Piple-36_rope-1,,Belhare-Piple,36_rope,ribhak,ribhak,r i + bʱ a k,,Belhare,,,^r i bh a k$,Belhare-Piple,,,
+Belhare-Guthitar-36_rope-2,,Belhare-Guthitar,36_rope,ribhak,ribhak,r i + bʱ a k,,Belhare,,,^r i bh a k$,Belhare-Guthitar,,,
+Belhare-Rudrabari-36_rope-1,,Belhare-Rudrabari,36_rope,ribhak,ribhak,r i + bʱ a k,,Belhare,,,^r i bh a k$,Belhare-Rudrabari,,,
 Chamling-Hadunge-36_rope-1,,Chamling-Hadunge,36_rope,rukhja,rukhja,r u + kʰ j a,,Chamling,,,^r u khj a $,Chamling-Hadunge,,,
 Chamling-Halesi-36_rope-1,,Chamling-Halesi,36_rope,rukhja,rukhja,r u + kʰ j a,,Chamling,,,^r u khj a $,Chamling-Halesi,,,
 Chamling-Ratanchha-36_rope-1,,Chamling-Ratanchha,36_rope,ri,ri,r i,,Chamling,,,^r i $,Chamling-Ratanchha,,,
@@ -7348,7 +7348,7 @@ Jirel-Chhetrapa-39_cloth-1,,Jirel-Chhetrapa,39_cloth,kolak,kolak,k o + l a + k,,
 Jirel-Yarsa-39_cloth-1,,Jirel-Yarsa,39_cloth,kholak,kholak,kʰ o + l a + k,,Jirel,,,^kh o l a k $,Jirel-Yarsa,,,
 Athpahariya-Santang-4_face-1,,Athpahariya-Santang,4_face,nabhak,nabhak,n a + bʱ a k,,Athpahariya,,,^n a bh a k$,Athpahariya-Santang,,,
 Athpahariya-Tekunala-4_face-1,,Athpahariya-Tekunala,4_face,nabhak,nabhak,n a + bʱ a k,,Athpahariya,,,^n a bh a k$,Athpahariya-Tekunala,,,
-Belhare-Guthitar-4_face-1,,Belhare-Guthitar,4_face,nabhak,nabhak,n a bʱ a k,,Athpahariya,,,^n a bh a k$,Belhare-Guthitar,,,
+Belhare-Guthitar-4_face-1,,Belhare-Guthitar,4_face,nabhak,nabhak,n a + bʱ a k,,Athpahariya,,,^n a bh a k$,Belhare-Guthitar,,,
 Athpahariya-Khalde-4_face-1,,Athpahariya-Khalde,4_face,nabhak,nabhak,n a + bʱ a k,,Athpahariya,,,^n a bh a k$,Athpahariya-Khalde,,,
 Athpahariya-Hatiya-4_face-1,,Athpahariya-Hatiya,4_face,nabhat,nabhat,n a + bʱ a t,,Athpahariya,,,^n a bh a t$,Athpahariya-Hatiya,,,
 Bantawa-Khoku-4_face-1,,Bantawa-Khoku,4_face,ŋalɨŋ,ŋalɨŋ,ŋ a + l ɨ ŋ,,Bantawa,,,^ŋ a l ɨ ŋ$,Bantawa-Khoku,,,
@@ -7356,10 +7356,10 @@ Bantawa-Lungin-4_face-1,,Bantawa-Lungin,4_face,ŋalɨŋ,ŋalɨŋ,ŋ a + l ɨ ŋ,
 Bantawa-Thidingkha-4_face-1,,Bantawa-Thidingkha,4_face,ŋalɨŋ,ŋalɨŋ,ŋ a + l ɨ ŋ,,Bantawa,,,^ŋ a l ɨ ŋ$,Bantawa-Thidingkha,,,
 Bantawa-Timma-4_face-1,,Bantawa-Timma,4_face,ŋaləŋ,ŋaləŋ,ŋ a + l ə ŋ,,Bantawa,,,^ŋ a l ə ŋ$,Bantawa-Timma,,,
 Bantawa-Okhre-4_face-1,,Bantawa-Okhre,4_face,ŋalɨŋ,ŋalɨŋ,ŋ a + l ɨ ŋ,,Bantawa,,,^ŋ a l ɨ ŋ$,Bantawa-Okhre,,,
-Belhare-Belhare-4_face-1,,Belhare-Belhare,4_face,nhabhak,nhabhak,n̥ a bʱ a k,,Belhare,,,^nh a bh a k$,Belhare-Belhare,,,
-Belhare-Piple-4_face-1,,Belhare-Piple,4_face,nabhak,nabhak,n a bʱ a k,,Belhare,,,^n a bh a k$,Belhare-Piple,,,
-Belhare-Guthitar-4_face-2,,Belhare-Guthitar,4_face,nabhak,nabhak,n a bʱ a k,,Belhare,,,^n a bh a k$,Belhare-Guthitar,,,
-Belhare-Rudrabari-4_face-1,,Belhare-Rudrabari,4_face,nabhak,nabhak,n a bʱ a k,,Belhare,,,^n a bh a k$,Belhare-Rudrabari,,,
+Belhare-Belhare-4_face-1,,Belhare-Belhare,4_face,nhabhak,nhabhak,n̥ a + bʱ a k,,Belhare,,,^nh a bh a k$,Belhare-Belhare,,,
+Belhare-Piple-4_face-1,,Belhare-Piple,4_face,nabhak,nabhak,n a + bʱ a k,,Belhare,,,^n a bh a k$,Belhare-Piple,,,
+Belhare-Guthitar-4_face-2,,Belhare-Guthitar,4_face,nabhak,nabhak,n a + bʱ a k,,Belhare,,,^n a bh a k$,Belhare-Guthitar,,,
+Belhare-Rudrabari-4_face-1,,Belhare-Rudrabari,4_face,nabhak,nabhak,n a + bʱ a k,,Belhare,,,^n a bh a k$,Belhare-Rudrabari,,,
 Chamling-Hadunge-4_face-1,,Chamling-Hadunge,4_face,ŋai,ŋai,ŋ ai,,Chamling,,,^ŋ ai$,Chamling-Hadunge,,,
 Chamling-Halesi-4_face-1,,Chamling-Halesi,4_face,ŋai,ŋai,ŋ ai,,Chamling,,,^ŋ ai$,Chamling-Halesi,,,
 Chamling-Ratanchha-4_face-1,,Chamling-Ratanchha,4_face,ŋai,ŋai,ŋ ai,,Chamling,,,^ŋ ai$,Chamling-Ratanchha,,,
@@ -7409,10 +7409,10 @@ Bantawa-Lungin-40_ring-1,,Bantawa-Lungin,40_ring,əuṭhi,əuṭhi,əu + ʈʰ i,
 Bantawa-Thidingkha-40_ring-1,,Bantawa-Thidingkha,40_ring,chokwenma,chokwenma,tʃʰ o k + w e n + m a,,Bantawa,,,^ch o kw e nm a $,Bantawa-Thidingkha,,,loan/nep
 Bantawa-Timma-40_ring-1,,Bantawa-Timma,40_ring,əuṭhi,əuṭhi,əu + ʈʰ i,,Bantawa,,,^əu ṭh i $,Bantawa-Timma,,,loan/nep
 Bantawa-Okhre-40_ring-1,,Bantawa-Okhre,40_ring,əuṭhi,əuṭhi,əu + ʈʰ i,,Bantawa,,,^əu ṭh i $,Bantawa-Okhre,,,loan/nep
-Belhare-Belhare-40_ring-1,,Belhare-Belhare,40_ring,əŋguthi,əŋguthi,ə ŋ + g u + tʰ i,,Belhare,,,^ə ŋg u th i $,Belhare-Belhare,,,
-Belhare-Piple-40_ring-1,,Belhare-Piple,40_ring,əŋguthi,əŋguthi,ə ŋ + g u + tʰ i,,Belhare,,,^ə ŋg u th i $,Belhare-Piple,,,
+Belhare-Belhare-40_ring-1,,Belhare-Belhare,40_ring,əŋguthi,əŋguthi,ə ŋ + g u + tʰ i,,Belhare,,,^ə ŋg u th i $,Belhare-Belhare,,,nep/loan
+Belhare-Piple-40_ring-1,,Belhare-Piple,40_ring,əŋguthi,əŋguthi,ə ŋ + g u + tʰ i,,Belhare,,,^ə ŋg u th i $,Belhare-Piple,,,nep/loan
 Belhare-Guthitar-40_ring-2,,Belhare-Guthitar,40_ring,əuŋthi,əuŋthi,əu ŋ + tʰ i,,Belhare,,,^əu ŋth i $,Belhare-Guthitar,,,
-Belhare-Rudrabari-40_ring-1,,Belhare-Rudrabari,40_ring,əŋguthi,əŋguthi,ə ŋ + g u + tʰ i,,Belhare,,,^ə ŋg u th i $,Belhare-Rudrabari,,,
+Belhare-Rudrabari-40_ring-1,,Belhare-Rudrabari,40_ring,əŋguthi,əŋguthi,ə ŋ + g u + tʰ i,,Belhare,,,^ə ŋg u th i $,Belhare-Rudrabari,,,nep/loan
 Chamling-Hadunge-40_ring-1,,Chamling-Hadunge,40_ring,tshikurma,tshikurma,tsʰ i + k u r + m a,,Chamling,,,^tsh i k u rm a $,Chamling-Hadunge,,,
 Chamling-Halesi-40_ring-1,,Chamling-Halesi,40_ring,tshikurma,tshikurma,tsʰ i + k u r + m a,,Chamling,,,^tsh i k u rm a $,Chamling-Halesi,,,
 Chamling-Ratanchha-40_ring-1,,Chamling-Ratanchha,40_ring,tshikurma,tshikurma,tsʰ i + k u r + m a,,Chamling,,,^tsh i k u rm a $,Chamling-Ratanchha,,,
@@ -7506,7 +7506,7 @@ Jirel-Chhetrapa-41_sun-1,,Jirel-Chhetrapa,41_sun,ŋima,ŋima,ŋ i + m a,,Jirel,,
 Jirel-Yarsa-41_sun-1,,Jirel-Yarsa,41_sun,ŋima,ŋima,ŋ i + m a,,Jirel,,,^ŋ i m a $,Jirel-Yarsa,,,
 Athpahariya-Santang-42_moon-1,,Athpahariya-Santang,42_moon,lalipmaŋ,lalipmaŋ,l a + l i p + m a ŋ,,Athpahariya,,,^l a l i pm a ŋ$,Athpahariya-Santang,,,
 Athpahariya-Tekunala-42_moon-1,,Athpahariya-Tekunala,42_moon,lalima,lalima,l a + l i + m a,,Athpahariya,,,^l a l i m a $,Athpahariya-Tekunala,,,
-Belhare-Guthitar-42_moon-1,,Belhare-Guthitar,42_moon,lətsheuət̃,lətsheuət̃,l ə + tsʰ e + u/w ə t,,Athpahariya,,,^l ə tsh euə t̃$,Belhare-Guthitar,,,
+Belhare-Guthitar-42_moon-1,,Belhare-Guthitar,42_moon,lətsheuət̃,lətsheuət̃,l ə + tsʰ e + w ə t,,Athpahariya,,,^l ə tsh euə t̃$,Belhare-Guthitar,,,
 Athpahariya-Khalde-42_moon-1,,Athpahariya-Khalde,42_moon,lalipmaŋ,lalipmaŋ,l a + l i p + m a ŋ,,Athpahariya,,,^l a l i pm a ŋ$,Athpahariya-Khalde,,,
 Athpahariya-Hatiya-42_moon-1,,Athpahariya-Hatiya,42_moon,lalipmaŋ,lalipmaŋ,l a + l i p + m a ŋ,,Athpahariya,,,^l a l i pm a ŋ$,Athpahariya-Hatiya,,,
 Bantawa-Khoku-42_moon-1,,Bantawa-Khoku,42_moon,laḍi,laḍi,l a + ɖ i,,Bantawa,,,^l a ḍ i $,Bantawa-Khoku,,,
@@ -7514,10 +7514,10 @@ Bantawa-Lungin-42_moon-1,,Bantawa-Lungin,42_moon,ladimma,ladimma,l a + d i m + m
 Bantawa-Thidingkha-42_moon-1,,Bantawa-Thidingkha,42_moon,ladipma,ladipma,l a + d i p + m a,,Bantawa,,,^l a d i pm a $,Bantawa-Thidingkha,,,
 Bantawa-Timma-42_moon-1,,Bantawa-Timma,42_moon,ladipma,ladipma,l a + d i p + m a,,Bantawa,,,^l a d i pm a $,Bantawa-Timma,,,
 Bantawa-Okhre-42_moon-1,,Bantawa-Okhre,42_moon,ladipma,ladipma,l a + d i p + m a,,Bantawa,,,^l a d i pm a $,Bantawa-Okhre,,,
-Belhare-Belhare-42_moon-1,,Belhare-Belhare,42_moon,lachewat,lachewat,l a + tʃʰ e + w a t,,Belhare,,,^l a ch e w a t$,Belhare-Belhare,,,
-Belhare-Piple-42_moon-1,,Belhare-Piple,42_moon,lacheũwat,lacheũwat,l a + tʃʰ eũ + w a t,,Belhare,,,^l a ch eũ w a t$,Belhare-Piple,,,
-Belhare-Guthitar-42_moon-2,,Belhare-Guthitar,42_moon,ləcheuət,ləcheuət,l ə + tʃʰ e + u/w ə t,,Belhare,,,^l ə ch euə t$,Belhare-Guthitar,,,
-Belhare-Rudrabari-42_moon-1,,Belhare-Rudrabari,42_moon,ləcheŋwa,ləcheŋwa,l ə + tʃʰ e ŋ + w a,,Belhare,,,^l ə ch e ŋw a $,Belhare-Rudrabari,,,
+Belhare-Belhare-42_moon-1,,Belhare-Belhare,42_moon,lachewat,lachewat,l a + tsʰ e + w a t,,Belhare,,,^l a ch e w a t$,Belhare-Belhare,,,
+Belhare-Piple-42_moon-1,,Belhare-Piple,42_moon,lacheũwat,lacheũwat,l a + tsʰ eũ + w a t,,Belhare,,,^l a ch eũ w a t$,Belhare-Piple,,,
+Belhare-Guthitar-42_moon-2,,Belhare-Guthitar,42_moon,ləcheuət,ləcheuət,l ə + tsʰ e + w ə t,,Belhare,,,^l ə ch euə t$,Belhare-Guthitar,,,
+Belhare-Rudrabari-42_moon-1,,Belhare-Rudrabari,42_moon,ləcheŋwa,ləcheŋwa,l ə + tsʰ e ŋ + w a,,Belhare,,,^l ə ch e ŋw a $,Belhare-Rudrabari,,,
 Chamling-Hadunge-42_moon-1,,Chamling-Hadunge,42_moon,lakane,lakane,l a + k a + n e,,Chamling,,,^l a k a n e $,Chamling-Hadunge,,,
 Chamling-Halesi-42_moon-1,,Chamling-Halesi,42_moon,lakane,lakane,l a + k a + n e,,Chamling,,,^l a k a n e $,Chamling-Halesi,,,
 Chamling-Ratanchha-42_moon-1,,Chamling-Ratanchha,42_moon,lakane,lakane,l a + k a + n e,,Chamling,,,^l a k a n e $,Chamling-Ratanchha,,,
@@ -7556,7 +7556,7 @@ Jirel-Chhetrapa-42_moon-1,,Jirel-Chhetrapa,42_moon,dagar,dagar,d a + g a + r,,Ji
 Jirel-Yarsa-42_moon-1,,Jirel-Yarsa,42_moon,dagar,dagar,d a + g a + r,,Jirel,,,^d a g a r $,Jirel-Yarsa,,,
 Athpahariya-Santang-43_sky-1,,Athpahariya-Santang,43_sky,taŋsaŋ,taŋsaŋ,t a ŋ + s a ŋ,,Athpahariya,,,^t a ŋs a ŋ$,Athpahariya-Santang,,,
 Athpahariya-Tekunala-43_sky-1,,Athpahariya-Tekunala,43_sky,taŋsaŋ,taŋsaŋ,t a ŋ + s a ŋ,,Athpahariya,,,^t a ŋs a ŋ$,Athpahariya-Tekunala,,,
-Belhare-Guthitar-43_sky-1,,Belhare-Guthitar,43_sky,askas,askas,a + s + k a + s,,Athpahariya,,,^a s k a s $,Belhare-Guthitar,,,
+Belhare-Guthitar-43_sky-1,,Belhare-Guthitar,43_sky,askas,askas,a + s + k a s,,Athpahariya,,,^a s k a s$,Belhare-Guthitar,,,
 Athpahariya-Khalde-43_sky-1,,Athpahariya-Khalde,43_sky,akas,akas,a + k a s,,Athpahariya,,,^a k a s$,Athpahariya-Khalde,,,loan/nep
 Athpahariya-Hatiya-43_sky-1,,Athpahariya-Hatiya,43_sky,taŋsaŋ,taŋsaŋ,t a ŋ + s a ŋ,,Athpahariya,,,^t a ŋs a ŋ$,Athpahariya-Hatiya,,,
 Bantawa-Khoku-43_sky-1,,Bantawa-Khoku,43_sky,namcok,namcok,n a m + ts o k,,Bantawa,,,^n a mc o k$,Bantawa-Khoku,,,
@@ -7564,10 +7564,10 @@ Bantawa-Lungin-43_sky-1,,Bantawa-Lungin,43_sky,namcok,namcok,n a m + ts o k,,Ban
 Bantawa-Thidingkha-43_sky-1,,Bantawa-Thidingkha,43_sky,namchərə,namchərə,n a m + tsʰ ə + r ə,,Bantawa,,,^n a mch ə r ə $,Bantawa-Thidingkha,,,
 Bantawa-Timma-43_sky-1,,Bantawa-Timma,43_sky,ninamma,ninamma,n i + n a m + m a,,Bantawa,,,^n i n a mm a $,Bantawa-Timma,,,
 Bantawa-Okhre-43_sky-1,,Bantawa-Okhre,43_sky,ninamma,ninamma,n i + n a m + m a,,Bantawa,,,^n i n a mm a $,Bantawa-Okhre,,,
-Belhare-Belhare-43_sky-1,,Belhare-Belhare,43_sky,akas,akas,a + k a + s,,Belhare,,,^a k a s $,Belhare-Belhare,,,
-Belhare-Piple-43_sky-1,,Belhare-Piple,43_sky,akas,akas,a + k a + s,,Belhare,,,^a k a s $,Belhare-Piple,,,
-Belhare-Guthitar-43_sky-2,,Belhare-Guthitar,43_sky,akas,akas,a + k a + s,,Belhare,,,^a k a s $,Belhare-Guthitar,,,
-Belhare-Rudrabari-43_sky-1,,Belhare-Rudrabari,43_sky,akas,akas,a + k a + s,,Belhare,,,^a k a s $,Belhare-Rudrabari,,,
+Belhare-Belhare-43_sky-1,,Belhare-Belhare,43_sky,akas,akas,a + k a s,,Belhare,,,^a k a s$,Belhare-Belhare,,,loan/nep
+Belhare-Piple-43_sky-1,,Belhare-Piple,43_sky,akas,akas,a + k a s,,Belhare,,,^a k a s$,Belhare-Piple,,,loan/nep
+Belhare-Guthitar-43_sky-2,,Belhare-Guthitar,43_sky,akas,akas,a + k a s,,Belhare,,,^a k a s$,Belhare-Guthitar,,,
+Belhare-Rudrabari-43_sky-1,,Belhare-Rudrabari,43_sky,akas,akas,a + k a s,,Belhare,,,^a k a s$,Belhare-Rudrabari,,,loan/nep
 Chamling-Hadunge-43_sky-1,,Chamling-Hadunge,43_sky,ninamma,ninamma,n i + n a m + m a,,Chamling,,,^n i n a mm a $,Chamling-Hadunge,,,
 Chamling-Halesi-43_sky-1,,Chamling-Halesi,43_sky,ninamma,ninamma,n i + n a m + m a,,Chamling,,,^n i n a mm a $,Chamling-Halesi,,,
 Chamling-Ratanchha-43_sky-1,,Chamling-Ratanchha,43_sky,ninam,ninam,n i + n a m,,Chamling,,,^n i n a m$,Chamling-Ratanchha,,,
@@ -7618,7 +7618,7 @@ Bantawa-Okhre-44_star-1,,Bantawa-Okhre,44_star,saŋken,saŋken,s a ŋ + k e n,,B
 Belhare-Belhare-44_star-1,,Belhare-Belhare,44_star,tara,tara,t a + r a,,Belhare,,,^t a r a $,Belhare-Belhare,,,
 Belhare-Piple-44_star-1,,Belhare-Piple,44_star,cətsuŋgi,cətsuŋgi,tʃ ə + ts u ŋ + g i,,Belhare,,,^c ə ts u ŋg i $,Belhare-Piple,,,
 Belhare-Guthitar-44_star-2,,Belhare-Guthitar,44_star,tara,tara,t a + r a,,Belhare,,,^t a r a $,Belhare-Guthitar,,,
-Belhare-Rudrabari-44_star-1,,Belhare-Rudrabari,44_star,tara,tara,t a + r a,,Belhare,,,^t a r a $,Belhare-Rudrabari,,,
+Belhare-Rudrabari-44_star-1,,Belhare-Rudrabari,44_star,tara,tara,t a + r a,,Belhare,,,^t a r a $,Belhare-Rudrabari,,,nep/loan
 Chamling-Hadunge-44_star-1,,Chamling-Hadunge,44_star,putipa,putipa,p u + t i + p a,,Chamling,,,^p u t i p a $,Chamling-Hadunge,,,
 Chamling-Halesi-44_star-1,,Chamling-Halesi,44_star,putipa,putipa,p u + t i + p a,,Chamling,,,^p u t i p a $,Chamling-Halesi,,,
 Chamling-Ratanchha-44_star-1,,Chamling-Ratanchha,44_star,pitipa,pitipa,p i + t i + p a,,Chamling,,,^p i t i p a $,Chamling-Ratanchha,,,
@@ -7771,10 +7771,10 @@ Bantawa-Lungin-47_river-1,,Bantawa-Lungin,47_river,jaŋwa,jaŋwa,dʒ a ŋ + w a,
 Bantawa-Thidingkha-47_river-1,,Bantawa-Thidingkha,47_river,jaŋwa,jaŋwa,dʒ a ŋ + w a,,Bantawa,,,^j a ŋw a $,Bantawa-Thidingkha,,,
 Bantawa-Timma-47_river-1,,Bantawa-Timma,47_river,hoŋku,hoŋku,h o ŋ + k u,,Bantawa,,,^h o ŋk u $,Bantawa-Timma,,,
 Bantawa-Okhre-47_river-1,,Bantawa-Okhre,47_river,hoŋku,hoŋku,h o ŋ + k u,,Bantawa,,,^h o ŋk u $,Bantawa-Okhre,,,
-Belhare-Belhare-47_river-1,,Belhare-Belhare,47_river,nədi,nədi,n ə + d i,,Belhare,,,^n ə d i $,Belhare-Belhare,,,
-Belhare-Piple-47_river-1,,Belhare-Piple,47_river,nədi,nədi,n ə + d i,,Belhare,,,^n ə d i $,Belhare-Piple,,,
+Belhare-Belhare-47_river-1,,Belhare-Belhare,47_river,nədi,nədi,n ə + d i,,Belhare,,,^n ə d i $,Belhare-Belhare,,,nep/loan
+Belhare-Piple-47_river-1,,Belhare-Piple,47_river,nədi,nədi,n ə + d i,,Belhare,,,^n ə d i $,Belhare-Piple,,,nep/loan
 Belhare-Guthitar-47_river-2,,Belhare-Guthitar,47_river,nədi,nədi,n ə + d i,,Belhare,,,^n ə d i $,Belhare-Guthitar,,,
-Belhare-Rudrabari-47_river-1,,Belhare-Rudrabari,47_river,nədi,nədi,n ə + d i,,Belhare,,,^n ə d i $,Belhare-Rudrabari,,,
+Belhare-Rudrabari-47_river-1,,Belhare-Rudrabari,47_river,nədi,nədi,n ə + d i,,Belhare,,,^n ə d i $,Belhare-Rudrabari,,,nep/loan
 Chamling-Hadunge-47_river-1,,Chamling-Hadunge,47_river,tshiwa,tshiwa,tsʰ i + w a,,Chamling,,,^tsh i w a $,Chamling-Hadunge,,,
 Chamling-Halesi-47_river-1,,Chamling-Halesi,47_river,tshiwa,tshiwa,tsʰ i + w a,,Chamling,,,^tsh i w a $,Chamling-Halesi,,,
 Chamling-Ratanchha-47_river-1,,Chamling-Ratanchha,47_river,jʌwa,jʌwa,j ʌ + w a,,Chamling,,,^j ʌ w a $,Chamling-Ratanchha,,,
@@ -7816,7 +7816,7 @@ Jirel-Chhetrapa-47_river-1,,Jirel-Chhetrapa,47_river,tshambo,tshambo,tsʰ a m + 
 Jirel-Yarsa-47_river-1,,Jirel-Yarsa,47_river,.thaŋka,.thaŋka,tʰ a ŋ + k a,,Jirel,,,^.th a ŋk a $,Jirel-Yarsa,,,
 Athpahariya-Santang-48_cloud-1,,Athpahariya-Santang,48_cloud,khimema,khimema,kʰ i + m e + m a,,Athpahariya,,,^kh i m e m a $,Athpahariya-Santang,,,
 Athpahariya-Tekunala-48_cloud-1,,Athpahariya-Tekunala,48_cloud,khimema,khimema,kʰ i + m e + m a,,Athpahariya,,,^kh i m e m a $,Athpahariya-Tekunala,,,
-Belhare-Guthitar-48_cloud-1,,Belhare-Guthitar,48_cloud,akas,akas,a + k a + s,,Athpahariya,,,^a k a s $,Belhare-Guthitar,,,
+Belhare-Guthitar-48_cloud-1,,Belhare-Guthitar,48_cloud,akas,akas,a + k a s,,Athpahariya,,,^a k a s$,Belhare-Guthitar,,,
 Athpahariya-Khalde-48_cloud-1,,Athpahariya-Khalde,48_cloud,khimema,khimema,kʰ i + m e + m a,,Athpahariya,,,^kh i m e m a $,Athpahariya-Khalde,,,
 Athpahariya-Hatiya-48_cloud-1,,Athpahariya-Hatiya,48_cloud,tsapha,tsapha,ts a + pʰ a,,Athpahariya,,,^ts a ph a $,Athpahariya-Hatiya,,,
 Bantawa-Khoku-48_cloud-1,,Bantawa-Khoku,48_cloud,kuiro,kuiro,k ui + r o,,Bantawa,,,^k ui r o $,Bantawa-Khoku,,,loan/nep
@@ -7824,10 +7824,10 @@ Bantawa-Lungin-48_cloud-1,,Bantawa-Lungin,48_cloud,kuiro,kuiro,k ui + r o,,Banta
 Bantawa-Thidingkha-48_cloud-1,,Bantawa-Thidingkha,48_cloud,kuiro,kuiro,k ui + r o,,Bantawa,,,^k ui r o $,Bantawa-Thidingkha,,,loan/nep
 Bantawa-Timma-48_cloud-1,,Bantawa-Timma,48_cloud,kuiro,kuiro,k ui + r o,,Bantawa,,,^k ui r o $,Bantawa-Timma,,,loan/nep
 Bantawa-Okhre-48_cloud-1,,Bantawa-Okhre,48_cloud,kuiro,kuiro,k ui + r o,,Bantawa,,,^k ui r o $,Bantawa-Okhre,,,loan/nep
-Belhare-Belhare-48_cloud-1,,Belhare-Belhare,48_cloud,badəl,badəl,b a + d ə l,,Belhare,,,^b a d ə l$,Belhare-Belhare,,,
-Belhare-Piple-48_cloud-1,,Belhare-Piple,48_cloud,badəl,badəl,b a + d ə l,,Belhare,,,^b a d ə l$,Belhare-Piple,,,
-Belhare-Guthitar-48_cloud-2,,Belhare-Guthitar,48_cloud,akas,akas,a + k a + s,,Belhare,,,^a k a s $,Belhare-Guthitar,,,
-Belhare-Rudrabari-48_cloud-1,,Belhare-Rudrabari,48_cloud,badəl,badəl,b a + d ə l,,Belhare,,,^b a d ə l$,Belhare-Rudrabari,,,
+Belhare-Belhare-48_cloud-1,,Belhare-Belhare,48_cloud,badəl,badəl,b a + d ə l,,Belhare,,,^b a d ə l$,Belhare-Belhare,,,nep/loan
+Belhare-Piple-48_cloud-1,,Belhare-Piple,48_cloud,badəl,badəl,b a + d ə l,,Belhare,,,^b a d ə l$,Belhare-Piple,,,nep/loan
+Belhare-Guthitar-48_cloud-2,,Belhare-Guthitar,48_cloud,akas,akas,a + k a s,,Belhare,,,^a k a s$,Belhare-Guthitar,,,
+Belhare-Rudrabari-48_cloud-1,,Belhare-Rudrabari,48_cloud,badəl,badəl,b a + d ə l,,Belhare,,,^b a d ə l$,Belhare-Rudrabari,,,nep/loan
 Chamling-Hadunge-48_cloud-1,,Chamling-Hadunge,48_cloud,mõmpa,mõmpa,m õ m + p a,,Chamling,,,^m õ mp a $,Chamling-Hadunge,,,
 Chamling-Halesi-48_cloud-1,,Chamling-Halesi,48_cloud,mõmpa,mõmpa,m õ m + p a,,Chamling,,,^m õ mp a $,Chamling-Halesi,,,
 Chamling-Ratanchha-48_cloud-1,,Chamling-Ratanchha,48_cloud,mʌmijapa,mʌmijapa,m ʌ + m i + j a + p a,,Chamling,,,^m ʌ m i j a p a $,Chamling-Ratanchha,,,
@@ -7876,10 +7876,10 @@ Bantawa-Lungin-49_lightning-1,,Bantawa-Lungin,49_lightning,namcimpilek,namcimpil
 Bantawa-Thidingkha-49_lightning-1,,Bantawa-Thidingkha,49_lightning,namcimpilek,namcimpilek,n a m + ts i m + p i + l e k,,Bantawa,,,^n a mc i mp i l e k$,Bantawa-Thidingkha,,,
 Bantawa-Timma-49_lightning-1,,Bantawa-Timma,49_lightning,namcimpilek,namcimpilek,n a m + ts i m + p i + l e k,,Bantawa,,,^n a mc i mp i l e k$,Bantawa-Timma,,,
 Bantawa-Okhre-49_lightning-1,,Bantawa-Okhre,49_lightning,namcimpilek,namcimpilek,n a m + ts i m + p i + l e k,,Bantawa,,,^n a mc i mp i l e k$,Bantawa-Okhre,,,
-Belhare-Belhare-49_lightning-1,,Belhare-Belhare,49_lightning,bijulicəmkənu,bijulicəmkənu,b i + j u + l i + tʃ ə m + k ə + n u,,Belhare,,,^b i j u l i c ə mk ə n u $,Belhare-Belhare,,,
-Belhare-Piple-49_lightning-1,,Belhare-Piple,49_lightning,bijulicəmkənu,bijulicəmkənu,b i + j u + l i + tʃ ə m + k ə + n u,,Belhare,,,^b i j u l i c ə mk ə n u $,Belhare-Piple,,,
+Belhare-Belhare-49_lightning-1,,Belhare-Belhare,49_lightning,bijulicəmkənu,bijulicəmkənu,b i + dz u + l i + ts ə m + k ə + n u,,Belhare,,,^b i j u l i c ə mk ə n u $,Belhare-Belhare,,,
+Belhare-Piple-49_lightning-1,,Belhare-Piple,49_lightning,bijulicəmkənu,bijulicəmkənu,b i + dz u + l i + ts ə m + k ə + n u,,Belhare,,,^b i j u l i c ə mk ə n u $,Belhare-Piple,,,
 Belhare-Guthitar-49_lightning-2,,Belhare-Guthitar,49_lightning,namdzhilikpa,namdzhilikpa,n a m + dzʱ i + l i k + p a,,Belhare,,,^n a mdzh i l i kp a $,Belhare-Guthitar,,,
-Belhare-Rudrabari-49_lightning-1,,Belhare-Rudrabari,49_lightning,bijulicəmkənu,bijulicəmkənu,b i + j u + l i + tʃ ə m + k ə + n u,,Belhare,,,^b i j u l i c ə mk ə n u $,Belhare-Rudrabari,,,
+Belhare-Rudrabari-49_lightning-1,,Belhare-Rudrabari,49_lightning,bijulicəmkənu,bijulicəmkənu,b i + dz u + l i + ts ə m + k ə + n u,,Belhare,,,^b i j u l i c ə mk ə n u $,Belhare-Rudrabari,,,
 Chamling-Halesi-49_lightning-1,,Chamling-Halesi,49_lightning,bidzulitsa mkemu,bidzulitsa_^mkemu,b i + dz u + l i + ts a + m + k e + m u,,Chamling,,,^b i dz u l i ts a _ ^m k e m u $,Chamling-Halesi,,,
 Chamling-Ratanchha-49_lightning-1,,Chamling-Ratanchha,49_lightning,naptsibu,naptsibu,n a p + ts i + b u,,Chamling,,,^n a pts i b u $,Chamling-Ratanchha,,,
 Chintang-ChaudhariTole-49_lightning-1,,Chintang-ChaudhariTole,49_lightning,nampetereŋ,nampetereŋ,n a m + p e + t e + r e ŋ,,Chintang,,,^n a mp e t e r e ŋ$,Chintang-ChaudhariTole,,,
@@ -7976,7 +7976,7 @@ Bantawa-Okhre-50_rainbow-1,,Bantawa-Okhre,50_rainbow,nakɨmaŋ,nakɨmaŋ,n a + k
 Belhare-Belhare-50_rainbow-1,,Belhare-Belhare,50_rainbow,kubin,kubin,k u + b i n,,Belhare,,,^k u b i n$,Belhare-Belhare,,,
 Belhare-Piple-50_rainbow-1,,Belhare-Piple,50_rainbow,kubiŋ,kubiŋ,k u + b i ŋ,,Belhare,,,^k u b i ŋ$,Belhare-Piple,,,
 Belhare-Guthitar-50_rainbow-2,,Belhare-Guthitar,50_rainbow,kubin,kubin,k u + b i n,,Belhare,,,^k u b i n$,Belhare-Guthitar,,,
-Belhare-Rudrabari-50_rainbow-1,,Belhare-Rudrabari,50_rainbow,khubhiŋ,khubhiŋ,kʰ u bʱ i ŋ,,Belhare,,,^kh u bh i ŋ$,Belhare-Rudrabari,,,
+Belhare-Rudrabari-50_rainbow-1,,Belhare-Rudrabari,50_rainbow,khubhiŋ,khubhiŋ,kʰ u + bʱ i ŋ,,Belhare,,,^kh u bh i ŋ$,Belhare-Rudrabari,,,
 Chamling-Hadunge-50_rainbow-1,,Chamling-Hadunge,50_rainbow,nakima,nakima,n a + k i + m a,,Chamling,,,^n a k i m a $,Chamling-Hadunge,,,
 Chamling-Halesi-50_rainbow-1,,Chamling-Halesi,50_rainbow,nakima,nakima,n a + k i + m a,,Chamling,,,^n a k i m a $,Chamling-Halesi,,,
 Chamling-Ratanchha-50_rainbow-1,,Chamling-Ratanchha,50_rainbow,nakima,nakima,n a + k i + m a,,Chamling,,,^n a k i m a $,Chamling-Ratanchha,,,
@@ -8074,7 +8074,7 @@ Bantawa-Thidingkha-52_stone-1,,Bantawa-Thidingkha,52_stone,luŋ,luŋ,l u ŋ,,Ban
 Bantawa-Timma-52_stone-1,,Bantawa-Timma,52_stone,luŋ,luŋ,l u ŋ,,Bantawa,,,^l u ŋ$,Bantawa-Timma,,,
 Bantawa-Okhre-52_stone-1,,Bantawa-Okhre,52_stone,luŋ,luŋ,l u ŋ,,Bantawa,,,^l u ŋ$,Bantawa-Okhre,,,
 Belhare-Belhare-52_stone-1,,Belhare-Belhare,52_stone,luŋghek,luŋghek,l u ŋ + gʱ e k,,Belhare,,,^l u ŋgh e k$,Belhare-Belhare,,,
-Belhare-Piple-52_stone-1,,Belhare-Piple,52_stone,luŋgheʔk,luŋgheʔk,l u ŋ + gʱ e ʔ + k,,Belhare,,,^l u ŋgh e ʔk $,Belhare-Piple,,,
+Belhare-Piple-52_stone-1,,Belhare-Piple,52_stone,luŋgheʔk,luŋgheʔk,l u ŋ + gʱ e ʔ k,,Belhare,,,^l u ŋgh e ʔk$,Belhare-Piple,,,
 Belhare-Guthitar-52_stone-2,,Belhare-Guthitar,52_stone,luŋbhek,luŋbhek,l u ŋ + bʱ e k,,Belhare,,,^l u ŋbh e k$,Belhare-Guthitar,,,
 Belhare-Rudrabari-52_stone-1,,Belhare-Rudrabari,52_stone,luŋghek,luŋghek,l u ŋ + gʱ e k,,Belhare,,,^l u ŋgh e k$,Belhare-Rudrabari,,,
 Chamling-Hadunge-52_stone-1,,Chamling-Hadunge,52_stone,luŋʈo,luŋʈo,l u ŋ + ʈ o,,Chamling,,,^l u ŋʈ o $,Chamling-Hadunge,,,
@@ -8331,7 +8331,7 @@ Bantawa-Okhre-57_ash-1,,Bantawa-Okhre,57_ash,thabut,thabut,tʰ a + b u t,,Bantaw
 Belhare-Belhare-57_ash-1,,Belhare-Belhare,57_ash,kharani,kharani,kʰ a + r a + n i,,Belhare,,,^kh a r a n i $,Belhare-Belhare,,,
 Belhare-Piple-57_ash-1,,Belhare-Piple,57_ash,ʈhabuʈ,ʈhabuʈ,ʈʰ a + b u ʈ,,Belhare,,,^ʈh a b u ʈ$,Belhare-Piple,,,
 Belhare-Guthitar-57_ash-2,,Belhare-Guthitar,57_ash,kharani,kharani,kʰ a + r a + n i,,Belhare,,,^kh a r a n i $,Belhare-Guthitar,,,
-Belhare-Rudrabari-57_ash-1,,Belhare-Rudrabari,57_ash,kharani,kharani,kʰ a + r a + n i,,Belhare,,,^kh a r a n i $,Belhare-Rudrabari,,,
+Belhare-Rudrabari-57_ash-1,,Belhare-Rudrabari,57_ash,kharani,kharani,kʰ a + r a + n i,,Belhare,,,^kh a r a n i $,Belhare-Rudrabari,,,nep/loan
 Chamling-Hadunge-57_ash-1,,Chamling-Hadunge,57_ash,mudhima,mudhima,m u + dʱ i + m a,,Chamling,,,^m u dh i m a $,Chamling-Hadunge,,,
 Chamling-Halesi-57_ash-1,,Chamling-Halesi,57_ash,mudhima,mudhima,m u + dʱ i + m a,,Chamling,,,^m u dh i m a $,Chamling-Halesi,,,
 Chamling-Ratanchha-57_ash-1,,Chamling-Ratanchha,57_ash,mudhima,mudhima,m u + dʱ i + m a,,Chamling,,,^m u dh i m a $,Chamling-Ratanchha,,,
@@ -8429,10 +8429,10 @@ Bantawa-Lungin-59_dust-1,,Bantawa-Lungin,59_dust,dhulo,dhulo,dʰ u + l o,,Bantaw
 Bantawa-Thidingkha-59_dust-1,,Bantawa-Thidingkha,59_dust,dhulo,dhulo,dʰ u + l o,,Bantawa,,,^dh u l o $,Bantawa-Thidingkha,,,nep/loan
 Bantawa-Timma-59_dust-1,,Bantawa-Timma,59_dust,dhulo,dhulo,dʰ u + l o,,Bantawa,,,^dh u l o $,Bantawa-Timma,,,nep/loan
 Bantawa-Okhre-59_dust-1,,Bantawa-Okhre,59_dust,dhulo,dhulo,dʰ u + l o,,Bantawa,,,^dh u l o $,Bantawa-Okhre,,,nep/loan
-Belhare-Belhare-59_dust-1,,Belhare-Belhare,59_dust,dhulo,dhulo,dʱ u + l o,,Belhare,,,^dh u l o $,Belhare-Belhare,,,
-Belhare-Piple-59_dust-1,,Belhare-Piple,59_dust,dhulo,dhulo,dʱ u + l o,,Belhare,,,^dh u l o $,Belhare-Piple,,,
+Belhare-Belhare-59_dust-1,,Belhare-Belhare,59_dust,dhulo,dhulo,dʱ u + l o,,Belhare,,,^dh u l o $,Belhare-Belhare,,,nep/loan
+Belhare-Piple-59_dust-1,,Belhare-Piple,59_dust,dhulo,dhulo,dʱ u + l o,,Belhare,,,^dh u l o $,Belhare-Piple,,,nep/loan
 Belhare-Guthitar-59_dust-2,,Belhare-Guthitar,59_dust,dhulo,dhulo,dʱ u + l o,,Belhare,,,^dh u l o $,Belhare-Guthitar,,,
-Belhare-Rudrabari-59_dust-1,,Belhare-Rudrabari,59_dust,dhulo,dhulo,dʱ u + l o,,Belhare,,,^dh u l o $,Belhare-Rudrabari,,,
+Belhare-Rudrabari-59_dust-1,,Belhare-Rudrabari,59_dust,dhulo,dhulo,dʱ u + l o,,Belhare,,,^dh u l o $,Belhare-Rudrabari,,,nep/loan
 Chamling-Hadunge-59_dust-1,,Chamling-Hadunge,59_dust,ri:,ri:,r iː,,Chamling,,,^r i:$,Chamling-Hadunge,,,
 Chamling-Halesi-59_dust-1,,Chamling-Halesi,59_dust,ri:,ri:,r iː,,Chamling,,,^r i:$,Chamling-Halesi,,,
 Chamling-Ratanchha-59_dust-1,,Chamling-Ratanchha,59_dust,bʌkkhaluŋ,bʌkkhaluŋ,b ʌ k + kʰ a + l u ŋ,,Chamling,,,^b ʌ kkh a l u ŋ$,Chamling-Ratanchha,,,
@@ -8481,10 +8481,10 @@ Bantawa-Lungin-6_ear-1,,Bantawa-Lungin,6_ear,nabhak,nabhak,n a + bʱ a k,,Bantaw
 Bantawa-Thidingkha-6_ear-1,,Bantawa-Thidingkha,6_ear,nabhak,nabhak,n a + bʱ a k,,Bantawa,,,^n a bh a k$,Bantawa-Thidingkha,,,
 Bantawa-Timma-6_ear-1,,Bantawa-Timma,6_ear,nabak,nabak,n a + b a k,,Bantawa,,,^n a b a k$,Bantawa-Timma,,,
 Bantawa-Okhre-6_ear-1,,Bantawa-Okhre,6_ear,nabak,nabak,n a + b a k,,Bantawa,,,^n a b a k$,Bantawa-Okhre,,,
-Belhare-Belhare-6_ear-1,,Belhare-Belhare,6_ear,nhubhek,nhubhek,n̥ u bʱ e k,,Belhare,,,^nh u bh e k$,Belhare-Belhare,,,
-Belhare-Piple-6_ear-1,,Belhare-Piple,6_ear,nhubhek,nhubhek,n̥ u bʱ e k,,Belhare,,,^nh u bh e k$,Belhare-Piple,,,
+Belhare-Belhare-6_ear-1,,Belhare-Belhare,6_ear,nhubhek,nhubhek,n̥ u + bʱ e k,,Belhare,,,^nh u bh e k$,Belhare-Belhare,,,
+Belhare-Piple-6_ear-1,,Belhare-Piple,6_ear,nhubhek,nhubhek,n̥ u + bʱ e k,,Belhare,,,^nh u bh e k$,Belhare-Piple,,,
 Belhare-Guthitar-6_ear-2,,Belhare-Guthitar,6_ear,nubek,nubek,n u + b e k,,Belhare,,,^n u b e k$,Belhare-Guthitar,,,
-Belhare-Rudrabari-6_ear-1,,Belhare-Rudrabari,6_ear,nhubhek,nhubhek,n̥ u bʱ e k,,Belhare,,,^nh u bh e k$,Belhare-Rudrabari,,,
+Belhare-Rudrabari-6_ear-1,,Belhare-Rudrabari,6_ear,nhubhek,nhubhek,n̥ u + bʱ e k,,Belhare,,,^nh u bh e k$,Belhare-Rudrabari,,,
 Chamling-Hadunge-6_ear-1,,Chamling-Hadunge,6_ear,nabro,nabro,n a + b r o,,Chamling,,,^n a br o $,Chamling-Hadunge,,,
 Chamling-Halesi-6_ear-1,,Chamling-Halesi,6_ear,nabro,nabro,n a + b r o,,Chamling,,,^n a br o $,Chamling-Halesi,,,
 Chamling-Ratanchha-6_ear-1,,Chamling-Ratanchha,6_ear,nabro,nabro,n a + b r o,,Chamling,,,^n a br o $,Chamling-Ratanchha,,,
@@ -8532,10 +8532,10 @@ Bantawa-Lungin-60_gold-1,,Bantawa-Lungin,60_gold,sona,sona,s o + n a,,Bantawa,,,
 Bantawa-Thidingkha-60_gold-1,,Bantawa-Thidingkha,60_gold,suna,suna,s u + n a,,Bantawa,,,^s u n a $,Bantawa-Thidingkha,,,nep/loan
 Bantawa-Timma-60_gold-1,,Bantawa-Timma,60_gold,sona,sona,s o + n a,,Bantawa,,,^s o n a $,Bantawa-Timma,,,nep/loan
 Bantawa-Okhre-60_gold-1,,Bantawa-Okhre,60_gold,sona,sona,s o + n a,,Bantawa,,,^s o n a $,Bantawa-Okhre,,,nep/loan
-Belhare-Belhare-60_gold-1,,Belhare-Belhare,60_gold,sun,sun,s u n,,Belhare,,,^s u n$,Belhare-Belhare,,,
+Belhare-Belhare-60_gold-1,,Belhare-Belhare,60_gold,sun,sun,s u n,,Belhare,,,^s u n$,Belhare-Belhare,,,nep/loan
 Belhare-Piple-60_gold-1,,Belhare-Piple,60_gold,phabeleŋma,phabeleŋma,pʰ a + b e + l e ŋ + m a,,Belhare,,,^ph a b e l e ŋm a $,Belhare-Piple,,,
 Belhare-Guthitar-60_gold-2,,Belhare-Guthitar,60_gold,phabalemba,phabalemba,pʰ a + b a + l e m + b a,,Belhare,,,^ph a b a l e mb a $,Belhare-Guthitar,,,
-Belhare-Rudrabari-60_gold-1,,Belhare-Rudrabari,60_gold,sun,sun,s u n,,Belhare,,,^s u n$,Belhare-Rudrabari,,,
+Belhare-Rudrabari-60_gold-1,,Belhare-Rudrabari,60_gold,sun,sun,s u n,,Belhare,,,^s u n$,Belhare-Rudrabari,,,nep/loan
 Chamling-Hadunge-60_gold-1,,Chamling-Hadunge,60_gold,umnima,umnima,u m + n i + m a,,Chamling,,,^u mn i m a $,Chamling-Hadunge,,,
 Chamling-Halesi-60_gold-1,,Chamling-Halesi,60_gold,umnima,umnima,u m + n i + m a,,Chamling,,,^u mn i m a $,Chamling-Halesi,,,
 Chamling-Ratanchha-60_gold-1,,Chamling-Ratanchha,60_gold,ɦipatimma,ɦipatimma,ɦ i + p a + t i m + m a,,Chamling,,,^ɦ i p a t i mm a $,Chamling-Ratanchha,,,
@@ -8635,10 +8635,10 @@ Bantawa-Lungin-62_leaf-1,,Bantawa-Lungin,62_leaf,sɨŋbakʔwa,sɨŋbakʔwa,s ɨ 
 Bantawa-Thidingkha-62_leaf-1,,Bantawa-Thidingkha,62_leaf,suŋbak,suŋbak,s u ŋ + b a k,,Bantawa,,,^s u ŋb a k$,Bantawa-Thidingkha,,,
 Bantawa-Timma-62_leaf-1,,Bantawa-Timma,62_leaf,sumbak,sumbak,s u m + b a k,,Bantawa,,,^s u mb a k$,Bantawa-Timma,,,
 Bantawa-Okhre-62_leaf-1,,Bantawa-Okhre,62_leaf,sumba,sumba,s u m + b a,,Bantawa,,,^s u mb a $,Bantawa-Okhre,,,
-Belhare-Belhare-62_leaf-1,,Belhare-Belhare,62_leaf,labhok,labhok,l a bʱ o k,,Belhare,,,^l a bh o k$,Belhare-Belhare,,,
-Belhare-Piple-62_leaf-1,,Belhare-Piple,62_leaf,labhok,labhok,l a bʱ o k,,Belhare,,,^l a bh o k$,Belhare-Piple,,,
+Belhare-Belhare-62_leaf-1,,Belhare-Belhare,62_leaf,labhok,labhok,l a + bʱ o k,,Belhare,,,^l a bh o k$,Belhare-Belhare,,,
+Belhare-Piple-62_leaf-1,,Belhare-Piple,62_leaf,labhok,labhok,l a + bʱ o k,,Belhare,,,^l a bh o k$,Belhare-Piple,,,
 Belhare-Guthitar-62_leaf-2,,Belhare-Guthitar,62_leaf,uphauwa,uphauwa,u + pʰ au + w a,,Belhare,,,^u ph au w a $,Belhare-Guthitar,,,
-Belhare-Rudrabari-62_leaf-1,,Belhare-Rudrabari,62_leaf,labhok,labhok,l a bʱ o k,,Belhare,,,^l a bh o k$,Belhare-Rudrabari,,,
+Belhare-Rudrabari-62_leaf-1,,Belhare-Rudrabari,62_leaf,labhok,labhok,l a + bʱ o k,,Belhare,,,^l a bh o k$,Belhare-Rudrabari,,,
 Chamling-Hadunge-62_leaf-1,,Chamling-Hadunge,62_leaf,labo,labo,l a + b o,,Chamling,,,^l a b o $,Chamling-Hadunge,,,
 Chamling-Halesi-62_leaf-1,,Chamling-Halesi,62_leaf,labo,labo,l a + b o,,Chamling,,,^l a b o $,Chamling-Halesi,,,
 Chamling-Ratanchha-62_leaf-1,,Chamling-Ratanchha,62_leaf,labo,labo,l a + b o,,Chamling,,,^l a b o $,Chamling-Ratanchha,,,
@@ -8681,7 +8681,7 @@ Jirel-Yarsa-62_leaf-1,,Jirel-Yarsa,62_leaf,sjomak/ sjoma,sjomak,s j o + m a + k,
 Jirel-Yarsa-62_leaf-2,,Jirel-Yarsa,62_leaf,sjomak/ sjoma,sjoma,s j o + m a,,Jirel,,,^sj o m a $,Jirel-Yarsa,,,
 Athpahariya-Santang-63_root-1,,Athpahariya-Santang,63_root,ujara,ujara,u + dz a + r a,,Athpahariya,,,^u j a r a $,Athpahariya-Santang,,,
 Athpahariya-Tekunala-63_root-1,,Athpahariya-Tekunala,63_root,ujura,ujura,u + dz u + r a,,Athpahariya,,,^u j u r a $,Athpahariya-Tekunala,,,
-Belhare-Guthitar-63_root-1,,Belhare-Guthitar,63_root,ujara,ujara,u + j a + r a,,Athpahariya,,,^u j a r a $,Belhare-Guthitar,,,
+Belhare-Guthitar-63_root-1,,Belhare-Guthitar,63_root,ujara,ujara,u + dz a + r a,,Athpahariya,,,^u j a r a $,Belhare-Guthitar,,,
 Athpahariya-Khalde-63_root-1,,Athpahariya-Khalde,63_root,ujura,ujura,u + dz u + r a,,Athpahariya,,,^u j u r a $,Athpahariya-Khalde,,,
 Athpahariya-Hatiya-63_root-1,,Athpahariya-Hatiya,63_root,ujara,ujara,u + dz a + r a,,Athpahariya,,,^u j a r a $,Athpahariya-Hatiya,,,
 Bantawa-Khoku-63_root-1,,Bantawa-Khoku,63_root,bheŋ,bheŋ,bʰ e ŋ,,Bantawa,,,^bh e ŋ$,Bantawa-Khoku,,,
@@ -8689,10 +8689,10 @@ Bantawa-Lungin-63_root-1,,Bantawa-Lungin,63_root,bhen,bhen,bʰ e n,,Bantawa,,,^b
 Bantawa-Thidingkha-63_root-1,,Bantawa-Thidingkha,63_root,əbhen,əbhen,ə + bʱ e n,,Bantawa,,,^ə bh e n$,Bantawa-Thidingkha,,,
 Bantawa-Timma-63_root-1,,Bantawa-Timma,63_root,bʰen,bʰen,bʰ e n,,Bantawa,,,^bʰ e n$,Bantawa-Timma,,,
 Bantawa-Okhre-63_root-1,,Bantawa-Okhre,63_root,bʰen,bʰen,bʰ e n,,Bantawa,,,^bʰ e n$,Bantawa-Okhre,,,
-Belhare-Belhare-63_root-1,,Belhare-Belhare,63_root,ujara,ujara,u + j a + r a,,Belhare,,,^u j a r a $,Belhare-Belhare,,,
-Belhare-Piple-63_root-1,,Belhare-Piple,63_root,ujara,ujara,u + j a + r a,,Belhare,,,^u j a r a $,Belhare-Piple,,,
-Belhare-Guthitar-63_root-2,,Belhare-Guthitar,63_root,ujara,ujara,u + j a + r a,,Belhare,,,^u j a r a $,Belhare-Guthitar,,,
-Belhare-Rudrabari-63_root-1,,Belhare-Rudrabari,63_root,ujara,ujara,u + j a + r a,,Belhare,,,^u j a r a $,Belhare-Rudrabari,,,
+Belhare-Belhare-63_root-1,,Belhare-Belhare,63_root,ujara,ujara,u + dz a + r a,,Belhare,,,^u j a r a $,Belhare-Belhare,,,
+Belhare-Piple-63_root-1,,Belhare-Piple,63_root,ujara,ujara,u + dz a + r a,,Belhare,,,^u j a r a $,Belhare-Piple,,,
+Belhare-Guthitar-63_root-2,,Belhare-Guthitar,63_root,ujara,ujara,u + dz a + r a,,Belhare,,,^u j a r a $,Belhare-Guthitar,,,
+Belhare-Rudrabari-63_root-1,,Belhare-Rudrabari,63_root,ujara,ujara,u + dz a + r a,,Belhare,,,^u j a r a $,Belhare-Rudrabari,,,
 Chamling-Hadunge-63_root-1,,Chamling-Hadunge,63_root,umbhʌr,umbhʌr,u m + bʱ ʌ r,,Chamling,,,^u mbh ʌ r$,Chamling-Hadunge,,,
 Chamling-Halesi-63_root-1,,Chamling-Halesi,63_root,umbhʌr,umbhʌr,u m + bʱ ʌ r,,Chamling,,,^u mbh ʌ r$,Chamling-Halesi,,,
 Chamling-Ratanchha-63_root-1,,Chamling-Ratanchha,63_root,bhjar,bhjar,bʱ j a r,,Chamling,,,^bhj a r$,Chamling-Ratanchha,,,
@@ -8996,10 +8996,10 @@ Bantawa-Lungin-69_wheathusked-1,,Bantawa-Lungin,69_wheathusked,gəhu,gəhu,g ə 
 Bantawa-Thidingkha-69_wheathusked-1,,Bantawa-Thidingkha,69_wheathusked,gəhu,gəhu,g ə + h u,,Bantawa,,,^g ə h u $,Bantawa-Thidingkha,,,nep/loan
 Bantawa-Timma-69_wheathusked-1,,Bantawa-Timma,69_wheathusked,gəhu,gəhu,g ə + h u,,Bantawa,,,^g ə h u $,Bantawa-Timma,,,nep/loan
 Bantawa-Okhre-69_wheathusked-1,,Bantawa-Okhre,69_wheathusked,gəhu,gəhu,g ə + h u,,Bantawa,,,^g ə h u $,Bantawa-Okhre,,,nep/loan
-Belhare-Belhare-69_wheathusked-1,,Belhare-Belhare,69_wheathusked,gəhũ,gəhũ,g ə + h ũ,,Belhare,,,^g ə h ũ $,Belhare-Belhare,,,
-Belhare-Piple-69_wheathusked-1,,Belhare-Piple,69_wheathusked,gəhũ,gəhũ,g ə + h ũ,,Belhare,,,^g ə h ũ $,Belhare-Piple,,,
+Belhare-Belhare-69_wheathusked-1,,Belhare-Belhare,69_wheathusked,gəhũ,gəhũ,g ə + h ũ,,Belhare,,,^g ə h ũ $,Belhare-Belhare,,,nep/loan
+Belhare-Piple-69_wheathusked-1,,Belhare-Piple,69_wheathusked,gəhũ,gəhũ,g ə + h ũ,,Belhare,,,^g ə h ũ $,Belhare-Piple,,,nep/loan
 Belhare-Guthitar-69_wheathusked-2,,Belhare-Guthitar,69_wheathusked,gəhũ,gəhũ,g ə + h ũ,,Belhare,,,^g ə h ũ $,Belhare-Guthitar,,,
-Belhare-Rudrabari-69_wheathusked-1,,Belhare-Rudrabari,69_wheathusked,gəhũ,gəhũ,g ə + h ũ,,Belhare,,,^g ə h ũ $,Belhare-Rudrabari,,,
+Belhare-Rudrabari-69_wheathusked-1,,Belhare-Rudrabari,69_wheathusked,gəhũ,gəhũ,g ə + h ũ,,Belhare,,,^g ə h ũ $,Belhare-Rudrabari,,,nep/loan
 Chamling-Hadunge-69_wheathusked-1,,Chamling-Hadunge,69_wheathusked,tshambetsha,tshambetsha,tsʰ a m + b e + tsʰ a,,Chamling,,,^tsh a mb e tsh a $,Chamling-Hadunge,,,
 Chamling-Halesi-69_wheathusked-1,,Chamling-Halesi,69_wheathusked,tshambetsha,tshambetsha,tsʰ a m + b e + tsʰ a,,Chamling,,,^tsh a mb e tsh a $,Chamling-Halesi,,,
 Chamling-Ratanchha-69_wheathusked-1,,Chamling-Ratanchha,69_wheathusked,tshambetsha,tshambetsha,tsʰ a m + b e + tsʰ a,,Chamling,,,^tsh a mb e tsh a $,Chamling-Ratanchha,,,
@@ -9093,10 +9093,10 @@ Bantawa-Lungin-70_barley-1,,Bantawa-Lungin,70_barley,dzəu,dzəu,dz əu,,Bantawa
 Bantawa-Thidingkha-70_barley-1,,Bantawa-Thidingkha,70_barley,dzəu,dzəu,dz əu,,Bantawa,,,^dz əu$,Bantawa-Thidingkha,,,
 Bantawa-Timma-70_barley-1,,Bantawa-Timma,70_barley,dzəu,dzəu,dz əu,,Bantawa,,,^dz əu$,Bantawa-Timma,,,
 Bantawa-Okhre-70_barley-1,,Bantawa-Okhre,70_barley,dzəu,dzəu,dz əu,,Bantawa,,,^dz əu$,Bantawa-Okhre,,,
-Belhare-Belhare-70_barley-1,,Belhare-Belhare,70_barley,jəu,jəu,j əu,,Belhare,,,^j əu$,Belhare-Belhare,,,
-Belhare-Piple-70_barley-1,,Belhare-Piple,70_barley,jəu,jəu,j əu,,Belhare,,,^j əu$,Belhare-Piple,,,
-Belhare-Guthitar-70_barley-2,,Belhare-Guthitar,70_barley,jəu,jəu,j əu,,Belhare,,,^j əu$,Belhare-Guthitar,,,
-Belhare-Rudrabari-70_barley-1,,Belhare-Rudrabari,70_barley,jəu,jəu,j əu,,Belhare,,,^j əu$,Belhare-Rudrabari,,,
+Belhare-Belhare-70_barley-1,,Belhare-Belhare,70_barley,jəu,jəu,dz əu,,Belhare,,,^j əu$,Belhare-Belhare,,,nep/loan
+Belhare-Piple-70_barley-1,,Belhare-Piple,70_barley,jəu,jəu,dz əu,,Belhare,,,^j əu$,Belhare-Piple,,,nep/loan
+Belhare-Guthitar-70_barley-2,,Belhare-Guthitar,70_barley,jəu,jəu,dz əu,,Belhare,,,^j əu$,Belhare-Guthitar,,,
+Belhare-Rudrabari-70_barley-1,,Belhare-Rudrabari,70_barley,jəu,jəu,dz əu,,Belhare,,,^j əu$,Belhare-Rudrabari,,,nep/loan
 Chamling-Hadunge-70_barley-1,,Chamling-Hadunge,70_barley,tsuŋ,tsuŋ,ts u ŋ,,Chamling,,,^ts u ŋ$,Chamling-Hadunge,,,
 Chamling-Halesi-70_barley-1,,Chamling-Halesi,70_barley,tsuŋ,tsuŋ,ts u ŋ,,Chamling,,,^ts u ŋ$,Chamling-Halesi,,,
 Chamling-Ratanchha-70_barley-1,,Chamling-Ratanchha,70_barley,tsuŋ,tsuŋ,ts u ŋ,,Chamling,,,^ts u ŋ$,Chamling-Ratanchha,,,
@@ -9139,7 +9139,7 @@ Bantawa-Thidingkha-71_ricehusked-1,,Bantawa-Thidingkha,71_ricehusked,cajəŋ,caj
 Bantawa-Timma-71_ricehusked-1,,Bantawa-Timma,71_ricehusked,cajəŋ,cajəŋ,tʃ a + dʒ ə ŋ,,Bantawa,,,^c a j ə ŋ$,Bantawa-Timma,,,
 Bantawa-Okhre-71_ricehusked-1,,Bantawa-Okhre,71_ricehusked,cajɨŋ,cajɨŋ,tʃ a + dʒ ɨ ŋ,,Bantawa,,,^c a j ɨ ŋ$,Bantawa-Okhre,,,
 Belhare-Belhare-71_ricehusked-1,,Belhare-Belhare,71_ricehusked,casa,casa,tʃ a + s a,,Belhare,,,^c a s a $,Belhare-Belhare,,,
-Belhare-Piple-71_ricehusked-1,,Belhare-Piple,71_ricehusked,cacək,cacək,tʃ a + tʃ ə k,,Belhare,,,^c a c ə k$,Belhare-Piple,,,
+Belhare-Piple-71_ricehusked-1,,Belhare-Piple,71_ricehusked,cacək,cacək,tʃ a + ts ə k,,Belhare,,,^c a c ə k$,Belhare-Piple,,,
 Belhare-Guthitar-71_ricehusked-2,,Belhare-Guthitar,71_ricehusked,sera,sera,s e + r a,,Belhare,,,^s e r a $,Belhare-Guthitar,,,
 Belhare-Rudrabari-71_ricehusked-1,,Belhare-Rudrabari,71_ricehusked,casak,casak,tʃ a + s a k,,Belhare,,,^c a s a k$,Belhare-Rudrabari,,,
 Chamling-Hadunge-71_ricehusked-1,,Chamling-Hadunge,71_ricehusked,tsaruŋ,tsaruŋ,ts a + r u ŋ,,Chamling,,,^ts a r u ŋ$,Chamling-Hadunge,,,
@@ -9192,10 +9192,10 @@ Bantawa-Lungin-72_potato-1,,Bantawa-Lungin,72_potato,saki,saki,s a + k i,,Bantaw
 Bantawa-Thidingkha-72_potato-1,,Bantawa-Thidingkha,72_potato,saki,saki,s a + k i,,Bantawa,,,^s a k i $,Bantawa-Thidingkha,,,
 Bantawa-Timma-72_potato-1,,Bantawa-Timma,72_potato,saki,saki,s a + k i,,Bantawa,,,^s a k i $,Bantawa-Timma,,,
 Bantawa-Okhre-72_potato-1,,Bantawa-Okhre,72_potato,saki,saki,s a + k i,,Bantawa,,,^s a k i $,Bantawa-Okhre,,,
-Belhare-Belhare-72_potato-1,,Belhare-Belhare,72_potato,alu,alu,a + l u,,Belhare,,,^a l u $,Belhare-Belhare,,,
-Belhare-Piple-72_potato-1,,Belhare-Piple,72_potato,alu,alu,a + l u,,Belhare,,,^a l u $,Belhare-Piple,,,
+Belhare-Belhare-72_potato-1,,Belhare-Belhare,72_potato,alu,alu,a + l u,,Belhare,,,^a l u $,Belhare-Belhare,,,nep/loan
+Belhare-Piple-72_potato-1,,Belhare-Piple,72_potato,alu,alu,a + l u,,Belhare,,,^a l u $,Belhare-Piple,,,nep/loan
 Belhare-Guthitar-72_potato-2,,Belhare-Guthitar,72_potato,alu,alu,a + l u,,Belhare,,,^a l u $,Belhare-Guthitar,,,
-Belhare-Rudrabari-72_potato-1,,Belhare-Rudrabari,72_potato,alu,alu,a + l u,,Belhare,,,^a l u $,Belhare-Rudrabari,,,
+Belhare-Rudrabari-72_potato-1,,Belhare-Rudrabari,72_potato,alu,alu,a + l u,,Belhare,,,^a l u $,Belhare-Rudrabari,,,nep/loan
 Chamling-Hadunge-72_potato-1,,Chamling-Hadunge,72_potato,bokhi,bokhi,b o + kʰ i,,Chamling,,,^b o kh i $,Chamling-Hadunge,,,
 Chamling-Halesi-72_potato-1,,Chamling-Halesi,72_potato,bokhi,bokhi,b o + kʰ i,,Chamling,,,^b o kh i $,Chamling-Halesi,,,
 Chamling-Ratanchha-72_potato-1,,Chamling-Ratanchha,72_potato,bokhi,bokhi,b o + kʰ i,,Chamling,,,^b o kh i $,Chamling-Ratanchha,,,
@@ -9241,8 +9241,8 @@ Bantawa-Lungin-73_eggplant-1,,Bantawa-Lungin,73_eggplant,bəmbək,bəmbək,b ə 
 Bantawa-Thidingkha-73_eggplant-1,,Bantawa-Thidingkha,73_eggplant,bəigun,bəigun,b əi + g u n,,Bantawa,,,^b əi g u n$,Bantawa-Thidingkha,,,nep/loan
 Bantawa-Timma-73_eggplant-1,,Bantawa-Timma,73_eggplant,bəigun,bəigun,b əi + g u n,,Bantawa,,,^b əi g u n$,Bantawa-Timma,,,nep/loan
 Bantawa-Okhre-73_eggplant-1,,Bantawa-Okhre,73_eggplant,bəmbək,bəmbək,b ə m + b ə k,,Bantawa,,,^b ə mb ə k$,Bantawa-Okhre,,,
-Belhare-Belhare-73_eggplant-1,,Belhare-Belhare,73_eggplant,bhənta,bhənta,bʱ ə n + t a,,Belhare,,,^bh ə nt a $,Belhare-Belhare,,,
-Belhare-Piple-73_eggplant-1,,Belhare-Piple,73_eggplant,bhənta,bhənta,bʱ ə n + t a,,Belhare,,,^bh ə nt a $,Belhare-Piple,,,
+Belhare-Belhare-73_eggplant-1,,Belhare-Belhare,73_eggplant,bhənta,bhənta,bʱ ə n + t a,,Belhare,,,^bh ə nt a $,Belhare-Belhare,,,nep/loan
+Belhare-Piple-73_eggplant-1,,Belhare-Piple,73_eggplant,bhənta,bhənta,bʱ ə n + t a,,Belhare,,,^bh ə nt a $,Belhare-Piple,,,nep/loan
 Belhare-Guthitar-73_eggplant-2,,Belhare-Guthitar,73_eggplant,popola,popola,p o + p o + l a,,Belhare,,,^p o p o l a $,Belhare-Guthitar,,,
 Belhare-Rudrabari-73_eggplant-1,,Belhare-Rudrabari,73_eggplant,bhənta,bhənta,bʱ ə n + t a,,Belhare,,,^bh ə nt a $,Belhare-Rudrabari,,,
 Chamling-Hadunge-73_eggplant-1,,Chamling-Hadunge,73_eggplant,bhokhatsa,bhokhatsa,bʱ o + kʰ a + ts a,,Chamling,,,^bh o kh a ts a $,Chamling-Hadunge,,,
@@ -9291,10 +9291,10 @@ Bantawa-Lungin-74_groundnut-1,,Bantawa-Lungin,74_groundnut,bədam,bədam,b ə + 
 Bantawa-Thidingkha-74_groundnut-1,,Bantawa-Thidingkha,74_groundnut,bədam,bədam,b ə + d a m,,Bantawa,,,^b ə d a m$,Bantawa-Thidingkha,,,nep/loan
 Bantawa-Timma-74_groundnut-1,,Bantawa-Timma,74_groundnut,bədam,bədam,b ə + d a m,,Bantawa,,,^b ə d a m$,Bantawa-Timma,,,nep/loan
 Bantawa-Okhre-74_groundnut-1,,Bantawa-Okhre,74_groundnut,bədam,bədam,b ə + d a m,,Bantawa,,,^b ə d a m$,Bantawa-Okhre,,,nep/loan
-Belhare-Belhare-74_groundnut-1,,Belhare-Belhare,74_groundnut,bədam,bədam,b ə + d a m,,Belhare,,,^b ə d a m$,Belhare-Belhare,,,
-Belhare-Piple-74_groundnut-1,,Belhare-Piple,74_groundnut,bədam,bədam,b ə + d a m,,Belhare,,,^b ə d a m$,Belhare-Piple,,,
+Belhare-Belhare-74_groundnut-1,,Belhare-Belhare,74_groundnut,bədam,bədam,b ə + d a m,,Belhare,,,^b ə d a m$,Belhare-Belhare,,,nep/loan
+Belhare-Piple-74_groundnut-1,,Belhare-Piple,74_groundnut,bədam,bədam,b ə + d a m,,Belhare,,,^b ə d a m$,Belhare-Piple,,,nep/loan
 Belhare-Guthitar-74_groundnut-2,,Belhare-Guthitar,74_groundnut,bədam,bədam,b ə + d a m,,Belhare,,,^b ə d a m$,Belhare-Guthitar,,,
-Belhare-Rudrabari-74_groundnut-1,,Belhare-Rudrabari,74_groundnut,bədam,bədam,b ə + d a m,,Belhare,,,^b ə d a m$,Belhare-Rudrabari,,,
+Belhare-Rudrabari-74_groundnut-1,,Belhare-Rudrabari,74_groundnut,bədam,bədam,b ə + d a m,,Belhare,,,^b ə d a m$,Belhare-Rudrabari,,,nep/loan
 Chamling-Hadunge-74_groundnut-1,,Chamling-Hadunge,74_groundnut,baɗʌm,baɗʌm,b a + ɗ ʌ m,,Chamling,,,^b a ɗ ʌ m$,Chamling-Hadunge,,,
 Chamling-Halesi-74_groundnut-1,,Chamling-Halesi,74_groundnut,baɗʌm,baɗʌm,b a + ɗ ʌ m,,Chamling,,,^b a ɗ ʌ m$,Chamling-Halesi,,,
 Chamling-Ratanchha-74_groundnut-1,,Chamling-Ratanchha,74_groundnut,baɗʌm,baɗʌm,b a + ɗ ʌ m,,Chamling,,,^b a ɗ ʌ m$,Chamling-Ratanchha,,,
@@ -9336,10 +9336,10 @@ Bantawa-Lungin-75_chili-1,,Bantawa-Lungin,75_chili,noŋga,noŋga,n o ŋ + g a,,B
 Bantawa-Thidingkha-75_chili-1,,Bantawa-Thidingkha,75_chili,loŋga,loŋga,l o ŋ + g a,,Bantawa,,,^l o ŋg a $,Bantawa-Thidingkha,,,
 Bantawa-Timma-75_chili-1,,Bantawa-Timma,75_chili,birosi,birosi,b i + r o + s i,,Bantawa,,,^b i r o s i $,Bantawa-Timma,,,
 Bantawa-Okhre-75_chili-1,,Bantawa-Okhre,75_chili,birosi,birosi,b i + r o + s i,,Bantawa,,,^b i r o s i $,Bantawa-Okhre,,,
-Belhare-Belhare-75_chili-1,,Belhare-Belhare,75_chili,marci,marci,m a r + tʃ i,,Belhare,,,^m a rc i $,Belhare-Belhare,,,
-Belhare-Piple-75_chili-1,,Belhare-Piple,75_chili,martci,martci,m a r + !tc/tʃ i,,Belhare,,,^m a rtc i $,Belhare-Piple,,,
-Belhare-Guthitar-75_chili-2,,Belhare-Guthitar,75_chili,marci,marci,m a r + tʃ i,,Belhare,,,^m a rc i $,Belhare-Guthitar,,,
-Belhare-Rudrabari-75_chili-1,,Belhare-Rudrabari,75_chili,marci,marci,m a r + tʃ i,,Belhare,,,^m a rc i $,Belhare-Rudrabari,,,
+Belhare-Belhare-75_chili-1,,Belhare-Belhare,75_chili,marci,marci,m a r + ts i,,Belhare,,,^m a rc i $,Belhare-Belhare,,,
+Belhare-Piple-75_chili-1,,Belhare-Piple,75_chili,martci,martci,m a r + ts i,,Belhare,,,^m a rtc i $,Belhare-Piple,,,
+Belhare-Guthitar-75_chili-2,,Belhare-Guthitar,75_chili,marci,marci,m a r + ts i,,Belhare,,,^m a rc i $,Belhare-Guthitar,,,
+Belhare-Rudrabari-75_chili-1,,Belhare-Rudrabari,75_chili,marci,marci,m a r + ts i,,Belhare,,,^m a rc i $,Belhare-Rudrabari,,,
 Chamling-Hadunge-75_chili-1,,Chamling-Hadunge,75_chili,birosi,birosi,b i + r o + s i,,Chamling,,,^b i r o s i $,Chamling-Hadunge,,,
 Chamling-Halesi-75_chili-1,,Chamling-Halesi,75_chili,birosi,birosi,b i + r o + s i,,Chamling,,,^b i r o s i $,Chamling-Halesi,,,
 Chamling-Ratanchha-75_chili-1,,Chamling-Ratanchha,75_chili,birosi,birosi,b i + r o + s i,,Chamling,,,^b i r o s i $,Chamling-Ratanchha,,,
@@ -9439,10 +9439,10 @@ Bantawa-Lungin-77_garlic-1,,Bantawa-Lungin,77_garlic,maŋkup,maŋkup,m a ŋ + k 
 Bantawa-Thidingkha-77_garlic-1,,Bantawa-Thidingkha,77_garlic,maŋkup,maŋkup,m a ŋ + k u p,,Bantawa,,,^m a ŋk u p$,Bantawa-Thidingkha,,,
 Bantawa-Timma-77_garlic-1,,Bantawa-Timma,77_garlic,maŋkuk,maŋkuk,m a ŋ + k u k,,Bantawa,,,^m a ŋk u k$,Bantawa-Timma,,,
 Bantawa-Okhre-77_garlic-1,,Bantawa-Okhre,77_garlic,maŋkup,maŋkup,m a ŋ + k u p,,Bantawa,,,^m a ŋk u p$,Bantawa-Okhre,,,
-Belhare-Belhare-77_garlic-1,,Belhare-Belhare,77_garlic,maŋghuʔk,maŋghuʔk,m a ŋ + gʱ u ʔ + k,,Belhare,,,^m a ŋgh u ʔk $,Belhare-Belhare,,,
-Belhare-Piple-77_garlic-1,,Belhare-Piple,77_garlic,maŋghuʔk,maŋghuʔk,m a ŋ + gʱ u ʔ + k,,Belhare,,,^m a ŋgh u ʔk $,Belhare-Piple,,,
+Belhare-Belhare-77_garlic-1,,Belhare-Belhare,77_garlic,maŋghuʔk,maŋghuʔk,m a ŋ + gʱ u ʔ k,,Belhare,,,^m a ŋgh u ʔk$,Belhare-Belhare,,,
+Belhare-Piple-77_garlic-1,,Belhare-Piple,77_garlic,maŋghuʔk,maŋghuʔk,m a ŋ + gʱ u ʔ k,,Belhare,,,^m a ŋgh u ʔk$,Belhare-Piple,,,
 Belhare-Guthitar-77_garlic-2,,Belhare-Guthitar,77_garlic,maŋhuk,maŋhuk,m a ŋ + h u k,,Belhare,,,^m a ŋh u k$,Belhare-Guthitar,,,
-Belhare-Rudrabari-77_garlic-1,,Belhare-Rudrabari,77_garlic,maŋghuʔk,maŋghuʔk,m a ŋ + gʱ u ʔ + k,,Belhare,,,^m a ŋgh u ʔk $,Belhare-Rudrabari,,,
+Belhare-Rudrabari-77_garlic-1,,Belhare-Rudrabari,77_garlic,maŋghuʔk,maŋghuʔk,m a ŋ + gʱ u ʔ k,,Belhare,,,^m a ŋgh u ʔk$,Belhare-Rudrabari,,,
 Chamling-Hadunge-77_garlic-1,,Chamling-Hadunge,77_garlic,numbasa,numbasa,n u m + b a + s a,,Chamling,,,^n u mb a s a $,Chamling-Hadunge,,,
 Chamling-Halesi-77_garlic-1,,Chamling-Halesi,77_garlic,numbasa,numbasa,n u m + b a + s a,,Chamling,,,^n u mb a s a $,Chamling-Halesi,,,
 Chamling-Ratanchha-77_garlic-1,,Chamling-Ratanchha,77_garlic,numbasa,numbasa,n u m + b a + s a,,Chamling,,,^n u mb a s a $,Chamling-Ratanchha,,,
@@ -9489,10 +9489,10 @@ Bantawa-Lungin-78_onion-1,,Bantawa-Lungin,78_onion,pjadzu,pjadzu,p j a + dz u,,B
 Bantawa-Thidingkha-78_onion-1,,Bantawa-Thidingkha,78_onion,pjadzu,pjadzu,p j a + dz u,,Bantawa,,,^pj a dz u $,Bantawa-Thidingkha,,,loan/nep
 Bantawa-Timma-78_onion-1,,Bantawa-Timma,78_onion,pjadz,pjadz,p j a + dz,,Bantawa,,,^pj a dz $,Bantawa-Timma,,,loan/nep
 Bantawa-Okhre-78_onion-1,,Bantawa-Okhre,78_onion,pjadz,pjadz,p j a + dz,,Bantawa,,,^pj a dz $,Bantawa-Okhre,,,loan/nep
-Belhare-Belhare-78_onion-1,,Belhare-Belhare,78_onion,pyaj,pyaj,p j a + j,,Belhare,,,^p ya j $,Belhare-Belhare,,,
-Belhare-Piple-78_onion-1,,Belhare-Piple,78_onion,pyaj,pyaj,p j a + j,,Belhare,,,^p ya j $,Belhare-Piple,,,
-Belhare-Guthitar-78_onion-2,,Belhare-Guthitar,78_onion,pyaj,pyaj,p j a + j,,Belhare,,,^p ya j $,Belhare-Guthitar,,,
-Belhare-Rudrabari-78_onion-1,,Belhare-Rudrabari,78_onion,pyaj,pyaj,p j a + j,,Belhare,,,^p ya j $,Belhare-Rudrabari,,,
+Belhare-Belhare-78_onion-1,,Belhare-Belhare,78_onion,pyaj,pyaj,p j a dz,,Belhare,,,^pyaj $,Belhare-Belhare,,,loan/nep
+Belhare-Piple-78_onion-1,,Belhare-Piple,78_onion,pyaj,pyaj,p j a dz,,Belhare,,,^pyaj $,Belhare-Piple,,,loan/nep
+Belhare-Guthitar-78_onion-2,,Belhare-Guthitar,78_onion,pyaj,pyaj,p j a dz,,Belhare,,,^pyaj $,Belhare-Guthitar,,,
+Belhare-Rudrabari-78_onion-1,,Belhare-Rudrabari,78_onion,pyaj,pyaj,p j a dz,,Belhare,,,^pyaj $,Belhare-Rudrabari,,,loan/nep
 Chamling-Hadunge-78_onion-1,,Chamling-Hadunge,78_onion,pjadz,pjadz,p j a + dz,,Chamling,,,^pj a dz $,Chamling-Hadunge,,,
 Chamling-Halesi-78_onion-1,,Chamling-Halesi,78_onion,pjadz,pjadz,p j a + dz,,Chamling,,,^pj a dz $,Chamling-Halesi,,,
 Chamling-Ratanchha-78_onion-1,,Chamling-Ratanchha,78_onion,pjadz,pjadz,p j a + dz,,Chamling,,,^pj a dz $,Chamling-Ratanchha,,,
@@ -9539,10 +9539,10 @@ Bantawa-Lungin-79_cauliflower-1,,Bantawa-Lungin,79_cauliflower,kopi,kopi,k o + p
 Bantawa-Thidingkha-79_cauliflower-1,,Bantawa-Thidingkha,79_cauliflower,kopi,kopi,k o + p i,,Bantawa,,,^k o p i $,Bantawa-Thidingkha,,,nep/loan
 Bantawa-Timma-79_cauliflower-1,,Bantawa-Timma,79_cauliflower,kopi,kopi,k o + p i,,Bantawa,,,^k o p i $,Bantawa-Timma,,,nep/loan
 Bantawa-Okhre-79_cauliflower-1,,Bantawa-Okhre,79_cauliflower,kopi,kopi,k o + p i,,Bantawa,,,^k o p i $,Bantawa-Okhre,,,nep/loan
-Belhare-Belhare-79_cauliflower-1,,Belhare-Belhare,79_cauliflower,kauli,kauli,k au + l i,,Belhare,,,^k au l i $,Belhare-Belhare,,,
-Belhare-Piple-79_cauliflower-1,,Belhare-Piple,79_cauliflower,kauli,kauli,k au + l i,,Belhare,,,^k au l i $,Belhare-Piple,,,
+Belhare-Belhare-79_cauliflower-1,,Belhare-Belhare,79_cauliflower,kauli,kauli,k au + l i,,Belhare,,,^k au l i $,Belhare-Belhare,,,nep/loan
+Belhare-Piple-79_cauliflower-1,,Belhare-Piple,79_cauliflower,kauli,kauli,k au + l i,,Belhare,,,^k au l i $,Belhare-Piple,,,nep/loan
 Belhare-Guthitar-79_cauliflower-2,,Belhare-Guthitar,79_cauliflower,kauli,kauli,k au + l i,,Belhare,,,^k au l i $,Belhare-Guthitar,,,
-Belhare-Rudrabari-79_cauliflower-1,,Belhare-Rudrabari,79_cauliflower,kauli,kauli,k au + l i,,Belhare,,,^k au l i $,Belhare-Rudrabari,,,
+Belhare-Rudrabari-79_cauliflower-1,,Belhare-Rudrabari,79_cauliflower,kauli,kauli,k au + l i,,Belhare,,,^k au l i $,Belhare-Rudrabari,,,nep/loan
 Chamling-Hadunge-79_cauliflower-1,,Chamling-Hadunge,79_cauliflower,kauli,kauli,k a u + l i,,Chamling,,,^k a u l i $,Chamling-Hadunge,,,
 Chamling-Halesi-79_cauliflower-1,,Chamling-Halesi,79_cauliflower,kauli,kauli,k a u + l i,,Chamling,,,^k a u l i $,Chamling-Halesi,,,
 Chamling-Ratanchha-79_cauliflower-1,,Chamling-Ratanchha,79_cauliflower,kauli,kauli,k a u + l i,,Chamling,,,^k a u l i $,Chamling-Ratanchha,,,
@@ -9636,10 +9636,10 @@ Bantawa-Lungin-80_tomato-1,,Bantawa-Lungin,80_tomato,bendasi,bendasi,b e n + d a
 Bantawa-Thidingkha-80_tomato-1,,Bantawa-Thidingkha,80_tomato,benḍasi,benḍasi,b e n + ɖ a + s i,,Bantawa,,,^b e nḍ a s i $,Bantawa-Thidingkha,,,loan/nep
 Bantawa-Timma-80_tomato-1,,Bantawa-Timma,80_tomato,bendasi,bendasi,b e n + d a + s i,,Bantawa,,,^b e nd a s i $,Bantawa-Timma,,,loan/nep
 Bantawa-Okhre-80_tomato-1,,Bantawa-Okhre,80_tomato,benḍasi,benḍasi,b e n + ɖ a + s i,,Bantawa,,,^b e nḍ a s i $,Bantawa-Okhre,,,loan/nep
-Belhare-Belhare-80_tomato-1,,Belhare-Belhare,80_tomato,golbheɖa,golbheɖa,g o l + bʱ e + ɖ a,,Belhare,,,^g o lbh e ɖ a $,Belhare-Belhare,,,
-Belhare-Piple-80_tomato-1,,Belhare-Piple,80_tomato,rəmmenʈa,rəmmenʈa,r ə m + m e n + ʈ a,,Belhare,,,^r ə mm e nʈ a $,Belhare-Piple,,,
+Belhare-Belhare-80_tomato-1,,Belhare-Belhare,80_tomato,golbheɖa,golbheɖa,g o l + bʱ e + ɖ a,,Belhare,,,^g o lbh e ɖ a $,Belhare-Belhare,,,nep/loan
+Belhare-Piple-80_tomato-1,,Belhare-Piple,80_tomato,rəmmenʈa,rəmmenʈa,r ə m + m e n + ʈ a,,Belhare,,,^r ə mm e nʈ a $,Belhare-Piple,,,nep/loan
 Belhare-Guthitar-80_tomato-2,,Belhare-Guthitar,80_tomato,rambheɖa,rambheɖa,r a m + bʱ e + ɖ a,,Belhare,,,^r a mbh e ɖ a $,Belhare-Guthitar,,,
-Belhare-Rudrabari-80_tomato-1,,Belhare-Rudrabari,80_tomato,golbheɖa,golbheɖa,g o l + bʱ e + ɖ a,,Belhare,,,^g o lbh e ɖ a $,Belhare-Rudrabari,,,
+Belhare-Rudrabari-80_tomato-1,,Belhare-Rudrabari,80_tomato,golbheɖa,golbheɖa,g o l + bʱ e + ɖ a,,Belhare,,,^g o lbh e ɖ a $,Belhare-Rudrabari,,,nep/loan
 Chamling-Hadunge-80_tomato-1,,Chamling-Hadunge,80_tomato,belouti,belouti,b e + l ou + t i,,Chamling,,,^b e l ou t i $,Chamling-Hadunge,,,
 Chamling-Halesi-80_tomato-1,,Chamling-Halesi,80_tomato,belouti,belouti,b e + l ou + t i,,Chamling,,,^b e l ou t i $,Chamling-Halesi,,,
 Chamling-Ratanchha-80_tomato-1,,Chamling-Ratanchha,80_tomato,belouti,belouti,b e + l ou + t i,,Chamling,,,^b e l ou t i $,Chamling-Ratanchha,,,
@@ -9688,10 +9688,10 @@ Bantawa-Lungin-81_cabbage-1,,Bantawa-Lungin,81_cabbage,bənda kopi,bənda_^kopi,
 Bantawa-Thidingkha-81_cabbage-1,,Bantawa-Thidingkha,81_cabbage,bənda kopi,bənda_^kopi,b ə n + d a + k o + p i,,Bantawa,,,^b ə nd a _ ^k o p i $,Bantawa-Thidingkha,,,nep/loan
 Bantawa-Timma-81_cabbage-1,,Bantawa-Timma,81_cabbage,bənda kopi,bənda_^kopi,b ə n + d a + k o + p i,,Bantawa,,,^b ə nd a _ ^k o p i $,Bantawa-Timma,,,nep/loan
 Bantawa-Okhre-81_cabbage-1,,Bantawa-Okhre,81_cabbage,bənda kopi,bənda_^kopi,b ə n + d a + k o + p i,,Bantawa,,,^b ə nd a _ ^k o p i $,Bantawa-Okhre,,,nep/loan
-Belhare-Belhare-81_cabbage-1,,Belhare-Belhare,81_cabbage,bənda,bənda,b ə n + d a,,Belhare,,,^b ə nd a $,Belhare-Belhare,,,
-Belhare-Piple-81_cabbage-1,,Belhare-Piple,81_cabbage,bənda,bənda,b ə n + d a,,Belhare,,,^b ə nd a $,Belhare-Piple,,,
+Belhare-Belhare-81_cabbage-1,,Belhare-Belhare,81_cabbage,bənda,bənda,b ə n + d a,,Belhare,,,^b ə nd a $,Belhare-Belhare,,,nep/loan
+Belhare-Piple-81_cabbage-1,,Belhare-Piple,81_cabbage,bənda,bənda,b ə n + d a,,Belhare,,,^b ə nd a $,Belhare-Piple,,,nep/loan
 Belhare-Guthitar-81_cabbage-2,,Belhare-Guthitar,81_cabbage,bənda,bənda,b ə n + d a,,Belhare,,,^b ə nd a $,Belhare-Guthitar,,,
-Belhare-Rudrabari-81_cabbage-1,,Belhare-Rudrabari,81_cabbage,bənda,bənda,b ə n + d a,,Belhare,,,^b ə nd a $,Belhare-Rudrabari,,,
+Belhare-Rudrabari-81_cabbage-1,,Belhare-Rudrabari,81_cabbage,bənda,bənda,b ə n + d a,,Belhare,,,^b ə nd a $,Belhare-Rudrabari,,,nep/loan
 Chamling-Hadunge-81_cabbage-1,,Chamling-Hadunge,81_cabbage,bʌndakopi,bʌndakopi,b ʌ n + d a + k o + p i,,Chamling,,,^b ʌ nd a k o p i $,Chamling-Hadunge,,,
 Chamling-Halesi-81_cabbage-1,,Chamling-Halesi,81_cabbage,bʌndakopi,bʌndakopi,b ʌ n + d a + k o + p i,,Chamling,,,^b ʌ nd a k o p i $,Chamling-Halesi,,,
 Chamling-Ratanchha-81_cabbage-1,,Chamling-Ratanchha,81_cabbage,bʌndakopi,bʌndakopi,b ʌ n + d a + k o + p i,,Chamling,,,^b ʌ nd a k o p i $,Chamling-Ratanchha,,,
@@ -9837,10 +9837,10 @@ Bantawa-Lungin-84_meat-1,,Bantawa-Lungin,84_meat,sa,sa,s a,,Bantawa,,,^s a $,Ban
 Bantawa-Thidingkha-84_meat-1,,Bantawa-Thidingkha,84_meat,sa,sa,s a,,Bantawa,,,^s a $,Bantawa-Thidingkha,,,
 Bantawa-Timma-84_meat-1,,Bantawa-Timma,84_meat,sa,sa,s a,,Bantawa,,,^s a $,Bantawa-Timma,,,
 Bantawa-Okhre-84_meat-1,,Bantawa-Okhre,84_meat,sa,sa,s a,,Bantawa,,,^s a $,Bantawa-Okhre,,,
-Belhare-Belhare-84_meat-1,,Belhare-Belhare,84_meat,cece,cece,tʃ e + tʃ e,,Belhare,,,^c e c e $,Belhare-Belhare,,,
-Belhare-Piple-84_meat-1,,Belhare-Piple,84_meat,cece,cece,tʃ e + tʃ e,,Belhare,,,^c e c e $,Belhare-Piple,,,
-Belhare-Guthitar-84_meat-2,,Belhare-Guthitar,84_meat,cece,cece,tʃ e + tʃ e,,Belhare,,,^c e c e $,Belhare-Guthitar,,,
-Belhare-Rudrabari-84_meat-1,,Belhare-Rudrabari,84_meat,cece,cece,tʃ e + tʃ e,,Belhare,,,^c e c e $,Belhare-Rudrabari,,,
+Belhare-Belhare-84_meat-1,,Belhare-Belhare,84_meat,cece,cece,tʃ e + ts e,,Belhare,,,^c e c e $,Belhare-Belhare,,,
+Belhare-Piple-84_meat-1,,Belhare-Piple,84_meat,cece,cece,tʃ e + ts e,,Belhare,,,^c e c e $,Belhare-Piple,,,
+Belhare-Guthitar-84_meat-2,,Belhare-Guthitar,84_meat,cece,cece,tʃ e + ts e,,Belhare,,,^c e c e $,Belhare-Guthitar,,,
+Belhare-Rudrabari-84_meat-1,,Belhare-Rudrabari,84_meat,cece,cece,tʃ e + ts e,,Belhare,,,^c e c e $,Belhare-Rudrabari,,,
 Chamling-Hadunge-84_meat-1,,Chamling-Hadunge,84_meat,sa,sa,s a,,Chamling,,,^s a $,Chamling-Hadunge,,,
 Chamling-Halesi-84_meat-1,,Chamling-Halesi,84_meat,sa,sa,s a,,Chamling,,,^s a $,Chamling-Halesi,,,
 Chamling-Ratanchha-84_meat-1,,Chamling-Ratanchha,84_meat,sa,sa,s a,,Chamling,,,^s a $,Chamling-Ratanchha,,,
@@ -9887,10 +9887,10 @@ Bantawa-Lungin-85_fatofmeat-1,,Bantawa-Lungin,85_fatofmeat,thep,thep,tʰ e p,,Ba
 Bantawa-Thidingkha-85_fatofmeat-1,,Bantawa-Thidingkha,85_fatofmeat,əchjut,əchjut,ə + tsʰ j u t,,Bantawa,,,^ə chj u t$,Bantawa-Thidingkha,,,
 Bantawa-Timma-85_fatofmeat-1,,Bantawa-Timma,85_fatofmeat,chut,chut,tʃʰ u t,,Bantawa,,,^ch u t$,Bantawa-Timma,,,
 Bantawa-Okhre-85_fatofmeat-1,,Bantawa-Okhre,85_fatofmeat,chut,chut,tʃʰ u t,,Bantawa,,,^ch u t$,Bantawa-Okhre,,,
-Belhare-Belhare-85_fatofmeat-1,,Belhare-Belhare,85_fatofmeat,uʔchot,uʔchot,u ʔ + tʃʰ o t,,Belhare,,,^uʔchot $,Belhare-Belhare,,,
-Belhare-Piple-85_fatofmeat-1,,Belhare-Piple,85_fatofmeat,uchot,uchot,u + tʃʰ o t,,Belhare,,,^u ch o t$,Belhare-Piple,,,
-Belhare-Guthitar-85_fatofmeat-2,,Belhare-Guthitar,85_fatofmeat,uʔchəwat,uʔchəwat,u ʔ + tʃʰ ə + w a t,,Belhare,,,^uʔchəwat $,Belhare-Guthitar,,,
-Belhare-Rudrabari-85_fatofmeat-1,,Belhare-Rudrabari,85_fatofmeat,uchot,uchot,u + tʃʰ o t,,Belhare,,,^u ch o t$,Belhare-Rudrabari,,,
+Belhare-Belhare-85_fatofmeat-1,,Belhare-Belhare,85_fatofmeat,uʔchot,uʔchot,u ʔ + tsʰ o t,,Belhare,,,^uʔchot $,Belhare-Belhare,,,
+Belhare-Piple-85_fatofmeat-1,,Belhare-Piple,85_fatofmeat,uchot,uchot,u + tsʰ o t,,Belhare,,,^u ch o t$,Belhare-Piple,,,
+Belhare-Guthitar-85_fatofmeat-2,,Belhare-Guthitar,85_fatofmeat,uʔchəwat,uʔchəwat,u ʔ + tsʰ ə + w a t,,Belhare,,,^uʔchəwat $,Belhare-Guthitar,,,
+Belhare-Rudrabari-85_fatofmeat-1,,Belhare-Rudrabari,85_fatofmeat,uchot,uchot,u + tsʰ o t,,Belhare,,,^u ch o t$,Belhare-Rudrabari,,,
 Chamling-Hadunge-85_fatofmeat-1,,Chamling-Hadunge,85_fatofmeat,umtshuĩ,umtshuĩ,u m + tsʰ uĩ,,Chamling,,,^u mtsh uĩ$,Chamling-Hadunge,,,
 Chamling-Halesi-85_fatofmeat-1,,Chamling-Halesi,85_fatofmeat,umtshuĩ,umtshuĩ,u m + tsʰ uĩ,,Chamling,,,^u mtsh uĩ$,Chamling-Halesi,,,
 Chamling-Ratanchha-85_fatofmeat-1,,Chamling-Ratanchha,85_fatofmeat,umtshuĩ,umtshuĩ,u m + tsʰ uĩ,,Chamling,,,^u mtsh uĩ$,Chamling-Ratanchha,,,
@@ -9988,10 +9988,10 @@ Bantawa-Lungin-87_chicken-1,,Bantawa-Lungin,87_chicken,waichet,waichet,w a i + t
 Bantawa-Thidingkha-87_chicken-1,,Bantawa-Thidingkha,87_chicken,waichet,waichet,w a i + tsʰ e t,,Bantawa,,,^w a i ch e t$,Bantawa-Thidingkha,,,
 Bantawa-Timma-87_chicken-1,,Bantawa-Timma,87_chicken,wachelek,wachelek,w a + tsʰ e + l e k,,Bantawa,,,^w a ch e l e k$,Bantawa-Timma,,,
 Bantawa-Okhre-87_chicken-1,,Bantawa-Okhre,87_chicken,waichet,waichet,w a i + tsʰ e t,,Bantawa,,,^w a i ch e t$,Bantawa-Okhre,,,
-Belhare-Belhare-87_chicken-1,,Belhare-Belhare,87_chicken,wacile,wacile,w a + tʃ i + l e,,Belhare,,,^w a c i l e $,Belhare-Belhare,,,
-Belhare-Piple-87_chicken-1,,Belhare-Piple,87_chicken,wacile,wacile,w a + tʃ i + l e,,Belhare,,,^w a c i l e $,Belhare-Piple,,,
-Belhare-Guthitar-87_chicken-2,,Belhare-Guthitar,87_chicken,wacilet,wacilet,w a + tʃ i + l e t,,Belhare,,,^w a c i l e t$,Belhare-Guthitar,,,
-Belhare-Rudrabari-87_chicken-1,,Belhare-Rudrabari,87_chicken,wacile,wacile,w a + tʃ i + l e,,Belhare,,,^w a c i l e $,Belhare-Rudrabari,,,
+Belhare-Belhare-87_chicken-1,,Belhare-Belhare,87_chicken,wacile,wacile,w a + ts i + l e,,Belhare,,,^w a c i l e $,Belhare-Belhare,,,
+Belhare-Piple-87_chicken-1,,Belhare-Piple,87_chicken,wacile,wacile,w a + ts i + l e,,Belhare,,,^w a c i l e $,Belhare-Piple,,,
+Belhare-Guthitar-87_chicken-2,,Belhare-Guthitar,87_chicken,wacilet,wacilet,w a + ts i + l e t,,Belhare,,,^w a c i l e t$,Belhare-Guthitar,,,
+Belhare-Rudrabari-87_chicken-1,,Belhare-Rudrabari,87_chicken,wacile,wacile,w a + ts i + l e,,Belhare,,,^w a c i l e $,Belhare-Rudrabari,,,
 Chamling-Hadunge-87_chicken-1,,Chamling-Hadunge,87_chicken,watshja,watshja,w a + tsʰ j a,,Chamling,,,^w a tshj a $,Chamling-Hadunge,,,
 Chamling-Halesi-87_chicken-1,,Chamling-Halesi,87_chicken,watshja,watshja,w a + tsʰ j a,,Chamling,,,^w a tshj a $,Chamling-Halesi,,,
 Chamling-Ratanchha-87_chicken-1,,Chamling-Ratanchha,87_chicken,watshja,watshja,w a + tsʰ j a,,Chamling,,,^w a tshj a $,Chamling-Ratanchha,,,
@@ -10441,10 +10441,10 @@ Bantawa-Lungin-95_dog-1,,Bantawa-Lungin,95_dog,kutiwa,kutiwa,k u + t i + w a,,Ba
 Bantawa-Thidingkha-95_dog-1,,Bantawa-Thidingkha,95_dog,kutiwa,kutiwa,k u + t i + w a,,Bantawa,,,^k u t i w a $,Bantawa-Thidingkha,,,
 Bantawa-Timma-95_dog-1,,Bantawa-Timma,95_dog,kocuwa,kocuwa,k o + ts u + w a,,Bantawa,,,^k o c u w a $,Bantawa-Timma,,,
 Bantawa-Okhre-95_dog-1,,Bantawa-Okhre,95_dog,kutima,kutima,k u + t i + m a,,Bantawa,,,^k u t i m a $,Bantawa-Okhre,,,
-Belhare-Belhare-95_dog-1,,Belhare-Belhare,95_dog,kochu,kochu,k o + tʃʰ u,,Belhare,,,^k o ch u $,Belhare-Belhare,,,
-Belhare-Piple-95_dog-1,,Belhare-Piple,95_dog,kochu,kochu,k o + tʃʰ u,,Belhare,,,^k o ch u $,Belhare-Piple,,,
-Belhare-Guthitar-95_dog-2,,Belhare-Guthitar,95_dog,kochu,kochu,k o + tʃʰ u,,Belhare,,,^k o ch u $,Belhare-Guthitar,,,
-Belhare-Rudrabari-95_dog-1,,Belhare-Rudrabari,95_dog,kochu,kochu,k o + tʃʰ u,,Belhare,,,^k o ch u $,Belhare-Rudrabari,,,
+Belhare-Belhare-95_dog-1,,Belhare-Belhare,95_dog,kochu,kochu,k o + tsʰ u,,Belhare,,,^k o ch u $,Belhare-Belhare,,,
+Belhare-Piple-95_dog-1,,Belhare-Piple,95_dog,kochu,kochu,k o + tsʰ u,,Belhare,,,^k o ch u $,Belhare-Piple,,,
+Belhare-Guthitar-95_dog-2,,Belhare-Guthitar,95_dog,kochu,kochu,k o + tsʰ u,,Belhare,,,^k o ch u $,Belhare-Guthitar,,,
+Belhare-Rudrabari-95_dog-1,,Belhare-Rudrabari,95_dog,kochu,kochu,k o + tsʰ u,,Belhare,,,^k o ch u $,Belhare-Rudrabari,,,
 Chamling-Hadunge-95_dog-1,,Chamling-Hadunge,95_dog,khlipa,khlipa,kʰ l i + p a,,Chamling,,,^khl i p a $,Chamling-Hadunge,,,
 Chamling-Halesi-95_dog-1,,Chamling-Halesi,95_dog,khlipa,khlipa,kʰ l i + p a,,Chamling,,,^khl i p a $,Chamling-Halesi,,,
 Chamling-Ratanchha-95_dog-1,,Chamling-Ratanchha,95_dog,khlipa,khlipa,kʰ l i + p a,,Chamling,,,^khl i p a $,Chamling-Ratanchha,,,
@@ -10491,10 +10491,10 @@ Bantawa-Lungin-96_snake-1,,Bantawa-Lungin,96_snake,pɨ,pɨ,p ɨ,,Bantawa,,,^p ɨ
 Bantawa-Thidingkha-96_snake-1,,Bantawa-Thidingkha,96_snake,pə,pə,p ə,,Bantawa,,,^p ə $,Bantawa-Thidingkha,,,
 Bantawa-Timma-96_snake-1,,Bantawa-Timma,96_snake,puchap,puchap,p u + tsʰ a p,,Bantawa,,,^p u ch a p$,Bantawa-Timma,,,
 Bantawa-Okhre-96_snake-1,,Bantawa-Okhre,96_snake,pɨ,pɨ,p ɨ,,Bantawa,,,^p ɨ $,Bantawa-Okhre,,,
-Belhare-Belhare-96_snake-1,,Belhare-Belhare,96_snake,pucha,pucha,p u + tʃʰ a,,Belhare,,,^p u ch a $,Belhare-Belhare,,,
-Belhare-Piple-96_snake-1,,Belhare-Piple,96_snake,pucha,pucha,p u + tʃʰ a,,Belhare,,,^p u ch a $,Belhare-Piple,,,
-Belhare-Guthitar-96_snake-2,,Belhare-Guthitar,96_snake,pucha,pucha,p u + tʃʰ a,,Belhare,,,^p u ch a $,Belhare-Guthitar,,,
-Belhare-Rudrabari-96_snake-1,,Belhare-Rudrabari,96_snake,pu:cha,pu:cha,p uː + tʃʰ a,,Belhare,,,^p u: ch a $,Belhare-Rudrabari,,,
+Belhare-Belhare-96_snake-1,,Belhare-Belhare,96_snake,pucha,pucha,p u + tsʰ a,,Belhare,,,^p u ch a $,Belhare-Belhare,,,
+Belhare-Piple-96_snake-1,,Belhare-Piple,96_snake,pucha,pucha,p u + tsʰ a,,Belhare,,,^p u ch a $,Belhare-Piple,,,
+Belhare-Guthitar-96_snake-2,,Belhare-Guthitar,96_snake,pucha,pucha,p u + tsʰ a,,Belhare,,,^p u ch a $,Belhare-Guthitar,,,
+Belhare-Rudrabari-96_snake-1,,Belhare-Rudrabari,96_snake,pu:cha,pu:cha,p uː + tsʰ a,,Belhare,,,^p u: ch a $,Belhare-Rudrabari,,,
 Chamling-Hadunge-96_snake-1,,Chamling-Hadunge,96_snake,putsho,putsho,p u + tsʰ o,,Chamling,,,^p u tsh o $,Chamling-Hadunge,,,
 Chamling-Halesi-96_snake-1,,Chamling-Halesi,96_snake,putsho,putsho,p u + tsʰ o,,Chamling,,,^p u tsh o $,Chamling-Halesi,,,
 Chamling-Ratanchha-96_snake-1,,Chamling-Ratanchha,96_snake,putsho,putsho,p u + tsʰ o,,Chamling,,,^p u tsh o $,Chamling-Ratanchha,,,
