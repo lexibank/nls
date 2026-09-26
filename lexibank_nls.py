@@ -19,7 +19,7 @@ def coord(ipt):
             tuples += ['']
     triple = [t for t in tuples if t.strip()]
     if len(triple) == 3:
-        return int(triple[0]) + float(triple[1]) / 60 + float(triple[2]) / 3600
+        return round(int(triple[0]) + float(triple[1]) / 60 + float(triple[2]) / 3600, 4)
     else:
         print(ipt)
         return ''
@@ -82,8 +82,8 @@ class Dataset(BaseDataset):
             args.writer.add_language(
                     ID=language["ID"],
                     Name=language["Name"],
-                    Latitude=lat, #coord(language["Latitudex"]),
-                    Longitude=lon, #coord(language["Longitudex"]),
+                    Latitude=lat,
+                    Longitude=lon,
                     Glottocode=language["Glottocode"],
                     Location=language["Location"],
                     Dataset=language["File"]
