@@ -212,9 +212,19 @@
 
 #}
 
+<style>
+.pointed {
+  cursor: pointer!important;
+}
+</style>
+
 <script src="/assets/highlight.js"></script>
 <script type="text/javascript">
-  document.querySelectorAll("td.col-cldf_segments").forEach((node) => node.innerHTML = plotWord(node.innerHTML));
+
+  document.querySelectorAll("td.col-cldf_segments").forEach((node) => node.innerHTML = plotMorphemes(node.innerHTML));
+  document.querySelectorAll("td.col-Morpheme").forEach((node) => node.innerHTML = plotMorphemes(node.innerHTML));
+  document.querySelectorAll("#facet-Morpheme li a").forEach((node) => node.innerHTML = plotMorphemes(node.innerHTML, "span", "pointed"));
+  document.querySelectorAll(".morpheme").forEach((node) => node.onclick = function (){window.location = "/NLS/Morphemes?_sort=Morpheme&_facet=Morpheme&Morpheme=" + node.dataset["value"];});
 </script>
 
 

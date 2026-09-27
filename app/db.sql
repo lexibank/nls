@@ -105,7 +105,7 @@ CREATE TABLE Forms (
   FOREIGN KEY(CLDF_ID) REFERENCES FormTable(CLDF_ID)
 );
 
-INSERT INTO FORMS
+INSERT INTO Forms
 SELECT 
   ft.ID,
   ft.CLDF_ID,
@@ -122,5 +122,89 @@ SELECT
 FROM form_table_view as ft, Languages as l, Concepts as c
 WHERE ft.language_id = l.cldf_id AND ft.concept_id = c.cldf_id
 ;
- 
+
+DROP TABLE if EXISTS Morphemes;
+CREATE TABLE Morphemes (
+  ID INTEGER PRIMARY KEY,
+  Language_ID text,
+  Language INTEGER,
+  Subgroup text,
+  Concept_ID INTEGER,
+  Concept text,
+  Form_ID text,
+  cldf_segments text,
+  Morpheme text,
+  Position int,
+  FOREIGN KEY(Language_ID) REFERENCES Languages(ID),
+  FOREIGN KEY(Concept_ID) REFERENCES Concepts(ID),
+  FOREIGN KEY(Form_ID) REFERENCES Forms(ID)
+);
+
+INSERT INTO MORPHEMES
+WITH RECURSIVE list(
+  Language_ID, 
+  Language, 
+  Subgroup,
+  Concept_ID,
+  Concept,
+  Form_ID,
+  word, 
+  element, 
+  remainder,
+  Position 
+  ) AS (
+    SELECT  
+      Language_ID, 
+      Language,
+      Subgroup,
+      Concept_ID, 
+      Concept,
+      ID as Form_ID,
+      cldf_segments, 
+      NULL AS element, 
+      cldf_segments || ' + ' AS remainder,
+      NULL
+    FROM Forms
+    UNION ALL
+      SELECT
+        Language_ID, 
+        Language,
+        Subgroup,
+        Concept_ID,
+        Concept,
+        Form_ID,
+        word,
+        CASE 
+          WHEN 
+            INSTR(remainder, ' + ') > 0 
+          THEN
+            SUBSTR(remainder, 0, INSTR(remainder, ' + '))
+          ELSE
+            remainder END AS element,
+        CASE 
+          WHEN 
+            INSTR(remainder, ' + ') > 0 
+          THEN  
+            SUBSTR(remainder, INSTR(remainder, ' + ') + 3)
+          ELSE
+            NULL END AS remainder,
+        (LENGTH(word) - LENGTH(REPLACE(word, '+', '')) + 2) - (LENGTH(remainder) - LENGTH(REPLACE(remainder, '+', '')))
+      FROM list
+      WHERE remainder IS NOT NULL
+  )
+  SELECT 
+    ROW_NUMBER() OVER() AS ID,
+    Language_ID,
+    Language,
+    Subgroup,
+    Concept_ID,
+    Concept, 
+    Form_ID,
+    word as cldf_segments,
+    element as Morpheme,
+    Position
+    FROM list WHERE element != ''
+  --GROUP BY Language, Morpheme
+  ORDER BY Language, Morpheme, Position
+;
 
