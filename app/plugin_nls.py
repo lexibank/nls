@@ -82,7 +82,7 @@ def extra_template_vars():
                         },
                     "title": "Datasets",
                     },
-                "Morphemes": {
+                "MorphemeTable": {
                         "columns": {
                             "ID": "ID",
                             "Language_ID": "Language_ID",
@@ -93,9 +93,29 @@ def extra_template_vars():
                             "Morpheme": "Morpheme",
                             "Position": "Position",
                             },
+                        "title": "MorphemeTable",
+                        },
+                "Morphemes": {
+                        "columns": {
+                            "ID": "ID",
+                            "Language_ID": "Language_ID",
+                            "Language": "Language",
+                            "Morpheme": "Morpheme",
+                            "Frequency": "Frequency",
+                            },
                         "title": "Morphemes",
                         },
                 "Sounds": {
+                        "columns": {
+                            "ID": "ID",
+                            "Language_ID": "Language_ID",
+                            "Language": "Language",
+                            "Sound": "Sound",
+                            "Frequency": "Frequency",
+                            },
+                        "title": "Sounds",
+                        },
+                "SoundsTable": {
                         "columns": {
                             "ID": "ID",
                             "Language_ID": "Language_ID",
@@ -106,7 +126,7 @@ def extra_template_vars():
                             "Sound": "Sound",
                             "Position": "Position",
                             },
-                        "title": "Sounds",
+                        "title": "SoundTable",
                         },
                 "SourceTable": {
                         "columns": {

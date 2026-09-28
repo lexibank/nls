@@ -123,8 +123,8 @@ FROM form_table_view as ft, Languages as l, Concepts as c
 WHERE ft.language_id = l.cldf_id AND ft.concept_id = c.cldf_id
 ;
 
-DROP TABLE if EXISTS Morphemes;
-CREATE TABLE Morphemes (
+DROP TABLE if EXISTS MorphemeTable;
+CREATE TABLE MorphemeTable (
   ID INTEGER PRIMARY KEY,
   Language_ID text,
   Language INTEGER,
@@ -140,11 +140,19 @@ CREATE TABLE Morphemes (
   FOREIGN KEY(Form_ID) REFERENCES Forms(ID)
 );
 
-<<<<<<< HEAD
-INSERT INTO Morphemes
-=======
-INSERT INTO MORPHEMES
->>>>>>> 0945ff8d81c1d0c1ca1383fae63d68c2e186c25f
+DROP TABLE IF EXISTS Morphemes;
+CREATE TABLE Morphemes (
+  ID INTEGER PRIMARY KEY,
+  Language_ID text,
+  Language INTEGER,
+  Subgroup,
+  Morpheme text,
+  Frequency,
+  FOREIGN KEY(Language_ID) REFERENCES Languages(ID)
+);
+
+
+INSERT INTO MorphemeTable
 WITH RECURSIVE list(
   Language_ID, 
   Language, 
@@ -213,8 +221,24 @@ WITH RECURSIVE list(
 ;
 
 
-DROP TABLE IF EXISTS Sounds;
-CREATE TABLE Sounds (
+INSERT INTO Morphemes
+SELECT 
+  ROW_NUMBER() OVER(ORDER BY Language, Morpheme),
+  Language_ID,
+  Language,
+  Subgroup,
+  Morpheme,
+  COUNT(Form_ID) as Frequency
+FROM MorphemeTable
+GROUP BY Language_ID, Morpheme
+ORDER BY Language_ID, Frequency
+;
+
+
+
+
+DROP TABLE IF EXISTS SoundTable;
+CREATE TABLE SoundTable (
   ID INTEGER PRIMARY KEY,
   Language_ID text,
   Language INTEGER,
@@ -230,7 +254,19 @@ CREATE TABLE Sounds (
   FOREIGN KEY(Form_ID) REFERENCES Forms(ID)
 );
 
-INSERT INTO Sounds
+DROP TABLE IF EXISTS Sounds;
+CREATE TABLE Sounds (
+  ID INTEGER PRIMARY KEY,
+  Language_ID text,
+  Language INTEGER,
+  Subgroup,
+  Sound text,
+  Frequency,
+  FOREIGN KEY(Language_ID) REFERENCES Languages(ID)
+);
+
+
+INSERT INTO SoundTable
 WITH RECURSIVE list(
   Language_ID, 
   Language, 
@@ -296,5 +332,20 @@ WITH RECURSIVE list(
     FROM list WHERE element != ''
   --GROUP BY Language, Morpheme
   ORDER BY Language, Sound, Position
+;
+
+
+INSERT INTO Sounds 
+SELECT 
+  ROW_NUMBER() OVER(ORDER BY Language, Sound),
+  Language_ID,
+  Language,
+  Subgroup,
+  Sound,
+  COUNT(Form_ID) as Frequency
+FROM SoundTable
+WHERE Sound != '+'
+GROUP BY Language_ID, Sound
+ORDER BY Language_ID, Frequency
 ;
 
