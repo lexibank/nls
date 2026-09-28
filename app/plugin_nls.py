@@ -82,6 +82,32 @@ def extra_template_vars():
                         },
                     "title": "Datasets",
                     },
+                "Morphemes": {
+                        "columns": {
+                            "ID": "ID",
+                            "Language_ID": "Language_ID",
+                            "Language": "Language",
+                            "Concept_ID": "Concept_ID",
+                            "Concept": "Concept",
+                            "cldf_segments": "Segments",
+                            "Morpheme": "Morpheme",
+                            "Position": "Position",
+                            },
+                        "title": "Morphemes",
+                        },
+                "Sounds": {
+                        "columns": {
+                            "ID": "ID",
+                            "Language_ID": "Language_ID",
+                            "Language": "Language",
+                            "Concept_ID": "Concept_ID",
+                            "Concept": "Concept",
+                            "cldf_segments": "Segments",
+                            "Sound": "Sound",
+                            "Position": "Position",
+                            },
+                        "title": "Sounds",
+                        },
                 "SourceTable": {
                         "columns": {
                             "id": "Name",

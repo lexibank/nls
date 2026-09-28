@@ -485,16 +485,15 @@ function clean_tokens(tokens){
 
 function plotMorphemes(word, tag, sep)
 {
-  if(typeof sep == 'undefined')
-  {
+  if(typeof sep == 'undefined'){
     sep = '\\+';
   }
   
-  var text_lines = [];
-  var morphemes = word.split(new RegExp('\\s'+'*'+sep+'\\s'+'*'));
-  for(var i=0,m;m=morphemes[i];i++)
-  {
-    var morpheme = '<span class="morpheme">'+plotWord(m,tag)+'</span>';
+  let text_lines = [];
+  let morphemes = word.split(new RegExp('\\s'+'*'+sep+'\\s'+'*'));
+  let i, morpheme, m;
+  for(i = 0; m = morphemes[i]; i += 1){
+    morpheme = '<span class="morpheme" data-value="' + m + '">'+plotWord(m, tag)+'</span>';
     text_lines.push(morpheme);
   }
   return text_lines.join('<span class="boundary">.</span>');
