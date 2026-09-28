@@ -140,7 +140,11 @@ CREATE TABLE Morphemes (
   FOREIGN KEY(Form_ID) REFERENCES Forms(ID)
 );
 
+<<<<<<< HEAD
 INSERT INTO Morphemes
+=======
+INSERT INTO MORPHEMES
+>>>>>>> 0945ff8d81c1d0c1ca1383fae63d68c2e186c25f
 WITH RECURSIVE list(
   Language_ID, 
   Language, 
