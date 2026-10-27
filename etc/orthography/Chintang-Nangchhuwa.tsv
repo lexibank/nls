@@ -2,16 +2,16 @@ Grapheme	IPA
 _	+
 ^a	a
 ^b	b
-^bh	bʱ
-^c	tʃ
-^ch	tʃʰ
+^bh	bʰ
+^c	ts
+^ch	tsʰ
 ^d	d
-^dh	dʱ
+^dh	dʰ
 ^dw	d w
 ^dz	dz
 ^e	e
 ^g	g
-^gh	gʱ
+^gh	gʰ
 ^h	h
 ^i	i
 ^j	j
@@ -32,34 +32,35 @@ _	+
 ^ã	ã
 ^ŋ	ŋ
 ^ʈ	ʈ
-^ʈt	!ʈt/ʈ
+^ʈt	ʈ
 ^ḍ	ɖ
 ^ḍw	ɖ w
 ^ṭ	ʈ
 ^ṭh	ʈʰ
 a	a
+k$	k
 i:	iː
 ai	ai
 ai$	ai
 au$	au
 b	+ b
-bh	+ bʱ
+bh	+ bʰ
 bh$	bʰ
 c	+ tʃ
 cc	t + tʃ
 ch	+ tʃʰ
 ch$	tʃʰ
 d	+ d
-dh	+ dʱ
+dh	+ dʰ
 dz	+ dz
 mija	m i + dʒ a
-dʰ	+ dʱ
+dʰ	+ dʰ
 e	e
 ei$	ei
 eu$	eu
 g	+ g
-gh	+ gʱ
-gh$	gʱ
+gh	+ gʰ
+gh$	gʰ
 h	+ h
 i	i
 i:$	iː
@@ -69,7 +70,7 @@ j	+ dʒ
 k	+ k
 kc	k + tʃ
 kh	+ kʰ
-khr	+ kʰ r
+khr	kʰ + r
 kj	+ k j
 kk	k + k
 kkh	k + kʰ
@@ -77,7 +78,7 @@ kl	k + l
 km	k + m
 ks	k + s
 ks$	k s
-kʔn	k + ʔn/nˀ
+kʔn	k + nˀ
 kṭ	k + ʈ
 l	+ l
 lph	l + pʰ
@@ -85,7 +86,7 @@ ls	l + s
 m	+ m
 m$	m
 mb	m + b
-mbh	m + bʱ
+mbh	m + bʰ
 mc	m + tʃ
 md	m + d
 mm	m + m
@@ -125,43 +126,46 @@ t	+ t
 th	+ tʰ
 tk	t + k
 u	u
-ua	u/w a
-ui$	u/w i
-uĩ$	u/w ĩ
+ua	w a
+ui$	w i
+uĩ$	w ĩ
 w	+ w
 ĩ	ĩ
 ŋ	+ ŋ
 ŋ$	ŋ
 ŋg	ŋ + g
-ŋgh	ŋ + gʱ
+ŋgh	ŋ + gʰ
 ŋk	ŋ + k
 ŋkh	ŋ + kʰ
 ŋm	ŋ + m
 ŋph	ŋ + pʰ
 ŋs	ŋ + s
 ŋw	ŋ + w
-ŋʔm	ŋ + ʔm/mˀ
-ŋʔs	ŋ + ʔs/sˀ
+ŋʔm	ŋ + mˀ
+ŋʔs	ŋ + sˀ
 ŋṭ	ŋ + ʈ
 ǝ	ǝ
 ǝi	ǝi
 ə	ə
 əu$	əu
-əue	ə + u/w e
-əye$	ə + y/j e
-əyə$	ə + y/j ə
+əue	ə + w e
+əye$	ə + j e
+əyə$	ə + j ə
 ɨ	ɨ
 ʔ	+ ʔ
 ʔ$	ʔ
 ʔm	ʔ + m
 ʔn	ʔ + n
 ʔs	ʔ + s
-ŋsʔ	ŋ + ʔs/sˀ
+ŋsʔ	ŋ + sˀ
+l$	l
+^nisa	n i + tsʰ a
+kh$	kʰ
 ʔw	ʔ + w
 ḍ	+ ɖ
-ḍh	+ ɖʱ
+ḍh	+ ɖʰ
 ḍḍ	ɖ + ɖ
-ḍḍh	ɖ + ɖʱ
+ḍḍh	ɖ + ɖʰ
 ṭ	+ ʈ
 ṭh	+ ʈʰ
 ṭh$	ʈʰ

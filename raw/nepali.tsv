@@ -1,0 +1,215 @@
+ID	NUMBER	CONCEPT	ORTHOGRAPHY	TRANSLITERATIONVALUE	VALUE	FORM	TOKENS
+1	1.	body	शरीर	sərir	sərir	sərir	s ə r i r
+2	2.	head	टाउको	ṭāukoʈauko	ʈauko	ʈauko	ʈ au k o
+3	3.	hair	कपाल	kapālkəpal	kəpal	kəpal	k ə p a l
+4	4.	face	अनुहार	ənuhar	ənuhar	ənuhar	ə n u h a r
+5	5.	eye	आँखा	ā̃khāãkʰa	ãkʰa	ãkʰa	ã kʰ a
+6	6.	ear	कान	kānkan	kan	kan	k a n
+7	7.	nose	नाक	nāknak	nak	nak	n a k
+8	8.	mouth	मुख	mukhmukʰ	mukʰ	mukʰ	m u kʰ
+9	9.	teeth	दाँत	dā̃tdãt	dãt	dãt	d ã t
+10	10.	tongue	जिब्रो	jibrodzibro	dzibro	dzibro	dz i b r o
+11	11.	breast	स्तन	stanstən	stən	stən	s t ə n
+12	12.	belly	पेट	peṭpeʈ	peʈ	peʈ	p e ʈ
+13	13.	arm/ hand	हात	hāthat	hat	hat	h a t
+14	14.	elbow	कुइनो	kuinokuino	kuino	kuino	k ui n o
+15	15.	palm	हत्केला	hatkelahətkela	hətkela	hətkela	h ə t k e l a
+16	16.	finger	औँला	ə̃ula	ə̃ula	ə̃ula	ə̃u l a
+17	17.	fingernail	नङ	naṅnəŋ	nəŋ	nəŋ	n ə ŋ
+18	18.	leg	खुट्टा	khuṭṭākʰuʈʈa	kʰuʈʈa	kʰuʈʈa	kʰ u ʈ ʈ a
+19	19.	skin	छाला	chālātsʰala	tsʰala	tsʰala	tsʰ a l a
+20	20.	bone	हाड	hāḍhaɖ	haɖ	haɖ	h a ɖ
+21	21.	heart	मुटु	muṭumuʈu	muʈu	muʈu	m u ʈ u
+22	22.	blood	रगत	ragatrəgət	rəgət	rəgət	r ə g ə t
+23	23.	urine	पिसाब	pisābpisab	pisab	pisab	p i s a b
+24	24.	feces	दिसा	disadisa	disa	disa	d i s a
+25	25.	village	गाउँ	gāũgaũ	gaũ	gaũ	g aũ
+26	26.	house	घर	ghargʰər	gʰər	gʰər	gʰ ə r
+27	27.	roof	छानो	tsʰano	tsʰano	tsʰano	tsʰ a n o
+28	28.	door	ढोका	ɖʰoka	ɖʰoka	ɖʰoka	ɖʰ o k a
+29	29.	firewood	दाउरा	daura	daura	daura	d au r a
+30	30.	broom	कुचो	kutso	kutso	kutso	k u ts o
+31	31.	mortar	सिलौटो	siləuʈo	siləuʈo	siləuʈo	s i l əu ʈ o
+32	32.	pestle	लोहोरो	lohoro	lohoro	lohoro	l o h o r o
+33	33.	hammer	हथौडा	həʈʰəuɖa	həʈʰəuɖa	həʈʰəuɖa	h ə ʈʰ əu ɖ a
+34	34.	knife	चक्कु	tsəkku	tsəkku	tsəkku	ts ə k k u
+35	35.	axe	बञ्चरो	bəntsəro	bəntsəro	bəntsəro	b ə n ts ə r o
+36	36.	rope	डोरी	ḍorīɖori	ɖori	ɖori	ɖ o r i
+37	37.	thread	धागो	dʰago	dʰago	dʰago	dʰ a g o
+38	38.	needle	सियो	sijo	sijo	sijo	s i j o
+39	39.	cloth	लुगा (कपडा)	luga	luga	luga	l u g a
+40	40.	ring	औँठी	ə̃uʈʰi	ə̃uʈʰi	ə̃uʈʰi	ə̃u ʈʰ i
+41	41.	sun	घाम	ghāmgʰam	gʰam	gʰam	gʰ a m
+42	42.	moon	चन्द्रमा	candramātsəndrəma	tsəndrəma	tsəndrəma	ts ə n d r ə m a
+43	43.	sky	आकाश	ākāśakas	akas	akas	a k a s
+44	44.	star	तारा	tārātara	tara	tara	t a r a
+45	45.	rain	वर्षा	varṣābərsa	bərsa	bərsa	b ə r s a
+46	46.	water	पानी	pānīpani	pani	pani	p a n i
+47	47.	river	नदी	nadīnədi	nədi	nədi	n ə d i
+48	48.	cloud	बादल	bādalbadəl	badəl	badəl	b a d ə l
+49	49.	lightening	बिजुली चम्कनु	bidzuli tsəmkənu	bidzuli tsəmkənu	bidzuli tsəmkənu	b i dz u l i + ts ə m k ə n u
+50	50.	rainbow	इन्द्रेणी	indreɖĩ	indreɖĩ	indreɖĩ	i n d r e ɖ ĩ
+51	51.	wind	बतास	bətas	bətas	bətas	b ə t a s
+52	52.	stone	ढुड्गा	ɖʰuŋga	ɖʰuŋga	ɖʰuŋga	ɖʰ u ŋ g a
+53	53.	path	बाटो	baṭobaʈo	baʈo	baʈo	b a ʈ o
+54	54.	sand	बालुवा	bāluwābaluwa	baluwa	baluwa	b a l u w a
+55	55.	fire	आगो	āgoago	ago	ago	a g o
+56	56.	smoke	धुवाँ	dhuwā̃dʰuwã	dʰuwã	dʰuwã	dʰ u w ã
+57	57.	ash	खरानी	kharānīkʰərani	kʰərani	kʰərani	kʰ ə r a n i
+58	58.	mud	माटो	maʈo	maʈo	maʈo	m a ʈ o
+59	59.	dust	धुलो	dhulodʰulo	dʰulo	dʰulo	dʰ u l o
+60	60.	gold	सुन	sunsun	sun	sun	s u n
+61	61.	tree	रूख	rūkhrukʰ	rukʰ	rukʰ	r u kʰ
+62	62.	leaf	पात	pātpat	pat	pat	p a t
+63	63.	root	जरा	jarādzera	dzera	dzera	dz e r a
+64	64.	thorn	काँडो	kãɖo	kãɖo	kãɖo	k ã ɖ o
+65	65.	flower	फूल	phūlpʰuo	pʰuo	pʰuo	pʰ uo
+66	66.	fruit	फलफुल	pʰəlpʰul	pʰəlpʰul	pʰəlpʰul	pʰ ə l pʰ u l
+67	67.	mango	आँप	ãp	ãp	ãp	ã p
+68	68.	banana	केरा	kera	kera	kera	k e r a
+69	69.	wheat (husked)	गहुँ	gəhũ	gəhũ	gəhũ	g ə h ũ
+70	70.	barley	जौ	dzəu	dzəu	dzəu	dz əu
+71	71.	rice (husked)	चामल	tsaməl	tsaməl	tsaməl	ts a m ə l
+72	72.	potato	आलु	alu	alu	alu	a l u
+73	73.	eggplant	भण्टा	bʰənʈa	bʰənʈa	bʰənʈa	bʰ ə n ʈ a
+74	74.	groundnut	बदाम	bədam	bədam	bədam	b ə d a m
+75	75.	chili	खुर्सानी	kʰursani	kʰursani	kʰursani	kʰ u r s a n i
+76	76.	turmeric	बेसार	besar	besar	besar	b e s a r
+77	77.	garlic	लसुन	ləsun	ləsun	ləsun	l ə s u n
+78	78.	onion	प्याज	pjadz	pjadz	pjadz	p j a dz
+79	79.	cauliflower	काउली	kauli	kauli	kauli	k au l i
+80	80.	tomato	गोलभेंडा	golbʰẽɖa	golbʰẽɖa	golbʰẽɖa	g o l bʰ ẽ ɖ a
+81	81.	cabbage	बन्दा	bənda	bənda	bənda	b ə n d a
+82	82.	oil	तेल	tel	tel	tel	t e l
+83	83.	salt	नुन	nunnun	nun	nun	n u n
+84	84.	meat	मासु	māsumasu	masu	masu	m a s u
+85	85.	fat (of meat)	बोसो	bosoboso	boso	boso	b o s o
+86	86.	fish	माछा	māchāmatsʰa	matsʰa	matsʰa	m a tsʰ a
+87	87.	chicken	चल्ला	tsəlla	tsəlla	tsəlla	ts ə l l a
+88	88.	egg	अण्डा	aṇḍāənɖa	ənɖa	ənɖa	ə n ɖ a
+89	89.	cow	गाई	gai	gai	gai	g ai
+90	90.	buffalo	भैँसी	bʰə̃isi	bʰə̃isi	bʰə̃isi	bʰ ə̃i s i
+91	91.	milk	दुध	dudʰ	dudʰ	dudʰ	d u dʰ
+92	92.	horns	सिङ	siṅsiŋ	siŋ	siŋ	s i ŋ
+93	93.	tail	पुच्छर	puccharputsʰtsʰər	putsʰtsʰər	putsʰtsʰər	p u tsʰ tsʰ ə r
+94	94.	goat	वाखो	bakʰro	bakʰro	bakʰro	b a kʰ r o
+95	95.	dog	कुकुर	kukurkukur	kukur	kukur	k u k u r
+96	96.	snake	सर्प (साँप)	sarpa (sā̃p)sərpə/sãp	sərpə/sãp	sərpə	s ə r p ə
+97	96.	snake	सर्प (साँप)	sarpa (sā̃p)sərpə/sãp	sərpə/sãp	sãp	s ã p
+98	97.	monkey	बाँदर	bãdər	bãdər	bãdər	b ã d ə r
+99	98.	mosquito	लामखुट्टे	lamkʰuʈʈe	lamkʰuʈʈe	lamkʰuʈʈe	l a m kʰ u ʈ ʈ e
+100	99.	ant	कमिला	kəmila	kəmila	kəmila	k ə m i l a
+101	100.	spider	माकुरो	makuro	makuro	makuro	m a k u r o
+102	101.	name	नाम	nāmnam	nam	nam	n a m
+103	102.	man	मान्छे	mānchemantsʰe	mantsʰe	mantsʰe	m a n tsʰ e
+104	103.	woman	आइमाई	āimāīaimai	aimai	aimai	ai m ai
+105	104.	child	वच्चा	bətstsa	bətstsa	bətstsa	b ə ts ts a
+106	105.	father	बाबा	bābābaba	baba	baba	b a b a
+107	106.	mother	आमा	āmāama	ama	ama	a m a
+108	107.	older brother	दाजु	dadzu	dadzu	dadzu	d a dz u
+109	108.	younger brother	भाइ	bʰai	bʰai	bʰai	bʰ ai
+110	109.	older sister	दिदी	didi	didi	didi	d i d i
+111	110.	younger sister	बहिनी	bəhini	bəhini	bəhini	b ə h i n i
+112	111.	son	छोरो	tsʰoro	tsʰoro	tsʰoro	tsʰ o r o
+113	112.	daughter	छोरी	tsʰori	tsʰori	tsʰori	tsʰ o r i
+114	113.	husband	लोग्रे (श्रीमान)	lognelogne	logne	logne	l o g n e
+115	114.	wife	स्वास्नी (श्रीमती)	svāsnī (śrīmatī)swasni/sriməti	swasni/sriməti	swasni	s w a s n i
+116	114.	wife	स्वास्नी (श्रीमती)	svāsnī (śrīmatī)swasni/sriməti	swasni/sriməti	sriməti	s r i m ə t i
+117	115.	boy	केटो	keʈo	keʈo	keʈo	k e ʈ o
+118	116.	girl	केटी	keʈi	keʈi	keʈi	k e ʈ i
+119	117.	day	दिन	dinadin	din	din	d i n
+120	118.	night	रात	rātrat	rat	rat	r a t
+121	119.	morning	विहान	bihanə	bihanə	bihanə	b i h a n ə
+122	120.	noon	मध्यान्ह	mədʰjannə	mədʰjannə	mədʰjannə	m ə dʰ j a n n ə
+123	121.	evening	साँझ	sãdzʰ	sãdzʰ	sãdzʰ	s ã dzʰ
+124	122.	yesterday	हिजो	hidzo	hidzo	hidzo	h i dz o
+125	123.	today	आज	adzə	adzə	adzə	a dz ə
+126	124.	tomorrow	भोली	bʰoli	bʰoli	bʰoli	bʰ o l i
+127	125.	week	हप्ता (साता)	həpta	həpta	həpta	h ə p t a
+128	126.	month	महिना	məhina	məhina	məhina	m ə h i n a
+129	127.	year	वर्ष	varṣabərsə	bərsə	bərsə	b ə r s ə
+130	128.	old	बूढो	buɖʰo	buɖʰo	buɖʰo	b u ɖʰ o
+131	129.	new	नयाँ	nayā̃nəjã	nəjã	nəjã	n ə j ã
+132	130.	good	राम्रो (असल)	rāmroramro/əsəl	ramro/əsəl	ramro	r a m r o
+133	130.	good	राम्रो (असल)	rāmroramro/əsəl	ramro/əsəl	əsəl	ə s ə l
+134	131.	bad	नराम्रो (खराब)	narāmronəramro/kʰərab	nəramro/kʰərab	nəramro	n ə r a m r o
+135	131.	bad	नराम्रो (खराब)	narāmronəramro/kʰərab	nəramro/kʰərab	kʰərab	kʰ ə r a b
+136	132.	wet	चिसो	tsiso	tsiso	tsiso	ts i s o
+137	133.	dry	सुख्खा	sukʰkʰa	sukʰkʰa	sukʰkʰa	s u kʰ kʰ a
+138	134.	long	लामो	lāmolamo	lamo	lamo	l a m o
+139	135.	short	छोटो	choṭotsʰoʈo	tsʰoʈo	tsʰoʈo	tsʰ o ʈ o
+140	136.	hot	तातो	tato	tato	tato	t a t o
+141	137.	cold	चिसो	cisotsiso	tsiso	tsiso	ts i s o
+142	138.	right	दाहिने	dāhinedahine	dahine	dahine	d a h i n e
+143	139.	left	देव्रे	debre	debre	debre	d e b r e
+144	140.	near	नजिक	nədzik	nədzik	nədzik	n ə dz i k
+145	141.	far	टाढा	ṭāḍhāʈaɖʰa	ʈaɖʰa	ʈaɖʰa	ʈ a ɖʰ a
+146	142.	big	ठूलो	ṭhūloʈʰulo	ʈʰulo	ʈʰulo	ʈʰ u l o
+147	143.	small	सानो	sānosano	sano	sano	s a n o
+148	144.	heavy	गह्रौँ	gərhə̃u	gərhə̃u	gərhə̃u	g ə r h ə̃u
+149	145.	light	हलुका	həluka	həluka	həluka	h ə l u k a
+150	146.	above	माथि	matʰi	matʰi	matʰi	m a tʰ i
+151	147.	below	तल	tələ	tələ	tələ	t ə l ə
+152	148.	white	सेतो	setoseto	seto	seto	s e t o
+153	149.	black	कालो	kālokalo	kalo	kalo	k a l o
+154	150.	red	रातो	rātorato	rato	rato	r a t o
+155	151.	one	एक	ekek	ek	ek	e k
+156	152.	two	दुई	duīdui	dui	dui	d ui
+157	153.	three	तीन	tīntin	tin	tin	t i n
+158	154.	four	चार	cārtsar	tsar	tsar	ts a r
+159	155.	five	पाँच	pā̃cpãts	pãts	pãts	p ã ts
+160	156.	six	छ	tsʰə	tsʰə	tsʰə	tsʰ ə
+161	157.	seven	सात	sat	sat	sat	s a t
+162	158.	eight	आठ	aʈʰ	aʈʰ	aʈʰ	a ʈʰ
+163	159.	nine	नौ	nəu	nəu	nəu	n əu
+164	160.	ten	दश	dəs	dəs	dəs	d ə s
+165	161.	eleven	एघार	egʰarə	egʰarə	egʰarə	e gʰ a r ə
+166	162.	twelve	बाह्र	barə	barə	barə	b a r ə
+167	163.	twenty	बीस	bis	bis	bis	b i s
+168	164.	one hundred	एक सय	ek sajə	ek sajə	ek sajə	e k + s a j ə
+169	165.	who	को	koko	ko	ko	k o
+170	166.	what	के	keke	ke	ke	k e
+171	167.	where	कहाँ	kahā̃kahã	kahã	kahã	k a h ã
+172	168.	when	कहिले	kahilekəhile	kəhile	kəhile	k ə h i l e
+173	169.	how many	कति	kəti	kəti	kəti	k ə t i
+174	170.	which	कुन	kun	kun	kun	k u n
+175	171.	this	यो	yojo	jo	jo	j o
+176	172.	that	त्यो	tyotjo	tjo	tjo	t j o
+177	173.	these	यिनीहरू	inihəru	inihəru	inihəru	i n i h ə r u
+178	174.	those	उनीहरू	unihəru	unihəru	unihəru	u n i h ə r u
+179	175.	same	उही	uhi	uhi	uhi	u h i
+180	176.	different	फरक (अलग)	pʰərək	pʰərək	pʰərək	pʰ ə r ə k
+181	177.	whole	सबै	səbei	səbei	səbei	s ə b ei
+182	178.	broken	फुटेको	pʰuʈeko	pʰuʈeko	pʰuʈeko	pʰ u ʈ e k o
+183	179.	few	थोरै	thoraitʰorəi	tʰorəi	tʰorəi	tʰ o r əi
+184	180.	many	धेरै	dheraidʰerəi	dʰerəi	dʰerəi	dʰ e r əi
+185	181.	all	सबै	sabaisəbəi	səbəi	səbəi	s ə b əi
+186	182.	to eat	खानु	khānukʰanu	kʰanu	kʰanu	kʰ a n u
+187	183.	to bite	टोक्नु	ṭoknuʈoknu	ʈoknu	ʈoknu	ʈ o k n u
+188	184.	to be hungry	भोकाउनु	bʰokaunu	bʰokaunu	bʰokaunu	bʰ o k au n u
+189	185.	to drink	पिउनु	piunupiunu	piunu	piunu	p iu n u
+190	186.	to be thirsty	तिर्खाउनु	tirkʰaunu	tirkʰaunu	tirkʰaunu	t i r kʰ au n u
+191	187.	to sleep	सुत्नु	sutnusutnu	sutnu	sutnu	s u t n u
+192	188.	to lie	पल्टनु	pəlʈənu	pəlʈənu	pəlʈənu	p ə l ʈ ə n u
+193	189.	to sit	बस्नु	basnubəsnu	bəsnu	bəsnu	b ə s n u
+194	190.	to give	दिनु	dinudinu	dinu	dinu	d i n u
+195	191.	to burn	डढाउनु	ɖəɖʰaunu	ɖəɖʰaunu	ɖəɖʰaunu	ɖ ə ɖʰ au n u
+196	192.	to die	मर्नु	marnumərnu	mərnu	mərnu	m ə r n u
+197	193.	to kill	मार्नु	mārnumarnu	marnu	marnu	m a r n u
+198	194.	to fly	उड्नु	uḍnuuɖnu	uɖnu	uɖnu	u ɖ n u
+199	195.	to walk	हिँड्नु	hĩḍnuhĩɖnu	hĩɖnu	hĩɖnu	h ĩ ɖ n u
+200	196.	to run/ run	दौडनु	dəuɖənu	dəuɖənu	dəuɖənu	d əu ɖ ə n u
+201	197.	to go /go	जानु	dzanu	dzanu	dzanu	dz a n u
+202	198.	to come	आउनु	āunuaunu	aunu	aunu	au n u
+203	199.	to speak/ speak	बोल्नु	bolnu	bolnu	bolnu	b o l n u
+204	200.	to hear /hear/listen	सुत्नु	sutnu	sutnu	sutnu	s u t n u
+205	201.	to look /look	हेर्नु	hernu	hernu	hernu	h e r n u
+206	202.	I	म	mə	mə	mə	m ə
+207	203.	you (informal)	तँ	tãtə̃	tə̃	tə̃	t ə̃
+208	204.	you (formal)	तपाई	təpaĩ	təpaĩ	təpaĩ	t ə p aĩ
+209	205.	he	ऊ	ūu	u	u	u
+210	206.	she	उनी	unīunihəru	unihəru	unihəru	u n i h ə r u
+211	207.	we (inclusive)	हामी (समावेशी)	hāmīhami	hami	hami	h a m i
+212	208.	we (exclusive)	हामी (असमावेशी)	hāmīhami	hami	hami	h a m i
+213	209.	you (plural)	तिमीहरू	timīharūtimihəru	timihəru	timihəru	t i m i h ə r u
+214	210.	they	उनीहरू	unīharūunihəru	unihəru	unihəru	u n i h ə r u

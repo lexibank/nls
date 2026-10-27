@@ -2,16 +2,16 @@ Grapheme	IPA	Frequency	Examples	Languages
 _	+	2	miʔmaiʔ pasjaŋse//miʔmaiʔ pasjaŋse	Mulgaun/Chambak
 ^a	a	64	aba//aba	Mangthana/Chambak/Chaudhari Tole/Mulgaun/Nangchhuwa
 ^b	b	65	bagara//bagara	Mangthana/Chambak/Chaudhari Tole/Mulgaun/Nangchhuwa
-^bh	bʱ	2	bheni//bheni	Mulgaun/Chambak
-^c	tʃ	51	curi//curi	Mangthana/Chambak/Chaudhari Tole/Mulgaun/Nangchhuwa
-^ch	tʃʰ	37	chati//chati	Mangthana/Chambak/Chaudhari Tole/Mulgaun/Nangchhuwa
+^bh	bʰ	2	bheni//bheni	Mulgaun/Chambak
+^c	ts	51	curi//curi	Mangthana/Chambak/Chaudhari Tole/Mulgaun/Nangchhuwa
+^ch	tsʰ	37	chati//chati	Mangthana/Chambak/Chaudhari Tole/Mulgaun/Nangchhuwa
 ^d	d	20	duwari//dwari	Mangthana/Chambak/Chaudhari Tole/Mulgaun/Nangchhuwa
-^dh	dʱ	20	dhuri//dhuri	Mangthana/Chambak/Chaudhari Tole/Mulgaun/Nangchhuwa
+^dh	dʰ	20	dhuri//dhuri	Mangthana/Chambak/Chaudhari Tole/Mulgaun/Nangchhuwa
 ^dw	d w	2	d w a r i//d w a r i	
 ^dz	dz	25	dziu//dziu	Mangthana/Chambak/Chaudhari Tole/Mulgaun/Nangchhuwa
 ^e	e	10	egharəgeḍa//egharəgeḍa	Mangthana/Chambak/Chaudhari Tole/Mulgaun/Nangchhuwa
 ^g	g	5	gəhu//gəhu	Mangthana/Chambak/Chaudhari Tole/Mulgaun/Nangchhuwa
-^gh	gʱ	2	ghǝnǝ//ghǝnǝ	Mangthana/Mulgaun
+^gh	gʰ	2	ghǝnǝ//ghǝnǝ	Mangthana/Mulgaun
 ^h	h	105	hǝtkela//hǝtkela	Mangthana/Chambak/Chaudhari Tole/Mulgaun/Nangchhuwa
 ^i	i	5	imma//imma	Mangthana/Chambak/Chaudhari Tole/Mulgaun/Nangchhuwa
 ^j	j	18	jaŋguli//jaŋguli	Mangthana/Chambak/Chaudhari Tole/Mulgaun/Nangchhuwa
@@ -32,34 +32,35 @@ _	+	2	miʔmaiʔ pasjaŋse//miʔmaiʔ pasjaŋse	Mulgaun/Chambak
 ^ã	ã	5	ãba//ãba	Mangthana/Chambak/Chaudhari Tole/Mulgaun/Nangchhuwa
 ^ŋ	ŋ	10	ŋalɨŋ//ŋalɨŋ	Mangthana/Chambak/Chaudhari Tole/Mulgaun/Nangchhuwa
 ^ʈ	ʈ	7	ʈɨmbɨrɨk//ʈtɨmbɨrɨk	Chaudhari Tole/Mangthana/Mulgaun/Chambak
-^ʈt	!ʈt/ʈ	2	ʈ t ɨ m b ɨ r ɨ k//ʈ t ɨ m b ɨ r ɨ k	
+^ʈt	ʈ	2	ʈ t ɨ m b ɨ r ɨ k//ʈ t ɨ m b ɨ r ɨ k	
 ^ḍ	ɖ	7	ḍwari//ḍwari	Mangthana/Chambak/Chaudhari Tole/Mulgaun/Nangchhuwa
 ^ḍw	ɖ w	2	ḍ w a r i//ḍ w a r i	
 ^ṭ	ʈ	40	ṭaŋ//ṭaŋwa	Mangthana/Chambak/Chaudhari Tole/Mulgaun/Nangchhuwa
 ^ṭh	ʈʰ	9	ṭhekha//ṭhekha	Mangthana/Chambak/Chaudhari Tole/Mulgaun/Nangchhuwa
 a	a	963	ṭaŋ//ṭaŋwa	Mangthana/Chambak/Chaudhari Tole/Mulgaun/Nangchhuwa
+k$	k
 i:	iː
 ai	ai	5	dzǝmmai//dzǝmmai	Chaudhari Tole/Chambak/Mulgaun/Nangchhuwa
 ai$	ai	22	pai//pai	Mangthana/Chambak/Chaudhari Tole/Mulgaun/Nangchhuwa
 au$	au	6	sauwa//chau	Mangthana/Chambak/Chaudhari Tole/Mulgaun/Nangchhuwa
 b	+ b	50	ʈɨmbɨrɨk//ʈtɨmbɨrɨk	Mangthana/Chambak/Chaudhari Tole/Mulgaun/Nangchhuwa
-bh	+ bʱ	2	rambheḍa//rambheḍa	Mangthana/Mulgaun
+bh	+ bʰ	2	rambheḍa//rambheḍa	Mangthana/Mulgaun
 bh$	bʰ	3	ubheni//ubheni	Chaudhari Tole/Mangthana/Nangchhuwa
 c	+ tʃ	91	marcinuŋʔma//marcinuŋʔma	Mangthana/Chambak/Chaudhari Tole/Mulgaun/Nangchhuwa
 cc	t + tʃ	6	piccu//hicce	Mangthana/Chambak/Chaudhari Tole/Mulgaun/Nangchhuwa
 ch	+ tʃʰ	28	puchak//puchak	Mangthana/Chambak/Chaudhari Tole/Mulgaun/Nangchhuwa
 ch$	tʃʰ	4	achawa//achawu	Chaudhari Tole/Mangthana/Chambak/Nangchhuwa
 d	+ d	30	namdoruŋ//namdoruŋ	Mangthana/Chambak/Chaudhari Tole/Mulgaun/Nangchhuwa
-dh	+ dʱ	2	dudha//dudha	Mangthana/Mulgaun
+dh	+ dʰ	2	dudha//dudha	Mangthana/Mulgaun
 dz	+ dz	5	pjadz//pjadzu	Mangthana/Chambak/Chaudhari Tole/Mulgaun/Nangchhuwa
 mija	m i + dʒ a
-dʰ	+ dʱ	1	dudʰa	Chaudhari Tole
+dʰ	+ dʰ	1	dudʰa	Chaudhari Tole
 e	e	276	narek//narek	Mangthana/Chambak/Chaudhari Tole/Mulgaun/Nangchhuwa
 ei$	ei	23	tei//ṭei	Mangthana/Chambak/Chaudhari Tole/Mulgaun/Nangchhuwa
 eu$	eu	5	beuwa//beuwa	Mangthana/Chambak/Chaudhari Tole/Mulgaun/Nangchhuwa
 g	+ g	69	jaŋguli//jaŋguli	Mangthana/Chambak/Chaudhari Tole/Mulgaun/Nangchhuwa
-gh	+ gʱ	2	luŋghek//luŋghek	Mangthana/Mulgaun
-gh$	gʱ	5	egharəgeḍa//egharəgeḍa	Mangthana/Chambak/Chaudhari Tole/Mulgaun/Nangchhuwa
+gh	+ gʰ	2	luŋghek//luŋghek	Mangthana/Mulgaun
+gh$	gʰ	5	egharəgeḍa//egharəgeḍa	Mangthana/Chambak/Chaudhari Tole/Mulgaun/Nangchhuwa
 h	+ h	5	gəhu//gəhu	Mangthana/Chambak/Chaudhari Tole/Mulgaun/Nangchhuwa
 i	i	260	mɨkɨlsi//mɨkɨlsi	Mangthana/Chambak/Chaudhari Tole/Mulgaun/Nangchhuwa
 i:$	iː	5	pi:ma//pi:ma	Mangthana/Chambak/Chaudhari Tole/Mulgaun/Nangchhuwa
@@ -69,7 +70,7 @@ j	+ dʒ	31	teji//ṭeji	Mangthana/Chambak/Chaudhari Tole/Mulgaun/Nangchhuwa
 k	+ k	141	mɨk//mɨkɨlsi	Mangthana/Chambak/Chaudhari Tole/Mulgaun/Nangchhuwa
 kc	k + tʃ	10	m u k c e k kh e k//m u k c e k kh e k	
 kh	+ kʰ	25	mukh//mukh	Mangthana/Chambak/Chaudhari Tole/Mulgaun/Nangchhuwa
-khr	+ kʰ r	5	b a kh r a//b a kh r a	
+khr	kʰ + r	5	b a kh r a//b a kh r a	
 kj	+ k j	2	c i k j a ŋ//c i k j a ŋ	
 kk	k + k	8	hokkogo//hokkogo	Mangthana/Chambak/Chaudhari Tole/Mulgaun/Nangchhuwa
 kkh	k + kʰ	5	m u k c e k kh e k//m u k c e k kh e k	
@@ -77,7 +78,7 @@ kl	k + l	5	n a k l a s i//n a k l a s i
 km	k + m	13	t a m ph e k m a//t a m ph e k m a	
 ks	k + s	5	e ks əye//e ks əyə	
 ks$	k s	5	eksəye//eksəyə	Mangthana/Chambak/Chaudhari Tole/Mulgaun/Nangchhuwa
-kʔn	k + ʔn/nˀ	2	l ɨ k ʔ n o//l ɨ k ʔ n o	
+kʔn	k + nˀ	2	l ɨ k ʔ n o//l ɨ k ʔ n o	
 kṭ	k + ʈ	10	w a p o k ṭ a ŋs e//w a p o k ṭ a ŋs e	
 l	+ l	96	ŋalɨŋ//ŋalɨŋ	Mangthana/Chambak/Chaudhari Tole/Mulgaun/Nangchhuwa
 lph	l + pʰ	5	ph ǝ l ph u l//ph ǝ l ph u l	
@@ -85,7 +86,7 @@ ls	l + s	2	mɨkɨlsi//mɨkɨlsi	Mangthana/Mulgaun
 m	+ m	236	thurum//phurum	Mangthana/Chambak/Chaudhari Tole/Mulgaun/Nangchhuwa
 m$	m
 mb	m + b	12	ʈ ɨ m b ɨ r ɨ k//ʈ t ɨ m b ɨ r ɨ k	
-mbh	m + bʱ	2	r a m bh e ḍ a//r a m bh e ḍ a	
+mbh	m + bʰ	2	r a m bh e ḍ a//r a m bh e ḍ a	
 mc	m + tʃ	9	n a m c o k//n a m c o k	
 md	m + d	3	n a m d o r u ŋ//n a m d o r u ŋ	
 mm	m + m	22	himma//himma	Mangthana/Chambak/Chaudhari Tole/Mulgaun/Nangchhuwa
@@ -125,43 +126,46 @@ t	+ t	25	chati//chati	Mangthana/Chambak/Chaudhari Tole/Mulgaun/Nangchhuwa
 th	+ tʰ	6	wathi//namtha	Chaudhari Tole/Chambak/Mulgaun/Nangchhuwa
 tk	t + k	5	h ǝ t k e l a//h ǝ t k e l a	
 u	u	268	ṭaŋphuwa//ṭaŋphuʔwa	Mangthana/Chambak/Chaudhari Tole/Mulgaun/Nangchhuwa
-ua	u/w a	2	cheʔmua//cheʔmua	Chaudhari Tole/Chambak
-ui$	u/w i	17	kuina//kuina	Mangthana/Chambak/Chaudhari Tole/Mulgaun/Nangchhuwa
-uĩ$	u/w ĩ	3	huĩ//huĩ	Chaudhari Tole/Mangthana/Mulgaun
+ua	w a	2	cheʔmua//cheʔmua	Chaudhari Tole/Chambak
+ui$	w i	17	kuina//kuina	Mangthana/Chambak/Chaudhari Tole/Mulgaun/Nangchhuwa
+uĩ$	w ĩ	3	huĩ//huĩ	Chaudhari Tole/Mangthana/Mulgaun
 w	+ w	89	ṭaŋwa//ṭaŋwa	Mangthana/Chambak/Chaudhari Tole/Mulgaun/Nangchhuwa
 ĩ	ĩ	3	pajĩ//pajĩ	Chaudhari Tole/Chambak/Nangchhuwa
 ŋ	+ ŋ	169	ṭaŋ//ṭaŋwa	Mangthana/Chambak/Chaudhari Tole/Mulgaun/Nangchhuwa
 ŋ$	ŋ
 ŋg	ŋ + g	32	j a ŋ g u l i//j a ŋ g u l i	
-ŋgh	ŋ + gʱ	2	l u ŋ gh e k//l u ŋ gh e k	
+ŋgh	ŋ + gʰ	2	l u ŋ gh e k//l u ŋ gh e k	
 ŋk	ŋ + k	3	k o ŋ k o ŋ m a//k o ŋ k o ŋ m a	
 ŋkh	ŋ + kʰ	5	ṭ ɨ ŋ kh ɨ w a//ṭ ɨ ŋ kh ɨ w a	
 ŋm	ŋ + m	20	k o ŋ k o ŋ m a//k o ŋ k o ŋ m a	
 ŋph	ŋ + pʰ	5	ṭ a ŋ ph u w a//ṭ a ŋ ph u ʔ w a	
 ŋs	ŋ + s	21	wapokṭaŋse//wapokṭaŋse	Mangthana/Chambak/Chaudhari Tole/Mulgaun/Nangchhuwa
 ŋw	ŋ + w	6	ṭ a ŋ w a//ṭ a ŋ w a	
-ŋʔm	ŋ + ʔm/mˀ	10	m a r c i n u ŋ ʔ m a//m a r c i n u ŋ ʔ m a	
-ŋʔs	ŋ + ʔs/sˀ	3	s ɨ ŋs a w a l u ŋ ʔs e//s ɨ ŋs a w a l u ŋ ʔs e	
+ŋʔm	ŋ + mˀ	10	m a r c i n u ŋ ʔ m a//m a r c i n u ŋ ʔ m a	
+ŋʔs	ŋ + sˀ	3	s ɨ ŋs a w a l u ŋ ʔs e//s ɨ ŋs a w a l u ŋ ʔs e	
 ŋṭ	ŋ + ʈ	8	l u ŋ ṭ a//l u ŋ ṭ a	
 ǝ	ǝ	52	hǝtkela//hǝtkela	Mangthana/Chambak/Chaudhari Tole/Mulgaun/Nangchhuwa
 ǝi	ǝi	2	dzǝmmǝi//dzǝmmǝi	Mangthana/Mulgaun
 ə	ə	33	gəhu//gəhu	Mangthana/Chambak/Chaudhari Tole/Mulgaun/Nangchhuwa
 əu$	əu	5	dzəu//dzəu	Mangthana/Chambak/Chaudhari Tole/Mulgaun/Nangchhuwa
-əue	ə + u/w e	5	nəueḍa//nəueḍa	Mangthana/Chambak/Chaudhari Tole/Mulgaun/Nangchhuwa
-əye$	ə + y/j e	3	eksəye//eksəye	Chaudhari Tole/Chambak/Nangchhuwa
-əyə$	ə + y/j ə	2	eksəyə//eksəyə	Mangthana/Mulgaun
+əue	ə + w e	5	nəueḍa//nəueḍa	Mangthana/Chambak/Chaudhari Tole/Mulgaun/Nangchhuwa
+əye$	ə + j e	3	eksəye//eksəye	Chaudhari Tole/Chambak/Nangchhuwa
+əyə$	ə + j ə	2	eksəyə//eksəyə	Mangthana/Mulgaun
 ɨ	ɨ	74	ŋalɨŋ//ŋalɨŋ	Mangthana/Chambak/Chaudhari Tole/Mulgaun/Nangchhuwa
 ʔ	+ ʔ	70	ṭaŋphuʔwa//ṭaŋphuʔwa	Mangthana/Chambak/Chaudhari Tole/Mulgaun/Nangchhuwa
 ʔ$	ʔ
 ʔm	ʔ + m	26	ch e ʔ m ua//ch e ʔ m u w a	
 ʔn	ʔ + n	5	u c u ʔ n u n o//u c u ʔ n u n o	
 ʔs	ʔ + s	5	sɨŋsawaluŋʔse//suŋsawaluʔse	Mangthana/Chambak/Chaudhari Tole/Mulgaun/Nangchhuwa
-ŋsʔ	ŋ + ʔs/sˀ
+ŋsʔ	ŋ + sˀ
+l$	l
+^nisa	n i + tsʰ a
+kh$	kʰ
 ʔw	ʔ + w	5	ṭ a ŋ ph u ʔ w a//ṭ a ŋ ph u ʔ w a	
 ḍ	+ ɖ	89	phanḍi//phanḍi	Mangthana/Chambak/Chaudhari Tole/Mulgaun/Nangchhuwa
-ḍh	+ ɖʱ	3	bǝḍḍhe//bǝḍḍhe	Chaudhari Tole/Chambak/Nangchhuwa
+ḍh	+ ɖʰ	3	bǝḍḍhe//bǝḍḍhe	Chaudhari Tole/Chambak/Nangchhuwa
 ḍḍ	ɖ + ɖ	2	baḍḍe//baḍḍe	Mangthana/Mulgaun
-ḍḍh	ɖ + ɖʱ	3	b ǝ ḍ ḍh e//b ǝ ḍ ḍh e	
+ḍḍh	ɖ + ɖʰ	3	b ǝ ḍ ḍh e//b ǝ ḍ ḍh e	
 ṭ	+ ʈ	40	luŋṭa//luŋṭa	Mangthana/Chambak/Chaudhari Tole/Mulgaun/Nangchhuwa
 ṭh	+ ʈʰ	16	laṭhiba//laṭhiba	Mangthana/Chambak/Chaudhari Tole/Mulgaun/Nangchhuwa
 ṭh$	ʈʰ	7	uṭhep//uṭhep	Mangthana/Chambak/Chaudhari Tole/Mulgaun/Nangchhuwa

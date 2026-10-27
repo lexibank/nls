@@ -1,52 +1,53 @@
-ID	Name	Subgroup	Glottocode	Location	Longitude	Latitude	File	
-Athpahariya-Santang	Santang	Athpahariya	athp1241	Santang Deurali, (Dhankuta Municipality 8)	087° 21′57.1″ E	26° 57′26.0″ N	Athpahariya_Words	
-Athpahariya-Tekunala	Tekunala	Athpahariya	athp1241	Tekunala (Dhankuta Municipality 9)	087° 20′33.8″ E	26° 57′03.5″ N	Athpahariya_Words	
-Athpahariya-Guthitar	Guthitar	Athpahariya	athp1241	Guthitar (Dhankuta Municipality 14)	087° 19′17.5″ E	26° 57′54.2″ N	Athpahariya_Words	
-Athpahariya-Khalde	Khalde	Athpahariya	athp1241	Khalde (Dhankuta Municipality 3) in Dhankuta district	087° 19′03.7″ E	26° 59′13.4″ N	Athpahariya_Words	
-Athpahariya-Hatiya	Hatiya /Dhan kuta Bazaar	Athpahariya	athp1241	Dhankuta Bazaar (Dhankuta Municipality 1)	087° 20′37.7″ E	26° 58′21.1″ N	Athpahariya_Words	
-Bantawa-Khoku	Khoku, Dhankuta	Bantawa	bant1281	Khoku, Thapa Tole	87° 13' 32.7''	26° 58' 59.0''	Bantawa_Words	
-Bantawa-Lungin	Lungin (Hatuwa)	Bantawa	bant1281	Hatuwa, Lungin	87° 05'15.2''	27° 01' 27.8''	Bantawa_Words	
-Bantawa-Thidingkha	Thidingkha, (Amchok)	Bantawa	bant1281	Amchok, Thidinkha	86° 00' 49.66''	27° 00' 00.06''	Bantawa_Words	
-Bantawa-Timma	Timma, Rimchim	Bantawa	bant1281	Timma, Rimchim	86° 58' 49.5''	27° 14' 00.4''	Bantawa_Words	
-Bantawa-Okhre	Okhre, Khena	Bantawa	bant1281	Okhre, Khena	86° 56' 65''	27° 05' 56.2''	Bantawa_Words	
-Belhare-Belhare	Belhara	Belhare	belh1239	Belahara (Dhankuta Municipality 9)			Belhare	
-Belhare-Piple	Piple	Belhare	belh1239	Piple (Dhankuta Municipality 9)			Belhare	
-Belhare-Guthitar	Guthitar	Belhare	belh1239	Guthitar (Dhankuta Municipality 14)			Belhare	
-Belhare-Rudrabari	Rudra bari	Belhare	belh1239	Rudrabari (Dhankuta Municipality 9			Belhare	
-Chamling-Hadunge	Hadunge	Chamling	caml1239	Durchhim (Hadunge)	86° 10' 35.9''	27° 10' 37.5''	Chamling_Words	
-Chamling-Halesi	Halesi	Chamling	caml1239	Mahadevsthan (Halesi)	86°  27' 16.6''	27°  11' 27.8''	Chamling_Words	
-Chamling-Ratanchha	Ratanchha	Chamling	caml1239	Ratanchha (Kolle)	86° 50' 23.4''	27° 10' 50''	Chamling_Words	
-Chamling-Balamta	Balamta	Chamling	caml1239	Balamta (Majhgaun)	86° 40' 14.0''	27° 06' 00.1''	Chamling_Words	
-Chamling-Aaptar	Aaptar	Chamling	caml1239	Aaptar (Rasuwa)	86°  45' 06.9''	27°  00' 18.0	Chamling_Words	
-Chintang-ChaudhariTole	Chaudhari Tole	Chintang	chhi1245	Chaudhari Tole	87° 13' 32.7''	26° 57' 12.2''	Chintang_Words	
-Chintang-Mulgaun	Mulgaun	Chintang	chhi1245	Mulgaun	87° 05'15.2''	27° 01' 27.8''	Chintang_Words	
-Chintang-Nangchhuwa	Nangchhuwa	Chintang	chhi1245	Mulgaun	87° 11' 42.7''	26° 56' 07.7''	Chintang_Words	
-Chintang-Mangthana	Mangthana	Chintang	chhi1245	Mangthana	87° 12' 17.4''	26° 57' 17.2''	Chintang_Words	
-Chintang-Chambak	Chambak	Chintang	chhi1245	Chhambak	87° 06' 15.1''	26° 52' 06.2''	Chintang_Words	
-Dhimal-West	Dhimal West	Dhimal	dhim1246				Dhimal	
-Dhimal-East	Dhimal East	Dhimal	dhim1246				Dhimal	
-Chulung-Barbhanjyang	Barbhanjyang	Chulung	chhu1238	Barbhanjyang, Ward 5	87° 15'31''	26°57'43.8''	Chulung	
-Chulung-Gairi	Gairi	Chulung	chhu1238	Sukeahal, Ward 4	87° 15'49''	26° 58'23''	Chulung	
-Chulung-Pakha	Pakha	Chulung	chhu1238	Pokla, Ward 3	87° 15'48.6''	26° 57'15.2''	Chulung	
-Chulung-Pokla	Pokla	Chulung	chhu1238	Gairi, Ward 1	87° 14'42.5''	26° 56'50.4''	Chulung	
-Chulung-Sukeahal	Suke-ahal	Chulung	chhu1238	Pakha Gaun, Ward 1	87° 15'22''	26° 86'41.2''	Chulung	
-Dulung-Bartole	Bartole	Dulung	dung1252	Thulo Dumma VDC-1 (Bartole)	087°  09′18.8″ E	027°   05′11.2″ N	Dungmali	
-Dulung-Dandatole	Dandatole	Dulung	dung1252	Thulo Dumma VDC-3 (Dandatole)	087°  09′09.3″ E	027°  05′10.9″ N	Dungmali	
-Dulung-Tharpu	Tharpu	Dulung	dung1252	Sano Dumma VDC-3 Tharpu	087°  10′21.9″ E	027°  06′48.6″ N	Dungmali	
-Dulung-Chaukibari	Chaukibari	Dulung	dung1252	Sano Dumma VDC-3 Chaukibari	087°  09′33.5″ E	027°  06′27.5″ N	Dungmali	
-Dulung-Bastim	Bastim	Dulung	dung1252	Bastim VDC-1 (Bastim)	087°  09′11.4″ E	027°  06′30.7″ N	Dungmali	
-Ghale-Gurung-Mandre	Mandre	Ghale-Gurung	ghal1246	Mandre			Ghale-Gurung	
-Ghale-Gurung-Barpak1	Barpak1	Ghale-Gurung	ghal1246	Barpak1			Ghale-Gurung	
-Ghale-Gurung-Barpak2	Brpak2 (Ghale)	Ghale-Gurung	ghal1246	Barpak2			Ghale-Gurung	
-Ghale-Gurung-Laprak	Laprak	Ghale-Gurung	ghal1246	Laprak			Ghale-Gurung	
-Ghale-Gurung-Gumda	Gumda	Ghale-Gurung	ghal1246	Gumda	83.76085	28.1315	Ghale-Gurung	28.1315
-Gurung-Sirubari	Sirubari	Gurung	guru1261	Sirubari, Syangja	83º45´33.6´´ E	28º07´54.2´´ N	Gurung	28º07´54.2´´ N
-Gurung-Pokhara	Pokhara	Gurung	guru1261	Pokhara, Kaski	84º00´34.6´´ E	28º12´46.1´´ N	Gurung	
-Gurung-Sikles	Sikles	Gurung	guru1261	Lekhnath, Kaski	84º02´25.6´´ E	28º09´50.4´´ N	Gurung	
-Gurung-Khasur	Khasur	Gurung	guru1261	Bensisahar, Lamjung	84º22´43.2´´ N	28º13´48.3´´ E	Gurung	
-Gurung-Bhujung	Bhujung	Gurung	guru1261	Khasur, Lamjung	81º01´18.3´´ E	29º32´51.7´´ N	Gurung	
-Jirel-RatmateKot	Ratmate-Kot	Jirel	jire1238	Sikri			Jirel	
-Jirel-Sikri	Sikri	Jirel	jire1238	Kharayoban			Jirel	
-Jirel-Kharoban	Kharoban	Jirel	jire1238	Kot-Ratmate			Jirel	
-Jirel-Chhetrapa	Chhetrapa	Jirel	jire1238	Jugu			Jirel	
-Jirel-Yarsa	Yarsa	Jirel	jire1238	Chetrapa			Jirel	
+ID	Name	Subgroup	Glottocode	Location	Longitude	Latitude	File
+Athpahariya-Santang	Santang	Athpahariya	athp1241	Santang Deurali, (Dhankuta Municipality 8)	087° 21′57.1″ E	26° 57′26.0″ N	Athpahariya_Words
+Athpahariya-Tekunala	Tekunala	Athpahariya	athp1241	Tekunala (Dhankuta Municipality 9)	087° 20′33.8″ E	26° 57′03.5″ N	Athpahariya_Words
+Athpahariya-Guthitar	Guthitar	Athpahariya	athp1241	Guthitar (Dhankuta Municipality 14)	087° 19′17.5″ E	26° 57′54.2″ N	Athpahariya_Words
+Athpahariya-Khalde	Khalde	Athpahariya	athp1241	Khalde (Dhankuta Municipality 3) in Dhankuta district	087° 19′03.7″ E	26° 59′13.4″ N	Athpahariya_Words
+Athpahariya-Hatiya	Hatiya /Dhan kuta Bazaar	Athpahariya	athp1241	Dhankuta Bazaar (Dhankuta Municipality 1)	087° 20′37.7″ E	26° 58′21.1″ N	Athpahariya_Words
+Bantawa-Khoku	Khoku, Dhankuta	Bantawa	bant1281	Khoku, Thapa Tole	87° 13' 32.7''	26° 58' 59.0''	Bantawa_Words
+Bantawa-Lungin	Lungin (Hatuwa)	Bantawa	bant1281	Hatuwa, Lungin	87° 05'15.2''	27° 01' 27.8''	Bantawa_Words
+Bantawa-Thidingkha	Thidingkha, (Amchok)	Bantawa	bant1281	Amchok, Thidinkha	86° 00' 49.66''	27° 00' 00.06''	Bantawa_Words
+Bantawa-Timma	Timma, Rimchim	Bantawa	bant1281	Timma, Rimchim	86° 58' 49.5''	27° 14' 00.4''	Bantawa_Words
+Bantawa-Okhre	Okhre, Khena	Bantawa	bant1281	Okhre, Khena	86° 56' 65''	27° 05' 56.2''	Bantawa_Words
+Belhare-Belhare	Belhara	Belhare	belh1239	Belahara (Dhankuta Municipality 9)			Belhare
+Belhare-Piple	Piple	Belhare	belh1239	Piple (Dhankuta Municipality 9)			Belhare
+Belhare-Guthitar	Guthitar	Belhare	belh1239	Guthitar (Dhankuta Municipality 14)			Belhare
+Belhare-Rudrabari	Rudra bari	Belhare	belh1239	Rudrabari (Dhankuta Municipality 9			Belhare
+Chamling-Hadunge	Hadunge	Chamling	caml1239	Durchhim (Hadunge)	86° 10' 35.9''	27° 10' 37.5''	Chamling_Words
+Chamling-Halesi	Halesi	Chamling	caml1239	Mahadevsthan (Halesi)	86°  27' 16.6''	27°  11' 27.8''	Chamling_Words
+Chamling-Ratanchha	Ratanchha	Chamling	caml1239	Ratanchha (Kolle)	86° 50' 23.4''	27° 10' 50''	Chamling_Words
+Chamling-Balamta	Balamta	Chamling	caml1239	Balamta (Majhgaun)	86° 40' 14.0''	27° 06' 00.1''	Chamling_Words
+Chamling-Aaptar	Aaptar	Chamling	caml1239	Aaptar (Rasuwa)	86°  45' 06.9''	27°  00' 18.0	Chamling_Words
+Chintang-ChaudhariTole	Chaudhari Tole	Chintang	chhi1245	Chaudhari Tole	87° 13' 32.7''	26° 57' 12.2''	Chintang_Words
+Chintang-Mulgaun	Mulgaun	Chintang	chhi1245	Mulgaun	87° 05'15.2''	27° 01' 27.8''	Chintang_Words
+Chintang-Nangchhuwa	Nangchhuwa	Chintang	chhi1245	Mulgaun	87° 11' 42.7''	26° 56' 07.7''	Chintang_Words
+Chintang-Mangthana	Mangthana	Chintang	chhi1245	Mangthana	87° 12' 17.4''	26° 57' 17.2''	Chintang_Words
+Chintang-Chambak	Chambak	Chintang	chhi1245	Chhambak	87° 06' 15.1''	26° 52' 06.2''	Chintang_Words
+Dhimal-West	Dhimal West	Dhimal	dhim1246				Dhimal
+Dhimal-East	Dhimal East	Dhimal	dhim1246				Dhimal
+Chulung-Barbhanjyang	Barbhanjyang	Chulung	chhu1238	Barbhanjyang, Ward 5	87° 15'31''	26°57'43.8''	Chulung
+Chulung-Gairi	Gairi	Chulung	chhu1238	Sukeahal, Ward 4	87° 15'49''	26° 58'23''	Chulung
+Chulung-Pakha	Pakha	Chulung	chhu1238	Pokla, Ward 3	87° 15'48.6''	26° 57'15.2''	Chulung
+Chulung-Pokla	Pokla	Chulung	chhu1238	Gairi, Ward 1	87° 14'42.5''	26° 56'50.4''	Chulung
+Chulung-Sukeahal	Suke-ahal	Chulung	chhu1238	Pakha Gaun, Ward 1	87° 15'22''	26° 86'41.2''	Chulung
+Dulung-Bartole	Bartole	Dulung	dung1252	Thulo Dumma VDC-1 (Bartole)	087°  09′18.8″ E	027°   05′11.2″ N	Dungmali
+Dulung-Dandatole	Dandatole	Dulung	dung1252	Thulo Dumma VDC-3 (Dandatole)	087°  09′09.3″ E	027°  05′10.9″ N	Dungmali
+Dulung-Tharpu	Tharpu	Dulung	dung1252	Sano Dumma VDC-3 Tharpu	087°  10′21.9″ E	027°  06′48.6″ N	Dungmali
+Dulung-Chaukibari	Chaukibari	Dulung	dung1252	Sano Dumma VDC-3 Chaukibari	087°  09′33.5″ E	027°  06′27.5″ N	Dungmali
+Dulung-Bastim	Bastim	Dulung	dung1252	Bastim VDC-1 (Bastim)	087°  09′11.4″ E	027°  06′30.7″ N	Dungmali
+Ghale-Gurung-Mandre	Mandre	Ghale-Gurung	ghal1246	Mandre			Ghale-Gurung
+Ghale-Gurung-Barpak1	Barpak1	Ghale-Gurung	ghal1246	Barpak1			Ghale-Gurung
+Ghale-Gurung-Barpak2	Brpak2 (Ghale)	Ghale-Gurung	ghal1246	Barpak2			Ghale-Gurung
+Ghale-Gurung-Laprak	Laprak	Ghale-Gurung	ghal1246	Laprak			Ghale-Gurung
+Ghale-Gurung-Gumda	Gumda	Ghale-Gurung	ghal1246	Gumda	83.76085	28.1315	Ghale-Gurung
+Gurung-Sirubari	Sirubari	Gurung	guru1261	Sirubari, Syangja	83º45´33.6´´ E	28º07´54.2´´ N	Gurung
+Gurung-Pokhara	Pokhara	Gurung	guru1261	Pokhara, Kaski	84º00´34.6´´ E	28º12´46.1´´ N	Gurung
+Gurung-Sikles	Sikles	Gurung	guru1261	Lekhnath, Kaski	84º02´25.6´´ E	28º09´50.4´´ N	Gurung
+Gurung-Khasur	Khasur	Gurung	guru1261	Bensisahar, Lamjung	84º22´43.2´´ N	28º13´48.3´´ E	Gurung
+Gurung-Bhujung	Bhujung	Gurung	guru1261	Khasur, Lamjung	81º01´18.3´´ E	29º32´51.7´´ N	Gurung
+Jirel-RatmateKot	Ratmate-Kot	Jirel	jire1238	Sikri			Jirel
+Jirel-Sikri	Sikri	Jirel	jire1238	Kharayoban			Jirel
+Jirel-Kharoban	Kharoban	Jirel	jire1238	Kot-Ratmate			Jirel
+Jirel-Chhetrapa	Chhetrapa	Jirel	jire1238	Jugu			Jirel
+Jirel-Yarsa	Yarsa	Jirel	jire1238	Chetrapa			Jirel
+Nepali	Nepali	Nepali	nepa1254		85.00	28.00	Nepali

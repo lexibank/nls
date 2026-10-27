@@ -5,16 +5,16 @@ j	+ j
 ^a	a	19	amla//amla	Ratanchha/Aaptar/Halesi/Hadunge/Balamta
 ^b	b	66	bulim//bulim	Ratanchha/Aaptar/Halesi/Hadunge/Balamta
 ^bh	bʱ	11	bhʌiti//bhʌiti	Ratanchha/Aaptar/Halesi/Hadunge/Balamta
-^bhj	bʱ j	2	bh j a t i//bh j a r	
+^bhj	bʰ j	2	bh j a t i//bh j a r	
 ^br	b r
 ^d	d	41	djo//djo	Ratanchha/Aaptar/Halesi/Hadunge/Balamta
 ^dh	dʱ	5	dhiseko//dhiseko	Ratanchha/Aaptar/Halesi/Hadunge/Balamta
 ^dj	d j	63	djo//djo	Ratanchha/Aaptar/Halesi/Hadunge/Balamta
 ^j	j
 ^dz	dz	1	dziu	Aaptar
-^dzh	dzʱ	10	dzhara//dzhara	Ratanchha/Aaptar/Halesi/Hadunge/Balamta
+^dzh	dzʰ	10	dzhara//dzhara	Ratanchha/Aaptar/Halesi/Hadunge/Balamta
 ^g	g	1	gʌhũ	Aaptar
-^gh	gʱ	8	ghuruŋʈina//ghuruŋʈina	Hadunge/Aaptar/Halesi/Balamta
+^gh	gʰ	8	ghuruŋʈina//ghuruŋʈina	Hadunge/Aaptar/Halesi/Balamta
 ^h	h	5	hjakka//hjakka	Ratanchha/Aaptar/Halesi/Hadunge/Balamta
 ^hj	h j	5	h j a kk a//h j a kk a	
 ^i	i	40	ikiniko//ikiniko	Ratanchha/Aaptar/Halesi/Hadunge/Balamta
@@ -59,13 +59,14 @@ a	a	858	ram//ʈakhlo	Ratanchha/Aaptar/Halesi/Hadunge/Balamta
 ai$	ai	10	ŋai//ŋai	Ratanchha/Aaptar/Halesi/Hadunge/Balamta
 au$	au	5	kauli//kauli	Ratanchha/Aaptar/Halesi/Hadunge/Balamta
 b	+ b	39	nabro//nabro	Ratanchha/Aaptar/Halesi/Hadunge/Balamta
-bdh	b + dʱ	4	l e b dh e r o//l e b dh e r o	
-bh	+ bʱ	9	umbhʌr//umbhʌr	Ratanchha/Aaptar/Halesi/Hadunge/Balamta
+bdh	b + dʰ	4	l e b dh e r o//l e b dh e r o	
+bh	+ bʰ	9	umbhʌr//umbhʌr	Ratanchha/Aaptar/Halesi/Hadunge/Balamta
 br	+ b r	5	n a b r o//n a b r o	
 d	+ d	25	nadipuŋ//nadipuŋ	Ratanchha/Aaptar/Halesi/Hadunge/Balamta
-dh	+ dʱ	14	lebdhero//lebdhero	Ratanchha/Aaptar/Halesi/Hadunge/Balamta
+dh	+ dʰ	14	lebdhero//lebdhero	Ratanchha/Aaptar/Halesi/Hadunge/Balamta
 dj	+ dj
 dz	+ dz	6	bidzulitsa mkemu//pjadz	Ratanchha/Aaptar/Halesi/Hadunge/Balamta
+dz$	dz
 e	e	147	tʌmse//lem	Ratanchha/Aaptar/Halesi/Hadunge/Balamta
 h	+ h	1	gʌhũ	Aaptar
 hj	+ h j
@@ -73,6 +74,7 @@ i	i	358	bulim//bulim	Ratanchha/Aaptar/Halesi/Hadunge/Balamta
 i:$	iː	4	ri://ri:	Hadunge/Aaptar/Halesi/Balamta
 iu$	j u	10	dziu//ɦiu	Ratanchha/Halesi/Aaptar/Hadunge/Balamta
 k	+ k	185	ɦikudima//jumakuluŋ	Ratanchha/Aaptar/Halesi/Hadunge/Balamta
+k$	k
 kh	+ kʰ	51	ʈakhlo//ʈakhlo	Ratanchha/Aaptar/Halesi/Hadunge/Balamta
 khj	+ kʰ j
 khj	kʰ j	4	r u kh j a//r u kh j a	
@@ -83,6 +85,7 @@ kn	k + n	5	i k n a m//i k n a m
 kts	k + ts	5	m a k ts u p a//m a k ts u p a	
 kɦ	k + ɦ	5	i k ɦ a k a//i k ɦ a k a	
 l	+ l	131	bulim//bulim	Ratanchha/Aaptar/Halesi/Hadunge/Balamta
+l$	l
 lj	l j	1	ɦ u l j a p a	
 lkh	l + kʰ	5	kh a l kh a l//kh a l kh a l	
 ls	l + s	5	a ls e k o//a ls e k o	
@@ -91,7 +94,7 @@ lw	l + w	1	b a l w a
 m	+ m	316	bulim//bulim	Ratanchha/Aaptar/Halesi/Hadunge/Balamta
 m$	m
 mb	m + b	18	s e m b u//s e m b u	
-mbh	m + bʱ	4	u m bh ʌ r//u m bh ʌ r	
+mbh	m + bʰ	4	u m bh ʌ r//u m bh ʌ r	
 mk	m + k	6	b i dz u l i ts a + m k e m u//l a m k a th i m a	
 ml	m + l	4	a m l a//a m l a	
 mm	m + m	18	ninamma//ninamma	Ratanchha/Aaptar/Halesi/Hadunge/Balamta
@@ -139,6 +142,7 @@ ui$	ui	26	ɦui//khuinjo	Ratanchha/Aaptar/Halesi/Hadunge/Balamta
 uĩ	uĩ	5	umtshuĩ//umtshuĩ	Ratanchha/Aaptar/Halesi/Hadunge/Balamta
 uĩ$	uĩ	9	ʈuĩ//ʈuĩ	Ratanchha/Aaptar/Halesi/Hadunge/Balamta
 w	+ w	23	ɦeptshowa//ɦeptshowa	Ratanchha/Aaptar/Halesi/Hadunge/Balamta
+w$	w
 ã	ã	5	kã//kã	Ratanchha/Aaptar/Halesi/Hadunge/Balamta
 õ	õ	12	ʈõ//ʈõ	Ratanchha/Aaptar/Halesi/Hadunge/Balamta
 ŋ	+ ŋ	117	mitsuŋ//mitsuŋ	Ratanchha/Aaptar/Halesi/Hadunge/Balamta
@@ -154,9 +158,9 @@ w	+ w	23	ɦeptshowa//ɦeptshowa	Ratanchha/Aaptar/Halesi/Hadunge/Balamta
 ŋʈ	ŋ + ʈ	9	gh u r u ŋ ʈ i n a//gh u r u ŋ ʈ i n a	
 ũ	ũ	1	gʌhũ	Aaptar
 ɖ	+ ɖ	10	oɖako//oɖako	Ratanchha/Aaptar/Halesi/Hadunge/Balamta
-ɖh	+ ɖʱ	5	waɖhamma//waɖham	Ratanchha/Aaptar/Halesi/Hadunge/Balamta
+ɖh	+ ɖʰ	5	waɖhamma//waɖham	Ratanchha/Aaptar/Halesi/Hadunge/Balamta
 ɗ	+ ɗ	9	ɦʌthouɗa//ɦʌthouɗa	Ratanchha/Aaptar/Halesi/Hadunge/Balamta
-ɗh	+ ɗʱ	5	tsuɗhako//tsuɗhako	Ratanchha/Aaptar/Halesi/Hadunge/Balamta
+ɗh	+ ɗʰ	5	tsuɗhako//tsuɗhako	Ratanchha/Aaptar/Halesi/Hadunge/Balamta
 ɦ	+ ɦ	20	paɦudeko//paɦudeko	Ratanchha/Aaptar/Halesi/Hadunge/Balamta
 ɦj	+ ɦ j	5	u ɦ j a kk a//u ɦ j a kk a	
 ʈ	+ ʈ	24	ghuruŋʈina//ghuruŋʈina	Ratanchha/Aaptar/Halesi/Hadunge/Balamta
