@@ -21,9 +21,17 @@ databases:
       Forms:
         size: 20
     queries:
-      Colexifications:
-        title: Inspect Colexifications
+      SoundPatterns:
+        title: Sound Patterns
         sql: |-
-          select * from formtable limit 20
-          ; 
+          SELECT ROW_NUMBER() OVER() as ID,
+            Language_ID,
+            Language,
+            Sound,
+            COUNT(Form_ID) as Frequency
+          FROM Sounds
+          WHERE Sound != '+'
+          GROUP BY Language_ID, Language, Sound
+          ORDER BY Language, Sound;
+          
 

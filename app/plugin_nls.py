@@ -115,7 +115,7 @@ def extra_template_vars():
                             },
                         "title": "Sounds",
                         },
-                "SoundsTable": {
+                "SoundTable": {
                         "columns": {
                             "ID": "ID",
                             "Language_ID": "Language_ID",

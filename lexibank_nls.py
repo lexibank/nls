@@ -41,8 +41,6 @@ class CustomLanguage(Language):
     Dataset = attr.ib(default=None)
 
 
-
-
 class Dataset(BaseDataset):
     dir = pathlib.Path(__file__).parent
     id = "nls"
@@ -66,12 +64,11 @@ class Dataset(BaseDataset):
         )
 
         # load borrowings
-        borrowings = {(
-            row["Language"], row["Concept"], row["Value"]
-            ): row["Borrowing"]
-                      for row in self.raw_dir.read_csv("borrowings.tsv", delimiter="\t",
-                                           dicts=True)
-                      }
+        borrowings = {(row["Language"], row["Concept"], row["Value"]): \
+                row["Borrowing"] for row in self.raw_dir.read_csv(
+                    "borrowings.tsv", 
+                    delimiter="\t",
+                    dicts=True)}
 
  
         # add language
@@ -93,6 +90,18 @@ class Dataset(BaseDataset):
         #languages = args.writer.add_languages(lookup_factory="Name")
         args.log.info("added languages")
 
+        # add nepali
+        for row in self.raw_dir.read_csv("nepali.tsv", delimiter="\t",
+                                         dicts=True):
+            args.writer.add_form(
+                    Language_ID="Nepali",
+                    Parameter_ID=concepts[row["NUMBER"].strip('.')],
+                    Value=row["VALUE"],
+                    Form=row["FORM"].replace(" ", "_"),
+                    Source="Nepali"
+                    )
+
+
         wl = Wordlist(self.raw_dir.joinpath("first-pass.tsv").as_posix())
         errors = set()
         missing = set()
@@ -102,14 +111,13 @@ class Dataset(BaseDataset):
                                       "Chulung", "Dulung", "Ghale-Gurung",
                                       "Jirel", "Gurung"
                                       ]:
-                print(idx, '2')
                 if wl[idx, "concept"].strip(".") in concepts:
                     language = languages[wl[idx, "doculect"]]
                     concept = concept_lookup[wl[idx, "concept"].strip('.')]
                     value = wl[idx, "value"]
 
                     bor = borrowings.get((language, concept, value), "")
-                    args.writer.add_form(
+                    form = args.writer.add_form(
                             Language_ID=languages[wl[idx, 'doculect']],
                             Parameter_ID=concepts[wl[idx, "concept"].strip(".")],
                             Value=wl[idx, 'value'],
@@ -117,6 +125,8 @@ class Dataset(BaseDataset):
                             Borrowing=bor,
                             Source=wl[idx, 'dataset']
                             )
+                    if bor == "Nepali":
+                        form["Segments"] = [x for x in form["Segments"] if x != "+"]
                 else:
                     errors.add((wl[idx, "dataset"], wl[idx, "concept"]))
             else:
@@ -125,5 +135,7 @@ class Dataset(BaseDataset):
             args.log.info("Missing Concept Number: " + a + " " + b)
         for m in missing:
             args.log.info("Missing Dataset: " + m)
+        
+
 
 

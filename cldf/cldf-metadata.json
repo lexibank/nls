@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/lexibank/nls",
             "rdf:type": "prov:Entity",
-            "dc:created": "ec41926",
+            "dc:created": "938d7ff",
             "dc:title": "Repository"
         },
         {
@@ -46,7 +46,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.14.7"
+            "dc:description": "3.14.8"
         },
         {
             "dc:title": "python-packages",
@@ -58,7 +58,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 10685,
+            "dc:extent": 10899,
             "tableSchema": {
                 "columns": [
                     {
@@ -173,7 +173,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 51,
+            "dc:extent": 52,
             "tableSchema": {
                 "columns": [
                     {
