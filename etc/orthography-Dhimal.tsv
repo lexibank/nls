@@ -1,7 +1,12 @@
 Grapheme	IPA	Frequency	Examples	Languages
 +	+	5	Bijuli ts⍰mkili//eʔ sae	Dhimal East/Dhimal West
 _	+
-Tʰ$	tʰ	1	aũTʰi	Dhimal West
+l$	l
+r$	r
+eʔ$	e ʔ
+l⍰sun	l ə s u n
+soʔ$	s o ʔ
+Tʰ$	ʈʰ	1	aũTʰi	Dhimal West
 ^B	b	1	Bijuli ts⍰mkili	Dhimal East
 ^P	p	2	Puhjã//Puĩhjã	Dhimal East/Dhimal West
 ^a	a	17	aŋguli//aŋguli	Dhimal East/Dhimal West
@@ -9,8 +14,8 @@ Tʰ$	tʰ	1	aũTʰi	Dhimal West
 ^b	b	36	bindu//bindu	Dhimal East/Dhimal West
 ^bh	bʱ	1	bhadbogon	Dhimal East
 ^bʰ	bʱ	8	bʰerma//bʰerma	Dhimal East/Dhimal West
-^c	tʃ	2	ciʔli//ciʔli	Dhimal East/Dhimal West
-^ch	tʃʰ	1	chetso	Dhimal East
+^c	ts	2	ciʔli//ciʔli	Dhimal East/Dhimal West
+^ch	tsʰ	1	chetso	Dhimal East
 ^d	d	37	detoŋ//detoŋ	Dhimal East/Dhimal West
 ^dh	dʱ	1	dhaba	Dhimal East
 ^dj	d j	3	d j a ŋ//d j a	
@@ -42,7 +47,7 @@ Tʰ$	tʰ	1	aũTʰi	Dhimal West
 ^pʰ	pʰ	8	pʰinu//pʰeno	Dhimal East/Dhimal West
 Tʰ	tʰ
 a:	aː
-uĩ	u/w ĩ
+uĩ	w ĩ
 ^r	r	3	rime//remka	Dhimal East/Dhimal West
 e:	eː
 ^rh	rʰ	2	rhika//rhuta	Dhimal East
@@ -50,13 +55,13 @@ e:	eː
 ^s	s	29	setoŋ//soʔ	Dhimal East/Dhimal West
 ^t	t	17	tasiŋ//tumsiŋ	Dhimal East/Dhimal West
 ^ts	ts	18	tsamra//tsale	Dhimal East/Dhimal West
-h⍰	h !⍰/ə
-^tz	!tz/ts	1	tzenta	Dhimal East
+h⍰	h ə
+^tz	ts	1	tzenta	Dhimal East
 ^u	u	8	unthur//umpʰi	Dhimal East/Dhimal West
 ^w	w	10	wabal//wadzan	Dhimal East/Dhimal West
 ^ye	j e	2	yeʔ//yeʔ	Dhimal East/Dhimal West
 ^ḍ	ɖ	2	ḍaŋ//ḍaŋ	Dhimal East/Dhimal West
-^⍰	!⍰/ə	1	⍰ŋthiŋ	Dhimal East
+^⍰	ə	1	⍰ŋthiŋ	Dhimal East
 a	a	242	nʰatoŋ//natuŋ	Dhimal East/Dhimal West
 a:$	aː	2	da:ka//da:ka	Dhimal East/Dhimal West
 ae	ae	2	eʔ sae//eʔ sae	Dhimal East/Dhimal West
@@ -83,7 +88,7 @@ gʰ$	gʱ	2	egʰarə//egʰarə	Dhimal East/Dhimal West
 h	+ h	13	lohoro//diham	Dhimal East/Dhimal West
 hj	h j	2	P u h j ã//P uĩ h j ã	
 i	i	173	puriŋ//puriŋ	Dhimal East/Dhimal West
-iu$	i/j u	2	dziu//dziu	Dhimal East/Dhimal West
+iu$	j u	2	dziu//dziu	Dhimal East/Dhimal West
 j	+ dʒ	17	misjã//Bijuli ts⍰mkili	Dhimal East/Dhimal West
 k	+ k	48	kʰokoi//kʰokoi	Dhimal East/Dhimal West
 kk	k + k	1	tsəkku	Dhimal West
@@ -134,6 +139,8 @@ rt	r + t	1	m a r t o l
 rts	r + ts	2	m a r ts i//m a r ts i	
 rʰ	+ rʰ	2	barʰə//barʰə	Dhimal East/Dhimal West
 s	+ s	27	pusuŋ//pusuŋ	Dhimal East/Dhimal West
+s$	s		
+^bad⍰l	b a d ə l	
 sj	s + ?j/dʒ	1	m i s j ã	
 sl	s + l	1	t i s l a	
 st	s + t	1	i s t u ŋ	
@@ -175,5 +182,5 @@ w	+ w	5	dʰwã//dʰwã	Dhimal East/Dhimal West
 a˜	ã	1	ka˜da	Dhimal East
 ṭ	+ ʈ	5	siləuṭo//meṭoŋ	Dhimal East/Dhimal West
 ṭʰ	+ ʈʰ	1	meṭʰoŋ	Dhimal West
-⍰	+ !⍰/ə	4	khuit⍰la//bad⍰l	Dhimal East
-⍰s$	!⍰/ə s	1	l⍰sun	Dhimal East
+⍰	+ ə	4	khuit⍰la//bad⍰l	Dhimal East
+⍰s$	ə s	1	l⍰sun	Dhimal East
