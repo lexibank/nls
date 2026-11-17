@@ -416,358 +416,768 @@ Belhare-Rudrabari	wheat (husked)	gəhũ	Belhare		Nepali
 Belhare-Belhare	year	bərsə	Belhare		Nepali
 Belhare-Piple	year	bərsə	Belhare		Nepali
 Belhare-Rudrabari	year	bərsə	Belhare		Nepali
-Aaptar	body	dziu	Chamling_Words		Nepali
-Hadunge	onion	pjadz	Chamling_Words		Nepali
-Halesi	onion	pjadz	Chamling_Words		Nepali
-Ratanchha	onion	pjadz	Chamling_Words		Nepali
-Balamta	onion	pjadz	Chamling_Words		Nepali
-Aaptar	onion	pjadz	Chamling_Words		Nepali
-Hadunge	tomato	belouti	Chamling_Words		Nepali
-Halesi	tomato	belouti	Chamling_Words		Nepali
-Ratanchha	tomato	belouti	Chamling_Words		Nepali
-Balamta	tomato	belouti	Chamling_Words		Nepali
-Aaptar	tomato	belouti	Chamling_Words		Nepali
-Hadunge	twelve	ikɦaka	Chamling_Words		Nepali
-Halesi	twelve	ikɦaka	Chamling_Words		Nepali
-Ratanchha	twelve	ikɦaka	Chamling_Words		Nepali
-Balamta	twelve	ikɦaka	Chamling_Words		Nepali
-Aaptar	twelve	ikɦaka	Chamling_Words		Nepali
-Aaptar	cloud	badʌl	Chamling_Words	b a + d ʌ l	Nepali
-Hadunge	hammer	ɦʌthouɗa	Chamling_Words	ɦ ʌ + tʰ ou + ɖ a	Nepali
-Halesi	hammer	ɦʌthouɗa	Chamling_Words	ɦ ʌ + tʰ ou + ɖ a	Nepali
-Balamta	hammer	ɦʌthouɗa	Chamling_Words	ɦ ʌ + tʰ ou + ɖ a	Nepali
-Aaptar	hammer	ɦʌthouɗa	Chamling_Words	ɦ ʌ + tʰ ou + ɖ a	Nepali
-Hadunge	cabbage	bʌndakopi	Chamling_Words		Nepali
-Halesi	cabbage	bʌndakopi	Chamling_Words		Nepali
-Ratanchha	cabbage	bʌndakopi	Chamling_Words		Nepali
-Balamta	cabbage	bʌndakopi	Chamling_Words		Nepali
-Aaptar	cabbage	bʌndakopi	Chamling_Words		Nepali
-Hadunge	cauliflower	kauli	Chamling_Words		Nepali
-Halesi	cauliflower	kauli	Chamling_Words		Nepali
-Ratanchha	cauliflower	kauli	Chamling_Words		Nepali
-Balamta	cauliflower	kauli	Chamling_Words		Nepali
-Aaptar	cauliflower	kauli	Chamling_Words		Nepali
-Hadunge	finger	amla	Chamling_Words		Nepali
-Halesi	finger	amla	Chamling_Words		Nepali
-Balamta	finger	amla	Chamling_Words		Nepali
-Aaptar	finger	amla	Chamling_Words		Nepali
-Hadunge	groundnut	baɗʌm	Chamling_Words		Nepali
-Halesi	groundnut	baɗʌm	Chamling_Words		Nepali
-Ratanchha	groundnut	baɗʌm	Chamling_Words		Nepali
-Balamta	groundnut	baɗʌm	Chamling_Words		Nepali
-Aaptar	groundnut	baɗʌm	Chamling_Words		Nepali
-Ratanchha	hammer	diluŋkhjakka	Chamling_Words		Nepali
-Hadunge	milk	dʉt	Chamling_Words		Nepali
-Halesi	milk	dʉt	Chamling_Words		Nepali
-Ratanchha	milk	dʉt	Chamling_Words		Nepali
-Balamta	milk	dʉt	Chamling_Words		Nepali
-Aaptar	milk	dʉt	Chamling_Words		Nepali
-Aaptar	old	ʌiʈako	Chamling_Words		Nepali
-Hadunge	week	ɦʌpta	Chamling_Words		Nepali
-Halesi	week	ɦʌpta	Chamling_Words		Nepali
-Ratanchha	week	ɦʌpta	Chamling_Words		Nepali
-Balamta	week	ɦʌpta	Chamling_Words		Nepali
-Aaptar	week	ɦʌpta	Chamling_Words		Nepali
-Aaptar	wheat (husked)	gʌhũ	Chamling_Words		Nepali
+Chamling-Aaptar	body	dziu	Chamling_Words		Nepali
+Chamling-Hadunge	onion	pjadz	Chamling_Words		Nepali
+Chamling-Halesi	onion	pjadz	Chamling_Words		Nepali
+Chamling-Ratanchha	onion	pjadz	Chamling_Words		Nepali
+Chamling-Balamta	onion	pjadz	Chamling_Words		Nepali
+Chamling-Aaptar	onion	pjadz	Chamling_Words		Nepali
+Chamling-Hadunge	tomato	belouti	Chamling_Words		Nepali
+Chamling-Halesi	tomato	belouti	Chamling_Words		Nepali
+Chamling-Ratanchha	tomato	belouti	Chamling_Words		Nepali
+Chamling-Balamta	tomato	belouti	Chamling_Words		Nepali
+Chamling-Aaptar	tomato	belouti	Chamling_Words		Nepali
+Chamling-Hadunge	twelve	ikɦaka	Chamling_Words		Nepali
+Chamling-Halesi	twelve	ikɦaka	Chamling_Words		Nepali
+Chamling-Ratanchha	twelve	ikɦaka	Chamling_Words		Nepali
+Chamling-Balamta	twelve	ikɦaka	Chamling_Words		Nepali
+Chamling-Aaptar	twelve	ikɦaka	Chamling_Words		Nepali
+Chamling-Aaptar	cloud	badʌl	Chamling_Words	b a + d ʌ l	Nepali
+Chamling-Hadunge	hammer	ɦʌthouɗa	Chamling_Words	ɦ ʌ + tʰ ou + ɖ a	Nepali
+Chamling-Halesi	hammer	ɦʌthouɗa	Chamling_Words	ɦ ʌ + tʰ ou + ɖ a	Nepali
+Chamling-Balamta	hammer	ɦʌthouɗa	Chamling_Words	ɦ ʌ + tʰ ou + ɖ a	Nepali
+Chamling-Aaptar	hammer	ɦʌthouɗa	Chamling_Words	ɦ ʌ + tʰ ou + ɖ a	Nepali
+Chamling-Hadunge	cabbage	bʌndakopi	Chamling_Words		Nepali
+Chamling-Halesi	cabbage	bʌndakopi	Chamling_Words		Nepali
+Chamling-Ratanchha	cabbage	bʌndakopi	Chamling_Words		Nepali
+Chamling-Balamta	cabbage	bʌndakopi	Chamling_Words		Nepali
+Chamling-Aaptar	cabbage	bʌndakopi	Chamling_Words		Nepali
+Chamling-Hadunge	cauliflower	kauli	Chamling_Words		Nepali
+Chamling-Halesi	cauliflower	kauli	Chamling_Words		Nepali
+Chamling-Ratanchha	cauliflower	kauli	Chamling_Words		Nepali
+Chamling-Balamta	cauliflower	kauli	Chamling_Words		Nepali
+Chamling-Aaptar	cauliflower	kauli	Chamling_Words		Nepali
+Chamling-Hadunge	finger	amla	Chamling_Words		Nepali
+Chamling-Halesi	finger	amla	Chamling_Words		Nepali
+Chamling-Balamta	finger	amla	Chamling_Words		Nepali
+Chamling-Aaptar	finger	amla	Chamling_Words		Nepali
+Chamling-Hadunge	groundnut	baɗʌm	Chamling_Words		Nepali
+Chamling-Halesi	groundnut	baɗʌm	Chamling_Words		Nepali
+Chamling-Ratanchha	groundnut	baɗʌm	Chamling_Words		Nepali
+Chamling-Balamta	groundnut	baɗʌm	Chamling_Words		Nepali
+Chamling-Aaptar	groundnut	baɗʌm	Chamling_Words		Nepali
+Chamling-Ratanchha	hammer	diluŋkhjakka	Chamling_Words		Nepali
+Chamling-Hadunge	milk	dʉt	Chamling_Words		Nepali
+Chamling-Halesi	milk	dʉt	Chamling_Words		Nepali
+Chamling-Ratanchha	milk	dʉt	Chamling_Words		Nepali
+Chamling-Balamta	milk	dʉt	Chamling_Words		Nepali
+Chamling-Aaptar	milk	dʉt	Chamling_Words		Nepali
+Chamling-Aaptar	old	ʌiʈako	Chamling_Words		Nepali
+Chamling-Hadunge	week	ɦʌpta	Chamling_Words		Nepali
+Chamling-Halesi	week	ɦʌpta	Chamling_Words		Nepali
+Chamling-Ratanchha	week	ɦʌpta	Chamling_Words		Nepali
+Chamling-Balamta	week	ɦʌpta	Chamling_Words		Nepali
+Chamling-Aaptar	week	ɦʌpta	Chamling_Words		Nepali
+Chamling-Aaptar	wheat (husked)	gʌhũ	Chamling_Words		Nepali
 ChaudhariTole	goat	bakhra	Chintang_Words	b a kʰ + r a	Nepali
-Mulgaun	goat	bakhra	Chintang_Words	b a kʰ + r a	Nepali
-Nangchhuwa	goat	bakhra	Chintang_Words	b a kʰ + r a	Nepali
-Mangthana	goat	bakhra	Chintang_Words	b a kʰ + r a	Nepali
-Chambak	goat	bakhra	Chintang_Words	b a kʰ + r a	Nepali
-ChaudhariTole	hammer	martol	Chintang_Words	m a r + t o l	Nepali
-Nangchhuwa	hammer	martol	Chintang_Words	m a r + t o l	Nepali
-Chambak	hammer	martol	Chintang_Words	m a r + t o l	Nepali
-ChaudhariTole	ring	mukcekkhek	Chintang_Words	m u k + ts e k + kʰ e k	Nepali
-Mulgaun	ring	mukcekkhek	Chintang_Words	m u k + ts e k + kʰ e k	Nepali
-Nangchhuwa	ring	mukcekkhek	Chintang_Words	m u k + ts e k + kʰ e k	Nepali
-Mangthana	ring	mukcekkhek	Chintang_Words	m u k + ts e k + kʰ e k	Nepali
-Chambak	ring	mukcekkhek	Chintang_Words	m u k + ts e k + kʰ e k	Nepali
-ChaudhariTole	five	paceḍa	Chintang_Words	p a + tse + ɖ a	Nepali
-Mulgaun	five	paceḍa	Chintang_Words	p a + tse + ɖ a	Nepali
-Nangchhuwa	five	paceḍa	Chintang_Words	p a + tse + ɖ a	Nepali
-Mangthana	five	paceḍa	Chintang_Words	p a + tse + ɖ a	Nepali
-Chambak	five	paceḍa	Chintang_Words	p a + tse + ɖ a	Nepali
-ChaudhariTole	fruit	phǝlphul	Chintang_Words	pʰ ə l + pʰ u l	Nepali
-Mulgaun	fruit	phǝlphul	Chintang_Words	pʰ ə l + pʰ u l	Nepali
-Nangchhuwa	fruit	phǝlphul	Chintang_Words	pʰ ə l + pʰ u l	Nepali
-Mangthana	fruit	phǝlphul	Chintang_Words	pʰ ə l + pʰ u l	Nepali
-Chambak	fruit	phǝlphul	Chintang_Words	pʰ ə l + pʰ u l	Nepali
-ChaudhariTole	four	careḍa	Chintang_Words	ts a + r e + ɖ a	Nepali
-Mulgaun	four	careḍa	Chintang_Words	ts a + r e + ɖ a	Nepali
-Nangchhuwa	four	careḍa	Chintang_Words	ts a + r e + ɖ a	Nepali
-Mangthana	four	careḍa	Chintang_Words	ts a + r e + ɖ a	Nepali
-Chambak	four	careḍa	Chintang_Words	ts a + r e + ɖ a	Nepali
-ChaudhariTole	skin	chala	Chintang_Words	tsʰ a + l a	Nepali
-Mulgaun	skin	chala	Chintang_Words	tsʰ a + l a	Nepali
-Nangchhuwa	skin	chala	Chintang_Words	tsʰ a + l a	Nepali
-Mangthana	skin	chala	Chintang_Words	tsʰ a + l a	Nepali
-Chambak	skin	chala	Chintang_Words	tsʰ a + l a	Nepali
-ChaudhariTole	breast	chati	Chintang_Words	tsʰ a + t i	Nepali
-Mulgaun	breast	chati	Chintang_Words	tsʰ a + t i	Nepali
-Nangchhuwa	breast	chati	Chintang_Words	tsʰ a + t i	Nepali
-Mangthana	breast	chati	Chintang_Words	tsʰ a + t i	Nepali
-Chambak	breast	chati	Chintang_Words	tsʰ a + t i	Nepali
-Nangchhuwa	cold	ciso	Chintang_Words	tsi + s o	Nepali
-Chambak	cold	ciso	Chintang_Words	tsi + s o	Nepali
-ChaudhariTole	body	dziu	Chintang_Words		Nepali
-Mulgaun	body	dziu	Chintang_Words		Nepali
-Nangchhuwa	body	dziu	Chintang_Words		Nepali
-Mangthana	body	dziu	Chintang_Words		Nepali
-Chambak	body	dziu	Chintang_Words		Nepali
-ChaudhariTole	onion	pjadz	Chintang_Words		Nepali
-Mulgaun	onion	pjadzu	Chintang_Words		Nepali
-Nangchhuwa	onion	pjadz	Chintang_Words		Nepali
-Mangthana	onion	pjadz	Chintang_Words		Nepali
-Chambak	onion	pjadzu	Chintang_Words		Nepali
-ChaudhariTole	roof	dhuri	Chintang_Words		Nepali
-Mulgaun	roof	dhuri	Chintang_Words		Nepali
-Nangchhuwa	roof	dhuri	Chintang_Words		Nepali
-Mangthana	roof	dhuri	Chintang_Words		Nepali
-Chambak	roof	dhuri	Chintang_Words		Nepali
-ChaudhariTole	smoke	dhuwa	Chintang_Words		Nepali
-Mulgaun	smoke	dhuwa	Chintang_Words		Nepali
-Nangchhuwa	smoke	dhuwa	Chintang_Words		Nepali
-Mangthana	smoke	dhuwa	Chintang_Words		Nepali
-Chambak	smoke	dhuwa	Chintang_Words		Nepali
-Mangthana	tomato	rambheḍa	Chintang_Words		Nepali
-ChaudhariTole	twelve	barəgeḍa	Chintang_Words		Nepali
-Mulgaun	twelve	barəgeḍa	Chintang_Words		Nepali
-Nangchhuwa	twelve	barəgeḍa	Chintang_Words		Nepali
-Mangthana	twelve	barəgeḍa	Chintang_Words		Nepali
-Chambak	twelve	barəgeḍa	Chintang_Words		Nepali
-ChaudhariTole	twenty	biseḍa	Chintang_Words		Nepali
-Mulgaun	twenty	biseḍa	Chintang_Words		Nepali
-Nangchhuwa	twenty	biseḍa	Chintang_Words		Nepali
-Mangthana	twenty	biseḍa	Chintang_Words		Nepali
-Chambak	twenty	biseḍa	Chintang_Words		Nepali
-ChaudhariTole	ash	khǝrani	Chintang_Words		Nepali
-Mulgaun	ash	khǝrani	Chintang_Words		Nepali
-Nangchhuwa	ash	khǝrani	Chintang_Words		Nepali
-Mangthana	ash	khǝrani	Chintang_Words		Nepali
-Chambak	ash	khǝrani	Chintang_Words		Nepali
-ChaudhariTole	barley	dzəu	Chintang_Words		Nepali
-Mulgaun	barley	dzəu	Chintang_Words		Nepali
-Nangchhuwa	barley	dzəu	Chintang_Words		Nepali
-Mangthana	barley	dzəu	Chintang_Words		Nepali
-Chambak	barley	dzəu	Chintang_Words		Nepali
-ChaudhariTole	cabbage	bandakopi	Chintang_Words		Nepali
-Mulgaun	cabbage	bandakopi	Chintang_Words		Nepali
-Nangchhuwa	cabbage	bandakopi	Chintang_Words		Nepali
-Mangthana	cabbage	bandakopi	Chintang_Words		Nepali
-Chambak	cabbage	bandakopi	Chintang_Words		Nepali
-ChaudhariTole	cauliflower	kopi	Chintang_Words		Nepali
-Mulgaun	cauliflower	kopi	Chintang_Words		Nepali
-Nangchhuwa	cauliflower	kopi	Chintang_Words		Nepali
-Mangthana	cauliflower	kopi	Chintang_Words		Nepali
-Chambak	cauliflower	kopi	Chintang_Words		Nepali
-Mulgaun	door	dwari	Chintang_Words		Nepali
-Nangchhuwa	door	ḍwari	Chintang_Words		Nepali
-Mangthana	door	dwari	Chintang_Words		Nepali
-Chambak	door	ḍwari	Chintang_Words		Nepali
-ChaudhariTole	dust	dhulo	Chintang_Words		Nepali
-Mulgaun	dust	dhulo	Chintang_Words		Nepali
-Nangchhuwa	dust	dhulo	Chintang_Words		Nepali
-Mangthana	dust	dhulo	Chintang_Words		Nepali
-Chambak	dust	dhulo	Chintang_Words		Nepali
-ChaudhariTole	eight	aṭheḍa	Chintang_Words		Nepali
-Mulgaun	eight	aṭheḍa	Chintang_Words		Nepali
-Nangchhuwa	eight	aṭheḍa	Chintang_Words		Nepali
-Mangthana	eight	aṭheḍa	Chintang_Words		Nepali
-Chambak	eight	aṭheḍa	Chintang_Words		Nepali
-ChaudhariTole	elbow	kuina	Chintang_Words		Nepali
-Mulgaun	elbow	kuina	Chintang_Words		Nepali
-Nangchhuwa	elbow	kuina	Chintang_Words		Nepali
-Mangthana	elbow	kuina	Chintang_Words		Nepali
-Chambak	elbow	kuina	Chintang_Words		Nepali
-ChaudhariTole	eleven	egharəgeḍa	Chintang_Words		Nepali
-Mulgaun	eleven	egharəgeḍa	Chintang_Words		Nepali
-Nangchhuwa	eleven	egharəgeḍa	Chintang_Words		Nepali
-Mangthana	eleven	egharəgeḍa	Chintang_Words		Nepali
-Chambak	eleven	egharəgeḍa	Chintang_Words		Nepali
-ChaudhariTole	finger	jaŋguli	Chintang_Words		Nepali
-Mulgaun	finger	jaŋguli	Chintang_Words		Nepali
-Nangchhuwa	finger	jaŋguli	Chintang_Words		Nepali
-Mangthana	finger	jaŋguli	Chintang_Words		Nepali
-Chambak	finger	jaŋguli	Chintang_Words		Nepali
-ChaudhariTole	gold	sona	Chintang_Words		Nepali
-Mulgaun	gold	sona	Chintang_Words		Nepali
-Nangchhuwa	gold	sona	Chintang_Words		Nepali
-Mangthana	gold	sona	Chintang_Words		Nepali
-Chambak	gold	sona	Chintang_Words		Nepali
-ChaudhariTole	groundnut	bədam	Chintang_Words		Nepali
-Mulgaun	groundnut	bədam	Chintang_Words		Nepali
-Nangchhuwa	groundnut	bədam	Chintang_Words		Nepali
-Mangthana	groundnut	bədam	Chintang_Words		Nepali
-Chambak	groundnut	bədam	Chintang_Words		Nepali
-Mulgaun	hammer	ghǝnǝ	Chintang_Words		Nepali
-Mangthana	hammer	ghǝnǝ	Chintang_Words		Nepali
-ChaudhariTole	milk	dudʰa	Chintang_Words		Nepali
-Mulgaun	milk	dudha	Chintang_Words		Nepali
-Nangchhuwa	milk	duda	Chintang_Words		Nepali
-Mangthana	milk	dudha	Chintang_Words		Nepali
-Chambak	milk	duda	Chintang_Words		Nepali
-ChaudhariTole	mother	ama	Chintang_Words		Nepali
-Mulgaun	mother	ama	Chintang_Words		Nepali
-Nangchhuwa	mother	ama	Chintang_Words		Nepali
-Mangthana	mother	ama	Chintang_Words		Nepali
-Chambak	mother	ama	Chintang_Words		Nepali
-ChaudhariTole	old	purano	Chintang_Words		Nepali
-Mulgaun	old	purano	Chintang_Words		Nepali
-Nangchhuwa	old	purano	Chintang_Words		Nepali
-Mangthana	old	purano	Chintang_Words		Nepali
-Chambak	old	purano	Chintang_Words		Nepali
-ChaudhariTole	one hundred	eksəye	Chintang_Words		Nepali
-Mulgaun	one hundred	eksəyə	Chintang_Words		Nepali
-Nangchhuwa	one hundred	eksəye	Chintang_Words		Nepali
-Mangthana	one hundred	eksəyə	Chintang_Words		Nepali
-Chambak	one hundred	eksəye	Chintang_Words		Nepali
-ChaudhariTole	potato	alu	Chintang_Words		Nepali
-Mulgaun	potato	alu	Chintang_Words		Nepali
-Nangchhuwa	potato	alu	Chintang_Words		Nepali
-Mangthana	potato	alu	Chintang_Words		Nepali
-Chambak	potato	alu	Chintang_Words		Nepali
-ChaudhariTole	root	dzǝra	Chintang_Words		Nepali
-Mulgaun	root	dzǝra	Chintang_Words		Nepali
-Nangchhuwa	root	dzǝra	Chintang_Words		Nepali
-Mangthana	root	dzǝra	Chintang_Words		Nepali
-Chambak	root	dzǝra	Chintang_Words		Nepali
-ChaudhariTole	ten	dəseḍa	Chintang_Words		Nepali
-Mulgaun	ten	dəseḍa	Chintang_Words		Nepali
-Nangchhuwa	ten	dəseḍa	Chintang_Words		Nepali
-Mangthana	ten	dəseḍa	Chintang_Words		Nepali
-Chambak	ten	dəseḍa	Chintang_Words		Nepali
-ChaudhariTole	thread	dhago	Chintang_Words		Nepali
-Mulgaun	thread	dhago	Chintang_Words		Nepali
-Nangchhuwa	thread	dhago	Chintang_Words		Nepali
-Mangthana	thread	dhago	Chintang_Words		Nepali
-Chambak	thread	dhago	Chintang_Words		Nepali
-ChaudhariTole	week	sata	Chintang_Words		Nepali
-Mulgaun	week	sata	Chintang_Words		Nepali
-Nangchhuwa	week	sata	Chintang_Words		Nepali
-Mangthana	week	sata	Chintang_Words		Nepali
-Chambak	week	sata	Chintang_Words		Nepali
-ChaudhariTole	wheat (husked)	gəhu	Chintang_Words		Nepali
-Mulgaun	wheat (husked)	gəhu	Chintang_Words		Nepali
-Nangchhuwa	wheat (husked)	gəhu	Chintang_Words		Nepali
-Mangthana	wheat (husked)	gəhu	Chintang_Words		Nepali
-Chambak	wheat (husked)	gəhu	Chintang_Words		Nepali
-Barbhanjyang	ring	aŋguthi	Chulung	a ŋ + g u + ʈʰ i	Nepali
-Gairi	ring	aŋguthi	Chulung	a ŋ + g u + ʈʰ i	Nepali
-Pakha	ring	aŋguthi	Chulung	a ŋ + g u + ʈʰ i	Nepali
-Pokla	ring	aŋguthi	Chulung	a ŋ + g u + ʈʰ i	Nepali
-Sukeahal	ring	aŋguthi	Chulung	a ŋ + g u + ʈʰ i	Nepali
-Barbhanjyang	body	Jam	Chulung		Nepali
-Barbhanjyang	onion	pijadzu	Chulung		Nepali
-Gairi	onion	pijadzu	Chulung		Nepali
-Pakha	onion	pijadzu	Chulung		Nepali
-Pokla	onion	pijadzu	Chulung		Nepali
-Sukeahal	onion	pijadzu	Chulung		Nepali
-Barbhanjyang	tomato	rambhenta	Chulung		Nepali
-Gairi	tomato	rambhenta	Chulung		Nepali
-Pakha	tomato	rambhenta	Chulung		Nepali
-Pokla	tomato	rambhenta	Chulung		Nepali
-Sukeahal	tomato	rambhenta	Chulung		Nepali
-Barbhanjyang	finger	aŋguri	Chulung		Nepali
-Gairi	finger	aŋguri	Chulung		Nepali
-Pakha	finger	aŋguri	Chulung		Nepali
-Pokla	finger	aŋguri	Chulung		Nepali
-Sukeahal	finger	aŋguri	Chulung		Nepali
-Barbhanjyang	gold	sona	Chulung		Nepali
-Gairi	gold	sona	Chulung		Nepali
-Pakha	gold	sona	Chulung		Nepali
-Pokla	gold	sona	Chulung		Nepali
-Sukeahal	gold	sona	Chulung		Nepali
-Barbhanjyang	milk	dudu	Chulung		Nepali
-Gairi	milk	dudu	Chulung		Nepali
-Pakha	milk	dudu	Chulung		Nepali
-Pokla	milk	dudu	Chulung		Nepali
-Sukeahal	milk	dudu	Chulung		Nepali
-Barbhanjyang	mother	ama	Chulung		Nepali
-Gairi	mother	ama	Chulung		Nepali
-Pakha	mother	ama	Chulung		Nepali
-Pokla	mother	ama	Chulung		Nepali
-Sukeahal	mother	ama	Chulung		Nepali
-Barbhanjyang	root	dzarak	Chulung		Nepali
-Gairi	root	dzarak	Chulung		Nepali
-Pakha	root	dzarak	Chulung		Nepali
-Pokla	root	dzarak	Chulung		Nepali
-Sukeahal	root	dzarak	Chulung		Nepali
+Chintang-Mulgaun	goat	bakhra	Chintang_Words	b a kʰ + r a	Nepali
+Chintang-Nangchhuwa	goat	bakhra	Chintang_Words	b a kʰ + r a	Nepali
+Chintang-Mangthana	goat	bakhra	Chintang_Words	b a kʰ + r a	Nepali
+Chintang-Chambak	goat	bakhra	Chintang_Words	b a kʰ + r a	Nepali
+Chintang-ChaudhariTole	hammer	martol	Chintang_Words	m a r + t o l	Nepali
+Chintang-Nangchhuwa	hammer	martol	Chintang_Words	m a r + t o l	Nepali
+Chintang-Chambak	hammer	martol	Chintang_Words	m a r + t o l	Nepali
+Chintang-ChaudhariTole	ring	mukcekkhek	Chintang_Words	m u k + ts e k + kʰ e k	Nepali
+Chintang-Mulgaun	ring	mukcekkhek	Chintang_Words	m u k + ts e k + kʰ e k	Nepali
+Chintang-Nangchhuwa	ring	mukcekkhek	Chintang_Words	m u k + ts e k + kʰ e k	Nepali
+Chintang-Mangthana	ring	mukcekkhek	Chintang_Words	m u k + ts e k + kʰ e k	Nepali
+Chintang-Chambak	ring	mukcekkhek	Chintang_Words	m u k + ts e k + kʰ e k	Nepali
+Chintang-ChaudhariTole	five	paceḍa	Chintang_Words	p a + tse + ɖ a	Nepali
+Chintang-Mulgaun	five	paceḍa	Chintang_Words	p a + tse + ɖ a	Nepali
+Chintang-Nangchhuwa	five	paceḍa	Chintang_Words	p a + tse + ɖ a	Nepali
+Chintang-Mangthana	five	paceḍa	Chintang_Words	p a + tse + ɖ a	Nepali
+Chintang-Chambak	five	paceḍa	Chintang_Words	p a + tse + ɖ a	Nepali
+Chintang-ChaudhariTole	fruit	phǝlphul	Chintang_Words	pʰ ə l + pʰ u l	Nepali
+Chintang-Mulgaun	fruit	phǝlphul	Chintang_Words	pʰ ə l + pʰ u l	Nepali
+Chintang-Nangchhuwa	fruit	phǝlphul	Chintang_Words	pʰ ə l + pʰ u l	Nepali
+Chintang-Mangthana	fruit	phǝlphul	Chintang_Words	pʰ ə l + pʰ u l	Nepali
+Chintang-Chambak	fruit	phǝlphul	Chintang_Words	pʰ ə l + pʰ u l	Nepali
+Chintang-ChaudhariTole	four	careḍa	Chintang_Words	ts a + r e + ɖ a	Nepali
+Chintang-Mulgaun	four	careḍa	Chintang_Words	ts a + r e + ɖ a	Nepali
+Chintang-Nangchhuwa	four	careḍa	Chintang_Words	ts a + r e + ɖ a	Nepali
+Chintang-Mangthana	four	careḍa	Chintang_Words	ts a + r e + ɖ a	Nepali
+Chintang-Chambak	four	careḍa	Chintang_Words	ts a + r e + ɖ a	Nepali
+Chintang-ChaudhariTole	skin	chala	Chintang_Words	tsʰ a + l a	Nepali
+Chintang-Mulgaun	skin	chala	Chintang_Words	tsʰ a + l a	Nepali
+Chintang-Nangchhuwa	skin	chala	Chintang_Words	tsʰ a + l a	Nepali
+Chintang-Mangthana	skin	chala	Chintang_Words	tsʰ a + l a	Nepali
+Chintang-Chambak	skin	chala	Chintang_Words	tsʰ a + l a	Nepali
+Chintang-ChaudhariTole	breast	chati	Chintang_Words	tsʰ a + t i	Nepali
+Chintang-Mulgaun	breast	chati	Chintang_Words	tsʰ a + t i	Nepali
+Chintang-Nangchhuwa	breast	chati	Chintang_Words	tsʰ a + t i	Nepali
+Chintang-Mangthana	breast	chati	Chintang_Words	tsʰ a + t i	Nepali
+Chintang-Chambak	breast	chati	Chintang_Words	tsʰ a + t i	Nepali
+Chintang-Nangchhuwa	cold	ciso	Chintang_Words	tsi + s o	Nepali
+Chintang-Chambak	cold	ciso	Chintang_Words	tsi + s o	Nepali
+Chintang-ChaudhariTole	body	dziu	Chintang_Words		Nepali
+Chintang-Mulgaun	body	dziu	Chintang_Words		Nepali
+Chintang-Nangchhuwa	body	dziu	Chintang_Words		Nepali
+Chintang-Mangthana	body	dziu	Chintang_Words		Nepali
+Chintang-Chambak	body	dziu	Chintang_Words		Nepali
+Chintang-ChaudhariTole	onion	pjadz	Chintang_Words		Nepali
+Chintang-Mulgaun	onion	pjadzu	Chintang_Words		Nepali
+Chintang-Nangchhuwa	onion	pjadz	Chintang_Words		Nepali
+Chintang-Mangthana	onion	pjadz	Chintang_Words		Nepali
+Chintang-Chambak	onion	pjadzu	Chintang_Words		Nepali
+Chintang-ChaudhariTole	roof	dhuri	Chintang_Words		Nepali
+Chintang-Mulgaun	roof	dhuri	Chintang_Words		Nepali
+Chintang-Nangchhuwa	roof	dhuri	Chintang_Words		Nepali
+Chintang-Mangthana	roof	dhuri	Chintang_Words		Nepali
+Chintang-Chambak	roof	dhuri	Chintang_Words		Nepali
+Chintang-ChaudhariTole	smoke	dhuwa	Chintang_Words		Nepali
+Chintang-Mulgaun	smoke	dhuwa	Chintang_Words		Nepali
+Chintang-Nangchhuwa	smoke	dhuwa	Chintang_Words		Nepali
+Chintang-Mangthana	smoke	dhuwa	Chintang_Words		Nepali
+Chintang-Chambak	smoke	dhuwa	Chintang_Words		Nepali
+Chintang-Mangthana	tomato	rambheḍa	Chintang_Words		Nepali
+Chintang-ChaudhariTole	twelve	barəgeḍa	Chintang_Words		Nepali
+Chintang-Mulgaun	twelve	barəgeḍa	Chintang_Words		Nepali
+Chintang-Nangchhuwa	twelve	barəgeḍa	Chintang_Words		Nepali
+Chintang-Mangthana	twelve	barəgeḍa	Chintang_Words		Nepali
+Chintang-Chambak	twelve	barəgeḍa	Chintang_Words		Nepali
+Chintang-ChaudhariTole	twenty	biseḍa	Chintang_Words		Nepali
+Chintang-Mulgaun	twenty	biseḍa	Chintang_Words		Nepali
+Chintang-Nangchhuwa	twenty	biseḍa	Chintang_Words		Nepali
+Chintang-Mangthana	twenty	biseḍa	Chintang_Words		Nepali
+Chintang-Chambak	twenty	biseḍa	Chintang_Words		Nepali
+Chintang-ChaudhariTole	ash	khǝrani	Chintang_Words		Nepali
+Chintang-Mulgaun	ash	khǝrani	Chintang_Words		Nepali
+Chintang-Nangchhuwa	ash	khǝrani	Chintang_Words		Nepali
+Chintang-Mangthana	ash	khǝrani	Chintang_Words		Nepali
+Chintang-Chambak	ash	khǝrani	Chintang_Words		Nepali
+Chintang-ChaudhariTole	barley	dzəu	Chintang_Words		Nepali
+Chintang-Mulgaun	barley	dzəu	Chintang_Words		Nepali
+Chintang-Nangchhuwa	barley	dzəu	Chintang_Words		Nepali
+Chintang-Mangthana	barley	dzəu	Chintang_Words		Nepali
+Chintang-Chambak	barley	dzəu	Chintang_Words		Nepali
+Chintang-ChaudhariTole	cabbage	bandakopi	Chintang_Words		Nepali
+Chintang-Mulgaun	cabbage	bandakopi	Chintang_Words		Nepali
+Chintang-Nangchhuwa	cabbage	bandakopi	Chintang_Words		Nepali
+Chintang-Mangthana	cabbage	bandakopi	Chintang_Words		Nepali
+Chintang-Chambak	cabbage	bandakopi	Chintang_Words		Nepali
+Chintang-ChaudhariTole	cauliflower	kopi	Chintang_Words		Nepali
+Chintang-Mulgaun	cauliflower	kopi	Chintang_Words		Nepali
+Chintang-Nangchhuwa	cauliflower	kopi	Chintang_Words		Nepali
+Chintang-Mangthana	cauliflower	kopi	Chintang_Words		Nepali
+Chintang-Chambak	cauliflower	kopi	Chintang_Words		Nepali
+Chintang-Mulgaun	door	dwari	Chintang_Words		Nepali
+Chintang-Nangchhuwa	door	ḍwari	Chintang_Words		Nepali
+Chintang-Mangthana	door	dwari	Chintang_Words		Nepali
+Chintang-Chambak	door	ḍwari	Chintang_Words		Nepali
+Chintang-ChaudhariTole	dust	dhulo	Chintang_Words		Nepali
+Chintang-Mulgaun	dust	dhulo	Chintang_Words		Nepali
+Chintang-Nangchhuwa	dust	dhulo	Chintang_Words		Nepali
+Chintang-Mangthana	dust	dhulo	Chintang_Words		Nepali
+Chintang-Chambak	dust	dhulo	Chintang_Words		Nepali
+Chintang-ChaudhariTole	eight	aṭheḍa	Chintang_Words		Nepali
+Chintang-Mulgaun	eight	aṭheḍa	Chintang_Words		Nepali
+Chintang-Nangchhuwa	eight	aṭheḍa	Chintang_Words		Nepali
+Chintang-Mangthana	eight	aṭheḍa	Chintang_Words		Nepali
+Chintang-Chambak	eight	aṭheḍa	Chintang_Words		Nepali
+Chintang-ChaudhariTole	elbow	kuina	Chintang_Words		Nepali
+Chintang-Mulgaun	elbow	kuina	Chintang_Words		Nepali
+Chintang-Nangchhuwa	elbow	kuina	Chintang_Words		Nepali
+Chintang-Mangthana	elbow	kuina	Chintang_Words		Nepali
+Chintang-Chambak	elbow	kuina	Chintang_Words		Nepali
+Chintang-ChaudhariTole	eleven	egharəgeḍa	Chintang_Words		Nepali
+Chintang-Mulgaun	eleven	egharəgeḍa	Chintang_Words		Nepali
+Chintang-Nangchhuwa	eleven	egharəgeḍa	Chintang_Words		Nepali
+Chintang-Mangthana	eleven	egharəgeḍa	Chintang_Words		Nepali
+Chintang-Chambak	eleven	egharəgeḍa	Chintang_Words		Nepali
+Chintang-ChaudhariTole	finger	jaŋguli	Chintang_Words		Nepali
+Chintang-Mulgaun	finger	jaŋguli	Chintang_Words		Nepali
+Chintang-Nangchhuwa	finger	jaŋguli	Chintang_Words		Nepali
+Chintang-Mangthana	finger	jaŋguli	Chintang_Words		Nepali
+Chintang-Chambak	finger	jaŋguli	Chintang_Words		Nepali
+Chintang-ChaudhariTole	gold	sona	Chintang_Words		Nepali
+Chintang-Mulgaun	gold	sona	Chintang_Words		Nepali
+Chintang-Nangchhuwa	gold	sona	Chintang_Words		Nepali
+Chintang-Mangthana	gold	sona	Chintang_Words		Nepali
+Chintang-Chambak	gold	sona	Chintang_Words		Nepali
+Chintang-ChaudhariTole	groundnut	bədam	Chintang_Words		Nepali
+Chintang-Mulgaun	groundnut	bədam	Chintang_Words		Nepali
+Chintang-Nangchhuwa	groundnut	bədam	Chintang_Words		Nepali
+Chintang-Mangthana	groundnut	bədam	Chintang_Words		Nepali
+Chintang-Chambak	groundnut	bədam	Chintang_Words		Nepali
+Chintang-Mulgaun	hammer	ghǝnǝ	Chintang_Words		Nepali
+Chintang-Mangthana	hammer	ghǝnǝ	Chintang_Words		Nepali
+Chintang-ChaudhariTole	milk	dudʰa	Chintang_Words		Nepali
+Chintang-Mulgaun	milk	dudha	Chintang_Words		Nepali
+Chintang-Nangchhuwa	milk	duda	Chintang_Words		Nepali
+Chintang-Mangthana	milk	dudha	Chintang_Words		Nepali
+Chintang-Chambak	milk	duda	Chintang_Words		Nepali
+Chintang-ChaudhariTole	mother	ama	Chintang_Words		Nepali
+Chintang-Mulgaun	mother	ama	Chintang_Words		Nepali
+Chintang-Nangchhuwa	mother	ama	Chintang_Words		Nepali
+Chintang-Mangthana	mother	ama	Chintang_Words		Nepali
+Chintang-Chambak	mother	ama	Chintang_Words		Nepali
+Chintang-ChaudhariTole	old	purano	Chintang_Words		Nepali
+Chintang-Mulgaun	old	purano	Chintang_Words		Nepali
+Chintang-Nangchhuwa	old	purano	Chintang_Words		Nepali
+Chintang-Mangthana	old	purano	Chintang_Words		Nepali
+Chintang-Chambak	old	purano	Chintang_Words		Nepali
+Chintang-ChaudhariTole	one hundred	eksəye	Chintang_Words		Nepali
+Chintang-Mulgaun	one hundred	eksəyə	Chintang_Words		Nepali
+Chintang-Nangchhuwa	one hundred	eksəye	Chintang_Words		Nepali
+Chintang-Mangthana	one hundred	eksəyə	Chintang_Words		Nepali
+Chintang-Chambak	one hundred	eksəye	Chintang_Words		Nepali
+Chintang-ChaudhariTole	potato	alu	Chintang_Words		Nepali
+Chintang-Mulgaun	potato	alu	Chintang_Words		Nepali
+Chintang-Nangchhuwa	potato	alu	Chintang_Words		Nepali
+Chintang-Mangthana	potato	alu	Chintang_Words		Nepali
+Chintang-Chambak	potato	alu	Chintang_Words		Nepali
+Chintang-ChaudhariTole	root	dzǝra	Chintang_Words		Nepali
+Chintang-Mulgaun	root	dzǝra	Chintang_Words		Nepali
+Chintang-Nangchhuwa	root	dzǝra	Chintang_Words		Nepali
+Chintang-Mangthana	root	dzǝra	Chintang_Words		Nepali
+Chintang-Chambak	root	dzǝra	Chintang_Words		Nepali
+Chintang-ChaudhariTole	ten	dəseḍa	Chintang_Words		Nepali
+Chintang-Mulgaun	ten	dəseḍa	Chintang_Words		Nepali
+Chintang-Nangchhuwa	ten	dəseḍa	Chintang_Words		Nepali
+Chintang-Mangthana	ten	dəseḍa	Chintang_Words		Nepali
+Chintang-Chambak	ten	dəseḍa	Chintang_Words		Nepali
+Chintang-ChaudhariTole	thread	dhago	Chintang_Words		Nepali
+Chintang-Mulgaun	thread	dhago	Chintang_Words		Nepali
+Chintang-Nangchhuwa	thread	dhago	Chintang_Words		Nepali
+Chintang-Mangthana	thread	dhago	Chintang_Words		Nepali
+Chintang-Chambak	thread	dhago	Chintang_Words		Nepali
+Chintang-ChaudhariTole	week	sata	Chintang_Words		Nepali
+Chintang-Mulgaun	week	sata	Chintang_Words		Nepali
+Chintang-Nangchhuwa	week	sata	Chintang_Words		Nepali
+Chintang-Mangthana	week	sata	Chintang_Words		Nepali
+Chintang-Chambak	week	sata	Chintang_Words		Nepali
+Chintang-ChaudhariTole	wheat (husked)	gəhu	Chintang_Words		Nepali
+Chintang-Mulgaun	wheat (husked)	gəhu	Chintang_Words		Nepali
+Chintang-Nangchhuwa	wheat (husked)	gəhu	Chintang_Words		Nepali
+Chintang-Mangthana	wheat (husked)	gəhu	Chintang_Words		Nepali
+Chintang-Chambak	wheat (husked)	gəhu	Chintang_Words		Nepali
+Chulung-Barbhanjyang	ring	aŋguthi	Chulung	a ŋ + g u + ʈʰ i	Nepali
+Chulung-Gairi	ring	aŋguthi	Chulung	a ŋ + g u + ʈʰ i	Nepali
+Chulung-Pakha	ring	aŋguthi	Chulung	a ŋ + g u + ʈʰ i	Nepali
+Chulung-Pokla	ring	aŋguthi	Chulung	a ŋ + g u + ʈʰ i	Nepali
+Chulung-Sukeahal	ring	aŋguthi	Chulung	a ŋ + g u + ʈʰ i	Nepali
+Chulung-Barbhanjyang	body	Jam	Chulung		Nepali
+Chulung-Barbhanjyang	onion	pijadzu	Chulung		Nepali
+Chulung-Gairi	onion	pijadzu	Chulung		Nepali
+Chulung-Pakha	onion	pijadzu	Chulung		Nepali
+Chulung-Pokla	onion	pijadzu	Chulung		Nepali
+Chulung-Sukeahal	onion	pijadzu	Chulung		Nepali
+Chulung-Barbhanjyang	tomato	rambhenta	Chulung		Nepali
+Chulung-Gairi	tomato	rambhenta	Chulung		Nepali
+Chulung-Pakha	tomato	rambhenta	Chulung		Nepali
+Chulung-Pokla	tomato	rambhenta	Chulung		Nepali
+Chulung-Sukeahal	tomato	rambhenta	Chulung		Nepali
+Chulung-Barbhanjyang	finger	aŋguri	Chulung		Nepali
+Chulung-Gairi	finger	aŋguri	Chulung		Nepali
+Chulung-Pakha	finger	aŋguri	Chulung		Nepali
+Chulung-Pokla	finger	aŋguri	Chulung		Nepali
+Chulung-Sukeahal	finger	aŋguri	Chulung		Nepali
+Chulung-Barbhanjyang	gold	sona	Chulung		Nepali
+Chulung-Gairi	gold	sona	Chulung		Nepali
+Chulung-Pakha	gold	sona	Chulung		Nepali
+Chulung-Pokla	gold	sona	Chulung		Nepali
+Chulung-Sukeahal	gold	sona	Chulung		Nepali
+Chulung-Barbhanjyang	milk	dudu	Chulung		Nepali
+Chulung-Gairi	milk	dudu	Chulung		Nepali
+Chulung-Pakha	milk	dudu	Chulung		Nepali
+Chulung-Pokla	milk	dudu	Chulung		Nepali
+Chulung-Sukeahal	milk	dudu	Chulung		Nepali
+Chulung-Barbhanjyang	mother	ama	Chulung		Nepali
+Chulung-Gairi	mother	ama	Chulung		Nepali
+Chulung-Pakha	mother	ama	Chulung		Nepali
+Chulung-Pokla	mother	ama	Chulung		Nepali
+Chulung-Sukeahal	mother	ama	Chulung		Nepali
+Chulung-Barbhanjyang	root	dzarak	Chulung		Nepali
+Chulung-Gairi	root	dzarak	Chulung		Nepali
+Chulung-Pakha	root	dzarak	Chulung		Nepali
+Chulung-Pokla	root	dzarak	Chulung		Nepali
+Chulung-Sukeahal	root	dzarak	Chulung		Nepali
 DhimalWest	sky	akas	Dhimal	a + k a s		a + k a + s	s$	akas
-DhimalEast	sky	akas	Dhimal	a + k a s		a + k a + s	s$	akas
-DhimalWest	ring	aũTʰi	Dhimal	aũ ʈʰ i	Nepali	aũ tʰ i	Tʰ	aũTʰi
-DhimalEast	cloud	bad⍰l	Dhimal	b a + d ə l	Nepali	b a + d + !⍰/ə + l	bad⍰l	bad⍰l
-DhimalEast	twenty	bis	Dhimal	b i s	Nepali	b i + s	s$	bis
-DhimalWest	rainbow	dʰeŋgur	Dhimal	dʱ e ŋ + g u r		dʱ e ŋ + g u + r	r$	dʰeŋgur
-DhimalWest	child	dzamal	Dhimal	dz a + m a l		dz a + m a + l	l$	dzamal
-DhimalWest	one	eʔ	Dhimal	e ʔ		e + ʔ	eʔ$	eʔ
-DhimalEast	one	eʔ	Dhimal	e ʔ		e + ʔ	eʔ$	eʔ
-DhimalWest	arm/hand	kʰur	Dhimal	kʰ u r		kʰ u + r	r$	kʰur
-DhimalWest	palm	kʰur	Dhimal	kʰ u r		kʰ u + r	r$	kʰur
-DhimalEast	garlic	l⍰sun	Dhimal	lə+ sun	Nepali	l + !⍰/ə + s u n	l⍰sun	l⍰sun
-DhimalWest	garlic	mantsʰar	Dhimal	m a n + tsʰ a  r		m a n + tsʰ a + r	r$	mantsʰar
-DhimalEast	hammer	martol	Dhimal	m a r + t o l	Nepali	m a r + t o + l	l$	martol
-DhimalWest	girl	bedzan	Dhimal	b e + dz a n		b e + dz a n		bedzan
-DhimalEast	mosquito	dzahã	Dhimal	dz a + h ã		dz a + h ã		dzahã
-DhimalWest	broom	pʰesar	Dhimal	pʰ e + s a r		pʰ e + s a + r	r$	pʰesar
-DhimalEast	broom	pʰesar	Dhimal	pʰ e + s a r		pʰ e + s a + r	r$	pʰesar
-DhimalWest	fruit	pʰəlpʰul	Dhimal	pʰ ə l + pʰ u l	Nepali	pʰ ə l + pʰ u + l	l$	pʰəlpʰul
-DhimalEast	fruit	pʰəlpʰul	Dhimal	pʰ ə l + pʰ u l	Nepali	pʰ ə l + pʰ u + l	l$	pʰəlpʰul
-DhimalEast	root	sikar	Dhimal	s i + k a r		s i + k a + r	r$	sikar
-DhimalWest	urine	soʔ	Dhimal	s o ʔ		s o + ʔ	soʔ	soʔ
-DhimalEast	ash	buʔsuri	Dhimal	b u ʔ + s u + r i		b u ʔ + s u + r i		buʔsuri
-DhimalWest	to bite / the dog bites / bit	ciʔli	Dhimal	ts i ʔ + l i		tʃ i ʔ + l i	c	ciʔli
-DhimalEast	to bite / the dog bites / bit	ciʔli	Dhimal	ts i ʔ + l i		tʃ i ʔ + l i	c	ciʔli
-DhimalWest	star	pʰuru	Dhimal	pʰ u + r u		pʰ u + r u		pʰuru
-DhimalEast	urine	chetso	Dhimal	tsʰ e + ts o		tʃʰ e + ts o	ch	chetso
-DhimalEast	stone	unthur	Dhimal	u n + tʰ u r		u n + tʰ u + r	r$	unthur
-DhimalEast	man	wabal	Dhimal	w a + b a l		w a + b a + l	l$	wabal
-DhimalWest	body	dziu	Dhimal		Nepali	dz i/j u		dziu
-DhimalEast	body	dziu	Dhimal		Nepali	dz i/j u		dziu
-DhimalWest	cow	gai	Dhimal		Nepali	g ai		gai
-DhimalEast	cow	gai	Dhimal		Nepali	g ai		gai
-DhimalWest	onion	taŋgo	Dhimal		Nepali	t a ŋ + g o		taŋgo
-DhimalEast	onion	pyaji	Dhimal		Nepali	p j a + dʒ i		pyaji
-DhimalWest	right	dahine	Dhimal		Nepali	d a + h i + n e		dahine
-DhimalEast	right	dahine	Dhimal		Nepali	d a + h i + n e		dahine
-DhimalEast	ring	⍰ŋthiŋ	Dhimal		Nepali	!⍰/ə ŋ + tʰ i ŋ		⍰ŋthiŋ
-DhimalWest	smoke	dʰwã	Dhimal		Nepali	dʱ w ã		dʰwã
-DhimalEast	smoke	dʰwã	Dhimal		Nepali	dʱ w ã		dʰwã
-DhimalWest	tomato	golbʰanda	Dhimal		Nepali	g o l + bʰ a n + d a		golbʰanda
-DhimalWest	twelve	barʰə	Dhimal		Nepali	b a + rʰ ə		barʰə
-DhimalEast	twelve	barʰə	Dhimal		Nepali	b a + rʰ ə		barʰə
-DhimalWest	twenty	eʔkuri	Dhimal		Nepali	e ʔ + k u + r i		eʔkuri
-DhimalWest	breast	dudu	Dhimal		Nepali	d u + d u		dudu
-DhimalEast	breast	dudu	Dhimal		Nepali	d u + d u		dudu
-DhimalWest	barley	dzəu	Dhimal		Nepali	dz əu		dzəu
-DhimalEast	barley	dzəu	Dhimal		Nepali	dz əu		dzəu
-DhimalWest	cabbage	bəndakobʰi	Dhimal		Nepali	b ə n + d a + k o + bʰ i		bəndakobʰi
-DhimalEast	cabbage	bəndakobʰi	Dhimal		Nepali	b ə n + d a + k o + bʰ i		bəndakobʰi
-DhimalWest	cauliflower	kobʰi	Dhimal		Nepali	k o + bʰ i		kobʰi
-DhimalEast	cauliflower	kobʰi	Dhimal		Nepali	k o + bʰ i		kobʰi
-DhimalWest	dust	dʰula	Dhimal		Nepali	dʱ u + l a		dʰula
-DhimalEast	dust	dʰula	Dhimal		Nepali	dʱ u + l a		dʰula
-DhimalWest	eleven	egʰarə	Dhimal		Nepali	e + gʱ a + r ə		egʰarə
-DhimalEast	eleven	egʰarə	Dhimal		Nepali	e + gʱ a + r ə		egʰarə
-DhimalWest	finger	aŋguli	Dhimal		Nepali	a ŋ + g u + l i		aŋguli
-DhimalEast	finger	aŋguli	Dhimal		Nepali	a ŋ + g u + l i		aŋguli
-DhimalWest	gold	sona	Dhimal		Nepali	s o + n a		sona
-DhimalEast	gold	sono	Dhimal		Nepali	s o + n o		sono
-DhimalWest	groundnut	bədəm	Dhimal		Nepali	b ə + d ə m		bədəm
-DhimalEast	groundnut	bədəm	Dhimal		Nepali	b ə + d ə m		bədəm
-DhimalWest	hammer	hətəura	Dhimal		Nepali	h ə + t əu + r a		hətəura
-DhimalWest	milk	dudʰe	Dhimal		Nepali	d u + dʱ e		dudʰe
-DhimalEast	milk	dudʰ	Dhimal		Nepali	d u + dʱ		dudʰ
-DhimalWest	mother	amai	Dhimal		Nepali	a + m ai		amai
-DhimalEast	mother	ama	Dhimal		Nepali	a + m a		ama
-DhimalWest	old	purna	Dhimal		Nepali	p u r + n a		purna
-DhimalEast	old	purna	Dhimal		Nepali	p u r + n a		purna
-DhimalWest	older brother	dada	Dhimal		Nepali	d a + d a		dada
-DhimalEast	older brother	dada	Dhimal		Nepali	d a + d a		dada
-DhimalWest	one hundred	eʔ sae	Dhimal		Nepali	e + ʔ + s ae		eʔ_^sae
-DhimalEast	one hundred	eʔ sae	Dhimal		Nepali	e + ʔ + s ae		eʔ_^sae
-DhimalWest	rain	barsa	Dhimal		Nepali	b a r + s a		barsa
-DhimalEast	rain	barsa	Dhimal		Nepali	b a r + s a		barsa
-DhimalEast	rainbow	indreni	Dhimal		Nepali	i n + d r e + n i		indreni
-DhimalWest	root	dzari	Dhimal		Nepali	dz a + r i		dzari
-DhimalWest	week	atʰar	Dhimal		Nepali	a + tʰ a + r		atʰar
-DhimalEast	week	h⍰pta	Dhimal		Nepali	h + !⍰/ə p + t a		h⍰pta
+Dhimal-East	sky	akas	Dhimal	a + k a s		a + k a + s	s$	akas
+Dhimal-West	ring	aũTʰi	Dhimal	aũ ʈʰ i	Nepali	aũ tʰ i	Tʰ	aũTʰi
+Dhimal-East	cloud	bad⍰l	Dhimal	b a + d ə l	Nepali	b a + d + !⍰/ə + l	bad⍰l	bad⍰l
+Dhimal-East	twenty	bis	Dhimal	b i s	Nepali	b i + s	s$	bis
+Dhimal-West	rainbow	dʰeŋgur	Dhimal	dʱ e ŋ + g u r		dʱ e ŋ + g u + r	r$	dʰeŋgur
+Dhimal-West	child	dzamal	Dhimal	dz a + m a l		dz a + m a + l	l$	dzamal
+Dhimal-West	one	eʔ	Dhimal	e ʔ		e + ʔ	eʔ$	eʔ
+Dhimal-East	one	eʔ	Dhimal	e ʔ		e + ʔ	eʔ$	eʔ
+Dhimal-West	arm/hand	kʰur	Dhimal	kʰ u r		kʰ u + r	r$	kʰur
+Dhimal-West	palm	kʰur	Dhimal	kʰ u r		kʰ u + r	r$	kʰur
+Dhimal-East	garlic	l⍰sun	Dhimal	lə+ sun	Nepali	l + !⍰/ə + s u n	l⍰sun	l⍰sun
+Dhimal-West	garlic	mantsʰar	Dhimal	m a n + tsʰ a  r		m a n + tsʰ a + r	r$	mantsʰar
+Dhimal-East	hammer	martol	Dhimal	m a r + t o l	Nepali	m a r + t o + l	l$	martol
+Dhimal-West	girl	bedzan	Dhimal	b e + dz a n		b e + dz a n		bedzan
+Dhimal-East	mosquito	dzahã	Dhimal	dz a + h ã		dz a + h ã		dzahã
+Dhimal-West	broom	pʰesar	Dhimal	pʰ e + s a r		pʰ e + s a + r	r$	pʰesar
+Dhimal-East	broom	pʰesar	Dhimal	pʰ e + s a r		pʰ e + s a + r	r$	pʰesar
+Dhimal-West	fruit	pʰəlpʰul	Dhimal	pʰ ə l + pʰ u l	Nepali	pʰ ə l + pʰ u + l	l$	pʰəlpʰul
+Dhimal-East	fruit	pʰəlpʰul	Dhimal	pʰ ə l + pʰ u l	Nepali	pʰ ə l + pʰ u + l	l$	pʰəlpʰul
+Dhimal-East	root	sikar	Dhimal	s i + k a r		s i + k a + r	r$	sikar
+Dhimal-West	urine	soʔ	Dhimal	s o ʔ		s o + ʔ	soʔ	soʔ
+Dhimal-East	ash	buʔsuri	Dhimal	b u ʔ + s u + r i		b u ʔ + s u + r i		buʔsuri
+Dhimal-West	to bite / the dog bites / bit	ciʔli	Dhimal	ts i ʔ + l i		tʃ i ʔ + l i	c	ciʔli
+Dhimal-East	to bite / the dog bites / bit	ciʔli	Dhimal	ts i ʔ + l i		tʃ i ʔ + l i	c	ciʔli
+Dhimal-West	star	pʰuru	Dhimal	pʰ u + r u		pʰ u + r u		pʰuru
+Dhimal-East	urine	chetso	Dhimal	tsʰ e + ts o		tʃʰ e + ts o	ch	chetso
+Dhimal-East	stone	unthur	Dhimal	u n + tʰ u r		u n + tʰ u + r	r$	unthur
+Dhimal-East	man	wabal	Dhimal	w a + b a l		w a + b a + l	l$	wabal
+Dhimal-West	body	dziu	Dhimal		Nepali	dz i/j u		dziu
+Dhimal-East	body	dziu	Dhimal		Nepali	dz i/j u		dziu
+Dhimal-West	cow	gai	Dhimal		Nepali	g ai		gai
+Dhimal-East	cow	gai	Dhimal		Nepali	g ai		gai
+Dhimal-West	onion	taŋgo	Dhimal		Nepali	t a ŋ + g o		taŋgo
+Dhimal-East	onion	pyaji	Dhimal		Nepali	p j a + dʒ i		pyaji
+Dhimal-West	right	dahine	Dhimal		Nepali	d a + h i + n e		dahine
+Dhimal-East	right	dahine	Dhimal		Nepali	d a + h i + n e		dahine
+Dhimal-East	ring	⍰ŋthiŋ	Dhimal		Nepali	!⍰/ə ŋ + tʰ i ŋ		⍰ŋthiŋ
+Dhimal-West	smoke	dʰwã	Dhimal		Nepali	dʱ w ã		dʰwã
+Dhimal-East	smoke	dʰwã	Dhimal		Nepali	dʱ w ã		dʰwã
+Dhimal-West	tomato	golbʰanda	Dhimal		Nepali	g o l + bʰ a n + d a		golbʰanda
+Dhimal-West	twelve	barʰə	Dhimal		Nepali	b a + rʰ ə		barʰə
+Dhimal-East	twelve	barʰə	Dhimal		Nepali	b a + rʰ ə		barʰə
+Dhimal-West	twenty	eʔkuri	Dhimal		Nepali	e ʔ + k u + r i		eʔkuri
+Dhimal-West	breast	dudu	Dhimal		Nepali	d u + d u		dudu
+Dhimal-East	breast	dudu	Dhimal		Nepali	d u + d u		dudu
+Dhimal-West	barley	dzəu	Dhimal		Nepali	dz əu		dzəu
+Dhimal-East	barley	dzəu	Dhimal		Nepali	dz əu		dzəu
+Dhimal-West	cabbage	bəndakobʰi	Dhimal		Nepali	b ə n + d a + k o + bʰ i		bəndakobʰi
+Dhimal-East	cabbage	bəndakobʰi	Dhimal		Nepali	b ə n + d a + k o + bʰ i		bəndakobʰi
+Dhimal-West	cauliflower	kobʰi	Dhimal		Nepali	k o + bʰ i		kobʰi
+Dhimal-East	cauliflower	kobʰi	Dhimal		Nepali	k o + bʰ i		kobʰi
+Dhimal-West	dust	dʰula	Dhimal		Nepali	dʱ u + l a		dʰula
+Dhimal-East	dust	dʰula	Dhimal		Nepali	dʱ u + l a		dʰula
+Dhimal-West	eleven	egʰarə	Dhimal		Nepali	e + gʱ a + r ə		egʰarə
+Dhimal-East	eleven	egʰarə	Dhimal		Nepali	e + gʱ a + r ə		egʰarə
+Dhimal-West	finger	aŋguli	Dhimal		Nepali	a ŋ + g u + l i		aŋguli
+Dhimal-East	finger	aŋguli	Dhimal		Nepali	a ŋ + g u + l i		aŋguli
+Dhimal-West	gold	sona	Dhimal		Nepali	s o + n a		sona
+Dhimal-East	gold	sono	Dhimal		Nepali	s o + n o		sono
+Dhimal-West	groundnut	bədəm	Dhimal		Nepali	b ə + d ə m		bədəm
+Dhimal-East	groundnut	bədəm	Dhimal		Nepali	b ə + d ə m		bədəm
+Dhimal-West	hammer	hətəura	Dhimal		Nepali	h ə + t əu + r a		hətəura
+Dhimal-West	milk	dudʰe	Dhimal		Nepali	d u + dʱ e		dudʰe
+Dhimal-East	milk	dudʰ	Dhimal		Nepali	d u + dʱ		dudʰ
+Dhimal-West	mother	amai	Dhimal		Nepali	a + m ai		amai
+Dhimal-East	mother	ama	Dhimal		Nepali	a + m a		ama
+Dhimal-West	old	purna	Dhimal		Nepali	p u r + n a		purna
+Dhimal-East	old	purna	Dhimal		Nepali	p u r + n a		purna
+Dhimal-West	older brother	dada	Dhimal		Nepali	d a + d a		dada
+Dhimal-East	older brother	dada	Dhimal		Nepali	d a + d a		dada
+Dhimal-West	one hundred	eʔ sae	Dhimal		Nepali	e + ʔ + s ae		eʔ_^sae
+Dhimal-East	one hundred	eʔ sae	Dhimal		Nepali	e + ʔ + s ae		eʔ_^sae
+Dhimal-West	rain	barsa	Dhimal		Nepali	b a r + s a		barsa
+Dhimal-East	rain	barsa	Dhimal		Nepali	b a r + s a		barsa
+Dhimal-East	rainbow	indreni	Dhimal		Nepali	i n + d r e + n i		indreni
+Dhimal-West	root	dzari	Dhimal		Nepali	dz a + r i		dzari
+Dhimal-West	week	atʰar	Dhimal		Nepali	a + tʰ a + r		atʰar
+Dhimal-East	week	h⍰pta	Dhimal		Nepali	h + !⍰/ə p + t a		h⍰pta
+Dulung-Chaukibari	same	aksaṭ	Dungmali	a k + s a ʈ		a k + s a + ʈ	ṭ$	aksaṭ
+Dulung-Chaukibari	I	aŋ	Dungmali	a ŋ 		a + ŋ	ŋ$	aŋ
+Dulung-Chaukibari	body	Aŋpoɂk	Dungmali	a ŋ + p o ʔ k		a ŋ + p o ʔ + k	ɂk$	Aŋpoɂk
+Dulung-Bartole	mango	ãbu	Dungmali	ã + b u		ã + b u		ãbu
+Dulung-Dandatole	mango	ãp	Dungmali	ã p		ã + p	p$	ãp
+Dulung-Bastim	mango	ãp	Dungmali	ã p		ã + p	p$	ãp
+Dulung-Bartole	ring	aũt̺hi	Dungmali	aũ + ʈʰ i	Nepali	aũ + tʰ i	t̺hi	aũt̺hi
+Dulung-Tharpu	ring	aũt̺hi	Dungmali	aũ + ʈʰ i	Nepali	aũ + tʰ i	t̺hi	aũt̺hi
+Dulung-Chaukibari	ring	aũt̺hi	Dungmali	aũ + ʈʰ i	Nepali	aũ + tʰ i	t̺hi	aũt̺hi
+Dulung-Bastim	ring	aũt̺hi	Dungmali	aũ + ʈʰ i	Nepali	aũ + tʰ i	t̺hi	aũt̺hi
+Dulung-Bartole	twelve	barəh	Dungmali	b a + r ə h	Nepali	b a + r ə + h	h$	barəh
+Dulung-Dandatole	twelve	barəh	Dungmali	b a + r ə h	Nepali	b a + r ə + h	h$	barəh
+Dulung-Tharpu	twelve	barəh	Dungmali	b a + r ə h	Nepali	b a + r ə + h	h$	barəh
+Dulung-Chaukibari	twelve	barəh	Dungmali	b a + r ə h	Nepali	b a + r ə + h	h$	barəh
+Dulung-Bastim	twelve	barəh	Dungmali	b a + r ə h	Nepali	b a + r ə + h	h$	barəh
+Dulung-Tharpu	rain	barsha	Dungmali	b a r + s a	Nepali	b a r + ʃ a	sh	barsha
+Dulung-Bastim	rain	barsh	Dungmali	b a r s		b a r ʃ	sh	barsh
+Dulung-Bartole	turmeric	besar	Dungmali	b e + s a r	Nepali	b e + s a + r	r$	besar
+Dulung-Bastim	turmeric	besar	Dungmali	b e + s a r	Nepali	b e + s a + r	r$	besar
+Dulung-Bartole	groundnut	bʌdam	Dungmali	b ə + d ə m	Nepali	b ʌ + d a + m	m$	bʌdam
+Dulung-Dandatole	groundnut	bʌdam	Dungmali	b ə + d ə m	Nepali	b ʌ + d a + m	m$	bʌdam
+Dulung-Tharpu	groundnut	bʌdam	Dungmali	b ə + d ə m	Nepali	b ʌ + d a + m	m$	bʌdam
+Dulung-Chaukibari	groundnut	bʌdam	Dungmali	b ə + d ə m	Nepali	b ʌ + d a + m	m$	bʌdam
+Dulung-Bastim	groundnut	bʌdam	Dungmali	b ə + d ə m	Nepali	b ʌ + d a + m	m$	bʌdam
+Dulung-Dandatole	morning	biɦan	Dungmali	b i + ɦ a n		b i + ɦ a + n	n$	biɦan
+Dulung-Bartole	twenty	bis	Dungmali	b i s		b i + s	s$	bis
+Dulung-Dandatole	twenty	bis	Dungmali	b i s		b i + s	s$	bis
+Dulung-Tharpu	twenty	bis	Dungmali	b i s		b i + s	s$	bis
+Dulung-Chaukibari	twenty	bis	Dungmali	b i s		b i + s	s$	bis
+Dulung-Bastim	twenty	bis	Dungmali	b i s		b i + s	s$	bis
+Dulung-Bastim	flower	buŋ	Dungmali	b u ŋ		b u + ŋ	ŋ$	buŋ
+Dulung-Tharpu	eggplant	bʌigun	Dungmali	b ʌi + g u n	Nepali	b ʌi + g u + n	n$	bʌigun
+Dulung-Tharpu	tomato	b̤henda	Dungmali	bʱ e n + d a		bʱ e n + d a		b̤henda
+Dulung-Bartole	tomato	b̤hẽnd̺a	Dungmali	bʱ ẽ n d a		bʱ ẽ n d̺ a	d̺	b̤hẽnd̺a
+Dulung-Dandatole	tomato	b̤hẽnd̺a	Dungmali	bʱ ẽ n d a		bʱ ẽ n d̺ a	d̺	b̤hẽnd̺a
+Dulung-Chaukibari	tomato	b̤hẽnd̺a	Dungmali	bʱ ẽ n d a		bʱ ẽ n d̺ a	d̺	b̤hẽnd̺a
+Dulung-Bastim	tomato	b̤hẽnd̺a	Dungmali	bʱ ẽ n d a		bʱ ẽ n d̺ a	d̺	b̤hẽnd̺a
+Dulung-Bartole	ten	dəs	Dungmali	d ə s	Nepali	d ə + s	s$	dəs
+Dulung-Dandatole	ten	dəs	Dungmali	d ə s	Nepali	d ə + s	s$	dəs
+Dulung-Tharpu	ten	dəs	Dungmali	d ə s	Nepali	d ə + s	s$	dəs
+Dulung-Chaukibari	ten	dəs	Dungmali	d ə s	Nepali	d ə + s	s$	dəs
+Dulung-Bastim	ten	dəs	Dungmali	d ə s	Nepali	d ə + s	s$	dəs
+Dulung-Dandatole	door	dwar	Dungmali	d w a r		d w a + r	r$	dwar
+Dulung-Tharpu	door	dwar	Dungmali	d w a r		d w a + r	r$	dwar
+Dulung-Bartole	barley	jʌu	Dungmali	dzəu	Nepali	j ʌu	j	jʌu
+Dulung-Bartole	year	ḍoŋ	Dungmali	ɖ o ŋ		ɖ o + ŋ	ŋ$	ḍoŋ
+Dulung-Bartole	eleven	egarəh	Dungmali	e + g a + r ə h	Nepali	e + g a + r ə + h	h$	egarəh
+Dulung-Dandatole	eleven	egarəh	Dungmali	e + g a + r ə h	Nepali	e + g a + r ə + h	h$	egarəh
+Dulung-Tharpu	eleven	egarəh	Dungmali	e + g a + r ə h	Nepali	e + g a + r ə + h	h$	egarəh
+Dulung-Chaukibari	eleven	egarəh	Dungmali	e + g a + r ə h	Nepali	e + g a + r ə + h	h$	egarəh
+Dulung-Bastim	eleven	egarəh	Dungmali	e + g a + r ə h	Nepali	e + g a + r ə + h	h$	egarəh
+Dulung-Tharpu	house	gʌr	Dungmali	g ʌ r		g ʌ + r	r$	gʌr
+Dulung-Bartole	light	hʌlʌca	Dungmali	h ʌ + l ʌ + ts a		h ʌ + l ʌ + c a	c	hʌlʌca
+Dulung-Dandatole	red	ɦartshop	Dungmali	ɦ a r + tsʰ o p		ɦ a r + tsʰ o + p	p$	ɦartshop
+Dulung-Chaukibari	red	ɦartshoɂp	Dungmali	ɦ a r + tsʰ o p		ɦ a r + tsʰ o ʔ + p	p$	ɦartshoɂp
+Dulung-Bastim	red	ɦartshoɂp	Dungmali	ɦ a r + tsʰ o p		ɦ a r + tsʰ o ʔ + p	p$	ɦartshoɂp
+Dulung-Bastim	two	ɦig	Dungmali	ɦ i g		ɦ i + g	g$	ɦig
+Dulung-Bartole	river	ɦoŋ	Dungmali	ɦ o ŋ		ɦ o + ŋ	ŋ$	ɦoŋ
+Dulung-Chaukibari	skin	ɦoɂn	Dungmali	ɦ o ʔ n		ɦ o ʔ + n	ɂn$	ɦoɂn
+Dulung-Bastim	skin	ɦoɂn	Dungmali	ɦ o ʔ n		ɦ o ʔ + n	ɂn$	ɦoɂn
+Dulung-Chaukibari	old	ɦulok	Dungmali	ɦ u + l o k		ɦ u + l o + k	k$	ɦulok
+Dulung-Bartole	you (formal)	ɦʌnanim	Dungmali	ɦ ʌ + n a + n i m		ɦ ʌ + n a + n i + m	m$	ɦʌnanim
+Dulung-Chaukibari	you (formal)	ɦʌnamn	Dungmali	ɦ ʌ + n a m n		ɦ ʌ + n a m + n	n$	ɦʌnamn
+Dulung-Bartole	wind	ɦʌk	Dungmali	ɦ ʌ k		ɦ ʌ + k	k$	ɦʌk
+Dulung-Chaukibari	tree	ɦʌrtshoɂmp	Dungmali	ɦ ʌ r + tsʰ o ʔ m p		ɦ ʌ r + tsʰ o ʔ m + p	p$	ɦʌrtshoɂmp
+Dulung-Bartole	to sleep / sleep!	imam	Dungmali	i + m a m		i + m a + m	m$	imam
+Dulung-Bartole	we (inclusive)	inkan	Dungmali	i n + k a n		i n + k a + n	n$	inkan
+Dulung-Dandatole	we (inclusive)	inkan	Dungmali	i n + k a n		i n + k a + n	n$	inkan
+Dulung-Tharpu	we (inclusive)	inkan	Dungmali	i n + k a n		i n + k a + n	n$	inkan
+Dulung-Bastim	we (inclusive)	inkan	Dungmali	i n + k a n		i n + k a + n	n$	inkan
+Dulung-Dandatole	spider	jaghaŋ	Dungmali	j a + gʱ a ŋ		j a + gʱ a + ŋ	ŋ$	jaghaŋ
+Dulung-Bastim	light	jaŋtsheɂp	Dungmali	j a ŋ + tsʰ e ʔ p		j a ŋ + tsʰ e ʔ + p	p$	jaŋtsheɂp
+Dulung-Bartole	spider	jaɂghŋma	Dungmali	j a ʔ + gʱ ŋ + m a		j a ʔ gʱ + ŋ m a	jaɂghŋma	jaɂghŋma
+Dulung-Bastim	spider	jaɂghʌŋ	Dungmali	j a ʔ + gʱ ʌ ŋ		j a ʔ + gʱ ʌ + ŋ	ŋ$	jaɂghʌŋ
+Dulung-Bartole	salt	jum	Dungmali	j u m		j u + m	m$	jum
+Dulung-Chaukibari	salt	jum	Dungmali	j u m		j u + m	m$	jum
+Dulung-Bastim	salt	jum	Dungmali	j u m		j u + m	m$	jum
+Dulung-Tharpu	meat	juŋ	Dungmali	j u ŋ		j u + ŋ	ŋ$	juŋ
+Dulung-Dandatole	salt	juŋ	Dungmali	j u ŋ		j u + ŋ	ŋ$	juŋ
+Dulung-Tharpu	barley	jʌu	Dungmali	j ʌu	Nepali	j ʌu	j	jʌu
+Dulung-Chaukibari	barley	jʌu	Dungmali	j ʌu	Nepali	j ʌu	j	jʌu
+Dulung-Bastim	barley	jʌu	Dungmali	j ʌu	Nepali	j ʌu	j	jʌu
+Dulung-Bastim	near	keptaŋ	Dungmali	k e p + t a ŋ		k e p + t a + ŋ	ŋ$	keptaŋ
+Dulung-Bartole	teeth	kɨŋ	Dungmali	k ɨ ŋ		k ɨ + ŋ	ŋ$	kɨŋ
+Dulung-Dandatole	teeth	kʌŋ	Dungmali	k ʌ ŋ		k ʌ + ŋ	ŋ$	kʌŋ
+Dulung-Tharpu	teeth	kʌŋ	Dungmali	k ʌ ŋ		k ʌ + ŋ	ŋ$	kʌŋ
+Dulung-Chaukibari	teeth	kʌŋ	Dungmali	k ʌ ŋ		k ʌ + ŋ	ŋ$	kʌŋ
+Dulung-Bastim	teeth	kʌŋ	Dungmali	k ʌ ŋ		k ʌ + ŋ	ŋ$	kʌŋ
+Dulung-Bartole	night	khakat̺	Dungmali	kʰ a + k a t		kʰ a + k a + t	t$	khakat̺
+Dulung-Dandatole	night	khakut̺	Dungmali	kʰ a + k a t		kʰ a + k u + t	t$	khakut̺
+Dulung-Tharpu	night	khakut̺	Dungmali	kʰ a + k a t		kʰ a + k u + t	t$	khakut̺
+Dulung-Chaukibari	night	khakhut̺	Dungmali	kʰ a + kʰ u t		kʰ a + kʰ u + t	t$	khakhut̺
+Dulung-Bastim	night	khakhut̺	Dungmali	kʰ a + kʰ u t		kʰ a + kʰ u + t	t$	khakhut̺
+Dulung-Bastim	roof	khap	Dungmali	kʰ a + p		kʰ a + p	p$	khap
+Dulung-Dandatole	bad	khaijeɂgo	Dungmali	kʰ ai + dz e ʔ + g o		kʰ ai + j e ʔ + g o	j	khaijeɂgo
+Dulung-Bastim	morning	khausroŋ	Dungmali	kʰ au s + r o ŋ		kʰ au s + r o + ŋ	ŋ$	khausroŋ
+Dulung-Tharpu	urine	khi	Dungmali	kʰ i		kʰ i		khi
+Dulung-Dandatole	when	khinam	Dungmali	kʰ i + n a m		kʰ i + n a + m	m$	khinam
+Dulung-Bastim	when	khinʌm	Dungmali	kʰ i + n ʌ m		kʰ i + n ʌ + m	m$	khinʌm
+Dulung-Bartole	house	khim	Dungmali	kʰ i m		kʰ i + m	m$	khim
+Dulung-Dandatole	house	khim	Dungmali	kʰ i m		kʰ i + m	m$	khim
+Dulung-Chaukibari	house	khim	Dungmali	kʰ i m		kʰ i + m	m$	khim
+Dulung-Bastim	house	khim	Dungmali	kʰ i m		kʰ i + m	m$	khim
+Dulung-Bartole	horns	khuŋt̺aŋ	Dungmali	kʰ u ŋ + t a ŋ		kʰ u ŋ + t a + ŋ	ŋ$	khuŋt̺aŋ
+Dulung-Dandatole	horns	khuŋt̺aŋ	Dungmali	kʰ u ŋ + t a ŋ		kʰ u ŋ + t a + ŋ	ŋ$	khuŋt̺aŋ
+Dulung-Chaukibari	horns	khuŋt̺aŋ	Dungmali	kʰ u ŋ + t a ŋ		kʰ u ŋ + t a + ŋ	ŋ$	khuŋt̺aŋ
+Dulung-Bastim	horns	khuŋt̺aŋ	Dungmali	kʰ u ŋ + t a ŋ		kʰ u ŋ + t a + ŋ	ŋ$	khuŋt̺aŋ
+Dulung-Bartole	path	lam	Dungmali	l a m		l a + m	m$	lam
+Dulung-Dandatole	path	lam	Dungmali	l a m		l a + m	m$	lam
+Dulung-Chaukibari	path	lam	Dungmali	l a m		l a + m	m$	lam
+Dulung-Bartole	leg	laŋ	Dungmali	l a ŋ		l a + ŋ	ŋ$	laŋ
+Dulung-Dandatole	leg	laŋ	Dungmali	l a ŋ		l a + ŋ	ŋ$	laŋ
+Dulung-Bastim	leg	laŋ	Dungmali	l a ŋ		l a + ŋ	ŋ$	laŋ
+Dulung-Dandatole	stone	laŋṭʌk	Dungmali	l a ŋ + ʈ ʌ k		l a ŋ + ʈ ʌ + k	k$	laŋṭʌk
+Dulung-Tharpu	wind	laŋṭʌk	Dungmali	l a ŋ + ʈ ʌ k		l a ŋ + ʈ ʌ + k	k$	laŋṭʌk
+Dulung-Bartole	tongue	lem	Dungmali	l e m		l e + m	m$	lem
+Dulung-Dandatole	tongue	lem	Dungmali	l e m		l e + m	m$	lem
+Dulung-Tharpu	tongue	lem	Dungmali	l e m		l e + m	m$	lem
+Dulung-Chaukibari	tongue	lem	Dungmali	l e m		l e + m	m$	lem
+Dulung-Bastim	tongue	lem	Dungmali	l e m		l e + m	m$	lem
+Dulung-Bartole	day	len	Dungmali	l e n		l e + n	n$	len
+Dulung-Chaukibari	day	len	Dungmali	l e n		l e + n	n$	len
+Dulung-Bastim	day	len	Dungmali	l e n		l e + n	n$	len
+Dulung-Tharpu	what	len	Dungmali	l e n		l e + n	n$	len
+Dulung-Bartole	noon	lent̺ok	Dungmali	l e n + t o k		l e n + t o + k	k$	lent̺ok
+Dulung-Chaukibari	noon	lent̺ok	Dungmali	l e n + t o k		l e n + t o + k	k$	lent̺ok
+Dulung-Chaukibari	stone	luŋ	Dungmali	l u ŋ		l u + ŋ	ŋ$	luŋ
+Dulung-Bastim	stone	luŋ	Dungmali	l u ŋ		l u + ŋ	ŋ$	luŋ
+Dulung-Bastim	heavy	luŋtsheɂp	Dungmali	l u ŋ + tsʰ e ʔ p		l u ŋ + tsʰ e ʔ + p	p$	luŋtsheɂp
+Dulung-Bastim	path	lʌm	Dungmali	l ʌ m		l ʌ + m	m$	lʌm
+Dulung-Tharpu	stone	lʌm	Dungmali	l ʌ m		l ʌ + m	m$	lʌm
+Dulung-Tharpu	leg	lʌŋ	Dungmali	l ʌ ŋ		l ʌ + ŋ	ŋ$	lʌŋ
+Dulung-Bastim	wife	maḍun	Dungmali	m a + ɖ u n		m a + ɖ u + n	n$	maḍun
+Dulung-Chaukibari	different	manṭʌŋ	Dungmali	m a n + ʈ ʌ ŋ		m a n + ʈ ʌ + ŋ	ŋ$	manṭʌŋ
+Dulung-Dandatole	hammer	martol	Dungmali	m a r + t o l	Nepali	m a r t o + l	l$	martol
+Dulung-Tharpu	hammer	martol	Dungmali	m a r + t o l	Nepali	m a r t o + l	l$	martol
+Dulung-Bastim	girl	metshoɂbaŋ	Dungmali	m e + tsʰ o ʔ + b a ŋ		m e + tsʰ o ʔ + b a + ŋ	ŋ$	metshoɂbaŋ
+Dulung-Bastim	tail	mirik	Dungmali	m i + r i k		m i + r i + k	k$	mirik
+Dulung-Bartole	man	min	Dungmali	m i n		m i + n	n$	min
+Dulung-Dandatole	man	min	Dungmali	m i n		m i + n	n$	min
+Dulung-Tharpu	man	min	Dungmali	m i n		m i + n	n$	min
+Dulung-Chaukibari	man	min	Dungmali	m i n		m i + n	n$	min
+Dulung-Bastim	man	min	Dungmali	m i n		m i + n	n$	min
+Dulung-Dandatole	ring	mundro	Dungmali	m u n + d r o	Nepali	m u n + d r o		mundro
+Dulung-Bartole	eye	mʌk	Dungmali	m ʌ k		m ʌ + k	k$	mʌk
+Dulung-Tharpu	eye	mʌk	Dungmali	m ʌ k		m ʌ + k	k$	mʌk
+Dulung-Bastim	eye	mʌk	Dungmali	m ʌ k		m ʌ + k	k$	mʌk
+Dulung-Bartole	mosquito	mõs	Dungmali	m ʌ s		m õ + s	s$	mõs
+Dulung-Dandatole	mosquito	mʌs	Dungmali	m ʌ s		m ʌ + s	s$	mʌs
+Dulung-Tharpu	mosquito	mʌs	Dungmali	m ʌ s		m ʌ + s	s$	mʌs
+Dulung-Chaukibari	mosquito	mʌs	Dungmali	m ʌ s		m ʌ + s	s$	mʌs
+Dulung-Bastim	mosquito	mʌs	Dungmali	m ʌ s		m ʌ + s	s$	mʌs
+Dulung-Dandatole	eye	mʌɂk	Dungmali	m ʌ ʔ k		m ʌ ʔ + k	k$	mʌɂk
+Dulung-Chaukibari	eye	mʌɂk	Dungmali	m ʌ ʔ k		m ʌ ʔ + k	k$	mʌɂk
+Dulung-Bartole	nose	nabuk	Dungmali	n a + b u k		n a + b u + k	k$	nabuk
+Dulung-Tharpu	nose	nãbuk	Dungmali	n a + b u k		n ã + b u + k	k$	nãbuk
+Dulung-Bastim	nose	nãbuk	Dungmali	n a + b u k		n ã + b u + k	k$	nãbuk
+Dulung-Bartole	ear	naphak	Dungmali	n a + pʰ a k		n a + pʰ a + k	k$	naphak
+Dulung-Tharpu	ear	naphʌk	Dungmali	n a + pʰ a k		n a + pʰ ʌ + k	k$	naphʌk
+Dulung-Dandatole	ear	naphʌk	Dungmali	n a + pʰ ʌ k		n a + pʰ ʌ + k	k$	naphʌk
+Dulung-Chaukibari	ear	naphak	Dungmali	n a + pʰ ʌ k		n a + pʰ a + k	k$	naphak
+Dulung-Bastim	ear	naphʌk	Dungmali	n a + pʰ ʌ k		n a + pʰ ʌ + k	k$	naphʌk
+Dulung-Bartole	monkey	nãs	Dungmali	n ã s		n ã + s	s$	nãs
+Dulung-Dandatole	monkey	nas	Dungmali	n ã s		n a + s	s$	nas
+Dulung-Tharpu	monkey	nas	Dungmali	n ã s		n a + s	s$	nas
+Dulung-Chaukibari	monkey	nas	Dungmali	n ã s		n a + s	s$	nas
+Dulung-Bastim	monkey	nas	Dungmali	n ã s		n a + s	s$	nas
+Dulung-Chaukibari	sky	ninʌm	Dungmali	n i + n ʌ m		n i + n ʌ + m	m$	ninʌm
+Dulung-Bartole	sky	nʌm	Dungmali	n ʌ m		n ʌ + m	m$	nʌm
+Dulung-Bartole	sun	nʌm	Dungmali	n ʌ m		n ʌ + m	m$	nʌm
+Dulung-Dandatole	sun	nʌm	Dungmali	n ʌ m		n ʌ + m	m$	nʌm
+Dulung-Tharpu	sun	nʌm	Dungmali	n ʌ m		n ʌ + m	m$	nʌm
+Dulung-Chaukibari	sun	nʌm	Dungmali	n ʌ m		n ʌ + m	m$	nʌm
+Dulung-Bastim	sun	nʌm	Dungmali	n ʌ m		n ʌ + m	m$	nʌm
+Dulung-Bastim	evening	nʌmṭisroŋ	Dungmali	n ʌ m + ʈ i s + r o ŋ		n ʌ m + ʈ i s + r o + ŋ	ŋ$	nʌmṭisroŋ
+Dulung-Bartole	name	nʌŋ	Dungmali	n ʌ ŋ		n ʌ + ŋ	ŋ$	nʌŋ
+Dulung-Dandatole	name	nʌŋ	Dungmali	n ʌ ŋ		n ʌ + ŋ	ŋ$	nʌŋ
+Dulung-Tharpu	name	nʌŋ	Dungmali	n ʌ ŋ		n ʌ + ŋ	ŋ$	nʌŋ
+Dulung-Chaukibari	name	nʌŋ	Dungmali	n ʌ ŋ		n ʌ + ŋ	ŋ$	nʌŋ
+Dulung-Bastim	name	nʌŋ	Dungmali	n ʌ ŋ		n ʌ + ŋ	ŋ$	nʌŋ
+Dulung-Dandatole	face	ŋaluŋ	Dungmali	ŋ a + l u ŋ		ŋ a + l u + ŋ	ŋ$	ŋaluŋ
+Dulung-Tharpu	face	ŋʌluŋ	Dungmali	ŋ a + l u ŋ		ŋ ʌ + l u + ŋ	ŋ$	ŋʌluŋ
+Dulung-Bartole	face	ŋalʌŋ	Dungmali	ŋ a + l ʌ ŋ		ŋ a + l ʌ + ŋ	ŋ$	ŋalʌŋ
+Dulung-Bastim	husband	paḍun	Dungmali	p a + ɖ u n		p a + ɖ u + n	n$	paḍun
+Dulung-Bartole	five	pãc	Dungmali	p ã + ts	Nepali	p ã + c	c$	pãc
+Dulung-Dandatole	five	pãc	Dungmali	p ã + ts	Nepali	p ã + c	c$	pãc
+Dulung-Tharpu	five	pãc	Dungmali	p ã + ts	Nepali	p ã + c	c$	pãc
+Dulung-Chaukibari	five	pãc	Dungmali	p ã + ts	Nepali	p ã + c	c$	pãc
+Dulung-Bastim	root	pen	Dungmali	p e n		p e + n	n$	pen
+Dulung-Bartole	root	pẽn	Dungmali	p ẽ n		p ẽ + n	n$	pẽn
+Dulung-Bastim	old	peṭwaŋ	Dungmali	p e ʈ + w a ŋ		p e ʈ + w a + ŋ	ŋ$	peṭwaŋ
+Dulung-Bartole	cow	pit̺	Dungmali	p i t		p i + t	t$	pit̺
+Dulung-Chaukibari	cow	pit̺	Dungmali	p i t		p i + t	t$	pit̺
+Dulung-Bastim	cow	pit̺	Dungmali	p i t		p i + t	t$	pit̺
+Dulung-Bartole	onion	pyaj	Dungmali	p j a dz	Nepali	p j a + j	j$	pyaj
+Dulung-Dandatole	onion	pyaj	Dungmali	p j a dz	Nepali	p j a + j	j$	pyaj
+Dulung-Tharpu	onion	pyaj	Dungmali	p j a dz	Nepali	p j a + j	j$	pyaj
+Dulung-Chaukibari	onion	pyaj	Dungmali	p j a dz	Nepali	p j a + j	j$	pyaj
+Dulung-Bastim	onion	pyaj	Dungmali	p j a dz	Nepali	p j a + j	j$	pyaj
+Dulung-Bartole	body	pok	Dungmali	p o k		p o + k	k$	pok
+Dulung-Dandatole	body	pokh	Dungmali	p o kʰ		p o kʰ		pokh
+Dulung-Tharpu	belly	puk	Dungmali	p u k		p u + k	k$	puk
+Dulung-Dandatole	thread	pul	Dungmali	p u l		p u + l	l$	pul
+Dulung-Dandatole	flower	puŋ	Dungmali	p u ŋ		p u + ŋ	ŋ$	puŋ
+Dulung-Tharpu	flower	puŋ	Dungmali	p u ŋ		p u + ŋ	ŋ$	puŋ
+Dulung-Chaukibari	flower	tʌŋphowa	Dungmali	p u ŋ		t ʌ ŋ + pʰ o + w a		tʌŋphowa
+Dulung-Chaukibari	fruit	puŋ	Dungmali	p u ŋ		p u + ŋ	ŋ$	puŋ
+Dulung-Tharpu	fruit	phalʌphul	Dungmali	pʰ ə l + pʰ u l		pʰ a + l ʌ + pʰ u + l	l$	phalʌphul
+Dulung-Bartole	leaf	phon	Dungmali	pʰ o n		pʰ o + n	n$	phon
+Dulung-Bartole	flower	puŋ	Dungmali	pʰ u l	Nepali	p u + ŋ	ŋ$	puŋ
+Dulung-Bartole	different	phʌrʌc	Dungmali	pʰ ʌ + r ʌ + ts		pʰ ʌ + r ʌ + c	c$	phʌrʌc
+Dulung-Tharpu	different	phʌrʌc	Dungmali	pʰ ʌ + r ʌ + ts		pʰ ʌ + r ʌ + c	c$	phʌrʌc
+Dulung-Bastim	month	rimdon	Dungmali	r i m + d o n		r i m + d o + n	n$	rimdon
+Dulung-Tharpu	body	roŋ	Dungmali	r o ŋ		r o + ŋ	ŋ$	roŋ
+Dulung-Bastim	star	saŋen	Dungmali	s a + ŋ e n		s a + ŋ e + n	n$	saŋen
+Dulung-Chaukibari	star	saŋenman	Dungmali	s a + ŋ e n + m a n		s a + ŋ e n + m a + n	n$	saŋenman
+Dulung-Bartole	seven	sat	Dungmali	s a t	Nepali	s a + t	t$	sat
+Dulung-Dandatole	seven	sat	Dungmali	s a t	Nepali	s a + t	t$	sat
+Dulung-Tharpu	seven	sat	Dungmali	s a t	Nepali	s a + t	t$	sat
+Dulung-Chaukibari	seven	sat	Dungmali	s a t	Nepali	s a + t	t$	sat
+Dulung-Bastim	seven	sat	Dungmali	s a t	Nepali	s a + t	t$	sat
+Dulung-Bartole	thorn	sẽn	Dungmali	s ẽ n		s ẽ + n	n$	sẽn
+Dulung-Tharpu	thorn	sẽn	Dungmali	s ẽ n		s ẽ + n	n$	sẽn
+Dulung-Dandatole	firewood	sʌŋ/siŋ	Dungmali	s i ŋ		s i + ŋ	ŋ$	siŋ
+Dulung-Tharpu	horns	siŋ	Dungmali	s i ŋ		s i + ŋ	ŋ$	siŋ
+Dulung-Bartole	three	suŋut̺et̺	Dungmali	s u + ŋ u + t e t		s u + ŋ u + t e + t	t$	suŋut̺et̺
+Dulung-Tharpu	leaf	suŋphʌk	Dungmali	s u ŋ + pʰ ʌ k		s u ŋ + pʰ ʌ + k	k$	suŋphʌk
+Dulung-Bastim	leaf	sumphuk	Dungmali	s u ŋ + pʰ ʌ k		s u m + pʰ u + k	k$	sumphuk
+Dulung-Chaukibari	village	sʌt̺en	Dungmali	s ʌ + t e n		s ʌ + t e + n	n$	sʌt̺en
+Dulung-Dandatole	buffalo	sʌŋ	Dungmali	s ʌ ŋ		s ʌ + ŋ	ŋ$	sʌŋ
+Dulung-Bartole	firewood	sʌŋ	Dungmali	s ʌ ŋ		s ʌ + ŋ	ŋ$	sʌŋ
+Dulung-Dandatole	firewood	sʌŋ/siŋ	Dungmali	s ʌ ŋ		s ʌ + ŋ	ŋ$	sʌŋ
+Dulung-Tharpu	firewood	sʌŋ	Dungmali	s ʌ ŋ		s ʌ + ŋ	ŋ$	sʌŋ
+Dulung-Chaukibari	firewood	sʌŋ	Dungmali	s ʌ ŋ		s ʌ + ŋ	ŋ$	sʌŋ
+Dulung-Bastim	firewood	sʌŋ	Dungmali	s ʌ ŋ		s ʌ + ŋ	ŋ$	sʌŋ
+Dulung-Bastim	tree	sʌŋphuk	Dungmali	s ʌ ŋ + pʰ u k		s ʌ ŋ + pʰ u + k	k$	sʌŋphuk
+Dulung-Bastim	fruit	sʌŋsibait̺buŋ	Dungmali	s ʌ ŋ + s i + b ai t + b u ŋ		s ʌ ŋ + s i + b ai t + b u + ŋ	ŋ$	sʌŋsibait̺buŋ
+Dulung-Dandatole	village	sʌpt̺en	Dungmali	s ʌ p + t e n		s ʌ p + t e + n	n$	sʌpt̺en
+Dulung-Tharpu	oil	tel	Dungmali	t e l	Nepali	t e + l	l$	tel
+Dulung-Bartole	how many	t̺em	Dungmali	t e m		t e + m	m$	t̺em
+Dulung-Dandatole	how many	tem	Dungmali	t e m		t e + m	m$	tem
+Dulung-Tharpu	how many	tem	Dungmali	t e m		t e + m	m$	tem
+Dulung-Bastim	village	t̺en	Dungmali	t e n		t e + n	n$	t̺en
+Dulung-Tharpu	three	tin	Dungmali	t i n		t i + n	n$	tin
+Dulung-Chaukibari	three	tin	Dungmali	t i n		t i + n	n$	tin
+Dulung-Bartole	cloth	t̺it̺	Dungmali	t i t		t i + t	t$	t̺it̺
+Dulung-Chaukibari	fingernail	t̺oŋborok	Dungmali	t o ŋ + b o + r o k		t o ŋ + b o + r o + k	k$	t̺oŋborok
+Dulung-Bartole	arm/hand	tᵴhuk	Dungmali	t s + h u k		t s + h u + k	k$	tᵴhuk
+Dulung-Dandatole	arm/hand	tᵴhuk	Dungmali	t s + h u k		t s + h u + k	k$	tᵴhuk
+Dulung-Tharpu	arm/hand	tᵴhuk	Dungmali	t s + h u k		t s + h u + k	k$	tᵴhuk
+Dulung-Chaukibari	arm/hand	tᵴhuk	Dungmali	t s + h u k		t s + h u + k	k$	tᵴhuk
+Dulung-Bastim	arm/hand	tᵴhu	Dungmali	t sʰu		t s + h u		tᵴhu
+Dulung-Dandatole	fruit	t̺ulphal	Dungmali	t u l + pʰ a  l		t u l + pʰ a + l	l$	t̺ulphal
+Dulung-Bartole	fingernail	t̺ʌŋbʌrʌk	Dungmali	t ʌ ŋ + b ʌ + r ʌ k		t ʌ ŋ + b ʌ + r ʌ + k	k$	t̺ʌŋbʌrʌk
+Dulung-Bartole	ash	t̺habut̺	Dungmali	tʰ a + b u t		tʰ a + b u + t	t$	t̺habut̺
+Dulung-Chaukibari	ash	t̺habut̺	Dungmali	tʰ a + b u t		tʰ a + b u + t	t$	t̺habut̺
+Dulung-Bastim	ash	t̺hʌbit̺	Dungmali	tʰ ʌ + b i t		tʰ ʌ + b i + t	t$	t̺hʌbit̺
+Dulung-Bartole	four	car	Dungmali	ts a + r	Nepali	tʃ a + r	r$	car
+Dulung-Dandatole	four	car	Dungmali	ts a + r	Nepali	tʃ a + r	r$	car
+Dulung-Tharpu	four	car	Dungmali	ts a + r	Nepali	tʃ a + r	r$	car
+Dulung-Chaukibari	four	car	Dungmali	ts a + r	Nepali	tʃ a + r	r$	car
+Dulung-Bastim	ant	tsigjan	Dungmali	ts i g + j a n		ts i g + j a + n	n$	tsigjan
+Dulung-Chaukibari	which	cun	Dungmali	ts u + n		tʃ u + n	n$	cun
+Dulung-Bartole	small	tsuk	Dungmali	ts u k		ts u + k	k$	tsuk
+Dulung-Chaukibari	how many	cʌti	Dungmali	ts ʌ + t i		tʃ ʌ + t i	c	cʌti
+Dulung-Bartole	skin	tsʌm	Dungmali	ts ʌ m		ts ʌ + m	m$	tsʌm
+Dulung-Tharpu	ant	cʌmilo	Dungmali	ts+mi +lo		tʃ ʌ + m i + l o	c	cʌmilo
+Dulung-Dandatole	urine	tshek	Dungmali	tsʰ e k		tsʰ e + k	k$	tshek
+Dulung-Tharpu	blood	tshep	Dungmali	tsʰ e p		tsʰ e + p	p$	tshep
+Dulung-Bartole	urine	tshep	Dungmali	tsʰ e p		tsʰ e + p	p$	tshep
+Dulung-Chaukibari	urine	tshep	Dungmali	tsʰ e p		tsʰ e + p	p$	tshep
+Dulung-Bastim	urine	tshep	Dungmali	tsʰ e p		tsʰ e + p	p$	tshep
+Dulung-Bastim	three	tshin	Dungmali	tsʰ i n		tsʰ i + n	n$	tshin
+Dulung-Bartole	son	tshoro	Dungmali	tsʰ o + r o	Nepali	tsʰ o + r o		tshoro
+Dulung-Bartole	six	chᴐ	Dungmali	tsʰ ɔ	Nepali	tʃʰ ɔ	ch	chᴐ
+Dulung-Dandatole	six	chᴐ	Dungmali	tsʰ ɔ	Nepali	tʃʰ ɔ	ch	chᴐ
+Dulung-Tharpu	six	chᴐ	Dungmali	tsʰ ɔ	Nepali	tʃʰ ɔ	ch	chᴐ
+Dulung-Chaukibari	six	chᴐ	Dungmali	tsʰ ɔ	Nepali	tʃʰ ɔ	ch	chᴐ
+Dulung-Bastim	six	chᴐ	Dungmali	tsʰ ɔ	Nepali	tʃʰ ɔ	ch	chᴐ
+Dulung-Bastim	elbow	tshukuŋ	Dungmali	tsʰ u + k u ŋ		tsʰ u + k u + ŋ	ŋ$	tshukuŋ
+Dulung-Bartole	fat (of meat)	tshut̺	Dungmali	tsʰ u t		tsʰ u + t	t$	tshut̺
+Dulung-Chaukibari	fat (of meat)	tshut̺	Dungmali	tsʰ u t		tsʰ u + t	t$	tshut̺
+Dulung-Bastim	fat (of meat)	tshut̺	Dungmali	tsʰ u t		tsʰ u + t	t$	tshut̺
+Dulung-Bartole	head	t̺aŋ	Dungmali	ʈ a ŋ		t a + ŋ	ŋ$	t̺aŋ
+Dulung-Dandatole	head	t̺aŋ	Dungmali	ʈ a ŋ		t a + ŋ	ŋ$	t̺aŋ
+Dulung-Tharpu	head	t̺aŋ	Dungmali	ʈ a ŋ		t a + ŋ	ŋ$	t̺aŋ
+Dulung-Chaukibari	head	t̺aŋ	Dungmali	ʈ a ŋ		t a + ŋ	ŋ$	t̺aŋ
+Dulung-Bastim	head	t̺ʌŋ	Dungmali	ʈ a ŋ		t ʌ + ŋ	ŋ$	t̺ʌŋ
+Dulung-Chaukibari	ant	ṭil	Dungmali	ʈ i l		ʈ i + l	l$	ṭil
+Dulung-Bartole	new	umnuŋ	Dungmali	u m + n u ŋ		u m + n u + ŋ	ŋ$	umnuŋ
+Dulung-Tharpu	root	umpen	Dungmali	u m + p e n		u m + p e + n	n$	umpen
+Dulung-Tharpu	fish	umtshut	Dungmali	u m + tsʰ u t		u m + tsʰ u + t	t$	umtshut
+Dulung-Dandatole	fat (of meat)	untshut̺	Dungmali	u n + tsʰ u t		u n + tsʰ u + t	t$	untshut̺
+Dulung-Bastim	one	ʌg	Dungmali	ʌ g		ʌ + g	g$	ʌg
+Dulung-Bastim	egg	wad̺in	Dungmali	w a + d i n		w a + d i + n	n$	wad̺in
+Dulung-Bartole	egg	wat̺in	Dungmali	w a + t i n		w a + t i + n	n$	wat̺in
+Dulung-Dandatole	egg	wat̺iŋ	Dungmali	w a + t i ŋ		w a + t i + ŋ	ŋ$	wat̺iŋ
+Dulung-Chaukibari	egg	wat̺iŋ	Dungmali	w a + t i ŋ		w a + t i + ŋ	ŋ$	wat̺iŋ
+Dulung-Tharpu	egg	watsha	Dungmali	w a + tsʰ a		w a + tsʰ a		watsha
+Dulung-Chaukibari	thorn	watshipen	Dungmali	w a + tsʰ i + p e n		w a + tsʰ i + p e + n	n$	watshipen
+Dulung-Tharpu	cow	waṭin	Dungmali	w a + ʈ i n		w a + ʈ i + n	n$	waṭin
+Dulung-Bastim	boy	wantshʌbaŋ	Dungmali	w a n + tsʰ ʌ + b a ŋ		w a n + tsʰ ʌ + b a + ŋ	ŋ$	wantshʌbaŋ
+Dulung-Chaukibari	pestle	waɂluŋ	Dungmali	w a ʔ + l u ŋ		w a ʔ + l u + ŋ	ŋ$	waɂluŋ
+Dulung-Bastim	mortar	wʌɂluŋ	Dungmali	w ʌ ʔ + l u ŋ		w ʌ ʔ + l u + ŋ	ŋ$	wʌɂluŋ
+Dulung-Tharpu	red	rato	Dungmali		Nepali	r a + t o		rato
+Dulung-Tharpu	river	nʌdi	Dungmali		Nepali	n ʌ + d i		nʌdi
+Dulung-Bartole	roof	chano	Dungmali		Nepali	tʃʰ a + n o	ch	chano
+Dulung-Tharpu	roof	chano	Dungmali		Nepali	tʃʰ a + n o	ch	chano
+Dulung-Chaukibari	roof	chana	Dungmali		Nepali	tʃʰ a + n a	ch	chana
+Dulung-Bartole	smoke	d̤uwã	Dungmali		Nepali	dʱ u + w ã		d̤uwã
+Dulung-Dandatole	smoke	d̤huwã	Dungmali		Nepali	dʱ u + w ã		d̤huwã
+Dulung-Tharpu	smoke	d̤uwã	Dungmali		Nepali	dʱ u + w ã		d̤uwã
+Dulung-Chaukibari	smoke	d̤uwã	Dungmali		Nepali	dʱ u + w ã		d̤uwã
+Dulung-Bastim	smoke	d̤uwãv	Dungmali		Nepali	dʱ u + w ã + v	v$	d̤uwãv
+Dulung-Tharpu	spider	makuro	Dungmali		Nepali	m a + k u + r o		makuro
+Dulung-Tharpu	star	taro	Dungmali		Nepali	t a + r o		taro
+Dulung-Dandatole	turmeric	hʌrdi	Dungmali		Nepali	h ʌ r + d i		hʌrdi
+Dulung-Tharpu	turmeric	ɦʌrdi	Dungmali		Nepali	ɦ ʌ r + d i		ɦʌrdi
+Dulung-Chaukibari	turmeric	ɦʌrdi	Dungmali		Nepali	ɦ ʌ r + d i		ɦʌrdi
+Dulung-Bartole	breast	dudh	Dungmali		Nepali	d u + dʱ	dh$	dudh
+Dulung-Dandatole	breast	dudh	Dungmali		Nepali	d u + dʱ	dh$	dudh
+Dulung-Tharpu	breast	dudh	Dungmali		Nepali	d u + dʱ	dh$	dudh
+Dulung-Chaukibari	breast	dudh	Dungmali		Nepali	d u + dʱ	dh$	dudh
+Dulung-Bastim	breast	dudh	Dungmali		Nepali	d u + dʱ	dh$	dudh
+Dulung-Bartole	broom	kutso	Dungmali		Nepali	k u + ts o		kutso
+Dulung-Dandatole	broom	kutso	Dungmali		Nepali	k u + ts o		kutso
+Dulung-Tharpu	broom	kutso	Dungmali		Nepali	k u + ts o		kutso
+Dulung-Chaukibari	broom	kutso	Dungmali		Nepali	k u + ts o		kutso
+Dulung-Bastim	broom	kutso	Dungmali		Nepali	k u + ts o		kutso
+Dulung-Tharpu	buffalo	bhaisi	Dungmali		Nepali	bʱ ai + s i		bhaisi
+Dulung-Bartole	cabbage	kopi	Dungmali		Nepali	k o + p i		kopi
+Dulung-Dandatole	cabbage	kopi	Dungmali		Nepali	k o + p i		kopi
+Dulung-Tharpu	cabbage	kopi	Dungmali		Nepali	k o + p i		kopi
+Dulung-Chaukibari	cabbage	kopi	Dungmali		Nepali	k o + p i		kopi
+Dulung-Bastim	cabbage	kopi	Dungmali		Nepali	k o + p i		kopi
+Dulung-Bartole	cauliflower	kauli	Dungmali		Nepali	k au + l i		kauli
+Dulung-Dandatole	cauliflower	kauli/ko	Dungmali		Nepali	k au + l i		kauli
+Dulung-Dandatole	cauliflower	kauli/ko	Dungmali		Nepali	k o		ko
+Dulung-Tharpu	cauliflower	kauli	Dungmali		Nepali	k au + l i		kauli
+Dulung-Chaukibari	cauliflower	kauli	Dungmali		Nepali	k au + l i		kauli
+Dulung-Bastim	cauliflower	kauli	Dungmali		Nepali	k au + l i		kauli
+Dulung-Chaukibari	door	lamkhoɂm	Dungmali		Nepali	l a m + kʰ o ʔ + m		lamkhoɂm
+Dulung-Bartole	dust	d̤ulo	Dungmali		Nepali	dʱ u + l o		d̤ulo
+Dulung-Dandatole	dust	ḍhale	Dungmali		Nepali	ɖʱ a + l e		ḍhale
+Dulung-Tharpu	dust	d̤ulo	Dungmali		Nepali	dʱ u + l o		d̤ulo
+Dulung-Bastim	dust	d̤ulo	Dungmali		Nepali	dʱ u + l o		d̤ulo
+Dulung-Bartole	eggplant	b̤ʌnt̺a	Dungmali		Nepali	bʱ ʌ n + t a		b̤ʌnt̺a
+Dulung-Dandatole	eggplant	bhent̺a	Dungmali		Nepali	bʱ e n + t a		bhent̺a
+Dulung-Chaukibari	eggplant	b̤ʌnt̺a	Dungmali		Nepali	bʱ ʌ n + t a		b̤ʌnt̺a
+Dulung-Bastim	eggplant	b̤ʌnt̺a	Dungmali		Nepali	bʱ ʌ n + t a		b̤ʌnt̺a
+Dulung-Bartole	eight	aṭh	Dungmali		Nepali	a ʈʰ		aṭh
+Dulung-Dandatole	eight	aṭh	Dungmali		Nepali	a ʈʰ		aṭh
+Dulung-Tharpu	eight	aṭh	Dungmali		Nepali	a ʈʰ		aṭh
+Dulung-Chaukibari	eight	aṭh	Dungmali		Nepali	a ʈʰ		aṭh
+Dulung-Bastim	eight	aṭh	Dungmali		Nepali	a ʈʰ		aṭh
+Dulung-Bartole	finger	aŋgula	Dungmali		Nepali	a ŋ + g u + l a		aŋgula
+Dulung-Dandatole	finger	ʌmlo	Dungmali		Nepali	ʌ m + l o		ʌmlo
+Dulung-Tharpu	finger	aula	Dungmali		Nepali	au + l a		aula
+Dulung-Bartole	gold	sona	Dungmali		Nepali	s o + n a		sona
+Dulung-Dandatole	gold	sona	Dungmali		Nepali	s o + n a		sona
+Dulung-Tharpu	gold	suna	Dungmali		Nepali	s u + n a		suna
+Dulung-Chaukibari	gold	sona	Dungmali		Nepali	s o + n a		sona
+Dulung-Bastim	gold	sona	Dungmali		Nepali	s o + n a		sona
+Dulung-Bartole	hammer	hathaudo	Dungmali		Nepali	h a + tʰ au + d o		hathaudo
+Dulung-Chaukibari	hammer	hathaudo	Dungmali		Nepali	h a + tʰ au + d o		hathaudo
+Dulung-Bastim	hammer	hathaudo	Dungmali		Nepali	h a + tʰ au + d o		hathaudo
+Dulung-Bartole	milk	dud	Dungmali		Nepali	d u + d		dud
+Dulung-Dandatole	milk	dudh	Dungmali		Nepali	d u + dʱ		dudh
+Dulung-Tharpu	milk	dud	Dungmali		Nepali	d u + d		dud
+Dulung-Chaukibari	milk	dud	Dungmali		Nepali	d u + d		dud
+Dulung-Bastim	milk	dud	Dungmali		Nepali	d u + d		dud
+Dulung-Bartole	mother	ama	Dungmali		Nepali	a + m a		ama
+Dulung-Tharpu	mother	ama	Dungmali		Nepali	a + m a		ama
+Dulung-Tharpu	new	nʌya	Dungmali		Nepali	n ʌ y/j a		nʌya
+Dulung-Bartole	old	purano	Dungmali		Nepali	p u + r a + n o		purano
+Dulung-Dandatole	old	purano	Dungmali		Nepali	p u + r a + n o		purano
+Dulung-Tharpu	old	purano	Dungmali		Nepali	p u + r a + n o		purano
+Dulung-Bartole	one hundred	ek sə	Dungmali		Nepali	e k + s ə		ek_^sə
+Dulung-Dandatole	one hundred	ek sə	Dungmali		Nepali	e k + s ə		ek_^sə
+Dulung-Tharpu	one hundred	ek sə	Dungmali		Nepali	e k + s ə		ek_^sə
+Dulung-Chaukibari	one hundred	ek sə	Dungmali		Nepali	e k + s ə		ek_^sə
+Dulung-Bastim	one hundred	ek sə	Dungmali		Nepali	e k + s ə		ek_^sə
+Dulung-Bartole	potato	alu	Dungmali		Nepali	a + l u		alu
+Dulung-Dandatole	potato	alu	Dungmali		Nepali	a + l u		alu
+Dulung-Tharpu	potato	alu	Dungmali		Nepali	a + l u		alu
+Dulung-Chaukibari	potato	alu	Dungmali		Nepali	a + l u		alu
+Dulung-Dandatole	root	dzʌra	Dungmali		Nepali	dz ʌ + r a		dzʌra
+Dulung-Tharpu	rope	ḍori	Dungmali		Nepali	ɖ o + r i		ḍori
+Dulung-Bartole	week	sat̺a	Dungmali		Nepali	s a + t a		sat̺a
+Dulung-Dandatole	week	sat̺a	Dungmali		Nepali	s a + t a		sat̺a
+Dulung-Tharpu	week	sat̺a	Dungmali		Nepali	s a + t a		sat̺a
+Dulung-Chaukibari	week	sat̺a	Dungmali		Nepali	s a + t a		sat̺a
+Dulung-Bastim	week	sat̺a	Dungmali		Nepali	s a + t a		sat̺a
+Dulung-Dandatole	wet	tsiso	Dungmali		Nepali	ts i + s o		tsiso
+Dulung-Bartole	wheat (husked)	gʌũ	Dungmali		Nepali	g ʌũ		gʌũ
+Dulung-Dandatole	wheat (husked)	gãhu	Dungmali		Nepali	g ã + h u		gãhu
+Dulung-Tharpu	wheat (husked)	gãhu	Dungmali		Nepali	g ã + h u		gãhu
+Dulung-Chaukibari	wheat (husked)	ŋaksi	Dungmali		Nepali	ŋ a k + s i		ŋaksi
+Dulung-Bastim	wheat (husked)	gãhu	Dungmali		Nepali	g ã + h u		gãhu
+Dulung-Bartole	wife	buḍhi	Dungmali		Nepali	b u + ɖʱ i		buḍhi
+Dulung-Dandatole	wife	budhibuḍhi	Dungmali		Nepali	b u + dʱ i + b u + ɖʱ i		budhibuḍhi
+Dulung-Tharpu	wife	umbadhu	Dungmali		Nepali	u m + b a + dʱ u		umbadhu
+Dulung-Chaukibari	wife	buḍhi	Dungmali		Nepali	b u + ɖʱ i		buḍhi
+Dulung-Dandatole	year	bʌrsʌ	Dungmali		Nepali	b ʌ r + s ʌ		bʌrsʌ
+Dulung-Bartole	axe	bʌntsʌro	Dungmali		Nepali	b ʌ n + ts ʌ + r o		bʌntsʌro
+Dulung-Dandatole	axe	bʌtsʌro	Dungmali		Nepali	b ʌ + ts ʌ + r o		bʌtsʌro
+Dulung-Tharpu	axe	bʌntsʌro	Dungmali		Nepali	b ʌ n + ts ʌ + r o		bʌntsʌro
+Dulung-Bastim	axe	bʌntsʌro	Dungmali		Nepali	b ʌ n + ts ʌ + r o		bʌntsʌro
+Dulung-Dandatole	belly	bhŭḍi	Dungmali		Nepali	bʱ ŭ + ɖ i		bhŭḍi
+Dulung-
