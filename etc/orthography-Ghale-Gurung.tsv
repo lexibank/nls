@@ -1,4 +1,15 @@
 Grapheme	IPA	Frequency	Examples	Languages
+k$	k
+g$	g
+d$	d
+j$	j
+l$	l
+m$	m
+n$	n
+p$	p
+phl	pʰ + l
+t$	t
+ŋ$	ŋ
 (over)	NULL	5	tshʌm(dzʌ)//phja (over)	Mandre/Brpak2 (Ghale)/Gumda/Laprak
 (under)	NULL	5	tshʌm(dzʌ)//phja (over)	Mandre/Brpak2 (Ghale)/Gumda/Laprak
 +	+	22	ŋelʌm nʌ//ŋjalʌm nʌ	Mandre/Barpak1/Brpak2 (Ghale)/Laprak/Gumda
@@ -11,7 +22,7 @@ Grapheme	IPA	Frequency	Examples	Languages
 ^dz	dz	5	dzju//dzo	Barpak1/Brpak2 (Ghale)
 ^dzh	dzʰ	1	dzhiri	Brpak2 (Ghale)
 ^dzj	dz j	1	dz j u	
-^d̺	d̺	5	d̺ʌm//d̺oja	Barpak1/Brpak2 (Ghale)
+^d̺	d	5	d̺ʌm//d̺oja	Barpak1/Brpak2 (Ghale)
 ^e	e	2	eghrʌ//eghar	Brpak2 (Ghale)/Gumda
 ^g	g	13	gjaŋ//gʌ	Barpak1/Brpak2 (Ghale)/Laprak
 ^gj	g j	2	g j a ŋ//g j e n	
@@ -96,7 +107,7 @@ dj	+ d j	10	lh a d j a ŋ//l a d j a ŋ
 dz	+ dz	33	rudzupuŋ//rudzu puŋ	Mandre/Barpak1/Brpak2 (Ghale)/Laprak/Gumda
 dz$	dz	3	udzi//ʌdzi	Barpak1/Brpak2 (Ghale)
 dzj	+ dz j	1	kh u dz j a	
-d̺	+ d̺	5	hʌthʌud̺o//phulum bhẽd̺a	Mandre/Barpak1/Brpak2 (Ghale)/Laprak/Gumda
+d̺	+ d	5	hʌthʌud̺o//phulum bhẽd̺a	Mandre/Barpak1/Brpak2 (Ghale)/Laprak/Gumda
 ʌ:	ʌː
 dᶻ	+ dz	1	dadᶻu	Brpak2 (Ghale)
 e	e	154	t̺ephu//pʌje	Mandre/Barpak1/Brpak2 (Ghale)/Laprak/Gumda
@@ -104,19 +115,21 @@ ei$	ei	1	keirtsen	Brpak2 (Ghale)
 g	+ g	23	t̺uga//siŋga	Mandre/Barpak1/Gumda/Brpak2 (Ghale)/Laprak
 gh	gʰ	1	e gh a r	
 gh$	gʰ	2	eghrʌ//eghar	Brpak2 (Ghale)/Gumda
-ghr	+ gʰ r	1	e gh r ʌ	
+ghr	gʰ + r	1	e gh r ʌ	
 gj	g j	1	d̺ o g j a	
 h	+ h	1	numuhju	Laprak
 hj	+ h j	1	n u m u h j u	
 i	i	286	ŋilam nʌ//li	Mandre/Barpak1/Brpak2 (Ghale)/Laprak/Gumda
 i:$	iː	6	li:ni//pi:sʌ	Mandre/Brpak2 (Ghale)/Barpak1
 iu$	i u	1	miuŋ	Mandre
-j	j	296	sjʌ//tsjan	Mandre/Barpak1/Brpak2 (Ghale)/Laprak/Gumda
+j	+ j	296	sjʌ//tsjan	Mandre/Barpak1/Brpak2 (Ghale)/Laprak/Gumda
+^j	j
 k	+ k	46	t̺oka//siŋka	Mandre/Barpak1/Brpak2 (Ghale)/Laprak/Gumda
 kh	+ kʰ	8	lamkhut̺t̺e//lamkhut̺t̺e	Mandre/Barpak1/Brpak2 (Ghale)/Laprak/Gumda
 khnj	k ʰn + j	1	t̺ ʌ kh n j a	
 khw	kʰ w	1	n i ŋ g e + ( kh w a tt i )	
 (	NULL
+d̺$	d
 )	NULL
 kj	k j	4	k u j u ŋ + k j u//t̺ o k j a	
 kk	k + k	3	t̺ʌkkʌnne//t̺ʌkkʌne	Brpak2 (Ghale)/Laprak
@@ -146,7 +159,7 @@ n	+ n	162	tsjan//ŋelʌm nʌ	Mandre/Barpak1/Gumda/Brpak2 (Ghale)/Laprak
 nb	n + b	1	ph u n b ʌ	
 nd	n + d	27	g i n d i//g ʌ n d i	
 ndzj	n + dz j	1	a n dz j ʌ	
-nd̺	n d̺	1	t̺h u n d̺ e	
+nd̺	n + d	1	t̺h u n d̺ e	
 nh	+ nʰ	2	nenhe//tinhju	Laprak
 nhj	n ʰj	1	t i nh j u	
 nj	n + j	7	t̺h u n j a//t̺h u n j a	
@@ -163,7 +176,7 @@ oe–$	oe	3	ɼoe//poe	Laprak/Gumda
 p	+ p	52	rudzupuŋ//rudzu puŋ	Mandre/Barpak1/Brpak2 (Ghale)/Laprak/Gumda
 ph	+ pʰ	21	t̺ʌphu//t̺ʌphu	Mandre/Barpak1/Brpak2 (Ghale)/Laprak/Gumda
 phj	+ pʰ j	1	t o ph j a	
-phl	+ pʰ l	1	n ʌi ph l ʌ s ʌi	
+phl	pʰ + l	1	n ʌi ph l ʌ s ʌi	
 phw	+ pʰ w	1	k j u ph w o j e	
 pl	+ p l	1	k j o l a m + p l i ŋ	
 pp	p + p	2	muppʌ//sjappʌ	Mandre/Laprak
@@ -203,10 +216,10 @@ tstsj	ts + ts j	1	h w a tsts j o
 tt	t + t	4	sattʌ//khwattine	Gumda/Laprak
 tˢ	ts	1	u tˢ i	
 tˢ$	ts	1	utˢi	Brpak2 (Ghale)
-t̺	+ t̺	6	lat̺ʌ//lat̺ʌ	Brpak2 (Ghale)/Gumda/Laprak
-t̺h$	+ t̪ʰ	1	t̺hũt̺hja	Mandre
-t̺hj	t̺ʰ j	1	t̺h ũ t̺h j a	
-t̺t̺	t̺ + t̺	3	lamkhut̺t̺e//lamkhut̺t̺e	Mandre/Brpak2 (Ghale)/Barpak1
+t̺	+ t	6	lat̺ʌ//lat̺ʌ	Brpak2 (Ghale)/Gumda/Laprak
+t̺h$	+ tʰ	1	t̺hũt̺hja	Mandre
+t̺hj	tʰ j	1	t̺h ũ t̺h j a	
+t̺t̺	t + t	3	lamkhut̺t̺e//lamkhut̺t̺e	Mandre/Brpak2 (Ghale)/Barpak1
 u	u	309	ŋuba//kuŋ	Mandre/Barpak1/Brpak2 (Ghale)/Laprak/Gumda
 ui	ui	1	sjui	Brpak2 (Ghale)
 ui$	ui	2	muiŋ//sui	Laprak/Gumda
@@ -253,3 +266,15 @@ _	+
 ek_^sə	e k + s ə
 ^ek_^sə	e k + s ə
 –	NULL
+^eghar	e + gʰa r
+^phulum_^bhẽd̺a	pʰ u + l u m + bʰ ẽ + d a
+^phulum_^pheda	pʰ u + l u m + pʰ e + d a
+^pʌdi_^blaŋ	p ʌ + d i + b l a ŋ
+^pʌje	p ʌ + j e
+^tembʌju	t e m + b v + j u
+^tinhju	t i n + j u
+^toprja	t o p + r j a
+^t̺ʌkhnja	t ʌ kʰ + n j a
+^ŋelʌm_^nʌ	ŋ e + l ʌ m + n ʌ
+^ŋilam_^nʌ	ŋ i + l a m + n ʌ
+^ŋjalʌm_^nʌ	ŋ j a + l ʌ m + n ʌ

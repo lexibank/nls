@@ -1,4 +1,15 @@
 Grapheme	IPA
+k$	k
+g$	g
+d$	d
+j$	j
+l$	l
+m$	m
+n$	n
+p$	p
+phl	pʰ + l
+t$	t
+ŋ$	ŋ
 (over)	NULL
 (under)	NULL
 +	+
@@ -11,7 +22,7 @@ Grapheme	IPA
 ^dz	dz
 ^dzh	dzʰ
 ^dzj	dz j
-^d̺	d̺
+^d̺	d
 ^e	e
 ^g	g
 ^gj	g j
@@ -96,7 +107,7 @@ dj	+ d j
 dz	+ dz
 dz$	dz
 dzj	+ dz j
-d̺	+ d̺
+d̺	+ d
 ʌ:	ʌː
 dᶻ	+ dz
 e	e
@@ -104,19 +115,21 @@ ei$	ei
 g	+ g
 gh	gʰ
 gh$	gʰ
-ghr	+ gʰ r
+ghr	gʰ + r
 gj	g j
 h	+ h
 hj	+ h j
 i	i
 i:$	iː
 iu$	i u
-j	j
+j	+ j
+^j	j
 k	+ k
 kh	+ kʰ
 khnj	k ʰn + j
 khw	kʰ w
 (	NULL
+d̺$	d
 )	NULL
 kj	k j
 kk	k + k
@@ -146,7 +159,7 @@ n	+ n
 nb	n + b
 nd	n + d
 ndzj	n + dz j
-nd̺	n d̺
+nd̺	n + d
 nh	+ nʰ
 nhj	n ʰj
 nj	n + j
@@ -163,7 +176,7 @@ oe–$	oe
 p	+ p
 ph	+ pʰ
 phj	+ pʰ j
-phl	+ pʰ l
+phl	pʰ + l
 phw	+ pʰ w
 pl	+ p l
 pp	p + p
@@ -203,10 +216,10 @@ tstsj	ts + ts j
 tt	t + t
 tˢ	ts
 tˢ$	ts
-t̺	+ t̺
-t̺h$	+ t̪ʰ
-t̺hj	t̺ʰ j
-t̺t̺	t̺ + t̺
+t̺	+ t
+t̺h$	+ tʰ
+t̺hj	tʰ j
+t̺t̺	t + t
 u	u
 ui	ui
 ui$	ui
@@ -253,3 +266,15 @@ _	+
 ek_^sə	e k + s ə
 ^ek_^sə	e k + s ə
 –	NULL
+^eghar	e + gʰa r
+^phulum_^bhẽd̺a	pʰ u + l u m + bʰ ẽ + d a
+^phulum_^pheda	pʰ u + l u m + pʰ e + d a
+^pʌdi_^blaŋ	p ʌ + d i + b l a ŋ
+^pʌje	p ʌ + j e
+^tembʌju	t e m + b v + j u
+^tinhju	t i n + j u
+^toprja	t o p + r j a
+^t̺ʌkhnja	t ʌ kʰ + n j a
+^ŋelʌm_^nʌ	ŋ e + l ʌ m + n ʌ
+^ŋilam_^nʌ	ŋ i + l a m + n ʌ
+^ŋjalʌm_^nʌ	ŋ j a + l ʌ m + n ʌ
