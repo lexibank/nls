@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/lexibank/nls",
             "rdf:type": "prov:Entity",
-            "dc:created": "e841cb0",
+            "dc:created": "13bbd5c",
             "dc:title": "Repository"
         },
         {
@@ -46,7 +46,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.14.8"
+            "dc:description": "3.14.10"
         },
         {
             "dc:title": "python-packages",
