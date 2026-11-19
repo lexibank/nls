@@ -1,4 +1,20 @@
 Grapheme	IPA
+^kr	k r
+^woẽr	w oẽ r
+dz$	dz
+g$	g
+k$	k
+^khl	kʰ l
+l$	l
+m$	m
+n$	n
+p$	p
+^pl	p l
+r$	r
+^tsju_^kri	ts j u + k r i
+^tsjui_^khri	t s j ui + kʰ r i
+ŋ$	ŋ
+ŋj	ŋ j
 ^tịṭti	t i ʈ  + ʈ i
 ^thjoba	tʰ j o + b a
 ^gri	g r i
@@ -213,3 +229,4 @@ nl	n + l
 _	NULL
 ʌ:	ʌː
 ^m̤ri	m r i̤
+
