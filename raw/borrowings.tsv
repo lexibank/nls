@@ -1,4 +1,98 @@
 Language	Concept	Value	Dataset	Morphology	Borrowing
+Jirel-Kharoban	face	tshet/anwar	Jirel	a n + w a r	Nepali	a n + w a + r	r$	anwar
+Jirel-Sikri	turmeric	besar	Jirel	b e + s a r	Nepali	b e + s a + r	r$	besar
+Jirel-Kharoban	turmeric	besar	Jirel	b e + s a r	Nepali	b e + s a + r	r$	besar
+Jirel-Chhetrapa	turmeric	besar	Jirel	b e + s a r	Nepali	b e + s a + r	r$	besar
+Jirel-Yarsa	turmeric	besar	Jirel	b e + s a r	Nepali	b e + s a + r	r$	besar
+Jirel-Sikri	groundnut	bədam	Jirel	b ə + d ə m	Nepali	b ə + d a + m	m$	bədam
+Jirel-Kharoban	groundnut	bədam	Jirel	b ə + d ə m	Nepali	b ə + d a + m	m$	bədam
+Jirel-Chhetrapa	groundnut	bədam	Jirel	b ə + d ə m	Nepali	b ə + d a + m	m$	bədam
+Jirel-Yarsa	groundnut	bədam	Jirel	b ə + d ə m	Nepali	b ə + d a + m	m$	bədam
+Jirel-Kharoban	lightning	tsilam/bidzu li	Jirel	b i + dz u + l i	Nepali	b i + dz u l i	bidzu_^li	bidzu_^li
+Jirel-Kharoban	ring	əụthi/suŋku ma	Jirel	ə ụ/u + ʈʰ i	Nepali	ə ụ/u + tʰ i	thi	əụthi
+Jirel-Yarsa	ring	əụthi/ ə̃ụthi	Jirel	ə ụ/u + ʈʰ i	Nepali	ə ụ/u + tʰ i	thi	əụthi
+Jirel-Sikri	ring	ə̃ụthi / suŋkuma	Jirel	ə̃ ụ/u + ʈʰ i	Nepali	ə̃ ụ/u + tʰ i	thi	ə̃ụthi
+Jirel-Yarsa	ring	əụthi/ ə̃ụthi	Jirel	ə̃ ụ/u + ʈʰ i	Nepali	ə̃ ụ/u + tʰ i	thi	ə̃ụthi
+Jirel-Sikri	onion	pjadz	Jirel	p j a dz	Nepali	p j a dz	pjadz	pjadz
+Jirel-Kharoban	onion	pjadz	Jirel	p j a dz	Nepali	p j a dz	pjadz	pjadz
+Jirel-Chhetrapa	onion	pjadz	Jirel	p j a dz	Nepali	p j a dz	pjadz	pjadz
+Jirel-Yarsa	onion	pjadz	Jirel	p j a dz	Nepali	p j a dz	pjadz	pjadz
+Jirel-Sikri	fruit	phəlphul	Jirel	pʰ ə l + pʰ u l	Nepali	pʰ ə l + pʰ u + l	l$	phəlphul
+Jirel-Kharoban	fruit	phəlphul	Jirel	pʰ ə l + pʰ u l	Nepali	pʰ ə l + pʰ u + l	l$	phəlphul
+Jirel-Chhetrapa	fruit	phəlphul	Jirel	pʰ ə l + pʰ u l	Nepali	pʰ ə l + pʰ u + l	l$	phəlphul
+Jirel-Yarsa	fruit	phəlphul	Jirel	pʰ ə l + pʰ u l	Nepali	pʰ ə l + pʰ u + l	l$	phəlphul
+Jirel-Sikri	ring	ə̃ụthi / suŋkuma	Jirel	s u ŋ + k u + m a	Nepali	s u ŋ + k u + m a	m$a	suŋkuma
+Jirel-Kharoban	rain	dzhəri	Jirel	dzʱ ə + r i	Nepali	dzʱ ə + r i		dzhəri
+Jirel-Sikri	body	dziu	Jirel		Nepali	dz i/j u		dziu
+Jirel-Kharoban	body	dziu	Jirel		Nepali	dz i/j u		dziu
+Jirel-Chhetrapa	body	dziu	Jirel		Nepali	dz i/j u		dziu
+Jirel-Yarsa	body	dziu	Jirel		Nepali	dz i/j u		dziu
+Jirel-Chhetrapa	evening	sãdzh	Jirel		Nepali	s ã dzʱ		sãdzh
+Jirel-Yarsa	evening	sãdzh	Jirel		Nepali	s ã dzʱ		sãdzh
+Jirel-Yarsa	right	daine	Jirel		Nepali	d ai + n e		daine
+Jirel-Kharoban	roof	tshano/thsna	Jirel		Nepali	tsʰ a + n o		tshano
+Jirel-Chhetrapa	roof	tshana	Jirel		Nepali	tsʰ a + n a		tshana
+Jirel-Yarsa	roof	tshana/ tshano	Jirel		Nepali	tsʰ a + n a		tshana
+Jirel-Yarsa	roof	tshana/ tshano	Jirel		Nepali	tsʰ a + n o		tshano
+Jirel-Yarsa	star	tara	Jirel		Nepali	t a + r a		tara
+Jirel-Sikri	tomato	golbhẽḍa	Jirel		Nepali	g o l + bʱ ẽ + ɖ a		golbhẽḍa
+Jirel-Kharoban	tomato	golbhẽḍa	Jirel		Nepali	g o l + bʱ ẽ + ɖ a		golbhẽḍa
+Jirel-Chhetrapa	tomato	golbhẽḍa/ bendalo	Jirel		Nepali	g o l + bʱ ẽ + ɖ a		golbhẽḍa
+Jirel-Chhetrapa	tomato	golbhẽḍa/ bendalo	Jirel		Nepali	b e n + d a + l o		bendalo
+Jirel-Yarsa	tomato	benḍalu / benḍaluk	Jirel		Nepali	b e n + ɖ a + l u		benḍalu
+Jirel-Sikri	barley	dzəu	Jirel		Nepali	dz əu		dzəu
+Jirel-Kharoban	barley	dzəu	Jirel		Nepali	dz əu		dzəu
+Jirel-Chhetrapa	barley	dzəu	Jirel		Nepali	dz əu		dzəu
+Jirel-Sikri	cabbage	bənda	Jirel		Nepali	b ə n + d a		bənda
+Jirel-Kharoban	cabbage	bənda	Jirel		Nepali	b ə n + d a		bənda
+Jirel-Chhetrapa	cabbage	bənda	Jirel		Nepali	b ə n + d a		bənda
+Jirel-Yarsa	cabbage	bənda	Jirel		Nepali	b ə n + d a		bənda
+Jirel-Sikri	cauliflower	kauli	Jirel		Nepali	k a u + l i		kauli
+Jirel-Kharoban	cauliflower	kauli	Jirel		Nepali	k a u + l i		kauli
+Jirel-Chhetrapa	cauliflower	kauli	Jirel		Nepali	k a u + l i		kauli
+Jirel-Yarsa	cauliflower	kopi	Jirel		Nepali	k o + p i		kopi
+Jirel-Sikri	dust	dhulo	Jirel		Nepali	dʱ u + l o		dhulo
+Jirel-Chhetrapa	dust	dhulo	Jirel		Nepali	dʱ u + l o		dhulo
+Jirel-Yarsa	dust	dhulo	Jirel		Nepali	dʱ u + l o		dhulo
+Jirel-Sikri	eggplant	bheṇta	Jirel		Nepali	bʱ e ɳ/n + ʈ a		bheṇta
+Jirel-Kharoban	eggplant	bheṇta	Jirel		Nepali	bʱ e ɳ/n + ʈ a		bheṇta
+Jirel-Chhetrapa	eggplant	bhjaṇti	Jirel		Nepali	bʱ j a ɳ/n + ʈ i		bhjaṇti
+Jirel-Sikri	elbow	kuino/ kuina	Jirel		Nepali	k u i + n o		kuino
+Jirel-Sikri	elbow	kuino/ kuina	Jirel		Nepali	k u i + n a		kuina
+Jirel-Kharoban	elbow	kuina	Jirel		Nepali	k u i + n a		kuina
+Jirel-Chhetrapa	elbow	kuina/kuino	Jirel		Nepali	k u i + n a		kuina
+Jirel-Chhetrapa	elbow	kuina/kuino	Jirel		Nepali	k u i + n o		kuino
+Jirel-Yarsa	elbow	kuino	Jirel		Nepali	k u i + n o		kuino
+Jirel-Sikri	hammer	həthəuḍa	Jirel		Nepali	h ə + tʰ əu + ɖ a		həthəuḍa
+Jirel-Kharoban	hammer	həthəuda	Jirel		Nepali	h ə + tʰ əu + d a		həthəuda
+Jirel-Chhetrapa	hammer	martəl/həthə uḍa	Jirel		Nepali	m a r + t ə + l		martəl
+Jirel-Chhetrapa	hammer	martəl/həthə uḍa	Jirel		Nepali	h ə + tʰ ə u + ɖ a		həthə_^uḍa
+Jirel-Yarsa	hammer	həmər / həthəuḍa	Jirel		Nepali	h ə + m ə + r		həmər
+Jirel-Yarsa	hammer	həmər / həthəuḍa	Jirel		Nepali	h ə + tʰ əu + ɖ a		həthəuḍa
+Jirel-Yarsa	mortar	siləuto	Jirel		Nepali	s i + l əu + t o		siləuto
+Jirel-Sikri	mosquito	lamkhụṭte	Jirel		Nepali	l a m + kʰ ụ/u ʈ + ʈ e		lamkhụṭte
+Jirel-Kharoban	mosquito	lamkhụṭte	Jirel		Nepali	l a m + kʰ ụ/u ʈ + ʈ e		lamkhụṭte
+Jirel-Chhetrapa	mosquito	lamkhụṭte	Jirel		Nepali	l a m + kʰ ụ/u ʈ + ʈ e		lamkhụṭte
+Jirel-Sikri	mother	ama	Jirel		Nepali	a + m a		ama
+Jirel-Kharoban	mother	ama	Jirel		Nepali	a + m a		ama
+Jirel-Chhetrapa	mother	ama	Jirel		Nepali	a + m a		ama
+Jirel-Yarsa	mother	ama	Jirel		Nepali	a + m a		ama
+Jirel-Sikri	rain	dzhəri / jar	Jirel		Nepali	dzʱ ə + r i		dzhəri
+Jirel-Sikri	sand	baluwa	Jirel		Nepali	b a + l u + w a		baluwa
+Jirel-Kharoban	sand	baluwa	Jirel		Nepali	b a + l u + w a		baluwa
+Jirel-Chhetrapa	sand	baluwa	Jirel		Nepali	b a + l u + w a		baluwa
+Jirel-Yarsa	sand	baluwa	Jirel		Nepali	b a + l u + w a		baluwa
+Jirel-Sikri	week	sata	Jirel		Nepali	s a + t a		sata
+Jirel-Kharoban	week	sata	Jirel		Nepali	s a + t a		sata
+Jirel-Chhetrapa	week	həpta /sata	Jirel		Nepali	h ə p + t a		həpta
+Jirel-Chhetrapa	week	həpta /sata	Jirel		Nepali	s a + t a		sata
+Jirel-Yarsa	week	həpta/ həpta dzi	Jirel		Nepali	h ə p + t a		həpta
+Jirel-Yarsa	week	həpta/ həpta dzi	Jirel		Nepali	h ə p + t a dz i		həpta_^dzi
+Jirel-Yarsa	what	tsi	Jirel		Nepali	ts i		tsi
+Jirel-Chhetrapa	younger brother	bhai	Jirel		Nepali	bʱ ai		bhai
+Jirel-Yarsa	younger brother	bhai	Jirel		Nepali	bʱ ai		bhai
+Jirel-Chhetrapa	younger sister	bəini	Jirel		Nepali	b əi + n i		bəini
+Jirel-Yarsa	younger sister	bəini	Jirel		Nepali	b əi + n i		bəini
 Bantawa-Thidingkha	ant	kəmila	Bantawa	k ə + m i + l a	Nepali
 Bantawa-Thidingkha	cow	gai	Bantawa		Nepali
 Bantawa-Timma	heavy	gəruŋ	Bantawa	g ə + r u ŋ	Nepali
@@ -1203,7 +1297,7 @@ Ghale-Gurung-Barpak2	tomato	golbhed̺a	Ghale-Gurung	g o l + bʰ e + d a		g o l +
 Ghale-Gurung-Laprak	this	hin	Ghale-Gurung	h i n		h i + n	n$	hin
 Ghale-Gurung-Barpak1	river	hoŋ	Ghale-Gurung	h o ŋ		h o + ŋ	ŋ$	hoŋ
 Ghale-Gurung-Barpak2	river	gindi/hoŋ	Ghale-Gurung	h o ŋ		h o + ŋ	ŋ$	hoŋ
-Ghale-Gurung-Laprak	hammer	hʌthʌud̺o	Ghale-Gurung	h ʌ + tʰ ʌu + ɖ o	nep/loan	h ʌ + tʰ ʌu + d̺ o	d̺	hʌthʌud̺o
+Ghale-Gurung-Laprak	hammer	hʌthʌud̺o	Ghale-Gurung	h ʌ + tʰ ʌu + ɖ o	Nepali	h ʌ + tʰ ʌu + d̺ o	d̺	hʌthʌud̺o
 Ghale-Gurung-Barpak2	hammer	mʌidja	Ghale-Gurung			m ʌi + d j a		mʌidja
 Ghale-Gurung-Mandre	those	hʌmbʌju	Ghale-Gurung	h ʌ m + b ʌ + j u		h ʌ m + b ʌ j uj		hʌmbʌju
 Ghale-Gurung-Barpak1	those	hʌmbʌju	Ghale-Gurung	h ʌ m + b ʌ + j u		h ʌ m + b ʌ j u		hʌmbʌju
@@ -1267,9 +1361,9 @@ Ghale-Gurung-Barpak2	finger	lat̺ʌ	Ghale-Gurung	l a + t ʌ		l a + t̺ ʌ	t̺	la
 Ghale-Gurung-Laprak	finger	lat̺ʌ	Ghale-Gurung	l a + t ʌ		l a + t̺ ʌ	t̺	lat̺ʌ
 Ghale-Gurung-Laprak	path	lam	Ghale-Gurung	l a m		l a + m	m$	lam
 Ghale-Gurung-Gumda	path	lam	Ghale-Gurung	l a m		l a + m	m$	lam
-Ghale-Gurung-Mandre	mosquito	lamkhut̺t̺e	Ghale-Gurung	l a m + kʰ u ʈ+ ʈe	nep/loan	l a m + kʰ u t̺ + t̺ e	t̺	lamkhut̺t̺e
-Ghale-Gurung-Barpak1	mosquito	lamkhut̺t̺e	Ghale-Gurung	l a m + kʰ u ʈ+ ʈe	nep/loan	l a m + kʰ u t̺ + t̺ e	t̺	lamkhut̺t̺e
-Ghale-Gurung-Barpak2	mosquito	lamkhut̺t̺e	Ghale-Gurung	l a m + kʰ u ʈ+ ʈe	nep/loan	l a m + kʰ u t̺ + t̺ e	t̺	lamkhut̺t̺e
+Ghale-Gurung-Mandre	mosquito	lamkhut̺t̺e	Ghale-Gurung	l a m + kʰ u ʈ+ ʈe	Nepali	l a m + kʰ u t̺ + t̺ e	t̺	lamkhut̺t̺e
+Ghale-Gurung-Barpak1	mosquito	lamkhut̺t̺e	Ghale-Gurung	l a m + kʰ u ʈ+ ʈe	Nepali	l a m + kʰ u t̺ + t̺ e	t̺	lamkhut̺t̺e
+Ghale-Gurung-Barpak2	mosquito	lamkhut̺t̺e	Ghale-Gurung	l a m + kʰ u ʈ+ ʈe	Nepali	l a m + kʰ u t̺ + t̺ e	t̺	lamkhut̺t̺e
 Ghale-Gurung-Barpak1	black	lʌŋ/laŋ	Ghale-Gurung	l a ŋ		l a + ŋ	ŋ$	laŋ
 Ghale-Gurung-Laprak	black	laŋ	Ghale-Gurung	l a ŋ		l a + ŋ	ŋ$	laŋ
 Ghale-Gurung-Gumda	black	laŋ	Ghale-Gurung	l a ŋ		l a + ŋ	ŋ$	laŋ
@@ -1341,7 +1435,7 @@ Ghale-Gurung-Gumda	small	ŋjan	Ghale-Gurung	ŋ j a n		ŋ j a + n	n$	ŋjan
 Ghale-Gurung-Barpak1	small	dzidʌ/ŋjaŋ	Ghale-Gurung	ŋ j a ŋ		ŋ j a + ŋ	ŋ$	ŋjaŋ
 Ghale-Gurung-Laprak	small	ŋjaŋ	Ghale-Gurung	ŋ j a ŋ		ŋ j a + ŋ	ŋ$	ŋjaŋ
 Ghale-Gurung-Gumda	to sleep / sleep!	ŋjum	Ghale-Gurung	ŋ j u m		ŋ j u + m	m$	ŋjum
-Ghale-Gurung-Barpak2	turmeric	pisar	Ghale-Gurung	p i + s a r	loan/nep	p i + s a r		pisar
+Ghale-Gurung-Barpak2	turmeric	pisar	Ghale-Gurung	p i + s a r	Nepali	p i + s a r		pisar
 Ghale-Gurung-Mandre	to give / give!	pin	Ghale-Gurung	p i n		p i + n	n$	pin
 Ghale-Gurung-Barpak2	to give / give!	pin	Ghale-Gurung	p i n		p i + n	n$	pin
 Ghale-Gurung-Mandre	rainbow	pjuŋ	Ghale-Gurung	p j u ŋ		p j u + ŋ	ŋ$	pjuŋ
@@ -1410,7 +1504,7 @@ Ghale-Gurung-Laprak	root	tshʌ/t̺a	Ghale-Gurung	t a		t̺ a	t̺	t̺a
 Ghale-Gurung-Laprak	spider	t̺asjʌ	Ghale-Gurung	t a + s j ʌ		t̺ a + s j ʌ	t̺	t̺asjʌ
 Ghale-Gurung-Gumda	spider	t̺apsjʌ	Ghale-Gurung	t a p + s j ʌ		t̺ a p + s j ʌ	t̺	t̺apsjʌ
 Ghale-Gurung-Barpak2	those	tembʌju	Ghale-Gurung	t e m + b ʌ + j u		t e m + b ʌ j u	tembʌju	tembʌju
-Ghale-Gurung-Laprak	that	tin	Ghale-Gurung	t i n	nep/loan	t i + n	n$	tin
+Ghale-Gurung-Laprak	that	tin	Ghale-Gurung	t i n	Nepali	t i + n	n$	tin
 Ghale-Gurung-Laprak	those	tinhju	Ghale-Gurung	t i n ʰ+ j u		t i n ʰj u	tinhju	tinhju
 Ghale-Gurung-Barpak1	to bite / the dog bites / bit	t̺ja/tsja	Ghale-Gurung	t j a		t̺ j a	t̺	t̺ja
 Ghale-Gurung-Barpak1	near	t̺jarʌŋ	Ghale-Gurung	t j a + r ʌ + ŋ		t̺ j a + r ʌ + ŋ	t̺	t̺jarʌŋ
@@ -1514,3 +1608,82 @@ Ghale-Gurung-Barpak2	rain	tshiri/dzhiri	Ghale-Gurung		Nepali	tsʰ i + r i		tshir
 Ghale-Gurung-Mandre	week	sʌtja	Ghale-Gurung		Nepali	s ʌ + t j a		sʌtja
 Ghale-Gurung-Barpak1	week	satja	Ghale-Gurung		Nepali	s a + t j a		satja
 Ghale-Gurung-Laprak	week	sattʌ	Ghale-Gurung		Nepali	s a t + t ʌ		sattʌ
+Gurung-Sirubari	body	dziu	Gurung		Nepali	dz iu		dziu
+Gurung-Pokhara	body	dziu	Gurung		Nepali	dz iu		dziu
+Gurung-Khasur	body	dziu	Gurung		Nepali	dz iu		dziu
+Gurung-Bhujung	body	dziu	Gurung		Nepali	dz iu		dziu
+Gurung-Sirubari	right	daine	Gurung		Nepali	d ai + n e		daine
+Gurung-Sirubari	roof	dhuri	Gurung		Nepali	dʱ u + r i		dhuri
+Gurung-Khasur	roof	tshan	Gurung		Nepali	tsʰ a + n		tshan
+Gurung-Sirubari	tomato	golbẽḍa	Gurung		Nepali	g o l + b ẽ + ɖ a		golbẽḍa
+Gurung-Pokhara	tomato	golbẽḍa	Gurung		Nepali	g o l + b ẽ + ɖ a		golbẽḍa
+Gurung-Sikles	tomato	golbẽḍa	Gurung		Nepali	g o l + b ẽ + ɖ a		golbẽḍa
+Gurung-Khasur	tomato	golbẽḍa	Gurung		Nepali	g o l + b ẽ + ɖ a		golbẽḍa
+Gurung-Bhujung	tomato	golbẽḍa	Gurung		Nepali	g o l + b ẽ + ɖ a		golbẽḍa
+Gurung-Bhujung	turmeric	bisara	Gurung		Nepali	b i + s a + r a		bisara
+Gurung-Sirubari	twelve	barʌ	Gurung		Nepali	b a + r ʌ		barʌ
+Gurung-Sirubari	barley	dzou	Gurung		Nepali	dz ou		dzou
+Gurung-Pokhara	barley	dzou	Gurung		Nepali	dz ou		dzou
+Gurung-Sikles	barley	dzou	Gurung		Nepali	dz ou		dzou
+Gurung-Khasur	barley	dzou	Gurung		Nepali	dz ou		dzou
+Gurung-Sirubari	broom	kutso	Gurung		Nepali	k u + ts o		kutso
+Gurung-Pokhara	broom	kutso	Gurung		Nepali	k u + ts o		kutso
+Gurung-Khasur	broom	kutsa	Gurung		Nepali	k u + ts a		kutsa
+Gurung-Bhujung	broom	kutso	Gurung		Nepali	k u + ts o		kutso
+Gurung-Sirubari	cabbage	bʌnda	Gurung		Nepali	b ʌ n + d a		bʌnda
+Gurung-Pokhara	cabbage	bʌnda	Gurung		Nepali	b ʌ n + d a		bʌnda
+Gurung-Sikles	cabbage	bʌnda	Gurung		Nepali	b ʌ n + d a		bʌnda
+Gurung-Khasur	cabbage	bʌnda	Gurung		Nepali	b ʌ n + d a		bʌnda
+Gurung-Bhujung	cabbage	bʌnda	Gurung		Nepali	b ʌ n + d a		bʌnda
+Gurung-Sirubari	cauliflower	kauli	Gurung		Nepali	k au + l i		kauli
+Gurung-Pokhara	cauliflower	kauli	Gurung		Nepali	k au + l i		kauli
+Gurung-Sikles	cauliflower	kauli	Gurung		Nepali	k au + l i		kauli
+Gurung-Khasur	cauliflower	kauli	Gurung		Nepali	k au + l i		kauli
+Gurung-Bhujung	cauliflower	kauli	Gurung		Nepali	k au + l i		kauli
+Gurung-Sirubari	dust	dhula	Gurung		Nepali	dʱ u + l a		dhula
+Gurung-Pokhara	dust	dhula	Gurung		Nepali	dʱ u + l a		dhula
+Gurung-Khasur	dust	dhulo	Gurung		Nepali	dʱ u + l o		dhulo
+Gurung-Sirubari	eggplant	bhʌnṭa	Gurung		Nepali	bʱ ʌ n + ʈ a		bhʌnṭa
+Gurung-Pokhara	eggplant	bhʌnṭa	Gurung		Nepali	bʱ ʌ n + ʈ a		bhʌnṭa
+Gurung-Sikles	eggplant	bhʌnṭa	Gurung		Nepali	bʱ ʌ n + ʈ a		bhʌnṭa
+Gurung-Khasur	eggplant	bhẽḍa	Gurung		Nepali	bʱ ẽ + ɖ a		bhẽḍa
+Gurung-Bhujung	eggplant	bẽḍa	Gurung		Nepali	b ẽ + ɖ a		bẽḍa
+Gurung-Sirubari	elbow	kuino	Gurung		Nepali	k ui + n o		kuino
+Gurung-Sirubari	eleven	egharʌ	Gurung		Nepali	e + gʱ a + r ʌ		egharʌ
+Gurung-Sirubari	finger	amla	Gurung		Nepali	a m + l a		amla
+Gurung-Khasur	hot	tato	Gurung		Nepali	t a + t o		tato
+Gurung-Sikles	mortar	silṭo	Gurung		Nepali	s i l + ʈ o		silṭo
+Gurung-Sirubari	mosquito	lamkhuṭṭe	Gurung		Nepali	l a m + kʰ u ʈ + ʈ e		lamkhuṭṭe
+Gurung-Pokhara	mosquito	lamkhuṭṭe	Gurung		Nepali	l a m + kʰ u ʈ + ʈ e		lamkhuṭṭe
+Gurung-Sikles	mosquito	phʌttel	Gurung		Nepali	pʰ ʌ t + t e + l		phʌttel
+Gurung-Khasur	mosquito	lamkhuṭṭe	Gurung		Nepali	l a m + kʰ u ʈ + ʈ e		lamkhuṭṭe
+Gurung-Bhujung	mosquito	lamkhuṭṭe	Gurung		Nepali	l a m + kʰ u ʈ + ʈ e		lamkhuṭṭe
+Gurung-Sirubari	mother	ama	Gurung		Nepali	a + m a		ama
+Gurung-Pokhara	mother	ama	Gurung		Nepali	a + m a		ama
+Gurung-Khasur	mother	ama	Gurung		Nepali	a + m a		ama
+Gurung-Sirubari	new	nʌja	Gurung		Nepali	n ʌ + j a		nʌja
+Gurung-Bhujung	old	purano	Gurung		Nepali	p u + r a + n o		purano
+Gurung-Khasur	older brother	dai	Gurung		Nepali	d ai		dai
+Gurung-Sirubari	potato	alu	Gurung		Nepali	a + l u		alu
+Gurung-Pokhara	potato	alu	Gurung		Nepali	a + l u		alu
+Gurung-Sikles	potato	alu	Gurung		Nepali	a + l u		alu
+Gurung-Khasur	potato	alu	Gurung		Nepali	a + l u		alu
+Gurung-Bhujung	potato	alu	Gurung		Nepali	a + l u		alu
+Gurung-Sirubari	rainbow	inreni	Gurung		Nepali	i n + r e + n i		inreni
+Gurung-Sirubari	root	dzʌra	Gurung		Nepali	dz ʌ + r a		dzʌra
+Gurung-Pokhara	root	dzʌra	Gurung		Nepali	dz ʌ + r a		dzʌra
+Gurung-Sikles	root	dzʌra	Gurung		Nepali	dz ʌ + r a		dzʌra
+Gurung-Khasur	root	dzʌra	Gurung		Nepali	dz ʌ + r a		dzʌra
+Gurung-Bhujung	root	dzʌra	Gurung		Nepali	dz ʌ + r a		dzʌra
+Gurung-Sirubari	sand	baluwa	Gurung		Nepali	b a + l u + w a		baluwa
+Gurung-Pokhara	sand	baluwa	Gurung		Nepali	b a + l u + w a		baluwa
+Gurung-Khasur	sand	baluwa	Gurung		Nepali	b a + l u + w a		baluwa
+Gurung-Bhujung	sand	baluwa	Gurung		Nepali	b a + l u + w a		baluwa
+Gurung-Sirubari	week	sʌdgʌri	Gurung		Nepali	s ʌ d + g ʌ + r i		sʌdgʌri
+Gurung-Sikles	week	sʌṭa	Gurung		Nepali	s ʌ + ʈ a		sʌṭa
+Gurung-Khasur	week	sʌdʌri	Gurung		Nepali	s ʌ + d ʌ + r i		sʌdʌri
+Gurung-Sirubari	wheat (husked)	gʌũ	Gurung		Nepali	g ʌũ		gʌũ
+Gurung-Pokhara	wheat (husked)	gʌũ	Gurung		Nepali	g ʌũ		gʌũ
+Gurung-Sirubari	younger brother	bhai	Gurung		Nepali	bʱ ai		bhai
+Gurung-Pokhara	younger brother	bhai	Gurung		Nepali	bʱ ai		bhai
+Gurung-Khasur	younger brother	bhai	Gurung		Nepali	bʱ ai		bhai
