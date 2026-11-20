@@ -1,4 +1,35 @@
 Grapheme	IPA	Frequency	Examples	Languages
+b$	b
+d$	d
+k$	k
+l$	l
+m$	m
+n$	n
+p$	p
+r$	r
+t$	t
+ŋ$	ŋ
+thi	ʈʰ i
+^bat_^khabap	b a t + kʰ a + b a p
+^bat_^khetala	b a t + kʰ e + t a + l a
+^bat_^khitala	b a t + kʰ i + t a + l a
+^bat_^khitsja	b a t + kʰ i + ts j a
+^bat_^ki	b a t + k i
+^bidzu_^li	b i + dz u + l i
+^dotshja	d o + tsʰ j a
+^khal_^ŋa	kʰ a l + ŋ a
+^khaldzik_^taŋŋa	kʰ a l + dz i k + t a ŋ + ŋ a
+^khwapa_^phidza	kʰ w a + p a + pʰ i + dz a
+^kjobo_^phidza	k j o + b o + pʰ i + dz a
+^meisja	m ei + s j a
+^mesja	m e + s j a
+^mesja_^(Rising_^tone)	m e + s j a
+^pheme_^phidza	pʰ e + m e + pʰ i + dz a
+^pjadz	p j a dz
+^pumu_^phidza	p u + m u + pʰ i + dz a
+^səe_^dzik	s əe + dz i k
+^tatshja	t a + tsʰ j a
+^thaŋge	tʰ a ŋ + g e
 a	a	768	.ta//.ta	Yarsa/Chhetrapa/Sikri/Kharoban
 ^tịṭti	t i ʈ  + ʈ i			
 ^thjoba	tʰ j o + b a			
